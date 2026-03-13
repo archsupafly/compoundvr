@@ -3,13 +3,14 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:**
-  Archupafly
+  Archsupafly
 - **What to call them:**
-  Archupafly
+  Archsupafly
 - **Pronouns:** _(optional)_
 - **Timezone:**
   America/Los_Angeles
 - **Notes:**
+  Preferred name is Archsupafly.
   Richard is their VR modding manager & editor for Flat to VR media properties and mods.
 
 ## Context
