@@ -1,0 +1,101 @@
+Rank,Game,Popularity estimate,Estimate basis,VR type,VR implementation,Confidence,Notes
+1,Minecraft,350M sold,Public sales,Official,Minecraft VR / Bedrock VR / Vivecraft ecosystem,High,The cleanest case of a gigantic flat game that also became a real VR game.
+2,Grand Theft Auto V,225M sold,Public sales,Mod,Luke Ross R.E.A.L. VR,High,"No official VR mode, but the mod is well-known and widely covered."
+3,Red Dead Redemption 2,70M sold,Public sales,Mod,Luke Ross R.E.A.L. VR,High,Enormous flat-game popularity; VR path is community-made.
+4,The Witcher 3: Wild Hunt,60M sold,Public sales,Mod,Luke Ross R.E.A.L. VR,High,Very large flat audience; VR path is a known mod rather than an official release.
+5,The Elder Scrolls V: Skyrim,60M sold,Public sales / public claim,Official,Skyrim VR plus broader mod ecosystem,Moderate,Sales figure is widely cited but sometimes debated; VR edition is official.
+6,Cyberpunk 2077,30M sold,Public sales,Mod,Luke Ross R.E.A.L. VR,High,One of the biggest modern flat titles with a recognizable VR conversion path.
+7,Elden Ring,30M sold,Public sales,Mod,Luke Ross R.E.A.L. VR,High,"No official VR support, but it is one of the most prominent flat-to-VR mod showcases."
+8,Hogwarts Legacy,30M sold,Public sales,Mod,UEVR community profiles,Moderate,Big mainstream hit; VR play is mostly through UEVR profiles and tinkering.
+9,Fallout 4,25M sold,Public sales / common industry estimate,Official,Fallout 4 VR,Moderate,"VR version is official, popularity estimate is less clean than Rockstar/Bethesda headline figures."
+10,Palworld,25M+ players / very high owners estimate,Public player figure,Mod,UEVR community profiles,Low,"Huge breakout title, but VR status is entirely mod/profile-driven and player count != unit sales."
+11,Garry's Mod,20M+ sold,Public sales,Mod,VRMod,High,Important because the game itself is massive and the VR community support is longstanding.
+12,Horizon Zero Dawn,20M+ sold,Public sales,Mod,Luke Ross R.E.A.L. VR,High,Large flat success with a known VR conversion.
+13,Black Myth: Wukong,20M+ sold,Public sales,Mod,UEVR community profiles,Moderate,"Enormous seller, but VR play is still profile/tinkering territory rather than a standardized mod."
+14,Borderlands 2,20M+ sold,Public sales / franchise-era estimates,Official,Borderlands 2 VR,Moderate,"Exact lifetime figure varies by source framing, but it clearly belongs high on the list."
+15,Phasmophobia,20M+ sold/owners proxy,Public sales / owners proxy,Official,Native VR support,Moderate,Popularity is better documented via owners/player chatter than pristine sales filings.
+16,Grounded,20M+ players proxy,Public player figure,Mod,UEVR community profiles,Low,"Large audience, but ranking leans on player counts rather than paid units."
+17,Marvel's Spider-Man Remastered,20M+ title-family sales context,Remaster + franchise-era sales context,Mod,Luke Ross / community VR mods,Low,"Exact figure for the remaster alone is not clean, so this is a softer ranking."
+18,Star Wars Jedi: Fallen Order,20M+ players proxy,Public player figure,Mod,UEVR community profiles,Low,"Huge reach, but ranking is driven by player numbers and platform access rather than clean sales."
+19,Half-Life 2,16M sold,Long-cited sales figure,Mod,Half-Life 2 VR Mod,Moderate,One of the most credible and important community VR conversions.
+20,Monster Hunter Rise,16M+ sold,Public sales,Mod,REFramework VR,Moderate,VR path is community-driven via Praydog tooling on RE Engine.
+21,Resident Evil 2 (2019),15M sold,Public sales,Mod,Praydog REFramework VR,High,"Huge remake with a mature, high-profile VR mod path."
+22,Left 4 Dead 2,15M+ sold,Public estimate / owners proxy,Mod,Community VR mod,Moderate,Popularity is obvious; exact lifetime sales are less tidy than Valve player totals.
+23,Portal 2,15M+ sold,Public estimate / owners proxy,Mod,Portal 2 VR mod,Moderate,"Known, impressive VR conversion of a major flat classic."
+24,Resident Evil 4,15M+ sold (title-family level),Public sales / franchise-level interpretation,Official,Resident Evil 4 VR and RE4 Remake VR mode / mods,Moderate,This entry collapses the RE4 flat phenomenon and its multiple VR incarnations into one editorial line.
+25,Uncharted 4: A Thief's End,15M+ title-family sales context,Public franchise/title context,Mod,Luke Ross / community VR mods,Low,Popularity is very high; exact remaster/PC split is messy.
+26,Assetto Corsa,14M+ sold,Public sales,Official,Native VR support,High,Racing is one of the strongest official flat-to-VR categories.
+27,Euro Truck Simulator 2,14M+ sold,Public sales,Official,Official VR beta branch,High,One of the clearest examples of a very large PC flat game with native VR support.
+28,Resident Evil 7: Biohazard,14M+ sold,Public sales,Official,Official PSVR mode; Praydog PC VR mod,High,A major flat survival-horror hit that also became a major VR talking point.
+29,Valheim,12M+ sold,Public sales,Mod,VHVR / community VR mods,High,"Very strong fit for the list: large flat audience, recognizable VR conversion."
+30,Resident Evil Village,11M+ sold,Public sales,Official,Official PSVR2 mode; Praydog PC VR mod,High,Large audience and an official VR version on console.
+31,PAYDAY 2,11M+ sold / huge owners proxy,Public sales + owners context,Official,PAYDAY 2 VR,Moderate,"Probably belongs higher by owners reach, but exact apples-to-apples ranking is messy."
+32,Devil May Cry 5,10M+ sold,Public sales,Mod,Praydog REFramework VR,High,One of the biggest non-Resident-Evil RE Engine games with a credible VR mod path.
+33,Lethal Company,10M+ owners proxy,Owners/review proxy,Mod,LCVR,Moderate,A modern PC phenomenon with a very visible community VR path.
+34,Microsoft Flight Simulator,10M+ players proxy,Public player figure,Official,Official VR support,Moderate,"Using player count rather than clean unit sales, so confidence is lower."
+35,No Man's Sky,10M+ sold,Public sales / common estimate,Official,Native VR support,Moderate,"Popularity estimate is fuzzier than some peers, but the VR implementation is official and central."
+36,Doom,10M+ sold (historical estimate),Historical estimate,Mod,QuestZDoom / source-port VR,Low,"Old PC sales are messy, but culturally and commercially it belongs in the conversation."
+37,Marvel's Spider-Man: Miles Morales,10M+ sales context,Public sales context,Mod,Luke Ross / community VR mods,Low,"Strong flat popularity, weaker confidence on precise lifetime total."
+38,Team Fortress 2,10M+ paid-era sales / huge player reach,Sales plus player-reach proxy,Official,Historic Oculus/VR support,Low,Ranking is messy because TF2 later went free-to-play and player reach outgrew premium sales.
+39,Half-Life,9M+ sold,Public sales,Mod,Lambda1VR,Moderate,Classic flat hit with a highly regarded Quest-era VR conversion.
+40,Among Us,Paid sales + massive player reach proxy,Sales plus cultural reach proxy,Official,Among Us VR,Low,Hard to rank cleanly because its reach dwarfs its paid premium sales footprint.
+41,Deep Rock Galactic,8M+ sold/owners proxy,Public milestones / owners proxy,Mod,Community VR mod,Moderate,Co-op popularity is strong; exact lifetime sales reporting is imperfect.
+42,Chivalry 2,2M+ sold / 8M+ players proxy,Sales plus player proxy,Mod,UEVR community profiles,Low,"Large player reach, fuzzier paid-units basis."
+43,High on Life,7.5M+ players proxy,Public player figure,Mod,UEVR community profiles,Low,Another ranking driven by player reach more than sales clarity.
+44,Final Fantasy VII Remake Intergrade,7M+ title-family sales context,Public sales context,Mod,UEVR community profiles,Moderate,"Good flat popularity, credible VR path via UEVR."
+45,Subnautica,6M+ sold,Public sales,Official,Native VR support,High,A strong fit: big flat success and recognizable official VR play.
+46,Dragon Quest XI S,6M+ sold (DQXI family),Public sales,Mod,UEVR community profiles,Moderate,"The exact SKU framing is imperfect, but it belongs in the long tail."
+47,Kingdom Hearts III,6M+ sold,Public sales,Mod,UEVR community profiles,Moderate,Mass-market flat game with a viable UEVR path.
+48,Doom II,6M+ sold (historical estimate),Historical estimate,Mod,QuestZDoom / source-port VR,Low,"Older title with fuzzier sales data, but credible VR conversion exists."
+49,The Forest,5M+ sold,Public sales,Official,Native VR support,High,Important because the VR mode is official and the flat game had real breakout success.
+50,American Truck Simulator,5M+ sold,Owners proxy / public milestone chatter,Official,Official VR beta branch,Moderate,"Less well documented than ETS2, but clearly large enough to make the cut."
+51,BeamNG.drive,5M+ sold/owners proxy,Owners proxy,Official,Experimental native VR support,Moderate,Owners estimate rather than publisher-confirmed lifetime shipments.
+52,Gran Turismo 7,5M+ sold/owners proxy,Sales / owners proxy,Official,Official PSVR2 mode,Moderate,Would rank higher if we used only console-platform racing popularity rather than broad all-platform flat sales.
+53,Hitman World of Assassination,5M+ sold/player proxy,Public sales context,Official,Official VR mode,Moderate,"Official VR exists, though quality debates are separate from popularity."
+54,Raft,5M+ sold,Public sales / milestone,Mod,Raft VR mod,Moderate,VR support is community-made but widely recognized.
+55,Ready or Not,5M+ sold,Public sales milestone,Mod,UEVR community profiles,Moderate,Large enough flat success to justify inclusion.
+56,Satisfactory,5M+ sold,Public sales,Mod,UEVR community profiles,Moderate,Large enough PC hit to justify inclusion.
+57,Atomic Heart,5M+ players proxy,Public player figure,Mod,UEVR community profiles,Low,Player figure is more available than unit sales.
+58,Crash Bandicoot 4: It's About Time,5M-scale reach proxy,Sales / owners proxy,Mod,UEVR community profiles,Low,Back-half inclusion; more of a recognized possibility than a canonical VR conversion.
+59,Star Wars Jedi: Survivor,5M-scale reach proxy,Sales / owners proxy,Mod,UEVR community profiles,Low,"High-profile flat release, lower-confidence sales picture."
+60,Elite Dangerous,4M+ sold,Public sales,Official,Native VR support,High,A notable simulation game that natively spans flat and VR.
+61,Risk of Rain 2,4M+ sold,Public sales milestone,Mod,Risk of Rain 2 VR Mod,High,"A widely cited, genuinely substantial VR mod."
+62,Stray,4M+ sold/players proxy,Sales / owners proxy,Mod,UEVR community profiles,Moderate,Popular enough to matter; VR path is community-driven.
+63,Morrowind,4M+ sold (historical estimate),Historical estimate,Mod,OpenMW-VR,Low,"Old sales data is muddy, but the VR conversion is real and important."
+64,Portal,4M+ sold/owners proxy,Owners proxy,Mod,Community VR mod,Low,"Smaller and less standardized than the Portal 2 VR story, but still a real inclusion."
+65,Uncharted: The Lost Legacy,Title-family proxy,Franchise/title proxy,Mod,Luke Ross / community VR mods,Low,Companion inclusion with weaker standalone popularity than Uncharted 4.
+66,Dead Island 2,3M+ sold,Public sales milestone,Mod,UEVR community profiles,Moderate,Recognizable mainstream title with a VR path through UEVR.
+67,Doom 3,3M+ sold,Historical estimate,Official,Doom 3: VR Edition / community ports,Moderate,Official VR version exists; sales data is older and less precise.
+68,Firewatch,3M+ sold,Public sales,Mod,Community VR mod,Moderate,Good fit for a list about important flat games that people later wanted in VR.
+69,Mafia: Definitive Edition,Franchise-scale popularity proxy,Franchise / review proxy,Mod,Luke Ross R.E.A.L. VR,Low,"VR path is clear, sales data for this exact SKU is not."
+70,Quake,3M+ historical estimate,Historical estimate,Mod,Quake VR source ports,Low,Historic PC sales are fuzzy; importance is larger than the hard data.
+71,Outer Wilds,2M+ sold,Public sales,Mod,NomaiVR,High,"A much smaller seller than the giants above, but one of the best-known flat-to-VR mods in enthusiast circles."
+72,Alien: Isolation,2M+ sold/owners proxy,Sales / owners proxy,Mod,MotherVR,Moderate,One of the most famous single-game VR mods ever made.
+73,Assetto Corsa Competizione,2M+ sold/owners proxy,Owners proxy,Official,Native VR support,Moderate,Smaller than AC but still materially popular in sim-racing.
+74,GTFO,2M+ sold/owners proxy,Owners proxy,Mod,GTFO VR mod,Moderate,Well-known co-op VR conversion candidate.
+75,Little Nightmares II,2M+ sold,Public sales milestone,Mod,UEVR community profiles,Moderate,Popular enough to earn a lower-slot inclusion.
+76,Remnant II,2M+ sold,Public sales milestone,Mod,UEVR community profiles,Moderate,"Solid popularity, strong UEVR interest."
+77,Star Wars: Squadrons,2M+ sales/player proxy,Sales / player proxy,Official,Official VR support,Moderate,A cleaner inclusion than many mods because the VR support is native.
+78,The Outlast Trials,2M+ sold/owners proxy,Owners proxy,Mod,UEVR community profiles,Moderate,Co-op horror popularity justifies the back-half placement.
+79,Black Mesa,2M+ owners proxy,Owners proxy,Mod,Community VR mod,Low,"Not as large as Half-Life proper, but notable enough to include in the tail."
+80,Ghostrunner,2M+ players proxy,Public player figure,Mod,UEVR community profiles,Low,Player totals are easier to find than shipment data.
+81,Ghostwire: Tokyo,Large AAA reach proxy,Review / subscription reach proxy,Mod,Luke Ross R.E.A.L. VR,Low,Better known for being VR-playable than for transparent sales reporting.
+82,Quake II,2M+ historical estimate,Historical estimate,Mod,Quake II VR source ports,Low,Another culturally important classic with credible community VR conversion.
+83,Return to Castle Wolfenstein,2M+ historical proxy,Historical estimate,Mod,RTCWQuest / community VR ports,Low,Classic shooter with a real VR afterlife.
+84,The Callisto Protocol,2M-scale reach proxy,Sales / owners proxy,Mod,UEVR community profiles,Low,VR path exists; popularity was moderate rather than huge.
+85,DiRT Rally 2.0,1M+ sold/owners proxy,Owners proxy,Official,Official PC VR support,Moderate,"Niche versus the list leaders, but clearly a legitimate flat-to-VR title."
+86,Returnal,1M+ sold,Public sales milestone,Mod,UEVR community profiles,Moderate,Respected conversion candidate; not a gigantic seller.
+87,A Plague Tale: Requiem,1M+ players proxy,Public player figure,Mod,UEVR community profiles,Low,"Not a giant seller, but a recognized UEVR candidate."
+88,F1 22,Annual sports-release proxy,Franchise / review proxy,Official,Official PC VR support,Low,Same caveat as other annual F1 entries.
+89,F1 23,Annual sports-release proxy,Franchise / review proxy,Official,Official PC VR support,Low,Included because official VR exists and the F1 line has real reach.
+90,F1 24,Annual sports-release proxy,Franchise / review proxy,Official,Official PC VR support,Low,Ranking by exact lifetime popularity is weak because annualized sports titles blur together.
+91,Ghostrunner 2,1M-scale reach proxy,Review / owners proxy,Mod,UEVR community profiles,Low,"Meaningful UEVR use case, but not a huge flat hit."
+92,MechWarrior 5: Mercenaries,1M+ sold/players proxy,Milestone / players proxy,Mod,UEVR / community VR mods,Low,"Useful inclusion, but the data is not especially clean."
+93,RoboCop: Rogue City,1M+ sold/players proxy,Milestone / owners proxy,Mod,UEVR community profiles,Low,"Smaller game, but a recognizable modern UEVR showcase."
+94,Sackboy: A Big Adventure,1M-scale owners proxy,Owners proxy,Mod,UEVR community profiles,Low,More of a showcase inclusion than a top-tier popularity monster.
+95,Star Wars Jedi Knight II: Jedi Outcast,1M+ historical proxy,Historical estimate,Mod,QuestJKXR,Low,A niche-but-legit classic VR conversion story.
+96,Star Wars Jedi Knight: Jedi Academy,1M+ historical proxy,Historical estimate,Mod,QuestJKXR,Low,Same general case as Jedi Outcast.
+97,System Shock (2023),1M-scale owners proxy,Owners proxy,Mod,UEVR community profiles,Low,Prestige remake rather than giant seller.
+98,The Quarry,1M-scale reach proxy,Sales / owners proxy,Mod,UEVR community profiles,Low,"A valid conversion target, but clearly lower-tier by popularity."
+99,The Stanley Parable: Ultra Deluxe,1M+ sold/owners proxy,Owners proxy,Mod,UEVR/community VR path,Low,A lower-confidence but plausible long-tail inclusion.
+100,Trepang2,1M-scale owners proxy,Owners proxy,Mod,UEVR community profiles,Low,"Useful modern UEVR showcase, modest flat popularity."
