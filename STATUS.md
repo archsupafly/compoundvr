@@ -24,9 +24,10 @@ This project now has a clearer two-step thesis:
 
 ## Suggested Next Actions
 1. Review and refine `editorial/game-coverage-framework-v1.md`
-2. Richard creates `editorial/review-methodology-v1.md`
-3. Richard creates `editorial/site-architecture-v1.md`
-4. Richard creates `production/mod-opportunity-map-v1.md`
+2. Review and refine `editorial/game-writer-template-v1.md`
+3. Review and refine `editorial/review-methodology-v1.md`
+4. Review and refine `editorial/site-architecture-v1.md`
+5. Richard creates `production/mod-opportunity-map-v1.md`
 
 ## Success Criteria (Near-Term)
 - Clear site structure for catalog + reviews
