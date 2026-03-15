@@ -1,0 +1,44 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const games = await getCollection('games');
+  return games.map((game) => ({ params: { slug: game.id }, props: { game } }));
+}
+
+const { game } = Astro.props;
+const { Content } = await render(game);
+---
+
+<Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
+  <section class="container section">
+    <div class="meta">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
+    <h1>{game.data.title}</h1>
+    <p class="lead">{game.data.description}</p>
+
+    <div class="stats" style="margin-top:1.5rem;">
+      <div class="stat"><div class="stat-label">Recommendation</div><div class="stat-value">{game.data.recommendation}</div></div>
+      <div class="stat"><div class="stat-label">Playability</div><div class="stat-value">{game.data.playability}</div></div>
+      <div class="stat"><div class="stat-label">Setup burden</div><div class="stat-value">{game.data.setupBurden}</div></div>
+      <div class="stat"><div class="stat-label">Input</div><div class="stat-value">{game.data.inputStyle}</div></div>
+      <div class="stat"><div class="stat-label">Comfort</div><div class="stat-value">{game.data.comfort}</div></div>
+      <div class="stat"><div class="stat-label">Performance</div><div class="stat-value">{game.data.performance}</div></div>
+      <div class="stat"><div class="stat-label">Support</div><div class="stat-value">{game.data.supportStatus}</div></div>
+      <div class="stat"><div class="stat-label">Score</div><div class="stat-value score">{game.data.score}</div></div>
+    </div>
+
+    <div style="margin-top:1rem;">
+      {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => <span class="pill">{tag}</span>)}
+    </div>
+
+    <div class="card" style="margin-top:1.5rem;">
+      <h2>Verdict</h2>
+      <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
+    </div>
+
+    <article class="prose" style="margin-top:2rem;">
+      <Content />
+    </article>
+  </section>
+</Layout>

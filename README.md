@@ -1,46 +1,83 @@
-# Astro Starter Kit: Basics
+# CompoundVR Site
 
-```sh
-npm create astro@latest -- --template basics
+Astro-based editorial site for `compoundvr.com`.
+
+## Why this stack
+
+This site is optimized for **autonomous publishing**:
+- static deploys
+- no database
+- no plugin-heavy CMS
+- Richard can publish by adding Markdown files
+- easy free hosting on Cloudflare Pages or Netlify
+
+## Content model
+
+### Articles
+Store in:
+- `src/content/articles/`
+
+Frontmatter fields:
+- `title`
+- `description`
+- `pubDate`
+- `author`
+- `category` (`news|guide|comparison|opinion`)
+- `tags`
+- `featured`
+- `draft`
+
+### Canonical game pages
+Store in:
+- `src/content/games/`
+
+Frontmatter fields include:
+- `routeType`
+- `recommendation`
+- `playability`
+- `setupBurden`
+- `inputStyle`
+- `comfort`
+- `performance`
+- `supportStatus`
+- `score`
+- `verdict`
+
+## Richard publishing workflow
+
+### Publish a new article
+1. Create a new Markdown file in `src/content/articles/`
+2. Add frontmatter
+3. Write the content
+4. Run `npm run build`
+5. Commit and deploy
+
+### Publish a new canonical game page
+1. Create a new Markdown file in `src/content/games/`
+2. Fill the structured frontmatter carefully
+3. Add verdict + evaluation sections
+4. Run `npm run build`
+5. Commit and deploy
+
+## Local development
+
+```bash
+npm install
+npm run dev
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Production build
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
+```bash
+npm run build
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+Output goes to:
+- `dist/`
 
-## 🧞 Commands
+## Recommended hosting
 
-All commands are run from the root of the project, from a terminal:
+- **Cloudflare Pages** (preferred)
+- **Netlify** (acceptable fallback)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Use static output and point `compoundvr.com` once the first deploy is live.

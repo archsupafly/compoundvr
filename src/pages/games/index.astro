@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import CardGrid from '../../components/CardGrid.astro';
+import { getCollection } from 'astro:content';
+
+const games = (await getCollection('games')).sort((a, b) => b.data.score - a.data.score);
+---
+
+<Layout title="Games — CompoundVR" description="Canonical game pages and verdicts for flat-to-VR routes.">
+  <section class="container">
+    <div class="eyebrow">Canonical game pages</div>
+    <h1>Verdicts that tell you whether a game is worth playing in VR.</h1>
+    <p class="lead">Each page is built to answer whether the VR route is viable, what the setup burden is, and who should actually bother.</p>
+  </section>
+  <section class="section container">
+    <CardGrid items={games.map((game) => ({
+      href: `/games/${game.id}/`,
+      title: game.data.title,
+      description: game.data.verdict,
+      meta: `${game.data.recommendation} · Score ${game.data.score}`,
+    }))} />
+  </section>
+</Layout>
