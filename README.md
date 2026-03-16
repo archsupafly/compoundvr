@@ -81,3 +81,5 @@ Output goes to:
 - **Netlify** (acceptable fallback)
 
 Use static output and point `compoundvr.com` once the first deploy is live.
+
+<!-- deploy retrigger 2026-03-16T00:18:30Z -->
