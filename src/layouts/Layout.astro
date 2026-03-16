@@ -24,9 +24,8 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
   <body>
     <header class="site-header">
       <div class="container nav-wrap">
-        <a class="brand" href="/">
-          <img src="/compoundvr-logo.webp" alt="CompoundVR" class="brand-logo" />
-          <span>CompoundVR</span>
+        <a class="brand" href="/" aria-label="CompoundVR home">
+          <img src="/compoundvr-logo.webp" alt="CompoundVR home" class="brand-logo" />
         </a>
         <nav>
           <a href="/games/">Games</a>
@@ -67,9 +66,9 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
   a:hover { opacity: 0.9; }
   .container { width: min(var(--max), calc(100% - 2rem)); margin: 0 auto; }
   .site-header { position: sticky; top: 0; z-index: 20; backdrop-filter: blur(14px); background: rgba(10,15,31,0.82); border-bottom: 1px solid var(--border); }
-  .nav-wrap { display: flex; align-items: center; justify-content: space-between; padding: 1rem 0; gap: 1rem; }
-  .brand { display: inline-flex; align-items: center; gap: 0.75rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em; color: white; }
-  .brand-logo { height: 38px; width: auto; display: block; border-radius: 8px; }
+  .nav-wrap { display: flex; align-items: center; justify-content: space-between; padding: 0.8rem 0; gap: 1rem; }
+  .brand { display: inline-flex; align-items: center; color: white; }
+  .brand-logo { height: 64px; width: auto; display: block; border-radius: 8px; }
   nav { display: flex; gap: 1rem; flex-wrap: wrap; }
   nav a { color: var(--muted); font-weight: 600; }
   main { padding: 2rem 0 4rem; }
