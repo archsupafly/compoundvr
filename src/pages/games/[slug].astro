@@ -9,41 +9,143 @@ export async function getStaticPaths() {
 
 const { game } = Astro.props;
 const { Content } = await render(game);
+
+// Determine score color
+const score = game.data.score;
+let scoreClass = 'score';
+if (score >= 85) scoreClass = 'score score-high';
+else if (score >= 70) scoreClass = 'score score-mid';
+else scoreClass = 'score score-low';
 ---
 
 <Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
   {game.data.heroImage && (
-    <div class="hero-image" style="width:100%;height:300px;background:#111;overflow:hidden;">
-      <img src={game.data.heroImage} alt={game.data.title} style="width:100%;height:100%;object-fit:cover;" />
+    <div class="hero-image-container">
+      <img src={game.data.heroImage} alt={game.data.title} class="hero-image" />
+      <div class="hero-overlay"></div>
     </div>
   )}
-  <section class="container section">
-    <div class="meta">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
+  <section class="container section game-page">
+    <div class="eyebrow">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
     <h1>{game.data.title}</h1>
     <p class="lead">{game.data.description}</p>
 
     <div class="stats" style="margin-top:1.5rem;">
-      <div class="stat"><div class="stat-label">Recommendation</div><div class="stat-value">{game.data.recommendation}</div></div>
-      <div class="stat"><div class="stat-label">Playability</div><div class="stat-value">{game.data.playability}</div></div>
-      <div class="stat"><div class="stat-label">Setup burden</div><div class="stat-value">{game.data.setupBurden}</div></div>
-      <div class="stat"><div class="stat-label">Input</div><div class="stat-value">{game.data.inputStyle}</div></div>
-      <div class="stat"><div class="stat-label">Comfort</div><div class="stat-value">{game.data.comfort}</div></div>
-      <div class="stat"><div class="stat-label">Performance</div><div class="stat-value">{game.data.performance}</div></div>
-      <div class="stat"><div class="stat-label">Support</div><div class="stat-value">{game.data.supportStatus}</div></div>
-      <div class="stat"><div class="stat-label">Score</div><div class="stat-value score">{game.data.score}</div></div>
+      <div class="stat">
+        <div class="stat-label">Recommendation</div>
+        <div class="stat-value">{game.data.recommendation}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Playability</div>
+        <div class="stat-value">{game.data.playability}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Setup</div>
+        <div class="stat-value">{game.data.setupBurden}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Input</div>
+        <div class="stat-value">{game.data.inputStyle}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Comfort</div>
+        <div class="stat-value">{game.data.comfort}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Performance</div>
+        <div class="stat-value">{game.data.performance}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Support</div>
+        <div class="stat-value">{game.data.supportStatus}</div>
+      </div>
+      <div class="stat stat-score">
+        <div class="stat-label">Score</div>
+        <div class={scoreClass}>{game.data.score}</div>
+      </div>
     </div>
 
-    <div style="margin-top:1rem;">
-      {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => <span class="pill">{tag}</span>)}
+    <div class="tags-container" style="margin-top:1rem;">
+      {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
+        <span class="pill">{tag}</span>
+      ))}
     </div>
 
-    <div class="card" style="margin-top:1.5rem;">
-      <h2>Verdict</h2>
+    <div class="card verdict-card" style="margin-top:1.5rem;">
+      <h3>Verdict</h3>
       <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
     </div>
 
-    <article class="prose" style="margin-top:2rem;">
+    <article class="prose article-content" style="margin-top:2rem;">
       <Content />
     </article>
   </section>
 </Layout>
+
+<style>
+  .hero-image-container {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    background: var(--bg-secondary);
+  }
+
+  .hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background: linear-gradient(transparent, var(--bg-primary));
+  }
+
+  .game-page {
+    margin-top: -2rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  .stat-score {
+    background: var(--surface-secondary);
+    border-color: var(--border-default);
+  }
+
+  .score-high {
+    color: var(--accent-success);
+    text-shadow: 0 0 30px rgba(74, 222, 128, 0.15);
+  }
+
+  .score-mid {
+    color: var(--accent-warning);
+    text-shadow: 0 0 30px rgba(251, 191, 36, 0.15);
+  }
+
+  .score-low {
+    color: var(--accent-error);
+    text-shadow: 0 0 30px rgba(248, 113, 113, 0.15);
+  }
+
+  .verdict-card h3 {
+    margin-bottom: 0.75rem;
+    color: var(--text-primary);
+  }
+
+  .tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  @media (max-width: 720px) {
+    .hero-image-container {
+      height: 250px;
+    }
+  }
+</style>
