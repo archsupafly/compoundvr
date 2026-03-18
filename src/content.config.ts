@@ -42,6 +42,7 @@ const games = defineCollection({
     experienceTags: z.array(z.string()).default([]),
     score: z.number().min(0).max(100),
     verdict: z.string(),
+    heroImage: z.string().optional(),
   }),
 });
 
