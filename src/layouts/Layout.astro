@@ -63,83 +63,125 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
 </html>
 
 <style is:global>
-  /* Design System: Technical Authority */
-  /* Source: /design/compoundvr-brand-direction-v1.md */
+  /* Design System: Technical Authority v2 */
+  /* Source: /design/compoundvr-brand-direction-v2.md */
+  /* Light Body, Dark Header */
 
   :root {
-    /* Backgrounds */
-    --bg-primary: #0b1020;
-    --bg-secondary: #0f1528;
-    --bg-tertiary: #131a30;
-
-    /* Surfaces */
-    --surface-primary: #151d38;
-    --surface-secondary: #1a2342;
-    --surface-tertiary: #1e284c;
-
-    /* Text */
-    --text-primary: #f0f4ff;
-    --text-secondary: #c5cce6;
-    --text-tertiary: #8b92b8;
-    --text-muted: #5a6280;
-
-    /* Accents */
-    --accent-cyan: #6ee7ff;
-    --accent-cyan-glow: rgba(110, 231, 255, 0.15);
+    /* ========================================
+       COLOR SYSTEM v2 — Light Body, Dark Header
+       ======================================== */
+    
+    /* Background Colors */
+    --bg-header: #0b1020;           /* Dark header — matches logo */
+    --bg-body: #fafafa;             /* Warm off-white main background */
+    --bg-secondary: #f5f5f5;        /* Section alternates */
+    --bg-tertiary: #eeeeee;         /* Subtle section backgrounds */
+    
+    /* Surface Colors (Cards, Modals) */
+    --surface-primary: #ffffff;     /* Standard cards */
+    --surface-secondary: #f8f9fa;   /* Hover states */
+    --surface-tertiary: #f0f0f0;   /* Active states */
+    --surface-elevated: #ffffff;    /* Modals, dropdowns */
+    
+    /* Text Colors — Light Context */
+    --text-primary: #1a1a2e;        /* Headlines — near-black */
+    --text-secondary: #4a4a5a;      /* Body copy */
+    --text-tertiary: #6b6b7b;       /* Metadata, captions */
+    --text-muted: #9a9aaa;          /* Disabled, hints */
+    
+    /* Text Colors — Dark Context (Header) */
+    --text-inverted: #f0f4ff;       /* Text on dark backgrounds */
+    --text-inverted-secondary: rgba(240, 244, 255, 0.7);
+    --text-inverted-tertiary: rgba(240, 244, 255, 0.5);
+    
+    /* Accent Colors */
+    --accent-cyan: #0ee7ff;         /* Primary accent — slightly darker for light */
+    --accent-cyan-glow: rgba(14, 231, 255, 0.2);
+    --accent-cyan-subtle: rgba(14, 231, 255, 0.1);
     --accent-purple: #8b5cf6;
-    --accent-purple-glow: rgba(139, 92, 246, 0.15);
-    --accent-success: #4ade80;
-    --accent-warning: #fbbf24;
-    --accent-error: #f87171;
-
-    /* Borders */
-    --border-subtle: rgba(255, 255, 255, 0.06);
-    --border-default: rgba(255, 255, 255, 0.1);
-    --border-strong: rgba(255, 255, 255, 0.15);
-
+    --accent-purple-subtle: rgba(139, 92, 246, 0.1);
+    --accent-success: #22c55e;
+    --accent-warning: #f59e0b;
+    --accent-error: #ef4444;
+    
+    /* Border Colors — Light Context */
+    --border-subtle: rgba(0, 0, 0, 0.06);
+    --border-default: rgba(0, 0, 0, 0.1);
+    --border-strong: rgba(0, 0, 0, 0.15);
+    --border-accent: rgba(14, 231, 255, 0.5);
+    
+    /* Border Colors — Dark Context (Header) */
+    --border-inverted: rgba(255, 255, 255, 0.06);
+    --border-inverted-default: rgba(255, 255, 255, 0.1);
+    
     /* Typography */
     --font-sans: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     --font-mono: "JetBrains Mono", "Fira Code", "SF Mono", monospace;
-
-    /* Layout */
+    
+    /* Spacing */
     --max: 1280px;
-
+    --space-1: 0.25rem;
+    --space-2: 0.5rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-5: 1.25rem;
+    --space-6: 1.5rem;
+    --space-8: 2rem;
+    --space-10: 2.5rem;
+    --space-12: 3rem;
+    --space-16: 4rem;
+    
     /* Transitions */
     --transition-fast: 0.15s ease;
     --transition-base: 0.2s ease;
+    
+    /* Shadows — Light Context */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.04);
+    --shadow-lg: 0 4px 12px rgba(0, 0, 0, 0.08);
+    --shadow-xl: 0 8px 24px rgba(0, 0, 0, 0.12);
   }
 
   * { box-sizing: border-box; }
 
-  html, body {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
     margin: 0;
     padding: 0;
-    background: var(--bg-primary);
+    background: var(--bg-body);
     color: var(--text-secondary);
     font-family: var(--font-sans);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     min-height: 100vh;
   }
 
-  /* Subtle gradient overlay for depth */
-  body::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background:
-      radial-gradient(ellipse at 50% 0%, rgba(110, 231, 255, 0.03) 0%, transparent 50%),
-      radial-gradient(ellipse at 100% 100%, rgba(139, 92, 246, 0.02) 0%, transparent 40%);
-    pointer-events: none;
-    z-index: -1;
+  /* Selection Color */
+  ::selection {
+    background: var(--accent-cyan-subtle);
+    color: var(--text-primary);
   }
 
+  /* Links — Light Context */
   a {
     color: var(--accent-cyan);
     text-decoration: none;
-    transition: opacity var(--transition-fast);
+    transition: var(--transition-fast);
   }
 
   a:hover {
-    opacity: 0.9;
+    color: #0bc8d8; /* Slightly darker cyan */
+    text-decoration: underline;
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--accent-cyan);
+    outline-offset: 2px;
   }
 
   /* Container */
@@ -148,14 +190,23 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     margin: 0 auto;
   }
 
-  /* Header & Navigation */
+  @media (min-width: 640px) {
+    .container {
+      padding: 0 1rem;
+    }
+  }
+
+  /* ========================================
+     HEADER — Dark (Preserved from Logo)
+     ======================================== */
   .site-header {
+    background: var(--bg-header);
+    color: var(--text-inverted);
+    border-bottom: 1px solid var(--border-inverted);
     position: sticky;
     top: 0;
-    z-index: 20;
-    backdrop-filter: blur(20px);
-    background: rgba(11, 16, 32, 0.85);
-    border-bottom: 1px solid var(--border-subtle);
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
     height: 72px;
   }
 
@@ -163,15 +214,14 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0.75rem 0;
-    gap: 1rem;
     height: 100%;
+    padding: 0;
+    gap: 1rem;
   }
 
   .brand {
     display: inline-flex;
     align-items: center;
-    color: white;
     flex: 0 0 auto;
   }
 
@@ -182,26 +232,33 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     border-radius: 8px;
   }
 
-  nav {
+  /* Header Navigation — Dark Context */
+  .site-header nav {
     display: flex;
     gap: 0.5rem;
     flex-wrap: wrap;
     align-items: center;
   }
 
-  nav a {
-    color: var(--text-tertiary);
+  .site-header nav a {
+    color: var(--text-inverted-secondary);
     font-weight: 500;
     font-size: 0.9rem;
     padding: 0.5rem 0.75rem;
     border-radius: 6px;
-    transition: all var(--transition-fast);
+    transition: var(--transition-fast);
+    text-decoration: none;
   }
 
-  nav a:hover {
-    color: var(--text-primary);
-    background: var(--surface-primary);
-    opacity: 1;
+  .site-header nav a:hover {
+    color: var(--text-inverted);
+    background: rgba(255, 255, 255, 0.05);
+    text-decoration: none;
+  }
+
+  .site-header nav a:focus-visible {
+    outline: 2px solid var(--accent-cyan);
+    outline-offset: 2px;
   }
 
   /* Main content */
@@ -209,18 +266,20 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     padding: 2rem 0 4rem;
   }
 
-  /* Footer */
+  /* ========================================
+     FOOTER — Light Context
+     ======================================== */
   .site-footer {
+    background: var(--bg-secondary);
     border-top: 1px solid var(--border-subtle);
     margin-top: 4rem;
-    background: var(--bg-secondary);
+    padding: 2.5rem 0 3rem;
   }
 
   .footer-wrap {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 2rem;
-    padding: 2.5rem 0 3rem;
   }
 
   .footer-section h4 {
@@ -251,7 +310,7 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
   }
 
   .footer-nav a:hover {
-    color: var(--accent-cyan);
+    color: var(--text-secondary);
   }
 
   .footer-meta {
@@ -259,30 +318,43 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     color: var(--text-muted);
   }
 
-  /* Typography */
-  h1, h2, h3 {
-    line-height: 1.1;
-    margin: 0 0 0.75rem;
+  /* ========================================
+     TYPOGRAPHY — Light Context
+     ======================================== */
+  h1, h2, h3, h4, h5, h6 {
     color: var(--text-primary);
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 0.75rem;
   }
 
   h1 {
-    font-size: clamp(2rem, 4vw, 3rem);
-    font-weight: 700;
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
     letter-spacing: -0.01em;
-    max-width: 20ch;
+    line-height: 1.1;
   }
 
   h2 {
-    font-size: clamp(1.5rem, 3vw, 2.25rem);
-    font-weight: 700;
+    font-size: clamp(1.375rem, 2.5vw, 2rem);
     letter-spacing: -0.01em;
+    line-height: 1.15;
   }
 
   h3 {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     font-weight: 600;
     line-height: 1.3;
+  }
+
+  h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  p {
+    color: var(--text-secondary);
+    max-width: 70ch;
   }
 
   /* Eyebrow text */
@@ -303,14 +375,40 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     max-width: 70ch;
   }
 
-  /* Section spacing */
+  /* ========================================
+     LAYOUT
+     ======================================== */
   .section {
-    padding: 2rem 0;
+    padding: 3rem 0;
   }
 
-  /* Hero section */
+  .section--alt {
+    background: var(--bg-secondary);
+  }
+
   .hero {
-    padding: 2rem 0 1rem;
+    padding: 4rem 0 2rem;
+    text-align: center;
+  }
+
+  .hero-title {
+    font-size: clamp(2.25rem, 4vw, 3.5rem);
+    font-weight: 800;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+    margin-bottom: 1.5rem;
+    max-width: 20ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-description {
+    font-size: 1.125rem;
+    color: var(--text-secondary);
+    max-width: 60ch;
+    margin: 0 auto 2rem;
+    line-height: 1.7;
   }
 
   /* Grid */
@@ -323,35 +421,68 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 
-  /* Cards */
+  /* ========================================
+     CARDS — Light Context
+     ======================================== */
   .card {
     background: var(--surface-primary);
     border: 1px solid var(--border-subtle);
-    border-radius: 16px;
+    border-radius: 12px;
     padding: 1.5rem;
     transition: all var(--transition-base);
+    box-shadow: var(--shadow-sm);
   }
 
   .card:hover {
-    background: var(--surface-secondary);
     border-color: var(--border-default);
+    box-shadow: var(--shadow-lg);
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
   }
 
-  /* Pills / Tags */
+  .card:active {
+    background: var(--surface-secondary);
+    transform: translateY(0);
+  }
+
+  .card:focus-within {
+    outline: 2px solid var(--accent-cyan);
+    outline-offset: 2px;
+  }
+
+  .card-title {
+    color: var(--text-primary);
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .card-description {
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .card-meta {
+    color: var(--text-tertiary);
+    font-size: 0.875rem;
+  }
+
+  /* ========================================
+     PILLS / TAGS — Light Context
+     ======================================== */
   .pill {
     display: inline-flex;
     align-items: center;
+    gap: 0.25rem;
     padding: 0.35rem 0.75rem;
-    background: var(--surface-secondary);
+    background: rgba(0, 0, 0, 0.04);
     border: 1px solid var(--border-subtle);
     border-radius: 999px;
     font-size: 0.75rem;
     font-weight: 500;
     color: var(--text-tertiary);
-    margin-right: 0.5rem;
-    margin-bottom: 0.5rem;
+    white-space: nowrap;
     transition: all var(--transition-fast);
   }
 
@@ -360,16 +491,73 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     color: var(--text-secondary);
   }
 
-  /* Score display */
-  .score {
-    font-family: var(--font-mono);
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: var(--accent-cyan);
-    text-shadow: 0 0 30px var(--accent-cyan-glow);
+  /* Pill Variants */
+  .pill--success {
+    background: rgba(34, 197, 94, 0.1);
+    border-color: rgba(34, 197, 94, 0.2);
+    color: var(--accent-success);
   }
 
-  /* Stats grid */
+  .pill--warning {
+    background: rgba(245, 158, 11, 0.1);
+    border-color: rgba(245, 158, 11, 0.2);
+    color: var(--accent-warning);
+  }
+
+  .pill--error {
+    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.2);
+    color: var(--accent-error);
+  }
+
+  .pill--accent {
+    background: var(--accent-cyan-subtle);
+    border-color: rgba(14, 231, 255, 0.2);
+    color: #0bc8d8;
+  }
+
+  /* ========================================
+     SCORE BADGES — Light Context
+     ======================================== */
+  .score {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+
+  .score--large {
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    min-width: 80px;
+    background: rgba(0, 0, 0, 0.04);
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .score--high {
+    color: var(--accent-success);
+    background: rgba(34, 197, 94, 0.1);
+    border-color: rgba(34, 197, 94, 0.2);
+  }
+
+  .score--mid {
+    color: var(--accent-warning);
+    background: rgba(245, 158, 11, 0.1);
+    border-color: rgba(245, 158, 11, 0.2);
+  }
+
+  .score--low {
+    color: var(--accent-error);
+    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.2);
+  }
+
+  /* ========================================
+     STATS — Light Context
+     ======================================== */
   .stats {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
@@ -397,13 +585,83 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     color: var(--text-primary);
   }
 
-  /* Meta text */
-  .meta {
-    color: var(--text-tertiary);
-    font-size: 0.875rem;
+  .stat-score {
+    background: var(--surface-secondary);
+    border-color: var(--border-default);
   }
 
-  /* Article prose */
+  /* ========================================
+     BUTTONS — Light Context
+     ======================================== */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: all var(--transition-base);
+    text-decoration: none;
+  }
+
+  .btn:focus-visible {
+    outline: 2px solid var(--accent-cyan);
+    outline-offset: 2px;
+  }
+
+  /* Primary Button */
+  .btn--primary {
+    background: var(--accent-cyan);
+    color: #0b1020;
+  }
+
+  .btn--primary:hover {
+    background: #5dd5e8;
+    box-shadow: 0 4px 12px rgba(14, 231, 255, 0.3);
+    text-decoration: none;
+  }
+
+  .btn--primary:active {
+    background: #4cc5d8;
+    transform: scale(0.98);
+  }
+
+  /* Secondary Button */
+  .btn--secondary {
+    background: transparent;
+    border: 1px solid var(--border-default);
+    color: var(--text-primary);
+  }
+
+  .btn--secondary:hover {
+    background: rgba(0, 0, 0, 0.04);
+    border-color: var(--border-strong);
+    text-decoration: none;
+  }
+
+  .btn--secondary:active {
+    background: rgba(0, 0, 0, 0.08);
+  }
+
+  /* Ghost Button */
+  .btn--ghost {
+    background: transparent;
+    color: var(--accent-cyan);
+    padding: 0.5rem 1rem;
+  }
+
+  .btn--ghost:hover {
+    background: var(--accent-cyan-subtle);
+    text-decoration: none;
+  }
+
+  /* ========================================
+     ARTICLE PROSE
+     ======================================== */
   article.prose {
     max-width: 70ch;
   }
@@ -417,60 +675,20 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
   article.prose h2,
   article.prose h3 {
     margin-top: 2.5rem;
-  }
-
-  /* Buttons */
-  .btn {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.75rem 1.5rem;
-    background: var(--accent-cyan);
-    color: var(--bg-primary);
-    border-radius: 8px;
-    font-weight: 600;
-    font-size: 0.9rem;
-    transition: all var(--transition-fast);
-    border: none;
-    cursor: pointer;
-  }
-
-  .btn:hover {
-    background: #8eedff;
-    box-shadow: 0 0 20px var(--accent-cyan-glow);
-    opacity: 1;
-  }
-
-  .btn-secondary {
-    background: transparent;
-    border: 1px solid var(--border-default);
     color: var(--text-primary);
   }
 
-  .btn-secondary:hover {
-    background: var(--surface-primary);
-    box-shadow: none;
+  /* ========================================
+     META
+     ======================================== */
+  .meta {
+    color: var(--text-tertiary);
+    font-size: 0.875rem;
   }
 
-  /* Recommendation badges */
-  .badge-recommended {
-    background: rgba(74, 222, 128, 0.1);
-    border-color: rgba(74, 222, 128, 0.3);
-    color: var(--accent-success);
-  }
-
-  .badge-caveat {
-    background: rgba(251, 191, 36, 0.1);
-    border-color: rgba(251, 191, 36, 0.3);
-    color: var(--accent-warning);
-  }
-
-  .badge-avoid {
-    background: rgba(248, 113, 113, 0.1);
-    border-color: rgba(248, 113, 113, 0.3);
-    color: var(--accent-error);
-  }
-
-  /* Responsive */
+  /* ========================================
+     RESPONSIVE
+     ======================================== */
   @media (max-width: 720px) {
     .site-header {
       height: auto;
@@ -495,15 +713,15 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
       height: 36px;
     }
 
-    nav {
+    .site-header nav {
       width: 100%;
       justify-content: center;
       gap: 0.5rem;
       padding-top: 0.25rem;
-      border-top: 1px solid var(--border-subtle);
+      border-top: 1px solid var(--border-inverted);
     }
 
-    nav a {
+    .site-header nav a {
       font-size: 0.85rem;
       padding: 0.4rem 0.6rem;
     }
@@ -512,13 +730,22 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
       padding-top: 1.5rem;
     }
 
+    .hero {
+      padding: 2.5rem 0 1.5rem;
+    }
+
+    .hero-title {
+      font-size: 2rem;
+    }
+
     .footer-wrap {
       grid-template-columns: 1fr;
       gap: 1.5rem;
     }
 
-    .score {
-      font-size: 2rem;
+    .score--large {
+      font-size: 1.75rem;
+      min-width: 70px;
     }
   }
 </style>

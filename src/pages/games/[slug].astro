@@ -10,12 +10,12 @@ export async function getStaticPaths() {
 const { game } = Astro.props;
 const { Content } = await render(game);
 
-// Determine score color
+// Determine score class
 const score = game.data.score;
-let scoreClass = 'score';
-if (score >= 85) scoreClass = 'score score-high';
-else if (score >= 70) scoreClass = 'score score-mid';
-else scoreClass = 'score score-low';
+let scoreClass = 'score score--large';
+if (score >= 85) scoreClass = 'score score--large score--high';
+else if (score >= 70) scoreClass = 'score score--large score--mid';
+else scoreClass = 'score score--large score--low';
 ---
 
 <Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
@@ -103,7 +103,7 @@ else scoreClass = 'score score-low';
     left: 0;
     right: 0;
     height: 100px;
-    background: linear-gradient(transparent, var(--bg-primary));
+    background: linear-gradient(transparent, var(--bg-body));
   }
 
   .game-page {
@@ -115,21 +115,6 @@ else scoreClass = 'score score-low';
   .stat-score {
     background: var(--surface-secondary);
     border-color: var(--border-default);
-  }
-
-  .score-high {
-    color: var(--accent-success);
-    text-shadow: 0 0 30px rgba(74, 222, 128, 0.15);
-  }
-
-  .score-mid {
-    color: var(--accent-warning);
-    text-shadow: 0 0 30px rgba(251, 191, 36, 0.15);
-  }
-
-  .score-low {
-    color: var(--accent-error);
-    text-shadow: 0 0 30px rgba(248, 113, 113, 0.15);
   }
 
   .verdict-card h3 {
