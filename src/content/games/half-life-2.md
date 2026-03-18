@@ -3,12 +3,12 @@ title: Half-Life 2 in VR
 description: The Half-Life 2 VR Mod Is a Time Machine That Works. A complete, playable, genuinely transformative way to experience one of the most influential games ever made.
 lastVerified: 2026-03-18
 featured: true
-routeType: Community Conversion
+routeType: Full VR Mod
 recommendation: Recommended
 playability: Fully Playable
-setupBurden: One-Click
+setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
-comfort: Moderate
+comfort: Moderate Intensity
 performance: Moderate Demand
 supportStatus: Active
 genres:
@@ -123,3 +123,4 @@ The flat-to-VR landscape is crowded with projects that demonstrate potential. Th
 **Developer:** Source VR Mod Team  
 **Steam:** [Half-Life 2: VR Mod](https://store.steampowered.com/app/658920/) | [Episode One](https://store.steampowered.com/app/2177750/) | [Episode Two](https://store.steampowered.com/app/2177760/)  
 **Website:** [halflife2vr.com](https://halflife2vr.com/)
+)
