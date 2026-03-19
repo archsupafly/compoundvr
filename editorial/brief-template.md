@@ -1,6 +1,6 @@
 # Ian Brief Template
 
-Use this template for all Ian article briefs. Copy and customize for each game.
+Use this for Ian article assignments. This is the assignment parameters — the writer template is what Ian produces.
 
 ---
 
@@ -74,7 +74,10 @@ Use this template for all Ian article briefs. Copy and customize for each game.
 [1-2 sentences summarizing the experience]
 ```
 
-### YAML Frontmatter
+---
+
+## YAML Frontmatter Template
+
 ```yaml
 ---
 title: "[Game Name] VR"
@@ -92,13 +95,10 @@ performance: [Efficient | Moderate Demand | Heavy Demand | Inconsistent / Unpred
 supportStatus: [Active | Recently Updated | Stable but Quiet | Uncertain | Abandoned | Broken by Update]
 genres:
   - [Genre 1]
-  - [Genre 2]
 technicalTags:
   - [Tag 1]
-  - [Tag 2]
 experienceTags:
   - [Tag 1]
-  - [Tag 2]
 tier: [S/A/B/C/D/F]
 verdict: "[Summary verdict]"
 heroImage: /images/games/[game-slug]-vr-hero.jpg
@@ -122,3 +122,12 @@ Include full article body plus YAML frontmatter.
 2. **Richard reviews** — then we debate tier, angle, and editorial position
 3. **Final draft** — after editorial feedback loop
 4. **Publish** — after final approval
+
+---
+
+## Reference
+
+For full article structure, testing notes, source logging, and submission requirements, see:
+- `/editorial/game-writer-template-v1.md` — complete writer submission format
+- `/editorial/tier-rating-system.md` — tier definitions and dual-factor scoring
+- `/editorial/review-methodology-v1.md` — editorial standards

@@ -1,7 +1,7 @@
-# Game Writer Template v1
+# Game Writer Template v2
 
 **Owner:** Richard  
-**Date:** 2026-03-14  
+**Date:** 2026-03-19  
 **Purpose:** Standardize what a writer must submit for every flat-game-with-VR coverage page.
 
 ---
@@ -9,10 +9,11 @@
 ## 1. Use Case
 
 Use this template for any game page covering:
-- official hybrid VR support
-- official standalone VR version
-- full VR mod
-- framework-based VR play (e.g. UEVR)
+- **Official Hybrid:** Developer-added VR support to an existing game (may be incomplete or delisted)
+- **Official Standalone VR Version:** Native VR port, designed for VR, sold as VR product
+- **Full VR Mod:** Community-made mod with motion controls, rebuilt systems
+- **Framework-Based:** Universal VR profiles via REFramework, UEVR, etc.
+- **Injection Driver:** VorpX/Geo3D stereoscopic injection, no motion controls
 
 This is the default template for a game's canonical page.
 
@@ -22,288 +23,163 @@ This is the default template for a game's canonical page.
 
 Every assignment must include:
 
-1. completed article draft
-2. verdict box data
-3. structured CMS metadata
-4. testing notes
-5. source log
-6. asset list
-7. SEO package
-8. update watch notes
+1. Completed article draft with YAML frontmatter
+2. Verdict with tier ratings (Game Quality + VR Implementation Quality + Overall)
+3. Testing notes (if directly tested)
+4. Source log
 
 If any item is missing, the article is incomplete.
 
 ---
 
-## 3. Canonical Article Template
+## 3. Article Structure
 
-# H1: [Game Title] in VR: Is It Worth Playing?
+### Title
+`[Game Name] in VR: [Compelling Subtitle]`
 
-## Quick Verdict
-
-**VR Status:** [Playable / Limited / Experimental / Not Recommended]  
-**VR Type:** [Official Hybrid / Official Standalone VR / Full VR Mod / Framework-Based]  
-**Recommendation:** [Yes / Conditional / No]  
-**Setup Difficulty:** [Easy / Moderate / Hard / Expert-Only]  
-**Input Support:** [Motion Controls / Gamepad / KBM / Mixed]  
-**Comfort:** [Comfortable / Moderate / Intense / Variable]  
-**Performance Demand:** [Light / Moderate / Heavy / Inconsistent]  
-**Testing Status:** [Tested Directly / Partially Tested / Community-Reported Only]  
-**Last Verified:** [YYYY-MM-DD]  
-**Primary Install Method:** [Short description]
-
-### Short Verdict
-Write 2-4 paragraphs covering:
-- whether the game is worth playing in VR right now
-- what kind of VR route it uses
-- the main tradeoff
-- who should consider it
-
-Example prompts:
-- Is this genuinely recommendable or merely interesting?
-- Is the setup burden acceptable for the experience quality?
-- Is this for normal users or only for enthusiasts?
+### YAML Frontmatter
+```yaml
+---
+title: "[Game Name] VR"
+description: "[Compelling one-sentence description]"
+lastVerified: YYYY-MM-DD
+featured: false
+routeType: [Official Hybrid | Official Standalone VR Version | Full VR Mod | Framework-Based | Injection Driver]
+platforms: ['PCVR', ...other platforms if applicable]
+recommendation: [Recommended | Recommended with Caveats | Enthusiasts/Tinkerers Only | Wait for Updates | Not Recommended]
+playability: [Fully Playable | Mostly Playable | Partially Playable | Experimental | Broken]
+setupBurden: [Beginner Friendly | Moderate Setup | Advanced Setup | Expert Only]
+inputStyle: [Full Motion Controls | Partial Motion Controls | Gamepad Preferred | KBM Required | Mixed Input]
+comfort: [Comfortable | Moderate Intensity | Intense | Highly Variable]
+performance: [Efficient | Moderate Demand | Heavy Demand | Inconsistent / Unpredictable]
+supportStatus: [Active | Recently Updated | Stable but Quiet | Uncertain | Abandoned | Broken by Update]
+genres:
+  - [Genre 1]
+  - [Genre 2]
+technicalTags:
+  - [Tag 1]
+  - [Tag 2]
+experienceTags:
+  - [Tag 1]
+  - [Tag 2]
+tier: [S/A/B/C/D/F]
+verdict: "[Summary verdict]"
+heroImage: /images/games/[game-slug]-vr-hero.jpg
+---
+```
 
 ---
 
-## Can You Play [Game Title] in VR?
+## 4. Article Body
 
-Answer plainly:
-- yes/no/conditionally
-- what route exists
-- whether the experience is official, modded, or framework-driven
-- whether the game is currently viable in VR
+### Opening
+Lead with what matters: what the game is, what VR route exists, and whether it's worth playing. Don't bury the answer.
 
-Do not bury the answer.
-
----
-
-## What Type of VR Support Does It Use?
-
+### What This VR Route Actually Is
 Explain:
-- official hybrid, official standalone VR version, full VR mod, or framework-based VR
-- who maintains it
-- whether support is active, stale, or uncertain
-- how complete the implementation is
+- Route type (official hybrid, mod, injection driver, etc.)
+- What it provides and doesn't provide
+- Who maintains it
+- Whether support is active or abandoned
 
-Cover specifics such as:
-- true stereoscopic VR or approximation
-- full 6DOF, partial support, or head-look only
-- motion controls vs controller emulation
-- whether UI and cutscenes work acceptably
+For injection drivers specifically:
+- Explain they provide stereoscopic 3D + head tracking only
+- No motion controls, no hand presence, no VR UI
+- Set honest expectations
 
----
+### How It Plays
+Break down:
+- Controls (motion controls? gamepad? keyboard?)
+- Comfort (locomotion type, motion sickness risk)
+- Performance (broad categories: potato/mid-range/super computer)
+- Stability (crashes, bugs, update fragility)
 
-## What You Need
+### What Works Well
+Honest assessment of strengths. Be specific.
 
-List requirements clearly:
-- base game edition/store
-- required mod/framework/tools
-- headset/runtime compatibility
-- controller/input needs
-- version/build compatibility
-- other dependencies or caveats
+### What Doesn't Work
+Honest assessment of weaknesses. Be specific.
 
-Format this as practical setup info, not marketing prose.
+### Platform Differences (if multiplatform)
+If the game is on multiple VR platforms (PCVR, PSVR, Quest, etc.):
+- Brief comparison of visual/audio/control differences
+- One paragraph or section — don't make it the focus
+- Typical hierarchy: Quest ≤ PSVR ≤ PCVR (but verify for each game)
 
----
-
-## How Hard Is It to Set Up?
-
-Explain:
-- rough setup time
-- complexity level
-- whether files must be replaced or launch args used
-- whether updates may break the setup
-- common pitfalls
-
-Be specific about what "easy" or "hard" means.
-
----
-
-## How Well Does It Work in Practice?
-
-Break down the actual VR experience:
-
-### VR Functionality
-Cover:
-- head tracking quality
-- world scale / stereoscopy
-- camera behavior
-- hand presence / motion controls
-- interaction fidelity
-- menu/UI readability
-- cutscene behavior
-
-### Playability
-Cover:
-- whether the full campaign or main modes are playable
-- what breaks progression
-- where the experience degrades
-- whether certain areas are especially good or bad
-
-### Controls
-Cover:
-- motion control quality
-- gamepad fallback
-- aiming/melee/reload/input weirdness
-- whether the game feels adapted for VR or merely forced into it
-
-### Comfort
-Cover:
-- locomotion type
-- forced camera movement
-- vehicle/cutscene discomfort
-- comfort intensity
-- who may struggle with it
-
-### Performance
-Cover:
-- overall performance behavior
-- rough hardware expectations
-- whether compromises are needed
-- obvious bottlenecks or instability
-
-### Stability and Bugs
-Cover:
-- crashes
-- broken UI
-- visual issues
-- save/load problems
-- update fragility
-- known mod/framework problems
-
----
-
-## Who Should Play It This Way?
-
+### Who This Is For
 Segment the audience:
-- good for VR tinkerers
-- good for fans of the original game
-- suitable for first-time players or not
-- bad for comfort-sensitive users
-- bad for non-technical users
+- Good for: [specific groups]
+- Not for: [specific groups]
 
-This section should help the reader self-qualify quickly.
+### The Verdict
 
----
+**Use this exact format:**
 
-## Alternatives and Better Options
+```
+## The Verdict
 
-Where useful, compare against:
-- official VR alternatives
-- stronger mods in the same genre
-- better framework showcases
-- another edition/version that makes more sense
+**Tier: [LETTER]**
 
-The goal is reader decision quality, not isolation.
+**Game Quality: [LETTER]**
+[1-2 sentences explaining why — absolute rating, not relative to category]
 
----
+**VR Implementation Quality: [LETTER]**
+[1-2 sentences explaining why — absolute rating, not "good for a mod" or "good for injection"]
 
-## Final Verdict
+**Overall Tier: [LETTER]**
+[1-2 sentences summarizing the experience]
+```
 
-Choose one:
-- Recommended
-- Recommended with Caveats
-- Only for Enthusiasts/Tinkerers
-- Wait for Updates
-- Not Recommended
+**Tier Ratings:**
+- **S:** Essential — both game and VR implementation are exceptional
+- **A:** Excellent — highly recommended, minor caveats
+- **B:** Good — worth playing, notable limitations
+- **C:** Average — only for enthusiasts
+- **D:** Below average — significant problems
+- **F:** Not recommended — fundamental issues
 
-Then explain why in 1-3 paragraphs.
-
----
-
-## FAQ
-
-Include only useful, search-driven questions such as:
-- Does [Game Title] support VR officially?
-- Can you use motion controls in [Game Title] VR?
-- Is [Game Title] in VR worth it?
-- Does [Game Title] work with UEVR?
-- What headset works best for [Game Title] in VR?
-
-Do not add filler FAQs.
+**Critical:** Tiers are absolute, not relative. An injection driver doesn't get "B+ for injection drivers" — it gets an absolute rating against ALL VR experiences. A gamer deciding between this and native VR should compare on the same scale.
 
 ---
 
-## 4. Verdict Box Submission Form
+## 5. Evergreen Language Requirements
 
-Writers must submit these fields separately for the CMS.
+**Do NOT include:**
+- Community quotes or forum references
+- "Tested vs community" framing
+- Specific hardware requirements ("RTX 3080 recommended")
+- Specific version numbers (updates change them)
+- Detailed setup steps (preserves paid guide monetization path)
+- "As of [date]" or time-bound language
 
-- Game Title:
-- VR Status:
-- VR Type:
-- Recommendation:
-- Setup Difficulty:
-- Input Support:
-- Motion Controls: [Yes / Partial / No]
-- Comfort Level:
-- Performance Demand:
-- Stability Level:
-- Campaign Playable: [Yes / Partial / No]
-- Multiplayer Playable: [Yes / Partial / No / N/A]
-- UI Readability: [Good / Mixed / Poor]
-- Last Verified Date:
-- Testing Status:
-- Primary Install Method:
-- One-Sentence Summary:
+**DO include:**
+- Broad performance categories (potato/mid-range/super computer)
+- Evergreen descriptions of quality
+- What the VR route provides and doesn't provide
+- Honest assessment of who should bother
 
 ---
 
-## 5. Structured CMS Metadata Form
+## 6. Research Sources
 
-- Slug:
-- Franchise:
-- Developer:
-- Publisher:
-- Original Release Year:
-- Genre:
-- Perspective:
-- Engine:
-- Store/Platform:
-- VR Route Type:
-- VR Implementation Owner:
-- Support Status:
-- Install Dependency Type:
-- Recommended Status:
-- Setup Difficulty:
-- Tinkering Level:
-- Input Type:
-- Motion Controls:
-- Seated/Standing/Roomscale:
-- Comfort Intensity:
-- Performance Demand:
-- Stability Level:
-- Campaign Playable:
-- Multiplayer Playable:
-- Cutscenes in VR:
-- UI Quality:
-- Save Compatibility Notes:
-- Last Verified Date:
-- Update Priority:
-- Evergreen Value:
-- Monetization Opportunity:
-- Primary Keyword:
-- Secondary Keywords:
-- Search Intent Type:
-- Article Tier: [Tier 1 / Tier 2 / Tier 3]
-- Front-End Tags:
+**Preferred sources (in order):**
+1. **YouTube VR channels:** Beardo Benjo, Gamertag VR, Ian from Eurogamer, Paradise's Decay, Headset VR, Nathie, VR Grid
+2. **Flat2VR Discord** — community knowledge, mod status, setup notes
+3. **Reddit** — r/vive, r/oculus, r/psvr, r/psvr2, game-specific subreddits
+4. **Internet/media coverage** — reviews, articles, developer notes
+5. **Training data** — may be outdated, verify against current sources
+
+**Document sources in your notes, but do NOT quote community members or forums in the article.**
 
 ---
 
-## 6. Testing Notes Form
-
-Writers must submit:
+## 7. Testing Notes (if directly tested)
 
 - Date tested:
 - Headset used:
 - Runtime/platform:
-- CPU:
-- GPU:
-- RAM:
 - Controller/input method:
 - Game version/build:
-- Mod/framework version:
 - Time spent testing:
 - Main content tested:
 - What worked reliably:
@@ -311,106 +187,88 @@ Writers must submit:
 - What failed:
 - Major caveats:
 - What was not tested:
-- What claims rely on community reporting:
 
-Rule: if you did not test it, do not imply that you did.
-
----
-
-## 7. Source Log Form
-
-Document sources in categories:
-
-### Direct testing
-- [notes]
-
-### Official sources
-- [store page / developer blog / release notes]
-
-### Mod documentation
-- [GitHub / Nexus / docs / changelog]
-
-### Community verification
-- [Discord / Reddit / issue tracker / comments]
-
-### Unverified claims to exclude or label
-- [list]
+**Rule:** If you did not test it, do not imply that you did. AI authorship is acknowledged implicitly — no need to claim direct testing.
 
 ---
 
-## 8. Asset List Form
+## 8. Source Log
 
-Submit:
-- hero asset
-- 3-6 screenshots if available
-- captions/alt text
-- source/ownership notes
-- optional comparison image or settings/performance chart
-
-Assets should help the reader understand the VR route, not just decorate the page.
+Document for editor review:
+- Which YouTube channels you referenced
+- Which Discord communities you checked
+- Which Reddit threads informed understanding
+- Which articles/docs you consulted
+- Which claims come from training data vs. current sources
 
 ---
 
-## 9. SEO Package Form
+## 9. Editorial Standards
 
-Submit:
-- Primary keyword:
-- Secondary keywords:
-- SEO title:
-- Meta description:
-- URL slug:
-- Suggested internal links:
-- Suggested external references:
-- Featured snippet answer:
-- FAQ targets:
+### Must Include
+1. Clear verdict with tier ratings
+2. What the VR route actually provides
+3. Honest assessment of strengths and weaknesses
+4. Who should and shouldn't play it
 
-Writers should aim for search satisfaction, not keyword stuffing.
+### Must NOT Include
+1. Community quotes or "as Reddit user X said"
+2. "Tested vs community" framing
+3. Specific hardware requirements
+4. Version numbers
+5. Setup steps (link to guides instead)
+6. Hype or marketing language
 
----
-
-## 10. Update Watch Notes Form
-
-Submit:
-- What future changes could invalidate this page?
-- Which mod/framework channels should be monitored?
-- Does this page need refresh after game updates?
-- Does this page need refresh after framework updates?
-- Recommended review cadence: [high / medium / low]
+### Tone
+- Direct, skeptical, calm
+- Specific, not generic
+- Honest about tradeoffs
+- Decision-grade, not enthusiasm
 
 ---
 
-## 11. Writer Checklist
+## 10. Writer Checklist
 
 Before submission, confirm:
 
-- I clearly stated whether the game is worth playing in VR.
-- I labeled the VR route correctly.
-- I explained setup requirements in practical terms.
-- I separated direct testing from community reporting.
-- I described controls, comfort, stability, and performance.
-- I identified who the experience is for.
-- I provided a real recommendation, not vague positivity.
-- I filled in metadata and tags.
-- I submitted the SEO package.
-- I flagged update risks.
+- [ ] I stated the tier clearly with both Game Quality and VR Implementation ratings
+- [ ] I explained what the VR route provides and doesn't provide
+- [ ] I used evergreen language (no version numbers, specific hardware, or dates)
+- [ ] I did NOT quote community members or forums
+- [ ] I identified who should and shouldn't play this
+- [ ] I gave an honest recommendation, not vague positivity
+- [ ] I filled in all YAML frontmatter fields
+- [ ] I documented my sources for editor review
 
 ---
 
-## 12. Editor Rejection Triggers
+## 11. Editor Rejection Triggers
 
 Editors should bounce the draft back if:
-- the verdict is vague
-- the article hides the actual recommendation
-- testing is undisclosed
-- setup details are incomplete
-- community claims are presented as fact
-- the piece reads like generic game coverage with VR words bolted on
-- the metadata package is incomplete
+- Tier ratings are missing or use relative framing ("B+ for an injection driver")
+- The article quotes community members or forums
+- Setup steps are included (link to guides instead)
+- Hardware requirements are too specific
+- The verdict is vague or hides the actual recommendation
+- The piece reads like generic game coverage with VR words bolted on
+- Evergreen language is violated (version numbers, specific dates, "as of")
+
+---
+
+## 12. Reference Documents
+
+- `/editorial/tier-rating-system.md` — Tier definitions and dual-factor scoring
+- `/editorial/review-methodology-v1.md` — Editorial standards
+- `/editorial/brief-template.md` — Assignment parameters for Ian
 
 ---
 
 ## 13. Bottom Line
 
-A writer's job is not to produce a "VR article."
+A writer's job is to submit a decision-grade package that helps a reader understand:
 
-It is to submit a decision-grade package that helps a reader understand whether a specific game's VR route is real, usable, stable enough, and worth the friction.
+1. **Is this VR route real and usable?**
+2. **Is it worth my time compared to other VR options?**
+3. **Who should bother and who shouldn't?**
+
+The tier system exists to answer question #2 on a single scale — whether native VR, mod, or injection driver, they all compete for the same Saturday afternoon.
