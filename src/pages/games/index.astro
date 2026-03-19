@@ -3,7 +3,13 @@ import Layout from '../../layouts/Layout.astro';
 import CardGrid from '../../components/CardGrid.astro';
 import { getCollection } from 'astro:content';
 
-const games = (await getCollection('games')).sort((a, b) => b.data.score - a.data.score);
+// Sort by tier (S > A > B > C > D > F)
+const tierOrder = { 'S': 0, 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'F': 5 };
+const games = (await getCollection('games')).sort((a, b) => {
+  const tierA = a.data.tier || 'B';
+  const tierB = b.data.tier || 'B';
+  return (tierOrder[tierA] ?? 2) - (tierOrder[tierB] ?? 2);
+});
 ---
 
 <Layout title="Games — CompoundVR" description="Canonical game pages and verdicts for flat-to-VR routes.">
@@ -17,7 +23,7 @@ const games = (await getCollection('games')).sort((a, b) => b.data.score - a.dat
       href: `/games/${game.id}/`,
       title: game.data.title,
       description: game.data.verdict,
-      meta: `${game.data.recommendation} · Score ${game.data.score}`,
+      meta: `${game.data.recommendation} · Tier ${game.data.tier || 'B'}`,
     }))} />
   </section>
 </Layout>
