@@ -133,3 +133,29 @@ Every article verdict follows this format:
 - Great game + terrible VR = mid-tier experience. You'd be better off playing a B-tier native VR game.
 - Great VR + terrible game = mid-tier experience. The VR can't save a bad game.
 - S/A tier requires BOTH to be excellent.
+- **Multiplatform games:** Briefly mention platform differences (Quest vs PSVR vs PCVR) if relevant, but don't make it the focus unless versions are radically different.
+
+---
+
+## Platforms Field
+
+Every game includes a `platforms` field indicating VR platforms:
+
+- PCVR (SteamVR, Rift, Vive, Index, etc.)
+- PSVR (PlayStation VR, PS4)
+- PSVR2 (PlayStation VR2, PS5)
+- Quest (Meta Quest standalone)
+- Pico
+- Rift (original Oculus Rift)
+- Rift S
+- Index (Valve Index)
+- Vive (HTC Vive)
+- Windows Mixed Reality
+
+Most games will be `['PCVR']`. Multiplatform games list all available platforms.
+
+**Editorial guidance for multiplatform:**
+- Don't spend significant article space on platform differences unless versions are radically different
+- Brief mention of visual/audio/control differences is useful
+- Typical hierarchy: Quest ≤ PSVR ≤ PCVR (but not always — check for each game)
+- If versions are extremely different (e.g., Resident Evil 7), consider separate articles
