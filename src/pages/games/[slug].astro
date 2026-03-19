@@ -10,12 +10,15 @@ export async function getStaticPaths() {
 const { game } = Astro.props;
 const { Content } = await render(game);
 
-// Determine score class
-const score = game.data.score;
-let scoreClass = 'score score--large';
-if (score >= 85) scoreClass = 'score score--large score--high';
-else if (score >= 70) scoreClass = 'score score--large score--mid';
-else scoreClass = 'score score--large score--low';
+// Determine tier class
+const tier = game.data.tier || 'B'; // default to B if not set
+let tierClass = 'tier tier--large';
+if (tier === 'S') tierClass = 'tier tier--large tier--s';
+else if (tier === 'A') tierClass = 'tier tier--large tier--a';
+else if (tier === 'B') tierClass = 'tier tier--large tier--b';
+else if (tier === 'C') tierClass = 'tier tier--large tier--c';
+else if (tier === 'D') tierClass = 'tier tier--large tier--d';
+else tierClass = 'tier tier--large tier--f';
 ---
 
 <Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
@@ -59,9 +62,9 @@ else scoreClass = 'score score--large score--low';
         <div class="stat-label">Support</div>
         <div class="stat-value">{game.data.supportStatus}</div>
       </div>
-      <div class="stat stat-score">
-        <div class="stat-label">Score</div>
-        <div class={scoreClass}>{game.data.score}</div>
+      <div class="stat stat-tier">
+        <div class="stat-label">Tier</div>
+        <div class={tierClass}>{tier}</div>
       </div>
     </div>
 
@@ -112,7 +115,7 @@ else scoreClass = 'score score--large score--low';
     z-index: 1;
   }
 
-  .stat-score {
+  .stat-tier {
     background: var(--surface-secondary);
     border-color: var(--border-default);
   }

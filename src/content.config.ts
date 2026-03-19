@@ -40,7 +40,8 @@ const games = defineCollection({
     genres: z.array(z.string()).default([]),
     technicalTags: z.array(z.string()).default([]),
     experienceTags: z.array(z.string()).default([]),
-    score: z.number().min(0).max(100),
+    score: z.number().min(0).max(100).optional(), // deprecated, use tier
+    tier: z.enum(['S', 'A', 'B', 'C', 'D', 'F']).optional(),
     verdict: z.string(),
     heroImage: z.string().optional(),
   }),
