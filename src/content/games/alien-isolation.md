@@ -1,6 +1,6 @@
 ---
-title: Alien: Isolation in VR
-description: The Horror They Promised, The Horror We Got: Sevastopol in VR. A decade-old E3 demo became a community-made reality that transforms one of the finest survival horror games into essential VR.
+title: "Alien: Isolation in VR"
+description: "The Horror They Promised, The Horror We Got: Sevastopol in VR. A decade-old E3 demo became a community-made reality that transforms one of the finest survival horror games into essential VR."
 lastVerified: 2026-03-19
 featured: false
 routeType: Full VR Mod
@@ -24,7 +24,7 @@ experienceTags:
   - Horror
   - Atmospheric
 tier: A
-verdict: The game itself earns an A on its own merits—brilliant AI, immaculate art direction, sound design that teaches you to fear silence. The VR implementation earns a B+ on technical grounds—impressive for a community project, but not the seamless polish of a native AAA VR release. Combined, they produce an experience that ranks among VR's essential offerings.
+verdict: "The game itself earns an A on its own merits - brilliant AI, immaculate art direction, sound design that teaches you to fear silence. The VR implementation earns a B+ on technical grounds - impressive for a community project, but not the seamless polish of a native AAA VR release. Combined, they produce an experience that ranks among VR's essential offerings."
 heroImage: /images/games/alien-isolation-vr-hero.jpg
 ---
 
