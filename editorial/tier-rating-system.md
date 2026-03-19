@@ -22,8 +22,8 @@ A VR gamer deciding between:
 
 | Tier | Meaning | What It Takes |
 |------|---------|---------------|
-| **S** | Essential — one of the best VR experiences available | Both game quality AND VR implementation must be exceptional |
-| **A** | Excellent — highly recommended, minor caveats | Great game + great VR implementation |
+| **S** | Essential — one of the best VR experiences available | Both game quality AND VR implementation must be exceptional. S-tier is reserved for definitive experiences — the games you point to when someone asks "what makes VR worth it." Half-Life: Alyx, Beat Saber, maybe Resident Evil 4 VR. |
+| **A** | Excellent — highly recommended, minor caveats | Great game + great VR implementation. Excellent implementation of an excellent game, but not the first game you'd hand someone to explain VR. |
 | **B** | Good — worth playing, notable limitations | Great game + decent VR, OR decent game + great VR |
 | **C** | Average — only for enthusiasts | Great game + weak VR, OR weak game + great VR |
 | **D** | Below Average — significant problems | Not recommended except for die-hards |
