@@ -1,0 +1,22 @@
+mod_name: "Half-Life 2: VR Mod"
+game_name: "Half-Life 2"
+mod_type: "community_full_conversion"
+status: "released"
+price: "free_requires_base_game"
+overall_tier: "A"
+implementation_quality: 4
+comfort_level: "moderate"
+stability: 5
+platform: "PCVR"
+runtime: "SteamVR"
+input_methods: ["motion_controllers", "gamepad"]
+pc_requirement_tier: "mid"
+install_friction: "one_click"
+locomotion: ["smooth", "snap_turn"]
+comfort_features: ["vignette", "third_person_vehicle", "decoupled_camera"]
+completeness: "full_campaign"
+multiplayer: false
+comfort_caveats: ["vehicle_sections", "no_teleport"]
+known_issues: ["missing_hand_animations", "texture_age"]
+developer: "Source VR Mod Team"
+steam_app_id: 658920

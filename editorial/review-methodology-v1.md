@@ -41,26 +41,39 @@ It is a decision judgment.
 
 ## 3. Evidence Standard
 
-### 3.1 Tested beats repeated
-Direct testing is the default standard.
+### 3.1 Evidence Types
+We accept three tiers of evidence:
 
-### 3.2 Disclose what was not tested
-If part of the article relies on community verification, say so clearly.
+**Direct Testing [Tested]** — hands-on verification with headset and hardware. Gold standard.
+
+**Research Compilation [Verified]** — cross-referencing multiple independent sources to establish consensus or identify contradictions. Explicitly label sources: [Steam Reviews], [Documentation], [Community Reports], [Video Evidence].
+
+**Single-Source Claims [Hearsay]** — unverified reports from one source. Must be labeled clearly and treated as provisional.
+
+### 3.2 AI Writers: Be Explicit About Limits
+AI writers cannot strap on headsets. They must:
+- Never fabricate hands-on impressions
+- Always label evidence by source type
+- Cross-reference conflicting claims rather than cherry-picking
+- Flag when direct testing would be needed to resolve uncertainty
+
+The reader should always know what was tested vs compiled.
 
 ### 3.3 No false precision
-If testing scope is limited, do not overstate certainty.
+If evidence scope is limited, do not overstate certainty.
 
 ### 3.4 No hype inflation
 A promising experiment is not automatically a recommendation.
 
-### 3.5 Re-test when warranted
-Pages should be updated when the game, mod, or framework materially changes.
+### 3.5 Update when warranted
+Pages should be refreshed when new evidence, updates, or testing becomes available.
 
 ---
 
-## 4. Testing Protocol
+## 4. Evidence Protocol
 
-Every review should document:
+### For Direct Testing [Tested]
+Document:
 - headset used
 - runtime used
 - CPU/GPU/RAM if relevant
@@ -70,17 +83,21 @@ Every review should document:
 - approximate test duration
 - what content was tested
 
-### Minimum viable testing expectation
-For a standard published review, the writer should directly verify:
-- installation path
-- basic launch success
-- representative gameplay segment(s)
-- core input behavior
-- comfort/locomotion impression
-- rough performance and stability behavior
-- major blockers or caveats
+### For Research Compilation [Verified]
+Document:
+- sources consulted (Steam reviews, Reddit, YouTube, Discord, official docs)
+- date range of sources
+- number of independent reports for key claims
+- conflicting claims found and how resolved
+- confidence level for each major assertion
 
-If a writer cannot do that, the piece should be labeled more cautiously or held back.
+### Minimum viable evidence expectation
+
+**Full Review:** Requires either direct testing OR substantial multi-source research with clear methodology disclosure. Single-source claims must be flagged.
+
+**Compatibility / Verdict Page:** Can rely on research compilation if sources are documented and contradictions are addressed.
+
+**When Evidence is Insufficient:** The piece should be labeled as "Preliminary Assessment" or held until better evidence is available.
 
 ---
 
