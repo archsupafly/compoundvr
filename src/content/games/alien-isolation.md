@@ -4,6 +4,7 @@ description: "The Horror They Promised, The Horror We Got: Sevastopol in VR. A d
 lastVerified: 2026-03-19
 featured: false
 routeType: Full VR Mod
+platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable
 setupBurden: Moderate Setup

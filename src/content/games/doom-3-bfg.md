@@ -4,6 +4,7 @@ description: "One of VR's earliest complete game conversions. Standing in a dark
 lastVerified: 2026-03-19
 featured: false
 routeType: Full VR Mod
+platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable
 setupBurden: Advanced Setup

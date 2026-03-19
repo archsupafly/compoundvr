@@ -4,6 +4,7 @@ description: "The first AAA racing simulation to take VR seriously. Historic for
 lastVerified: 2026-03-19
 featured: false
 routeType: Official Hybrid
+platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
 setupBurden: Advanced Setup

@@ -4,6 +4,7 @@ description: "One of VorpX's showcase titles. Geometry 3D support and DirectVR s
 lastVerified: 2026-03-19
 featured: false
 routeType: Injection Driver
+platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
 setupBurden: Moderate Setup

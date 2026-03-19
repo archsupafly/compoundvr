@@ -4,6 +4,7 @@ description: The Half-Life 2 VR Mod Is a Time Machine That Works. A complete, pl
 lastVerified: 2026-03-18
 featured: true
 routeType: Full VR Mod
+platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly

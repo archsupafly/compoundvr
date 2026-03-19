@@ -4,6 +4,7 @@ description: "One of VR's earliest official developer ports. A photorealistic my
 lastVerified: 2026-03-19
 featured: false
 routeType: Official Hybrid
+platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Beginner Friendly
