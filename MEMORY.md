@@ -146,3 +146,54 @@ When briefing Ian, specify which type we're covering:
 **Site:** https://compoundvr.com  
 **Repo:** github.com/archsupafly/compoundvr  
 **Deploy:** GitHub Pages (auto via Actions)
+
+---
+
+## Agent Workflow
+
+### Game Article End-to-End
+
+**Step 1: Ian Brief**
+- Create brief at `/editorial/briefs/[game-slug]-brief.md`
+- Brief contains: game context, route type, platforms, research focus, output path
+- NO editorial opinions in brief (facts and format only)
+- Spawn Ian to write first draft
+
+**Step 2: Richard Review**
+- Review Ian's first draft for:
+  - Evergreen language (no version numbers, specific hardware, community quotes)
+  - Tier accuracy (absolute ratings, not relative to category)
+  - YAML schema compliance
+  - Route type correctness
+- Give targeted editorial feedback to Ian for revision
+
+**Step 3: Maya Hero Image (SIMULTANEOUS)**
+- While Ian revises, spawn Maya with hero image instructions
+- Maya generates image directly via Google image skill
+- Use format: "Make me a media hero image for [game name], with the following features: [prompt]"
+- Maya's output is the final image file, ready to use
+
+**Step 4: Ian Final Draft**
+- Ian returns revised draft incorporating editorial feedback
+- Verify all changes applied correctly
+
+**Step 5: Richard Publishes**
+- Copy hero image from Maya output to `/site/public/images/games/[game-slug]-vr-hero.jpg`
+- Copy final draft to `/site/src/content/games/[game-slug].md`
+- Run `npm run build` to verify
+- Git commit and push
+
+**Parallel execution:** Steps 2 and 3 run simultaneously. Ian revises while Maya generates.
+
+### Article Types
+
+- **Game Page:** `/site/src/content/games/` — full review with tier rating
+- **Software/Tool Article:** `/site/src/content/articles/` — guide format, no tier rating
+
+### Key Files
+
+- Briefs: `/editorial/briefs/`
+- Drafts: `/editorial/drafts/`
+- Game Content: `/site/src/content/games/`
+- Article Content: `/site/src/content/articles/`
+- Hero Images: `/site/public/images/games/`
