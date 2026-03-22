@@ -151,7 +151,7 @@ When briefing Ian, specify which type we're covering:
 
 ## Agent Workflow
 
-### Game Article End-to-End
+### Game Article End-to-End Workflow
 
 **Step 1: Ian Brief**
 - Create brief at `/editorial/briefs/[game-slug]-brief.md`
@@ -159,31 +159,35 @@ When briefing Ian, specify which type we're covering:
 - NO editorial opinions in brief (facts and format only)
 - Spawn Ian to write first draft
 
-**Step 2: Richard Review**
-- Review Ian's first draft for:
-  - Evergreen language (no version numbers, specific hardware, community quotes)
-  - Tier accuracy (absolute ratings, not relative to category)
-  - YAML schema compliance
-  - Route type correctness
+**Step 2: Richard Reviews First Draft**
+- Wait for Ian's first draft to complete
+- Review for: evergreen language, tier accuracy, YAML schema compliance, route type correctness
 - Give targeted editorial feedback to Ian for revision
 
-**Step 3: Maya Hero Image (SIMULTANEOUS)**
-- While Ian revises, spawn Maya with hero image instructions
-- Maya generates image directly via Google image skill
-- Use format: "Make me a media hero image for [game name], with the following features: [prompt]"
-- Maya's output is the final image file, ready to use
+**Step 3: Maya Hero Image (AFTER Ian's first draft)**
+- Spawn Maya with hero image instructions AFTER Ian's first draft is complete
+- Use image generation skill (currently: need to verify which skill works)
+- Prompt should match CompoundVR brand colors and game aesthetic
+- Maya needs article context from Ian's draft to create appropriate image
 
 **Step 4: Ian Final Draft**
 - Ian returns revised draft incorporating editorial feedback
 - Verify all changes applied correctly
 
 **Step 5: Richard Publishes**
-- Copy hero image from Maya output to `/site/public/images/games/[game-slug]-vr-hero.jpg`
+- Copy hero image to `/site/public/images/games/[game-slug]-vr-hero.jpg`
 - Copy final draft to `/site/src/content/games/[game-slug].md`
 - Run `npm run build` to verify
 - Git commit and push
 
-**Parallel execution:** Steps 2 and 3 run simultaneously. Ian revises while Maya generates.
+**CRITICAL:** Steps 2 and 3 are SEQUENTIAL, not parallel. Maya needs Ian's article context. Ian writes first, then Maya generates image.
+
+### Image Generation Note
+
+Maya needs access to an image generation tool. Currently checking:
+- `openai-image-gen` skill requires `OPENAI_API_KEY` env var
+- `gemini` CLI needs to be installed
+- Verify which tool is available before spawning Maya
 
 ### Article Types
 
@@ -197,3 +201,14 @@ When briefing Ian, specify which type we're covering:
 - Game Content: `/site/src/content/games/`
 - Article Content: `/site/src/content/articles/`
 - Hero Images: `/site/public/images/games/`
+
+---
+
+## In Progress
+
+**Team Fortress 2 VR Article**
+- Brief created: `/editorial/briefs/team-fortress-2-vr-brief.md`
+- First draft complete: `/editorial/drafts/team-fortress-2-vr-feature-draft.md`
+- Editorial review done, route type fixed to `Multi-Route Coverage`
+- **BLOCKED:** Need image generation tool to work for Maya
+- **NEXT:** Verify image generation capability, generate hero image, publish
