@@ -3,12 +3,11 @@ import Layout from '../layouts/Layout.astro';
 import CardGrid from '../components/CardGrid.astro';
 import { getCollection } from 'astro:content';
 
-// Sort games by tier (S > A > B > C > D > F)
-const tierOrder = { 'S': 0, 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'F': 5 };
+// Sort games by last verified date (newest first) for freshness
 const allGames = (await getCollection('games')).sort((a, b) => {
-  const tierA = a.data.tier || 'B';
-  const tierB = b.data.tier || 'B';
-  return (tierOrder[tierA] ?? 5) - (tierOrder[tierB] ?? 5);
+  const dateA = a.data.lastVerified?.valueOf() || 0;
+  const dateB = b.data.lastVerified?.valueOf() || 0;
+  return dateB - dateA;
 });
 
 // Get all games for display (up to 16)
