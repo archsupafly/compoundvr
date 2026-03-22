@@ -26,7 +26,7 @@ experienceTags:
   - Multiplayer
   - Experimental
   - Community Content
-tier: B-
+tier: B
 verdict: "Garry's Mod's massive sandbox and endless workshop content become surprisingly playable in VR, but the mod requires patience, troubleshooting, and realistic expectations about stability and compatibility."
 ---
 
