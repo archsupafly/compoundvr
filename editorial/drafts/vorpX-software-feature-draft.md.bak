@@ -1,0 +1,354 @@
+# VorpX: The Honest Guide to VR Injection Drivers
+
+**Status:** Draft  
+**Type:** Software/Tool Feature  
+**Subject:** VorpX VR Injection Driver  
+**Last Verified:** 2026-03-22  
+
+---
+
+## The Short Answer
+
+VorpX is a $40 VR injection driver that lets you play flat (non-VR) PC games in stereoscopic 3D on your VR headset. It works. Sometimes it works well. But you need to understand what you're buying—and more importantly, what you're *not* buying.
+
+**What you get:** Stereoscopic 3D and head tracking for hundreds of flat games.  
+**What you don't get:** Motion controls, hand presence, VR-optimized interfaces, or a transformed experience.
+
+If you go in expecting native VR, you'll be disappointed. If you go in expecting a virtual 3D cinema for your existing game library—essentially Nvidia 3D Vision in a headset—you might find value.
+
+---
+
+## What Is an Injection Driver?
+
+VorpX belongs to a category of software called **VR injection drivers**. Understanding what these tools can and cannot do is essential before spending money.
+
+### How They Work
+
+Injection drivers intercept a game's rendering pipeline and force it to output stereoscopic images—one per eye—instead of a single flat frame. They also inject head tracking so you can look around naturally.
+
+The game still thinks it's running on a monitor. It doesn't know you're wearing a headset. It doesn't know you're trying to play in VR. It just sees "render this frame" and the injection driver says "render it twice, with slightly different perspectives."
+
+### What Injection Drivers CAN Provide
+
+- **Stereoscopic 3D:** True depth perception (in Geometry 3D mode) or simulated depth (Z-Buffer mode)
+- **Head tracking:** Look around by moving your head
+- **Virtual cinema:** A large floating screen in a virtual space for games that don't support 3D well
+- **Controller input mapping:** Use VR controllers as gamepads (not motion controls—just button mapping)
+- **Desktop viewing:** Browse the web or watch videos on a virtual screen
+
+### What Injection Drivers CANNOT Provide
+
+- **Motion controls:** The game doesn't know about your hands. You can't reach out and interact.
+- **Hand presence:** No virtual hands, no object manipulation, no physical gestures.
+- **VR-optimized UI:** Menus, HUDs, and text remain designed for monitors. They float awkwardly in VR, often unreadable at default sizes.
+- **Comfort features:** No teleport options, no vignette during movement, no snap-turn defaults. The game's locomotion is what you get.
+- **A rebuilt experience:** This isn't a native VR port. It isn't even a community mod. It's a window into a flat game.
+
+If a game has a native VR version or a community mod with motion controls, that route will almost always provide a better experience than VorpX. VorpX is for games that have *no other VR path*.
+
+---
+
+## VorpX Pricing and Availability
+
+**Price:** Approximately $40 USD (one-time purchase)
+
+**Availability:** Direct from vorpx.com via Lemonsqueezy checkout. Not on Steam. Not on any other platform.
+
+**Licensing:** One-time purchase. Free updates for the life of the product. No subscription.
+
+**Refund policy:** VorpX has historically had limited or no refund options. This is important: if it doesn't work with your setup or your games, you may not get your money back. The forums are full of people who couldn't get specific games running.
+
+---
+
+## Geometry 3D vs Z-Buffer 3D
+
+VorpX offers two methods for creating stereoscopic 3D. Understanding the difference is critical to managing expectations.
+
+### Geometry 3D (G3D): The Real Deal
+
+Geometry 3D renders the scene twice—once for each eye—creating true stereoscopic images with proper depth and volume. Objects have real spatial presence. You can judge distances naturally. This is the gold standard for injection drivers.
+
+**Advantages:**
+- Genuine depth perception
+- Positional tracking works properly
+- Objects have volume and occupy real space
+- Best possible injection driver experience
+
+**Disadvantages:**
+- Roughly 50% performance hit (rendering everything twice)
+- Not available for all games
+- May require manual tweaks for shadows, lighting effects
+- Some games simply don't support it
+
+**Games with G3D support:** The official list includes around 250 titles. Popular G3D games include Dishonored, Skyrim, Fallout 4, Cyberpunk 2077, Portal, Half-Life 2, and many others.
+
+### Z-Buffer 3D (Z3D): The Compromise
+
+Z-Buffer 3D takes a single rendered frame and uses depth information to simulate stereoscopic separation. Think of it like those 3D movies that were converted in post-production rather than filmed with 3D cameras.
+
+**Advantages:**
+- Works with almost any game
+- Significantly better performance (no double rendering)
+- Fewer visual glitches with shadows and effects
+
+**Disadvantages:**
+- Simulated depth, not real stereo
+- Objects can feel flat, like cardboard cutouts
+- "Pop-up book" effect—looking *at* a scene rather than being *in* it
+- No true positional tracking
+- Noticeable artifacts around objects (transparent halos, edge issues)
+
+**Community consensus:** Z3D works well for third-person games where you're looking at a scene from a distance. For first-person games, G3D is dramatically better when available.
+
+---
+
+## DirectVR: The Auto-Configuration Layer
+
+DirectVR is VorpX's suite of automatic optimization features. For supported games, it handles:
+
+- **FOV adjustment:** Sets the field of view to match your headset
+- **Camera height:** Positions your virtual head at the right height
+- **Resolution scaling:** Chooses optimal rendering resolution
+- **Head tracking calibration:** Maps in-game camera to head movement
+
+**How many games support DirectVR?** VorpX claims over 150 games have at least one DirectVR feature. This is genuinely useful—it reduces setup friction significantly compared to older injection drivers that required manual INI editing for every game.
+
+**Does it work?** For officially supported games, yes. The DirectVR scan runs when you first launch a game, and most of the time it gets things right. For unsupported games or newer titles, you're back to manual tweaking.
+
+---
+
+## Setup Friction: What to Expect
+
+VorpX is not plug-and-play. The degree of friction depends on what you're trying to play.
+
+### Best Case: Officially Supported Game with DirectVR
+
+1. Install VorpX
+2. Launch your VR runtime (SteamVR, Oculus, etc.)
+3. Launch the game
+4. VorpX attaches automatically
+5. Run DirectVR scan
+6. Play
+
+This takes 5-10 minutes for a supported game. Dishonored, Skyrim, and Fallout 4 fall into this category.
+
+### Typical Case: Supported Game, Manual Tweaks Required
+
+1-2 hours of setup. You'll likely need to:
+- Adjust FOV manually
+- Tweak image zoom and scale
+- Disable certain graphics settings (shadows, ambient occlusion)
+- Configure head tracking sensitivity
+- Find community profiles for optimal settings
+
+### Worst Case: Unsupported Game
+
+No guarantee it works at all. VorpX may attach but fail to provide 3D. You might get Z3D but not G3D. You might get a virtual cinema mode but no stereoscopic 3D. You might spend hours troubleshooting only to discover the game is fundamentally incompatible.
+
+The forums contain many posts from users who couldn't get specific games running. This is the reality of injection drivers: they're hacking games that were never designed for this.
+
+---
+
+## Performance Impact
+
+G3D mode roughly halves your framerate. You're rendering everything twice. For older games (Dishonored, Skyrim, Portal), this is manageable on mid-range hardware. For modern titles, G3D can make games unplayable.
+
+**Example performance reality:**
+- Game runs at 90 FPS flat? Expect 45 FPS in G3D mode.
+- Game runs at 60 FPS flat? Expect 30 FPS in G3D mode—not enough for comfortable VR.
+
+Z3D mode has minimal performance impact. If G3D destroys your framerate, Z3D is the fallback. But Z3D provides a fundamentally lesser experience.
+
+**Hardware recommendations:**
+- Modern mid-range GPU (RTX 3070 or better) for older games in G3D
+- High-end GPU (RTX 4080/4090) for modern titles in G3D
+- Any VR-capable GPU for Z3D mode on older titles
+
+---
+
+## The Games That Work Well
+
+Based on community feedback and official support, certain games are consistently cited as good VorpX experiences:
+
+**First-Person Games (G3D supported):**
+- Dishonored / Dishonored 2
+- The Elder Scrolls V: Skyrim / Skyrim Special Edition
+- Fallout 4 / Fallout 76
+- Half-Life 2 series
+- Portal / Portal 2
+- Cyberpunk 2077
+- Alien: Isolation
+- Deus Ex: Human Revolution / Mankind Divided
+- Bioshock series
+- Prey (2017)
+
+**Third-Person Games (Z3D often sufficient):**
+- The Witcher 3
+- Batman: Arkham series
+- Dark Souls series
+- Assassin's Creed series
+- Tomb Raider series
+
+**Important caveat:** "Works well" means "good for an injection driver." None of these compare to native VR or community mods with motion controls. But if you want to see these worlds in 3D and you have no other VR option, VorpX can deliver.
+
+---
+
+## Community Consensus: The Mixed Reception
+
+VorpX has been around since 2013. The community response is deeply divided.
+
+### The Fans Say:
+
+- "I've played hundreds of hours in VorpX. For games that have no VR mod, it's the only option."
+- "Dishonored in G3D is genuinely impressive. Seeing Dunwall in stereoscopic 3D changes the experience."
+- "If you treat it like playing on a giant 3D TV, it's worth the money."
+- "The Cyberpunk 2077 support is excellent—night city in VR is something else."
+
+### The Critics Say:
+
+- "Never managed to make it work properly. Waste of money."
+- "$40 for something that should be free. UEVR does more for nothing."
+- "No refund policy is a red flag. If your game doesn't work, you're out $40."
+- "Injection drivers are a compromise. You're not getting 'VR,' you're getting stereoscopic 3D and head tracking. That's it."
+
+### The Realistic Take:
+
+VorpX is neither a scam nor a miracle. It's a niche tool for a specific use case: playing flat games in stereoscopic 3D when no native VR or mod option exists. For that use case, it works—sometimes well, sometimes poorly, depending on the game and your tolerance for tweaking.
+
+The $40 price is controversial. UEVR (Universal Unreal Engine VR Mod) is free and provides actual motion controls and VR-native features for Unreal Engine games. But UEVR only works with Unreal Engine titles. VorpX works with a broader range of games, especially older DirectX 9-11 titles that UEVR can't touch.
+
+---
+
+## Alternatives to VorpX
+
+### UEVR (Universal Unreal Engine VR Mod)
+
+**Price:** Free  
+**What it does:** Injects full VR support (motion controls, 6DOF, VR UI) into Unreal Engine 4/5 games  
+**Best for:** Modern Unreal Engine games (Stranded Deep, various indie titles)  
+**Limitation:** Only works with Unreal Engine games
+
+UEVR provides actual VR—motion controls, room-scale, the works—for free. If your target game uses Unreal Engine, UEVR is objectively better than VorpX. But it can't help you with games on other engines.
+
+### HelixVision
+
+**Price:** ~$10 (Steam)  
+**What it does:** Uses Nvidia 3D Vision technology for stereoscopic 3D  
+**Best for:** Nvidia GPU owners running older games  
+**Limitation:** Requires outdated Nvidia drivers; doesn't work with modern GPU drivers
+
+HelixVision is essentially a continuation of Nvidia's discontinued 3D Vision technology. It provides excellent stereoscopic 3D for games that support 3D Vision profiles, but the driver requirement makes it impractical for most users today.
+
+### Geo3D / SuperDepth3D (ReShade addons)
+
+**Price:** Free  
+**What it does:** Adds stereoscopic 3D via ReShade shaders  
+**Best for:** Tinkerers willing to configure everything manually  
+**Limitation:** No head tracking; requires significant setup
+
+These are free options that provide stereoscopic 3D without head tracking. They're more limited than VorpX but cost nothing.
+
+### Native VR / Community Mods
+
+**Always check first:** Before buying VorpX, check whether your target game has:
+- Native VR support (official)
+- A community VR mod with motion controls
+- UEVR support (if Unreal Engine)
+
+All of these will provide a better VR experience than VorpX. VorpX should be your last resort, not your first option.
+
+---
+
+## Who Should Buy VorpX?
+
+### Buy If:
+
+- **You have a library of older flat games you want to revisit in 3D**
+  - Skyrim, Fallout, Dishonored, Bioshock—these have good G3D support
+- **Your target games have no native VR or community mod option**
+  - Check Flat2VR Discord, Nexus Mods, and UEVR compatibility lists first
+- **You understand this is stereoscopic 3D, not native VR**
+  - You're getting depth perception and head tracking, not motion controls
+- **You're comfortable tweaking settings**
+  - Expect some configuration time, not plug-and-play
+- **You have a capable GPU**
+  - G3D cuts framerates in half; you need headroom
+- **You have a PCVR headset**
+  - Quest via AirLink/Link works, but VorpX is designed for PCVR
+- **You want a virtual 3D cinema for games that don't support G3D**
+  - Cinema mode works for almost any game
+
+### Skip If:
+
+- **You want motion controls or hand presence**
+  - VorpX cannot provide this. It's not native VR.
+- **You expect plug-and-play**
+  - Setup friction is real. Some games require significant tweaking.
+- **Your target game has a native VR version or community mod**
+  - That route will always be better than injection.
+- **You only want to play one specific game**
+  - $40 for a single game is poor value unless you're certain it works well
+- **You're sensitive to motion sickness**
+  - Injection drivers lack comfort features. No teleport, no vignette, no VR-optimized movement.
+- **You have a Quest without a PC**
+  - VorpX requires a PC. There's no standalone Quest version.
+- **You want a refund if it doesn't work**
+  - Refund options are limited to non-existent.
+
+---
+
+## The Honest Verdict
+
+VorpX is a niche tool that does what it claims: it lets you play flat games in stereoscopic 3D with head tracking on your VR headset. It works well for some games, poorly for others, and not at all for some.
+
+The question isn't "Is VorpX good?" The question is "Do you understand what you're buying?"
+
+**You're not buying VR versions of your games.** You're buying a stereoscopic 3D viewer with head tracking. The game remains a flat game. You're just viewing it through a different lens.
+
+**You're not buying a seamless experience.** You're buying a tool that requires configuration, tolerates jank, and works better on some games than others.
+
+**You're not buying future-proofing.** VorpX may not work with games released tomorrow, or with your next GPU, or with future VR runtimes. It's maintained by a single developer, and compatibility is an ongoing cat-and-mouse game with game updates and driver changes.
+
+### Value Assessment
+
+If you have a substantial library of older flat games and you want to experience them in 3D, VorpX can provide dozens or hundreds of hours of entertainment. The $40 one-time purchase is reasonable if you'll use it across many games.
+
+If you're buying VorpX for one specific game, especially a modern title, the value proposition is weak. You might spend $40 only to discover the game doesn't run well in G3D, has visual artifacts, or requires hours of troubleshooting.
+
+If you're expecting native VR, you're looking at the wrong product. This is an injection driver. It provides depth and head tracking, not a transformed experience.
+
+---
+
+## Technical Summary
+
+| Aspect | Details |
+|--------|---------|
+| **Price** | ~$40 USD one-time |
+| **Supported Games** | 250+ official profiles (G3D), many more work with Z3D or cinema mode |
+| **Render Modes** | Geometry 3D (true stereo), Z-Buffer 3D (depth-based), Cinema (virtual screen) |
+| **Head Tracking** | Yes, all modes |
+| **Motion Controls** | No (controller mapping only) |
+| **VR Runtimes** | SteamVR, Oculus, OpenXR |
+| **Headsets** | PCVR headsets (Quest via AirLink/Link works) |
+| **DirectVR** | Auto-configuration for 150+ games |
+| **Performance Impact** | ~50% framerate reduction in G3D, minimal in Z3D |
+| **Refund Policy** | Limited/non-existent |
+
+---
+
+## Final Recommendation
+
+VorpX fills a legitimate niche. For games that have no other VR path—older titles, non-Unreal engines, games unlikely to receive community mods—it provides a way to experience them in stereoscopic 3D. The technology works. For supported games with G3D, the depth and immersion can be genuinely impressive.
+
+But it's not native VR. It's not motion controls. It's not comfort options or VR-optimized interfaces. It's a window into a flat game, not a transformation of that game.
+
+**Buy VorpX if:** You have a library of older games you want to revisit in 3D, you understand the limitations, and you're willing to tinker.
+
+**Skip VorpX if:** You want motion controls, you expect plug-and-play, your target game has a native VR option, or you're hoping for a refund if it doesn't work.
+
+The $40 is fair for what VorpX provides—if you'll use it. For a single game, check community forums first to confirm compatibility and user experiences. For a library of games with no other VR path, VorpX can deliver value that compounds across dozens of titles.
+
+---
+
+*Article by Ian  
+For the Flat-to-VR Mod Project*
