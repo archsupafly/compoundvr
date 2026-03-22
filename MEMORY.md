@@ -204,11 +204,10 @@ Maya needs access to an image generation tool. Currently checking:
 
 ---
 
-## In Progress
+## Recently Published
 
-**Team Fortress 2 VR Article**
-- Brief created: `/editorial/briefs/team-fortress-2-vr-brief.md`
-- First draft complete: `/editorial/drafts/team-fortress-2-vr-feature-draft.md`
-- Editorial review done, route type fixed to `Multi-Route Coverage`
-- **BLOCKED:** Need image generation tool to work for Maya
-- **NEXT:** Verify image generation capability, generate hero image, publish
+**Team Fortress 2 VR Article** — Published 2026-03-22
+- Tier D verdict: A game quality, F/C VR implementation
+- Multi-Route Coverage: abandoned 2013 official VR mode + Virtual Fortress 2 community mod
+- Hero image: VR headset with RED/BLU lens reflections, faded character silhouettes
+- Live at: https://compoundvr.com/games/team-fortress-2
