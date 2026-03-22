@@ -184,10 +184,22 @@ When briefing Ian, specify which type we're covering:
 
 ### Image Generation Note
 
-Maya needs access to an image generation tool. Currently checking:
-- `openai-image-gen` skill requires `OPENAI_API_KEY` env var
-- `gemini` CLI needs to be installed
-- Verify which tool is available before spawning Maya
+Maya uses `gemini-image-simple` skill for hero image generation.
+
+**Correct spawn format:**
+```
+Generate a hero image for the game [GAME NAME].
+
+Use gemini-image-simple. Reference the CompoundVR brand guide at /design/compoundvr-brand-direction-v1.md for visual direction.
+
+Save to: [full path]
+
+Return the file path when done.
+```
+
+**Model:** `ollama/kimi-k2.5:cloud`
+
+**Critical:** Do NOT include narrative context or visual direction. Maya reads the brand guide and crafts the prompt herself.
 
 ### Article Types
 
