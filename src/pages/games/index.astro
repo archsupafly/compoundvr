@@ -23,7 +23,12 @@ const games = (await getCollection('games')).sort((a, b) => {
       href: `/games/${game.id}/`,
       title: game.data.title,
       description: game.data.verdict,
-      meta: `${game.data.recommendation} · Tier ${game.data.tier || 'B'}`,
-    }))} />
+      heroImage: game.data.heroImage,
+      tier: game.data.tier,
+      routeType: game.data.routeType,
+      platforms: game.data.platforms,
+      recommendation: game.data.recommendation,
+      setupBurden: game.data.setupBurden,
+    }))} columns={3} />
   </section>
 </Layout>
