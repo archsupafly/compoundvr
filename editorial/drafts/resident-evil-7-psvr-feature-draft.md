@@ -50,10 +50,11 @@ The game was designed with VR in mind from the beginning. First-person perspecti
 Resident Evil 7 has multiple VR paths:
 
 - **PSVR (PS4):** The version covered here — official, complete, gamepad-only, the original 2017 release
-- **PSVR2 (PS5):** A separate release with enhanced visuals, headset haptics, and DualSense features — not covered in this article
 - **PCVR (PC):** A community-created mod requiring significant setup — not official support, deserves its own coverage
 
 Each version has distinct hardware requirements and capabilities. This article focuses exclusively on the original PSVR release.
+
+**Note:** Resident Evil Village (RE8) has PSVR2 support — that's a different game, not covered here.
 
 ## How It Plays
 
@@ -121,7 +122,7 @@ As an official release, this is stable. Capcom's implementation doesn't crash, d
 
 **PSVR hardware limitations.** The original PSVR has lower resolution than modern headsets, limited tracking compared to inside-out systems, and requires camera setup. These are hardware constraints, not game failures, but they affect the experience.
 
-**PS4 hardware required.** This runs on PS4, not PS5-native. You can play it on PS5 via backwards compatibility, but it's the PS4 version. Enhanced versions for newer hardware exist as separate products.
+**PS4 hardware required.** This runs on PS4. You can play it on PS5 via backwards compatibility, but it's the PS4 version. If you're looking for a PSVR2 horror experience, that's Resident Evil Village (RE8) — a different game entirely.
 
 ## Who This Is For
 
