@@ -24,7 +24,7 @@ const games = defineCollection({
     description: z.string(),
     lastVerified: z.coerce.date(),
     featured: z.boolean().default(false),
-    routeType: z.enum(['Official Hybrid', 'Official Standalone VR Version', 'Full VR Mod', 'Framework-Based', 'Injection Driver', 'Multi-Route Coverage', '3dSen VR']),
+    routeType: z.enum(['Official Hybrid', 'Official Standalone VR Version', 'Full VR Mod', 'Framework-Based', 'Injection Driver', 'Multi-Route Coverage', 'Emulator']),
     recommendation: z.enum([
       'Recommended',
       'Recommended with Caveats',
