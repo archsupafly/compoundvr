@@ -1,7 +1,7 @@
 ---
 title: "Doom VR (1993)"
 description: "The game that invented the FPS genre, now playable in VR through community source ports. QuestZDoom for standalone, gzdoom-VR for PCVR. Complete game support, full mod compatibility, competent motion controls. Requires setup effort but delivers a content-rich classic experience."
-lastVerified: 2026-03-22
+lastVerified: 2026-03-22T21:08:00
 featured: false
 routeType: Framework-Based
 platforms: ['Quest', 'PCVR']

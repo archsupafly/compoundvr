@@ -1,7 +1,7 @@
 ---
 title: "Elite Dangerous VR"
 description: "The gold standard for cockpit VR — one of the most convincing presence experiences in gaming. But no motion controllers, demanding performance, and Odyssey on-foot content displays as a flat screen inside your headset."
-lastVerified: 2026-03-22
+lastVerified: 2026-03-22T17:50:00
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']
