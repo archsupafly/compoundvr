@@ -1,7 +1,7 @@
 ---
 title: "Thumper VR"
 description: "A unique rhythm violence experience that becomes transcendent in VR — seamless implementation of a simple but intense game."
-lastVerified: 2026-03-22
+lastVerified: 2026-03-22T01:30:00
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest']
