@@ -1,6 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import CardGrid from '../../components/CardGrid.astro';
+import ArticleGrid from '../../components/ArticleGrid.astro';
 import { getCollection } from 'astro:content';
 
 const articles = (await getCollection('articles'))
@@ -15,10 +15,11 @@ const articles = (await getCollection('articles'))
     <p class="lead">Articles are where CompoundVR explains methodology, covers meaningful updates, and publishes guides and comparisons.</p>
   </section>
   <section class="section container">
-    <CardGrid items={articles.map((article) => ({
+    <ArticleGrid items={articles.map((article) => ({
       href: `/articles/${article.id}/`,
       title: article.data.title,
       description: article.data.description,
+      heroImage: article.data.heroImage,
       meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
     }))} />
   </section>

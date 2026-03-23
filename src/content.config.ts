@@ -13,6 +13,7 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     category: z.enum(['news', 'guide', 'comparison', 'opinion']).default('guide'),
     featured: z.boolean().default(false),
+    heroImage: z.string().optional(),
   }),
 });
 
