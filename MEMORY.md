@@ -201,6 +201,13 @@ Return the file path when done.
 
 **Critical:** Do NOT include narrative context or visual direction. Maya reads the brand guide and crafts the prompt herself.
 
+**Hero Image Output Requirements:**
+- Format: JPG (NOT PNG)
+- Aspect ratio: 16:9 (cinematic wide)
+- Dimensions: 1280x720 minimum
+- File size: 100-300KB web-optimized
+- Always include these constraints in prompts
+
 ### Article Types
 
 - **Game Page:** `/site/src/content/games/` — full review with tier rating
