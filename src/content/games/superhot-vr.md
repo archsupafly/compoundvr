@@ -1,7 +1,7 @@
 ---
 title: "SUPERHOT VR"
 description: "One of the best arguments for VR as a medium. Time moves only when you move — each level is a choreographed action puzzle where you physically dodge bullets and catch weapons mid-air. Short campaign, but polished and genuinely unique."
-lastVerified: 2026-03
+lastVerified: 2026-03-22
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Quest', 'PSVR']
