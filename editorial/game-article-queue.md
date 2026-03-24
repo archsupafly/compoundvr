@@ -2,7 +2,7 @@
 
 Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
 
-**Published Games:** alien-isolation, battlezone, dead-space, dishonored, doom, doom-3-bfg, driveclub, duck-hunt, elite-dangerous, ethan-carter, euro-truck-simulator-2, eve-valkyrie, fear, garrys-mod, half-life, half-life-2, project-cars, resident-evil-7, rez-infinite, superhot-vr, team-fortress-2, thumper, tie-fighter, 3dsen-vr
+**Published Games:** alien-isolation, batman-arkham-vr, battlezone, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, driveclub, duck-hunt, elite-dangerous, ethan-carter, euro-truck-simulator-2, eve-gunjack, eve-valkyrie, fear, garrys-mod, half-life, half-life-2, pac-man, pixel-ripped-1989, portal, project-cars, resident-evil-7, rez-infinite, super-mario-bros, superhot-vr, team-fortress-2, thumper, tie-fighter, 3dsen-vr
 
 ---
 
@@ -51,7 +51,7 @@ All games below are playable in VR via **3dSen VR** (real-time 2D-to-3D voxel tr
 
 | Game | Year | VR Type | Priority |
 |------|------|---------|----------|
-| Pac-Man | 1980 | 3dSen VR | Research |
+| Pac-Man | 1980 | 3dSen VR / EmuVR | ✅ DONE |
 | Donkey Kong | 1981 | 3dSen VR | Research |
 | Donkey Kong Jr. | 1982 | 3dSen VR | Research |
 | Popeye | 1982 | 3dSen VR | Research |
@@ -235,7 +235,6 @@ All games below are playable in VR via **Sega Genesis Classics** — official Se
 ### 2005
 | Game | Year | VR Type | Priority |
 |------|------|---------|----------|
-| F.E.A.R. | 2005 | Mod (VorpX) | High |
 | Need for Speed Most Wanted | 2005 | Mod (VorpX) | Research |
 | Call of Duty 2 | 2005 | Mod (VorpX) | Research |
 

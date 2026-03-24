@@ -207,6 +207,12 @@ Return the file path when done.
 - Dimensions: 1280x720 minimum
 - File size: 100-300KB web-optimized
 - Always include these constraints in prompts
+- **Site container:** 400px height (desktop), 250px (mobile) with `object-fit: cover`
+
+**Retro Game Aesthetic:**
+- For older games (1990s, early 2000s), add "retro/older game aesthetic" to prompt
+- Avoid modern glossy/photorealistic style
+- Emphasize period-appropriate visual style (low-poly, pixel art, dated textures)
 
 ### Article Types
 

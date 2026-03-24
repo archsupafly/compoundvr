@@ -63,9 +63,9 @@ Master list of VR software, tools, and emulator candidates for CompoundVR covera
 | **VorpX** | Injection Driver | ✅ DONE | Commercial injection driver. Already published. |
 | **Vireio Perception** | Injection Driver Framework | High | Free, open source. Predates VorpX. DK1 era. Historical significance. |
 | **UEVR** | Unreal Engine VR Injector | High | Praydog's UEVR. Enables VR for Unreal Engine 4/5 games. Major community tool. |
+| **UUVR** | Unity VR Injector | High | Raicuparta's Universal VR mod for Unity games. Newer alternative to VRGIN. Active development since July 2024. Integrated with Rai Pal. |
 | **REFramework** | RE Engine VR | High | Praydog's REFramework with VR support. Enables VR for RE Engine games (RE2, RE3, RE7, RE8, DMC5, etc.). |
 | **Luke Ross R.E.A.L. VR** | Injection Driver | High | Patreon-supported injection driver. GTA V, RDR2, Cyberpunk, Witcher 3, Elden Ring. |
-| **VRGIN** | Unity VR Injection Framework | High | Open-source VR injection framework for Unity games. Works best with Unity 5.x (5.0-5.6). Created by Eusth. Enables VR for flat Unity games. Requires DLL injection via IPA or similar. |
 | **VRGIN** | Unity VR Injection Framework | High | Open-source VR injection framework for Unity games. Works best with Unity 5.x (5.0-5.6). Created by Eusth. Enables VR for flat Unity games. Requires DLL injection via IPA or similar. |
 
 ---
@@ -95,22 +95,23 @@ Master list of VR software, tools, and emulator candidates for CompoundVR covera
 Software articles sorted by priority for coverage:
 
 1. **UEVR** — Major community tool enabling VR for Unreal Engine games. Praydog's work. High impact.
-2. **REFramework VR** — Praydog's RE Engine VR support. RE2/RE3/RE7/RE8/DMC5. Major for horror gaming.
-3. **Citra VR** — 3DS in VR. Stereoscopic 3D games become genuinely 3D. Active development.
-4. **Dolphin VR** — GameCube/Wii in VR. Wii motion controls translate well. Long history.
-5. **PPSSPP VR** — PSP in VR. Active development, portable games on big screen.
-6. **Luke Ross R.E.A.L. VR** — GTA V, RDR2, Cyberpunk, Witcher 3, Elden Ring. High-profile games.
-7. **Vireio Perception** — Historical significance. First VR injection driver. Free/open source.
-8. **EmuVR** — VR emulator frontend. Virtual room with retro consoles/TVs. Multi-emulator environment.
-9. **3dSen VR** — Unique NES emulator. Transforms 2D games into 3D voxel dioramas. $24.99 on Steam. v1.0 June 2025.
-10. **VRGIN** — Unity VR injection framework. Works with Unity 5.x games. Firewatch, Dear Esther, Ghost of a Tale, Layers of Fear, DARQ confirmed working.
-11. **PCSX2 VR** — PS2 in VR. Need to verify current status.
-12. **OpenComposite** — Performance tool, converts OpenVR to OpenXR.
-13. **3DSenVR** — 3DS emulator with VR support. Stereoscopic 3D games in VR.
-14. **melonDS VR** — DS in VR, dual-screen setup possibilities.
-15. **DuckStation VR** — PS1 in VR.
-16. **Sega Genesis Classics** — Official Sega collection with VR bedroom hub. 50+ Genesis games. Delisted December 2024.
-17. **RetroArch VR** — Multi-system frontend, identify VR-capable cores.
+2. **UUVR** — Raicuparta's Universal VR mod for Unity games. Newer alternative to VRGIN. Active development since July 2024. Integrated with Rai Pal.
+3. **REFramework VR** — Praydog's RE Engine VR support. RE2/RE3/RE7/RE8/DMC5. Major for horror gaming.
+4. **Citra VR** — 3DS in VR. Stereoscopic 3D games become genuinely 3D. Active development.
+5. **Dolphin VR** — GameCube/Wii in VR. Wii motion controls translate well. Long history.
+6. **PPSSPP VR** — PSP in VR. Active development, portable games on big screen.
+7. **Luke Ross R.E.A.L. VR** — GTA V, RDR2, Cyberpunk, Witcher 3, Elden Ring. High-profile games.
+8. **Vireio Perception** — Historical significance. First VR injection driver. Free/open source.
+9. **EmuVR** — VR emulator frontend. Virtual room with retro consoles/TVs. Multi-emulator environment.
+10. **3dSen VR** — Unique NES emulator. Transforms 2D games into 3D voxel dioramas. $24.99 on Steam. v1.0 June 2025.
+11. **VRGIN** — Unity VR injection framework. Works with Unity 5.x games. Firewatch, Dear Esther, Ghost of a Tale, Layers of Fear, DARQ confirmed working.
+12. **PCSX2 VR** — PS2 in VR. Need to verify current status.
+13. **OpenComposite** — Performance tool, converts OpenVR to OpenXR.
+14. **3DSenVR** — 3DS emulator with VR support. Stereoscopic 3D games in VR.
+15. **melonDS VR** — DS in VR, dual-screen setup possibilities.
+16. **DuckStation VR** — PS1 in VR.
+17. **Sega Genesis Classics** — Official Sega collection with VR bedroom hub. 50+ Genesis games. Delisted December 2024.
+18. **RetroArch VR** — Multi-system frontend, identify VR-capable cores.
 
 ---
 
