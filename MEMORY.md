@@ -84,6 +84,7 @@
 
 ### Content Rules
 - **Evergreen focus** — don't prompt specific version numbers in briefs; let Ian research current state
+- **No route type in briefs** — Ian researches and discovers whether it's injection driver, mod, official hybrid, etc. Never give him the answer
 - **No "tested vs community" labeling** — Ian is an AI, he hasn't tested anything
 - **No community quotes** — looks amateurish
 - **Developer quotes only** — and only if super relevant, must be cited

@@ -45,7 +45,7 @@ Master list of VR software, tools, and emulator candidates for CompoundVR covera
 
 | Software | Platform | VR Support | Priority | Notes |
 |----------|----------|-----------|----------|-------|
-| **Sega Genesis Classics** | Genesis/Mega Drive | Official VR Hub | High | Official Sega collection with VR bedroom hub. 50+ Genesis games playable in virtual 90s bedroom. Steam VR support added 2018. Delisted December 2024. |
+| **Sega Genesis Classics** | Genesis/Mega Drive | Official VR Hub | ✅ DONE | Official Sega collection with VR bedroom hub. 50+ Genesis games playable in virtual 90s bedroom. Steam VR support added 2018. Delisted December 2024. |
 
 ### Multi-System
 

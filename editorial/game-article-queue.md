@@ -186,7 +186,7 @@ All games below are playable in VR via **Sega Genesis Classics** — official Se
 |------|------|---------|----------|
 | Half-Life | 1998 | Mod (Lambda1VR) | ✅ DONE |
 | Thief Gold | 1998 | Mod (VorpX) | Research |
-| Star Wars Jedi Knight II: Jedi Outcast | 1998 | Mod (QuestJKXR) | Research |
+| Star Wars Jedi Knight II: Jedi Outcast | 2002 | Mod (QuestJKXR) | ✅ DONE |
 
 ### 1999
 | Game | Year | VR Type | Priority |
