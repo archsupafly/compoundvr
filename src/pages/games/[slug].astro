@@ -11,7 +11,7 @@ const { game } = Astro.props;
 const { Content } = await render(game);
 
 // Determine tier class
-const tier = game.data.tier || 'B'; // default to B if not set
+const tier = game.data.tier || 'B';
 let tierClass = 'tier tier--large';
 if (tier === 'S') tierClass = 'tier tier--large tier--s';
 else if (tier === 'A') tierClass = 'tier tier--large tier--a';
@@ -19,6 +19,11 @@ else if (tier === 'B') tierClass = 'tier tier--large tier--b';
 else if (tier === 'C') tierClass = 'tier tier--large tier--c';
 else if (tier === 'D') tierClass = 'tier tier--large tier--d';
 else tierClass = 'tier tier--large tier--f';
+
+// Format date as "Month DD, YYYY"
+function formatDate(date: Date): string {
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
 ---
 
 <Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
@@ -37,26 +42,18 @@ else tierClass = 'tier tier--large tier--f';
       {game.data.flatReleaseDate && (
         <div class="stat">
           <div class="stat-label">Original Release</div>
-          <div class="stat-value">{game.data.flatReleaseDate.toISOString().slice(0, 10)}</div>
+          <div class="stat-value">{formatDate(game.data.flatReleaseDate)}</div>
         </div>
       )}
       {game.data.vrReleaseDate && (
         <div class="stat">
           <div class="stat-label">VR Release</div>
-          <div class="stat-value">{game.data.vrReleaseDate.toISOString().slice(0, 10)}</div>
+          <div class="stat-value">{formatDate(game.data.vrReleaseDate)}</div>
         </div>
       )}
       <div class="stat">
-        <div class="stat-label">Recommendation</div>
-        <div class="stat-value">{game.data.recommendation}</div>
-      </div>
-      <div class="stat">
         <div class="stat-label">Platforms</div>
         <div class="stat-value">{game.data.platforms.join(', ')}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Playability</div>
-        <div class="stat-value">{game.data.playability}</div>
       </div>
       <div class="stat">
         <div class="stat-label">Setup</div>
@@ -73,10 +70,6 @@ else tierClass = 'tier tier--large tier--f';
       <div class="stat">
         <div class="stat-label">Performance</div>
         <div class="stat-value">{game.data.performance}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Support</div>
-        <div class="stat-value">{game.data.supportStatus}</div>
       </div>
       <div class="stat stat-tier">
         <div class="stat-label">Tier</div>
