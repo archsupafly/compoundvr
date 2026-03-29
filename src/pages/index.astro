@@ -1,0 +1,78 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CardGrid from '../components/CardGrid.astro';
+import { getCollection } from 'astro:content';
+
+// Sort games by last verified date (newest first) for freshness
+const allGames = (await getCollection('games')).sort((a, b) => {
+  const dateA = a.data.lastVerified?.valueOf() || 0;
+  const dateB = b.data.lastVerified?.valueOf() || 0;
+  return dateB - dateA;
+});
+
+// Get all games for display (up to 16)
+const displayGames = allGames.slice(0, 16);
+
+// Get articles
+const articles = (await getCollection('articles')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const featuredArticles = articles.filter((a) => a.data.featured).slice(0, 3);
+---
+
+<Layout title="CompoundVR — Flat-to-VR intelligence" description="CompoundVR catalogs, reviews, and evaluates flat-to-VR games and mods.">
+  <section class="hero container">
+    <div class="eyebrow">Authority site for flat-to-VR players</div>
+    <h1>Find the best path to play flat games in VR.</h1>
+    <p class="lead">
+      CompoundVR is a decision database with editorial judgment layered on top — canonical game pages,
+      setup reality checks, and trustworthy verdicts on whether a VR route is actually worth your time.
+    </p>
+    <div style="margin-top:1rem;">
+      <span class="pill">Canonical game pages</span>
+      <span class="pill">Setup + performance guidance</span>
+      <span class="pill">Editor-run publishing workflow</span>
+    </div>
+  </section>
+
+  <section class="section container">
+    <h2>All VR Routes</h2>
+    <CardGrid items={displayGames.map((game) => ({
+      href: `/games/${game.id}/`,
+      title: game.data.title,
+      description: game.data.verdict,
+      heroImage: game.data.heroImage,
+      tier: game.data.tier,
+      routeType: game.data.routeType,
+      platforms: game.data.platforms,
+      recommendation: game.data.recommendation,
+      setupBurden: game.data.setupBurden,
+    }))} columns={3} />
+  </section>
+
+  <section class="section container">
+    <h2>Editorial system</h2>
+    <div class="grid two">
+      <div class="card">
+        <h3>Canonical game pages first</h3>
+        <p class="lead" style="font-size:1rem;max-width:none;">
+          The primary unit is the evergreen game page. Articles, guides, and comparisons support that structure instead of replacing it.
+        </p>
+      </div>
+      <div class="card">
+        <h3>Autonomous publishing ready</h3>
+        <p class="lead" style="font-size:1rem;max-width:none;">
+          Richard can publish by creating Markdown files in structured content collections. No database or heavy CMS required.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section container">
+    <h2>Latest editorial</h2>
+    <CardGrid items={featuredArticles.map((article) => ({
+      href: `/articles/${article.id}/`,
+      title: article.data.title,
+      description: article.data.description,
+      meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
+    }))} columns={2} showImages={false} showTier={false} showRouteType={false} showPlatforms={false} />
+  </section>
+</Layout>

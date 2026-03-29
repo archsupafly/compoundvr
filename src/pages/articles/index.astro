@@ -1,0 +1,26 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleGrid from '../../components/ArticleGrid.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles'))
+  .filter((article) => !article.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<Layout title="Articles — CompoundVR" description="Editorial coverage, guides, and comparisons from CompoundVR.">
+  <section class="container">
+    <div class="eyebrow">Articles</div>
+    <h1>Editorial coverage built for discovery and trust.</h1>
+    <p class="lead">Articles are where CompoundVR explains methodology, covers meaningful updates, and publishes guides and comparisons.</p>
+  </section>
+  <section class="section container">
+    <ArticleGrid items={articles.map((article) => ({
+      href: `/articles/${article.id}/`,
+      title: article.data.title,
+      description: article.data.description,
+      heroImage: article.data.heroImage,
+      meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
+    }))} />
+  </section>
+</Layout>

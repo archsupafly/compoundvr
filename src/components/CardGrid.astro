@@ -1,0 +1,394 @@
+---
+interface GameCard {
+  href: string;
+  title: string;
+  description: string;
+  heroImage?: string;
+  tier?: 'S' | 'A' | 'B' | 'C' | 'D' | 'F';
+  routeType: string;
+  platforms?: string[];
+  recommendation: string;
+  setupBurden: string;
+}
+
+const { items, columns = 3, showImages = true, showTier = true, showRouteType = true, showPlatforms = true } = Astro.props as { 
+  items: GameCard[]; 
+  columns?: 2 | 3 | 4;
+  showImages?: boolean;
+  showTier?: boolean;
+  showRouteType?: boolean;
+  showPlatforms?: boolean;
+};
+
+// Route type to CSS class mapping
+const routeTypeClass: Record<string, string> = {
+  'Official Hybrid': 'route-type--official',
+  'Official Standalone VR Version': 'route-type--official',
+  'Full VR Mod': 'route-type--full-mod',
+  'Framework-Based': 'route-type--framework',
+  'Injection Driver': 'route-type--driver',
+};
+
+// Setup burden to CSS class mapping
+const setupClass: Record<string, string> = {
+  'Beginner Friendly': 'metadata-pill--setup-beginner',
+  'Moderate Setup': 'metadata-pill--setup-moderate',
+  'Advanced Setup': 'metadata-pill--setup-advanced',
+  'Expert Only': 'metadata-pill--setup-expert',
+};
+
+// Recommendation to CSS class mapping
+const recClass: Record<string, string> = {
+  'Recommended': 'metadata-pill--recommended',
+  'Recommended with Caveats': 'metadata-pill--caveats',
+  'Enthusiasts/Tinkerers Only': 'metadata-pill--caveats',
+  'Wait for Updates': 'metadata-pill--caveats',
+  'Not Recommended': 'metadata-pill--not-recommended',
+};
+---
+
+<div class={`game-grid game-grid--${columns}`}>
+  {items.map((game) => (
+    <a class="game-card" href={game.href}>
+      {showImages && (
+        <div class="game-card__image-container">
+          {game.heroImage ? (
+            <img 
+              src={game.heroImage} 
+              alt={game.title}
+              class="game-card__image"
+              loading="lazy"
+            />
+          ) : (
+            <div class="game-card__image--placeholder" data-title={game.title}></div>
+          )}
+          
+          {showTier && game.tier && (
+            <span class={`tier-badge tier--${game.tier.toLowerCase()}`}>
+              {game.tier}
+            </span>
+          )}
+          
+          {showRouteType && (
+            <span class={`route-type-pill ${routeTypeClass[game.routeType] || ''}`}>
+              {game.routeType}
+            </span>
+          )}
+        </div>
+      )}
+      
+      <div class="game-card__body">
+        <h3 class="game-card__title">{game.title}</h3>
+        <p class="game-card__description">{game.description}</p>
+        
+        <div class="game-card__metadata">
+          <span class={`metadata-pill ${setupClass[game.setupBurden] || ''}`}>
+            {game.setupBurden}
+          </span>
+          <span class={`metadata-pill ${recClass[game.recommendation] || ''}`}>
+            {game.recommendation}
+          </span>
+        </div>
+        
+        {showPlatforms && game.platforms && game.platforms.length > 0 && (
+          <div class="game-card__platforms">
+            {game.platforms.map((platform) => (
+              <img 
+                src={`/icons/platform-${platform.toLowerCase()}.svg`}
+                alt={platform}
+                class="platform-icon platform-icon--active"
+                width="24"
+                height="24"
+              />
+            ))}
+          </div>
+        )}
+      </div>
+    </a>
+  ))}
+</div>
+
+<style>
+  .game-grid {
+    display: grid;
+    gap: 1.5rem;
+  }
+  
+  .game-grid--2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .game-grid--3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .game-grid--4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  @media (max-width: 1024px) {
+    .game-grid--3,
+    .game-grid--4 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 640px) {
+    .game-grid--2,
+    .game-grid--3,
+    .game-grid--4 {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  .game-card {
+    background: var(--surface-primary, #ffffff);
+    border: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.08));
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .game-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15);
+    border-color: var(--border-default, rgba(0, 0, 0, 0.12));
+  }
+  
+  .game-card__image-container {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: var(--bg-tertiary, #f5f5f5);
+  }
+  
+  .game-card__image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  
+  .game-card:hover .game-card__image {
+    transform: scale(1.02);
+  }
+  
+  .game-card__image--placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #f5f5f5, #eeeeee);
+  }
+  
+  .game-card__image--placeholder::before {
+    content: attr(data-title);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #999;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  /* Tier Badge */
+  .tier-badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-family: var(--font-mono, 'JetBrains Mono', monospace);
+    font-size: 1.25rem;
+    font-weight: 700;
+    padding: 0.35rem 0.65rem;
+    border-radius: 6px;
+    text-shadow: 0 0 20px currentColor;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .tier--s {
+    color: #f0c674;
+    background: rgba(240, 198, 116, 0.15);
+    border: 1px solid rgba(240, 198, 116, 0.4);
+  }
+  
+  .tier--a {
+    color: #22c55e;
+    background: rgba(34, 197, 94, 0.15);
+    border: 1px solid rgba(34, 197, 94, 0.4);
+  }
+  
+  .tier--b {
+    color: #6ee7ff;
+    background: rgba(110, 231, 255, 0.15);
+    border: 1px solid rgba(110, 231, 255, 0.4);
+  }
+  
+  .tier--c {
+    color: #f59e0b;
+    background: rgba(245, 158, 11, 0.15);
+    border: 1px solid rgba(245, 158, 11, 0.4);
+  }
+  
+  .tier--d {
+    color: #f97316;
+    background: rgba(249, 115, 22, 0.15);
+    border: 1px solid rgba(249, 115, 22, 0.4);
+  }
+  
+  .tier--f {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.15);
+    border: 1px solid rgba(239, 68, 68, 0.4);
+  }
+  
+  /* Route Type Pill */
+  .route-type-pill {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.75);
+    color: #ffffff;
+    backdrop-filter: blur(4px);
+    max-width: 140px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  .route-type--official {
+    background: rgba(139, 92, 246, 0.85);
+  }
+  
+  .route-type--full-mod {
+    background: rgba(110, 231, 255, 0.85);
+    color: #0b1020;
+  }
+  
+  .route-type--framework {
+    background: rgba(34, 197, 94, 0.85);
+  }
+  
+  .route-type--driver {
+    background: rgba(245, 158, 11, 0.85);
+    color: #0b1020;
+  }
+  
+  .game-card__body {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    flex: 1;
+  }
+  
+  .game-card__title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--text-primary, #0b1020);
+    line-height: 1.3;
+    margin: 0;
+  }
+  
+  .game-card:hover .game-card__title {
+    color: var(--accent-cyan, #6ee7ff);
+  }
+  
+  .game-card__description {
+    font-size: 0.9rem;
+    color: var(--text-secondary, #6b7280);
+    line-height: 1.5;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
+  }
+  
+  .game-card__metadata {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: auto;
+  }
+  
+  .metadata-pill {
+    font-size: 0.7rem;
+    font-weight: 500;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    background: var(--bg-secondary, #f5f5f5);
+    color: var(--text-tertiary, #6b7280);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
+  
+  .metadata-pill--setup-beginner {
+    background: rgba(34, 197, 94, 0.1);
+    color: #16a34a;
+    border-color: rgba(34, 197, 94, 0.2);
+  }
+  
+  .metadata-pill--setup-moderate {
+    background: rgba(110, 231, 255, 0.1);
+    color: #0891b2;
+    border-color: rgba(110, 231, 255, 0.2);
+  }
+  
+  .metadata-pill--setup-advanced {
+    background: rgba(245, 158, 11, 0.1);
+    color: #d97706;
+    border-color: rgba(245, 158, 11, 0.2);
+  }
+  
+  .metadata-pill--setup-expert {
+    background: rgba(239, 68, 68, 0.1);
+    color: #dc2626;
+    border-color: rgba(239, 68, 68, 0.2);
+  }
+  
+  .metadata-pill--recommended {
+    background: rgba(34, 197, 94, 0.1);
+    color: #16a34a;
+    border-color: rgba(34, 197, 94, 0.2);
+  }
+  
+  .metadata-pill--caveats {
+    background: rgba(245, 158, 11, 0.1);
+    color: #d97706;
+    border-color: rgba(245, 158, 11, 0.2);
+  }
+  
+  .metadata-pill--not-recommended {
+    background: rgba(239, 68, 68, 0.1);
+    color: #dc2626;
+    border-color: rgba(239, 68, 68, 0.2);
+  }
+  
+  .game-card__platforms {
+    display: flex;
+    gap: 0.35rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.06));
+  }
+  
+  .platform-icon {
+    width: 24px;
+    height: 24px;
+    opacity: 0.7;
+    transition: opacity 0.15s ease;
+  }
+  
+  .game-card:hover .platform-icon {
+    opacity: 1;
+  }
+</style>

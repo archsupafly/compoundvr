@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <defs>
+    <!-- Dark space gradient -->
+    <radialGradient id="spaceGrad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0a0a1a"/>
+      <stop offset="50%" stop-color="#050510"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    
+    <!-- Nebula effect -->
+    <radialGradient id="nebula1" cx="30%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#2a1a4a" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0a0a1a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula2" cx="70%" cy="60%" r="40%">
+      <stop offset="0%" stop-color="#1a2a3a" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0a0a1a" stop-opacity="0"/>
+    </radialGradient>
+    
+    <!-- Metal texture -->
+    <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="50%" stop-color="#4a4a4a"/>
+      <stop offset="100%" stop-color="#2a2a2a"/>
+    </linearGradient>
+    
+    <!-- HUD green glow -->
+    <filter id="hudGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Hexagonal viewport pattern -->
+    <pattern id="hexPattern" width="40" height="35" patternUnits="userSpaceOnUse">
+      <path d="M20 0 L40 8.75 L40 26.25 L20 35 L0 26.25 L0 8.75 Z" fill="none" stroke="#2a2a2a" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background space -->
+  <rect width="1200" height="600" fill="url(#spaceGrad)"/>
+  
+  <!-- Stars -->
+  <g fill="#ffffff" opacity="0.8">
+    <circle cx="100" cy="80" r="0.8"/>
+    <circle cx="250" cy="150" r="1.2"/>
+    <circle cx="400" cy="60" r="0.6"/>
+    <circle cx="550" cy="120" r="1"/>
+    <circle cx="700" cy="90" r="0.7"/>
+    <circle cx="850" cy="180" r="0.9"/>
+    <circle cx="1000" cy="70" r="0.5"/>
+    <circle cx="1100" cy="200" r="1.1"/>
+    <circle cx="150" cy="300" r="0.8"/>
+    <circle cx="320" cy="350" r="0.6"/>
+    <circle cx="480" cy="280" r="1"/>
+    <circle cx="620" cy="320" r="0.7"/>
+    <circle cx="780" cy="290" r="0.5"/>
+    <circle cx="920" cy="340" r="0.9"/>
+    <circle cx="1050" cy="260" r="0.8"/>
+    <circle cx="200" cy="450" r="1"/>
+    <circle cx="380" cy="480" r="0.6"/>
+    <circle cx="540" cy="420" r="0.7"/>
+    <circle cx="680" cy="460" r="0.5"/>
+    <circle cx="840" cy="400" r="0.9"/>
+    <circle cx="1020" cy="470" r="1.2"/>
+    <circle cx="60" cy="520" r="0.8"/>
+    <circle cx="1150" cy="380" r="0.6"/>
+  </g>
+  
+  <!-- Nebula effects -->
+  <ellipse cx="400" cy="200" rx="300" ry="200" fill="url(#nebula1)"/>
+  <ellipse cx="900" cy="350" rx="250" ry="180" fill="url(#nebula2)"/>
+  
+  <!-- Distant laser fire -->
+  <g stroke="#ff6b6b" stroke-width="1.5" opacity="0.6">
+    <line x1="750" y1="100" x2="680" y2="80" stroke-dasharray="20,10"/>
+    <line x1="800" y1="120" x2="720" y2="100" stroke-dasharray="15,8"/>
+    <line x1="820" y1="150" x2="750" y2="130" stroke-dasharray="25,12"/>
+  </g>
+  <g stroke="#4a9eff" stroke-width="1.5" opacity="0.5">
+    <line x1="200" y1="200" x2="280" y2="180" stroke-dasharray="18,10"/>
+    <line x1="180" y1="250" x2="260" y2="220" stroke-dasharray="22,15"/>
+  </g>
+  
+  <!-- Cockpit frame - main structure -->
+  <g fill="#1a1a1a" stroke="#2a2a2a" stroke-width="2">
+    <!-- Left side panel -->
+    <path d="M0 0 L200 0 L180 150 L0 200 Z"/>
+    <!-- Right side panel -->
+    <path d="M1200 0 L1000 0 L1020 150 L1200 200 Z"/>
+    <!-- Bottom panel -->
+    <path d="M0 600 L300 600 L400 450 L800 450 L900 600 L1200 600 L1200 500 L1020 450 L1020 350 L1200 300 L1200 250 L1000 200 L1000 0 L1200 0 L1200 600 M0 600 L0 500 L180 450 L180 350 L0 300 L0 250 L200 200 L200 0 L0 0 Z" fill="#1a1a1a"/>
+  </g>
+  
+  <!-- Hexagonal viewport panels -->
+  <g stroke="#1a1a1a" stroke-width="8" fill="none">
+    <!-- Left hex panels -->
+    <path d="M200 80 L280 40 L360 80 L360 160 L280 200 L200 160 Z" fill="url(#spaceGrad)"/>
+    <path d="M200 180 L280 140 L360 180 L360 260 L280 300 L200 260 Z" fill="url(#spaceGrad)"/>
+    <path d="M200 280 L280 240 L360 280 L360 360 L280 400 L200 360 Z" fill="url(#spaceGrad)"/>
+    
+    <!-- Right hex panels -->
+    <path d="M1000 80 L920 40 L840 80 L840 160 L920 200 L1000 160 Z" fill="url(#spaceGrad)"/>
+    <path d="M1000 180 L920 140 L840 180 L840 260 L920 300 L1000 260 Z" fill="url(#spaceGrad)"/>
+    <path d="M1000 280 L920 240 L840 280 L840 360 L920 400 L1000 360 Z" fill="url(#spaceGrad)"/>
+  </g>
+  
+  <!-- Center viewport (largest) -->
+  <polygon points="400,100 500,60 700,60 800,100 800,350 700,390 500,390 400,350" fill="url(#spaceGrad)" stroke="#1a1a1a" stroke-width="10"/>
+  
+  <!-- Center viewport frame detail -->
+  <polygon points="400,100 500,60 700,60 800,100 800,350 700,390 500,390 400,350" fill="none" stroke="#3a3a3a" stroke-width="3"/>
+  
+  <!-- Metal panel details -->
+  <rect x="50" y="300" width="100" height="60" fill="url(#metal)" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="1050" y="300" width="100" height="60" fill="url(#metal)" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="100" y="420" width="80" height="40" fill="url(#metal)" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="1020" y="420" width="80" height="40" fill="url(#metal)" stroke="#2a2a2a" stroke-width="1"/>
+  
+  <!-- HUD elements - green glow -->
+  <g stroke="#39ff14" fill="none" opacity="0.8" filter="url(#hudGlow)">
+    <!-- Target reticle -->
+    <circle cx="600" cy="225" r="60" stroke-width="1.5"/>
+    <line x1="600" y1="160" x2="600" y2="180" stroke-width="2"/>
+    <line x1="600" y1="270" x2="600" y2="290" stroke-width="2"/>
+    <line x1="540" y1="225" x2="560" y2="225" stroke-width="2"/>
+    <line x1="640" y1="225" x2="660" y2="225" stroke-width="2"/>
+    
+    <!-- HUD frame -->
+    <path d="M420 320 L450 290 L750 290 L780 320" stroke-width="1"/>
+    <path d="M450 290 L450 100 L750 100 L750 290" stroke-width="0.5" opacity="0.5"/>
+    
+    <!-- Side HUD elements -->
+    <rect x="280" y="100" width="60" height="20" stroke-width="0.5" opacity="0.6"/>
+    <rect x="860" y="100" width="60" height="20" stroke-width="0.5" opacity="0.6"/>
+    <line x1="310" y1="110" x2="330" y2="110" stroke-width="1"/>
+    <line x1="870" y1="110" x2="890" y2="110" stroke-width="1"/>
+  </g>
+  
+  <!-- Dashboard / console -->
+  <path d="M350 400 L450 380 L750 380 L850 400 L850 500 L350 500 Z" fill="#0a0a0a" stroke="#2a2a2a" stroke-width="2"/>
+  
+  <!-- Dashboard buttons and displays -->
+  <g fill="#1a1a1a" stroke="#3a3a3a" stroke-width="1">
+    <rect x="400" y="420" width="50" height="30" rx="2"/>
+    <rect x="470" y="415" width="60" height="35" rx="2"/>
+    <rect x="550" y="420" width="40" height="25" rx="2"/>
+    <rect x="610" y="415" width="50" height="30" rx="2"/>
+    <rect x="680" y="420" width="45" height="28" rx="2"/>
+    <rect x="750" y="425" width="50" height="25" rx="2"/>
+  </g>
+  
+  <!-- Dashboard green indicators -->
+  <g fill="#39ff14" opacity="0.7" filter="url(#hudGlow)">
+    <rect x="410" y="428" width="30" height="4" rx="1"/>
+    <rect x="480" y="423" width="40" height="4" rx="1"/>
+    <rect x="560" y="428" width="20" height="4" rx="1"/>
+    <rect x="620" y="423" width="30" height="4" rx="1"/>
+    <rect x="690" y="428" width="25" height="4" rx="1"/>
+    <rect x="760" y="432" width="30" height="4" rx="1"/>
+  </g>
+  
+  <!-- Side console panels with Imperial detail -->
+  <g fill="#151515" stroke="#2a2a2a" stroke-width="1">
+    <rect x="220" y="400" width="100" height="150"/>
+    <rect x="880" y="400" width="100" height="150"/>
+  </g>
+  
+  <!-- Imperial symbol pattern (subtle) -->
+  <g fill="none" stroke="#2a2a2a" stroke-width="1" opacity="0.3">
+    <circle cx="270" cy="475" r="25"/>
+    <path d="M245 475 L295 475 M270 450 L270 500"/>
+    <circle cx="930" cy="475" r="25"/>
+    <path d="M905 475 L955 475 M930 450 L930 500"/>
+  </g>
+  
+  <!-- More distant battle debris/spark effects -->
+  <g fill="#ffaa44" opacity="0.4">
+    <circle cx="650" cy="150" r="1.5"/>
+    <circle cx="720" cy="180" r="1"/>
+    <circle cx="580" cy="200" r="1.2"/>
+  </g>
+</svg>

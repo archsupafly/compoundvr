@@ -1,0 +1,143 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const games = await getCollection('games');
+  return games.map((game) => ({ params: { slug: game.id }, props: { game } }));
+}
+
+const { game } = Astro.props;
+const { Content } = await render(game);
+
+// Determine tier class
+const tier = game.data.tier || 'B'; // default to B if not set
+let tierClass = 'tier tier--large';
+if (tier === 'S') tierClass = 'tier tier--large tier--s';
+else if (tier === 'A') tierClass = 'tier tier--large tier--a';
+else if (tier === 'B') tierClass = 'tier tier--large tier--b';
+else if (tier === 'C') tierClass = 'tier tier--large tier--c';
+else if (tier === 'D') tierClass = 'tier tier--large tier--d';
+else tierClass = 'tier tier--large tier--f';
+---
+
+<Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
+  {game.data.heroImage && (
+    <div class="hero-image-container">
+      <img src={game.data.heroImage} alt={game.data.title} class="hero-image" />
+      <div class="hero-overlay"></div>
+    </div>
+  )}
+  <section class="container section game-page">
+    <div class="eyebrow">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
+    <h1>{game.data.title}</h1>
+    <p class="lead">{game.data.description}</p>
+
+    <div class="stats" style="margin-top:1.5rem;">
+      <div class="stat">
+        <div class="stat-label">Recommendation</div>
+        <div class="stat-value">{game.data.recommendation}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Platforms</div>
+        <div class="stat-value">{game.data.platforms.join(', ')}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Playability</div>
+        <div class="stat-value">{game.data.playability}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Setup</div>
+        <div class="stat-value">{game.data.setupBurden}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Input</div>
+        <div class="stat-value">{game.data.inputStyle}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Comfort</div>
+        <div class="stat-value">{game.data.comfort}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Performance</div>
+        <div class="stat-value">{game.data.performance}</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Support</div>
+        <div class="stat-value">{game.data.supportStatus}</div>
+      </div>
+      <div class="stat stat-tier">
+        <div class="stat-label">Tier</div>
+        <div class={tierClass}>{tier}</div>
+      </div>
+    </div>
+
+    <div class="tags-container" style="margin-top:1rem;">
+      {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
+        <span class="pill">{tag}</span>
+      ))}
+    </div>
+
+    <div class="card verdict-card" style="margin-top:1.5rem;">
+      <h3>Verdict</h3>
+      <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
+    </div>
+
+    <article class="prose article-content" style="margin-top:2rem;">
+      <Content />
+    </article>
+  </section>
+</Layout>
+
+<style>
+  .hero-image-container {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    background: var(--bg-secondary);
+  }
+
+  .hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background: linear-gradient(transparent, var(--bg-body));
+  }
+
+  .game-page {
+    margin-top: -2rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  .stat-tier {
+    background: var(--surface-secondary);
+    border-color: var(--border-default);
+  }
+
+  .verdict-card h3 {
+    margin-bottom: 0.75rem;
+    color: var(--text-primary);
+  }
+
+  .tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  @media (max-width: 720px) {
+    .hero-image-container {
+      height: 250px;
+    }
+  }
+</style>
