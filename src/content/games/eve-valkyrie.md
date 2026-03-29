@@ -27,6 +27,7 @@ experienceTags:
 tier: D
 verdict: "Historically important but functionally dead — server shutdown killed the multiplayer core, leaving only minimal solo content behind."
 heroImage: /images/games/eve-valkyrie-vr-hero.jpg
+vrReleaseDate: 2016-03-28
 ---
 
 # EVE: Valkyrie in VR: A Launch Title Pioneer That Didn't Survive

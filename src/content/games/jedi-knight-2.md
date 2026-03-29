@@ -28,6 +28,8 @@ experienceTags:
 tier: A
 verdict: "JK XR delivers the definitive Jedi Outcast VR experience. Team Beef's OpenXR port transforms Raven Software's 2002 masterpiece into a fully immersive adventure with motion-controlled lightsabers, gesture-based Force powers, and complete campaign functionality. This is how Star Wars VR should feel — authentic, responsive, and genuinely thrilling."
 heroImage: /images/games/jedi-knight-2-vr-hero.png
+flatReleaseDate: 2002-03-26
+vrReleaseDate: 2022-03-01
 ---
 
 # Star Wars Jedi Knight II: Jedi Outcast in VR: A Jedi's Journey Reborn

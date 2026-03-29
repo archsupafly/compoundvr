@@ -28,6 +28,8 @@ experienceTags:
 tier: A
 verdict: "Rez Infinite is excellent and highly recommended. It's what native VR looks like when developers build for the medium from day one. But S-tier is reserved for the definitive experiences — Rez is a triumph, but it's not the first game you hand someone to explain why VR matters."
 heroImage: /images/games/rez-infinite-vr-hero.jpg
+flatReleaseDate: 2001-11-22
+vrReleaseDate: 2016-10-13
 ---
 
 # Rez Infinite in VR: The Synesthesia Shooter Perfected

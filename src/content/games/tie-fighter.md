@@ -27,6 +27,8 @@ experienceTags:
 tier: B
 verdict: "The complete TIE Fighter experience in VR with modern visuals. Complex multi-layer installation and demanding performance make this enthusiasts-only territory. But for patient Star Wars fans with HOTAS hardware, this is essential—the definitive way to experience one of gaming's most beloved space sims."
 heroImage: /images/games/tie-fighter-hero.jpg
+flatReleaseDate: 1994-07-01
+vrReleaseDate: 2022-06-01
 ---
 
 # Star Wars: TIE Fighter in VR: Serving the Empire in Cockpit Reality

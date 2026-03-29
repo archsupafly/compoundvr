@@ -29,6 +29,8 @@ experienceTags:
 tier: B
 verdict: "Garry's Mod's massive sandbox and endless workshop content become surprisingly playable in VR, but the mod requires patience, troubleshooting, and realistic expectations about stability and compatibility."
 heroImage: /images/games/garrys-mod-vr-hero.jpg
+flatReleaseDate: 2006-11-29
+vrReleaseDate: 2021-06-01
 ---
 
 # Garry's Mod in VR: The Physics Sandbox, Unleashed — With Caveats

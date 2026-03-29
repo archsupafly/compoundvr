@@ -27,6 +27,8 @@ experienceTags:
 tier: B
 verdict: "ETS2 VR is the full game in virtual reality — every map, every truck, every career feature. The immersion of sitting in a cab, checking real mirrors, and watching headlights sweep across wet roads is genuinely transformative. But the engine strains under VR demands, motion controllers aren't supported, and a steering wheel setup is effectively required. If you have the hardware and patience to tune it, this is simulation VR at its most meditative."
 heroImage: /images/games/euro-truck-simulator-2-hero.jpg
+flatReleaseDate: 2012-10-19
+vrReleaseDate: 2017-01-01
 ---
 
 # Euro Truck Simulator 2 VR: The Long Haul Finally Comes to VR

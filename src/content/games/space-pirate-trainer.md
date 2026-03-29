@@ -28,6 +28,8 @@ score: 85
 tier: A
 verdict: "A foundational VR experience that remains mechanically perfect for newcomers, though veterans may find it shallow beyond score chasing. DX Edition makes this essential on Quest."
 heroImage: /images/games/space-pirate-trainer-vr-hero.jpg
+flatReleaseDate: 2016-04-05
+vrReleaseDate: 2016-04-05
 ---
 
 # Space Pirate Trainer: The Seminal VR Wave Shooter That Still Delivers

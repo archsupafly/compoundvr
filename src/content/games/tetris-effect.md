@@ -28,6 +28,8 @@ score: 95
 tier: S
 verdict: "An essential VR experience that transforms a decades-old classic through masterful audiovisual design. Native first-party implementation delivers polished, accessible immersion that justifies owning a headset. S-tier: This is what VR was made for."
 heroImage: /images/games/tetris-effect-vr-hero.jpg
+flatReleaseDate: 2018-11-09
+vrReleaseDate: 2018-11-09
 ---
 
 # Tetris Effect: Connected VR Review

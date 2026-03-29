@@ -27,6 +27,8 @@ score: 78
 tier: B
 verdict: "B-Tier: Great arcade flight combat marred by uneven VR implementation. When everything works—Tier 1 aircraft with full HUDs, supported HOTAS hardware, and super computer-tier specs—the experience approaches native VR quality. But HUD gaps on most planes, limited HOTAS compatibility, and steep hardware demands create friction that keeps this from A-tier territory."
 heroImage: /images/games/ace-combat-7-vr-hero.jpg
+flatReleaseDate: 2019-01-18
+vrReleaseDate: 2024-01-01
 ---
 
 # Ace Combat 7: Skies Unknown — VR Review

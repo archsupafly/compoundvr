@@ -27,6 +27,8 @@ experienceTags:
 tier: B
 verdict: "The game is excellent - exceptional atmosphere, memorable story, photorealistic visuals that still impress. The VR implementation was ambitious for 2016 but hasn't aged well: seated gamepad play with no motion controls. A time capsule from VR's early years, now delisted and frozen."
 heroImage: /images/games/ethan-carter-vr-hero.jpg
+flatReleaseDate: 2014-09-25
+vrReleaseDate: 2016-07-15
 ---
 
 # The Vanishing of Ethan Carter VR: A Ghost in the Machine

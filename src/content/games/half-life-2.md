@@ -26,8 +26,10 @@ experienceTags:
   - Technical Achievement
 score: 92
 tier: A
-verdict: This isn't just the best flat-to-VR conversion available. It's the argument for why flat-to-VR conversion matters at all.
+verdict: "This isn't just the best flat-to-VR conversion available. It's the argument for why flat-to-VR conversion matters at all."
 heroImage: /images/games/half-life-2-vr-hero.jpg
+flatReleaseDate: 2004-11-16
+vrReleaseDate: 2022-09-23
 ---
 
 # The Half-Life 2 VR Mod Is a Time Machine That Works

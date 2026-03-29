@@ -27,6 +27,7 @@ experienceTags:
 tier: F
 verdict: "EVE Gunjack was a remarkably polished mobile VR turret shooter that demonstrated what Unreal Engine 4 could achieve on a smartphone. Released for Gear VR in 2015 and later expanding to PC and PlayStation VR, it offered satisfying arcade action with impressive production values. However, CCP Games delisted the title in July 2022 and shut down its servers in August 2022. It is no longer available for purchase or playable."
 heroImage: /images/games/eve-gunjack-hero.jpg
+vrReleaseDate: 2015-11-01
 ---
 
 # EVE Gunjack: A Polished Turret Shooter Lost to Time

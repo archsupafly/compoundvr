@@ -26,6 +26,8 @@ experienceTags:
 tier: C
 verdict: "F.E.A.R. via VorpX is one of the better injection driver experiences — corridor design and atmospheric lighting actually benefit from stereoscopic depth, and the slow-motion reflex mechanic translates surprisingly well. But this is still VorpX: no motion controls, setup friction, and horror intensity amplified. Worth it for VorpX owners, not a reason to buy VorpX."
 heroImage: /images/games/fear-hero.jpg
+flatReleaseDate: 2005-10-18
+vrReleaseDate: 2015-05-01
 ---
 
 # F.E.A.R. in VR: Atmospheric Horror, Cinematic Gunfights

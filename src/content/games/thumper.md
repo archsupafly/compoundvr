@@ -27,6 +27,8 @@ experienceTags:
 tier: B
 verdict: "A unique and intense rhythm experience that's better in VR, but the underlying game is simple. The VR implementation is seamless and transformative — it's the game that limits the experience, not the VR."
 heroImage: /images/games/thumper-vr-hero.jpg
+flatReleaseDate: 2016-10-10
+vrReleaseDate: 2016-10-10
 ---
 
 # Thumper in VR: Rhythm Violence Perfected

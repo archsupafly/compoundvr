@@ -27,6 +27,8 @@ experienceTags:
 tier: A
 verdict: "One of the most impressive VR conversions ever made. Comprehensive features, thoughtful design, and genuine horror atmosphere that works better in VR than it ever did on a monitor. Incomplete features and basic IK are the only knocks."
 heroImage: /images/games/doom-3-bfg-vr-hero.jpg
+flatReleaseDate: 2012-10-16
+vrReleaseDate: 2017-03-01
 ---
 
 # Doom 3 BFG VR: Fully Possessed — A Pioneer That Still Haunts

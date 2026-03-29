@@ -28,6 +28,8 @@ score: 82
 tier: B
 verdict: "SubmersedVR transforms Subnautica into a genuine VR masterpiece, but requires technical setup, VR legs, and tolerance for occasional jank. Skip the abandoned official implementation entirely."
 heroImage: /images/games/subnautica-vr-hero.jpg
+flatReleaseDate: 2018-01-23
+vrReleaseDate: 2022-06-01
 ---
 
 # Subnautica VR Review

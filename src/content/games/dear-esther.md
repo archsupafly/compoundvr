@@ -27,6 +27,8 @@ experienceTags:
 tier: A
 verdict: "Dear Esther in VR is one of the best-kept secrets in flat-to-VR modding. The VRGIN injection works reliably with the Landmark Edition, transforming an already atmospheric walking simulator into a genuinely moving VR experience. The lack of motion controls is actually a benefit here — the slow-paced, contemplative exploration pairs perfectly with gamepad input. This is a must-play for anyone interested in narrative VR experiences."
 heroImage: /images/games/dear-esther-vr-hero.jpg
+flatReleaseDate: 2012-02-14
+vrReleaseDate: 2017-05-01
 ---
 
 # Dear Esther in VR: When a Walking Simulator Becomes a Journey

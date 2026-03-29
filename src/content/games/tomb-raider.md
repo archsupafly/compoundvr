@@ -28,6 +28,8 @@ score: 90
 tier: A
 verdict: "An exceptional flat-to-VR source port that respects the original while delivering a genuinely new way to experience a classic. Feature-complete, free, and polished by a trusted team. Platforming friction in first-person mode is the primary caveat—treat this as a third-person game with first-person exploration segments."
 heroImage: /images/games/tomb-raider-vr-hero.jpg
+flatReleaseDate: 1996-10-25
+vrReleaseDate: 2023-08-01
 ---
 
 # Tomb Raider (1996) — VR Review

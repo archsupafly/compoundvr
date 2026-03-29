@@ -26,6 +26,7 @@ experienceTags:
 tier: B
 verdict: "A complete racing package hampered by aggressive visual compromises, now delisted and frozen in time."
 heroImage: /images/games/driveclub-vr-hero.jpg
+vrReleaseDate: 2016-10-13
 ---
 
 # DRIVECLUB VR in VR: The Compromise That Still Works

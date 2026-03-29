@@ -30,6 +30,8 @@ experienceTags:
 tier: A
 verdict: "Resident Evil 7 offers two exceptional VR experiences: the plug-and-play official PSVR version and the technically ambitious PCVR mod with motion controls. Both are worth your time — the right choice depends on your hardware and how much setup friction you're willing to tolerate."
 heroImage: /images/games/resident-evil-7-vr-hero.jpg
+flatReleaseDate: 2017-01-24
+vrReleaseDate: 2017-01-24
 ---
 
 # Resident Evil 7 in VR: Two Paths to the Baker Estate

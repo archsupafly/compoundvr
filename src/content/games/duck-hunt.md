@@ -25,6 +25,8 @@ experienceTags:
 tier: C
 verdict: "The authentic NES experience lives in 3dSen VR — motion controllers as the Zapper, voxel transformation, the laughing dog in 3D. Modern clones on Quest/Steam exist but lack the original's charm. For NES nostalgia, 3dSen is the route. For casual duck shooting, clones may suffice."
 heroImage: /images/games/duck-hunt-hero.jpg
+flatReleaseDate: 1985-04-21
+vrReleaseDate: 2018-08-01
 routes:
   - name: 3dSen VR
     type: Emulator

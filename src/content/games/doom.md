@@ -26,6 +26,8 @@ experienceTags:
 tier: B
 verdict: "One of the most complete framework experiences for classic PC gaming in VR. QuestZDoom brings the full GZDoom engine to Quest standalone, supporting Doom, Doom II, Final Doom, Hexen, Heretic, and thousands of community WADs. Motion controls, two-handed weapon handling, and VR-specific weapon packs make the original Doom playable in a way that feels both authentic and modern. Requires sideloading comfort and performance tuning for heavy mods."
 heroImage: /images/games/doom-hero.jpg
+flatReleaseDate: 1993-12-10
+vrReleaseDate: 2019-05-01
 ---
 
 # Doom VR: The Original FPS in Your Hands

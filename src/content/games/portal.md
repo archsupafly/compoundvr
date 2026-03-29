@@ -28,6 +28,8 @@ experienceTags:
 tier: B
 verdict: "Portal's brilliant puzzle design translates beautifully to VR when played through the Portal 2 VR mod with Portal 1 Remastered workshop content. The motion-controlled portal gun feels natural, the test chambers gain new spatial presence, and the full campaign is completable. Some UI limitations and the indirect installation path prevent an A-tier rating, but this is one of the most complete flat-to-VR puzzle experiences available."
 heroImage: /images/games/portal-vr-hero.jpg
+flatReleaseDate: 2007-10-09
+vrReleaseDate: 2022-04-01
 ---
 
 # Portal in VR: The Original Test Chambers Reimagined

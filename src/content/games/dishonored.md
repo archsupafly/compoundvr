@@ -27,6 +27,8 @@ experienceTags:
 tier: C
 verdict: "Great game, terrible VR implementation, mid-tier experience. The atmosphere and design remain compelling, but injection drivers cannot deliver what native VR or community mods provide. You'd be better off playing a B-tier native VR game than this C+ injection experience."
 heroImage: /images/games/dishonored-vr-hero.jpg
+flatReleaseDate: 2012-10-09
+vrReleaseDate: 2015-05-01
 ---
 
 # Dishonored in VR: Standing in Dunwall Through an Injection Driver

@@ -29,6 +29,8 @@ experienceTags:
 tier: B
 verdict: "Elite Dangerous in VR delivers one of the most convincing presence experiences in gaming. The cockpit design was built for VR before consumer headsets existed. But there's no motion controller support, performance demands high-end hardware, and the Odyssey on-foot expansion displays as a flat screen inside your headset. If you have a HOTAS and the patience for performance tuning, this is essential VR."
 heroImage: /images/games/elite-dangerous-hero.jpg
+flatReleaseDate: 2014-12-16
+vrReleaseDate: 2014-12-16
 ---
 
 # Elite Dangerous VR: The Cockpit Gold Standard

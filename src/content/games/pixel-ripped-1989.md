@@ -27,6 +27,7 @@ experienceTags:
 tier: A
 verdict: "Pixel Ripped 1989 is exactly what a native VR title should be — an experience that couldn't exist anywhere else. The game-within-a-game concept isn't a gimmick; it's the foundation of a genuinely clever adventure that merges 8-bit platforming with 3D world interaction. For anyone who grew up with Game Boys or Mega Man, this is essential VR."
 heroImage: /images/games/pixel-ripped-1989-hero.jpg
+vrReleaseDate: 2018-07-10
 ---
 
 # Pixel Ripped 1989: When Nostalgia Meets VR's Unique Possibilities

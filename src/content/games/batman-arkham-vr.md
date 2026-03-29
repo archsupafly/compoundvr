@@ -28,6 +28,7 @@ experienceTags:
 tier: B
 verdict: "A polished, atmospheric VR experience that perfectly captures the sensation of being Batman — investigating crime scenes, examining evidence, and moving through iconic locations. The problem is the runtime: at roughly one hour, it's difficult to recommend at full price, even with the stellar production values and authentic voice work from Kevin Conroy."
 heroImage: /images/games/batman-arkham-vr-hero.jpg
+vrReleaseDate: 2016-10-13
 ---
 
 # Batman: Arkham VR: The Batman Fantasy, Compressed

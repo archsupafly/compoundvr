@@ -29,6 +29,8 @@ experienceTags:
 tier: C
 verdict: "Pac-Man in VR has no single definitive path, but multiple viable options. 3dSen VR offers the authentic NES experience with voxel transformation. EmuVR recreates the arcade cabinet atmosphere. Oculus Arcade provided official access but is now discontinued. The lost 1996 Pac-Man VR arcade hardware remains inaccessible to most. None transform the gameplay, but all preserve the classic experience in VR space."
 heroImage: /images/games/pac-man-vr-hero.jpg
+flatReleaseDate: 1980-05-22
+vrReleaseDate: 2018-08-01
 routes:
   - name: 3dSen VR
     type: Emulator

@@ -26,6 +26,8 @@ experienceTags:
 tier: D
 verdict: "TF2 has two VR paths, neither fully ready. The official VR mode from 2013 is essentially broken for modern headsets. Virtual Fortress 2, a community-made VR conversion, shows real promise with full motion controls — but it's single-player only and still in development. For now, TF2 in VR remains a fascinating experiment rather than a playable experience."
 heroImage: /images/games/team-fortress-2-vr-hero.jpg
+flatReleaseDate: 2007-10-10
+vrReleaseDate: 2013-05-01
 ---
 
 # Team Fortress 2 in VR: A Beloved Shooter Lost in Translation

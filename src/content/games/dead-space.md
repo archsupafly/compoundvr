@@ -27,6 +27,8 @@ experienceTags:
 tier: C
 verdict: "One of the more convincing third-person VR adaptations. The Ishimura's corridors gain tangible presence, the diegetic UI works naturally in 3D, and depth perception helps dismemberment targeting. But this is VorpX, not native VR — no motion controls, third-person only, and horror intensity is significantly amplified. Worth it for horror enthusiasts who understand the tradeoffs."
 heroImage: /images/games/dead-space-hero.jpg
+flatReleaseDate: 2008-10-14
+vrReleaseDate: 2015-05-01
 ---
 
 # Dead Space in VR: The Ishimura Gets Real

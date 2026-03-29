@@ -27,6 +27,8 @@ experienceTags:
 tier: C
 verdict: "Historically important as one of the first serious racing simulations with VR support, but the incomplete menu implementation, performance compromises, and existence of superior sequels make it a curiosity rather than a recommendation. Play Project CARS 2 instead."
 heroImage: /images/games/project-cars-vr-hero.jpg
+flatReleaseDate: 2015-05-07
+vrReleaseDate: 2016-03-28
 ---
 
 # The First Lap: Project CARS and the Birth of Racing VR

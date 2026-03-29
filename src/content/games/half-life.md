@@ -28,6 +28,8 @@ experienceTags:
 tier: A
 verdict: "Half-Life in VR is excellent — multiple quality implementations, full motion controls, complete campaign coverage. But it's still a 1998 game with 1998 design conventions. The VR enhances but doesn't transform it into something fundamentally new."
 heroImage: /images/games/half-life-vr-hero.jpg
+flatReleaseDate: 1998-11-19
+vrReleaseDate: 2019-03-01
 ---
 
 # Half-Life in VR: The Original Masterpiece, Reborn

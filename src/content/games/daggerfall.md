@@ -29,6 +29,8 @@ experienceTags:
 tier: B
 verdict: "Daggerfall Unity VR (DFUVR) delivers the full classic experience with proper 6DOF motion controls, making this sprawling 1996 RPG genuinely playable in VR. It's still a niche, hardcore RPG with retro design sensibilities, but the VR implementation is solid."
 heroImage: /images/games/daggerfall-vr-hero.jpg
+flatReleaseDate: 1996-09-20
+vrReleaseDate: 2020-01-01
 ---
 
 # Daggerfall in VR: A 1996 RPG Unlocked
