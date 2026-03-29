@@ -126,6 +126,13 @@ When briefing Ian, specify which type we're covering:
 - **Quote long descriptions** — Multi-sentence descriptions may contain special characters. Safer to quote.
 - **Quote verdicts** — Verdicts often contain em-dashes and special punctuation. Always quote.
 
+### Release Date Fields (Added 2026-03-29)
+- **`flatReleaseDate`** — Original flat game release date (YYYY-MM-DD)
+- **`vrReleaseDate`** — Date VR support became available (YYYY-MM-DD)
+- **Native VR games** — Only use `vrReleaseDate`, leave `flatReleaseDate` empty (e.g., Space Pirate Trainer, SUPERHOT VR)
+- **Framework/Injection** — `vrReleaseDate` is when the tool/framework made it viable
+- **Both fields are optional** — The template only displays them if present
+
 ### Site Deployment Workflow
 - **Always verify build succeeds** — After git push, check GitHub Actions status
 - **Run `npm run build` locally before pushing** — Catch YAML/content errors early
@@ -185,9 +192,15 @@ When briefing Ian, specify which type we're covering:
 
 ### Image Generation Note
 
-Maya uses `gemini-image-simple` skill for hero image generation.
+**CRITICAL: Maya MUST use `gemini-image-simple` workspace skill for image generation.**
 
-**Correct spawn format:**
+This is a **workspace skill** at `/home/archangel/.openclaw/workspace/skills/gemini-image-simple/`. It uses Google's Nano Banana Pro (Gemini 3 Pro Image).
+
+**Correct invocation (Maya must do this):**
+1. Read SKILL.md: `/home/archangel/.openclaw/workspace/skills/gemini-image-simple/SKILL.md`
+2. Call via exec: `python3 /home/archangel/.openclaw/workspace/skills/gemini-image-simple/scripts/generate.py "prompt" output.png`
+
+**Correct spawn format (DO NOT DEVIATE):**
 ```
 Generate a hero image for the game [GAME NAME].
 
@@ -198,27 +211,32 @@ Save to: [full path]
 Return the file path when done.
 ```
 
-**Model:** `ollama/kimi-k2.5:cloud`
+**Model:** `ollama/kimi-k2.5:cloud` (specify explicitly in spawn)
 
-**Critical:** Do NOT include narrative context or visual direction. Maya reads the brand guide and crafts the prompt herself.
+**Mandatory elements:**
+1. "Use gemini-image-simple" — triggers Maya to look for this workspace skill
+2. "Reference the CompoundVR brand guide" — Maya needs design direction
+3. Explicit save path
+
+**Critical:**
+- Do NOT include narrative context or visual direction — Maya reads the brand guide herself
+- If Maya mentions OpenAI or local generation, REJECT and respawn
+- Always verify output is valid JPEG with recognizable content
 
 **Hero Image Output Requirements:**
-- Format: JPG (NOT PNG)
+- Format: JPG (convert PNG with PIL if needed)
 - Aspect ratio: 16:9 (cinematic wide)
 - Dimensions: 1280x720 minimum
-- File size: 100-300KB web-optimized
-- Always include these constraints in prompts
-- **Site container:** 400px height (desktop), 250px (mobile) with `object-fit: cover`
+- File size: 100-300KB web-optimized (optimize with PIL if larger)
 
 **Retro Game Aesthetic:**
-- For older games (1990s, early 2000s), add "retro/older game aesthetic" to prompt
-- Avoid modern glossy/photorealistic style
-- Emphasize period-appropriate visual style (low-poly, pixel art, dated textures)
+- For older games (1990s, early 2000s), add "retro/older game aesthetic" to spawn task
 
 ### Article Types
 
 - **Game Page:** `/site/src/content/games/` — full review with tier rating
 - **Software/Tool Article:** `/site/src/content/articles/` — guide format, no tier rating
+- **Native VR Games:** Use same tier system as flat-to-VR; routeType is "Official Standalone VR Version"
 
 ### Key Files
 
@@ -226,14 +244,26 @@ Return the file path when done.
 - Drafts: `/editorial/drafts/`
 - Game Content: `/site/src/content/games/`
 - Article Content: `/site/src/content/articles/`
-- Hero Images: `/site/public/images/games/`
+- Hero Images: `/site/public/images/games/` (or `/articles/` for software)
 
 ---
 
 ## Recently Published
 
-**Team Fortress 2 VR Article** — Published 2026-03-22
-- Tier D verdict: A game quality, F/C VR implementation
-- Multi-Route Coverage: abandoned 2013 official VR mode + Virtual Fortress 2 community mod
-- Hero image: VR headset with RED/BLU lens reflections, faded character silhouettes
-- Live at: https://compoundvr.com/games/team-fortress-2
+**Tetris Effect: Connected VR** — Published 2026-03-29
+- S-tier verdict: Essential VR experience, audiovisual immersion masterpiece
+- Native VR: PSVR, PSVR2, Quest, PCVR with first-party support
+- PSVR2 is premium experience (headset haptics, eye tracking, 120fps)
+- Live at: https://compoundvr.com/games/tetris-effect
+
+**Space Pirate Trainer VR** — Published 2026-03-25
+- A-tier verdict: Foundational VR wave shooter, mechanically polished
+- Native VR: HTC Vive launch title (April 2016), Quest DX Edition adds multiplayer
+- Very comfortable — no artificial locomotion
+- Live at: https://compoundvr.com/games/space-pirate-trainer
+
+**DuckStation VR** — Published 2026-03-25 (Software Article)
+- NOT true VR — stereoscopic 3D wrapper via geo-11
+- No head tracking, no motion controls, just 3D depth on virtual screen
+- Recommendation: Enthusiasts Only
+- Live at: https://compoundvr.com/articles/duckstation-vr
