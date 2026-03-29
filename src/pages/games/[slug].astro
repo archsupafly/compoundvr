@@ -34,6 +34,18 @@ else tierClass = 'tier tier--large tier--f';
     <p class="lead">{game.data.description}</p>
 
     <div class="stats" style="margin-top:1.5rem;">
+      {game.data.flatReleaseDate && (
+        <div class="stat">
+          <div class="stat-label">Original Release</div>
+          <div class="stat-value">{game.data.flatReleaseDate.toISOString().slice(0, 10)}</div>
+        </div>
+      )}
+      {game.data.vrReleaseDate && (
+        <div class="stat">
+          <div class="stat-label">VR Release</div>
+          <div class="stat-value">{game.data.vrReleaseDate.toISOString().slice(0, 10)}</div>
+        </div>
+      )}
       <div class="stat">
         <div class="stat-label">Recommendation</div>
         <div class="stat-value">{game.data.recommendation}</div>

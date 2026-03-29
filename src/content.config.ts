@@ -46,6 +46,8 @@ const games = defineCollection({
     tier: z.enum(['S', 'A', 'B', 'C', 'D', 'F']).optional(),
     verdict: z.string(),
     heroImage: z.string().optional(),
+    flatReleaseDate: z.coerce.date().optional(),
+    vrReleaseDate: z.coerce.date().optional(),
   }),
 });
 
