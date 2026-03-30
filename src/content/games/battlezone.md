@@ -27,6 +27,7 @@ experienceTags:
 tier: B
 verdict: "Polished native VR tank combat that succeeds as a technical showcase while struggling to maintain long-term engagement. The cockpit experience is immersive, co-op is genuinely fun, and Classic Mode honors the 1980 original. But the procedural campaign reveals limitations quickly. Solid pickup at discount prices for VR enthusiasts who don't mind repetition."
 heroImage: /images/games/battlezone-hero.jpg
+flatReleaseDate: 1980-09-01
 vrReleaseDate: 2016-10-13
 ---
 
