@@ -69,6 +69,7 @@
 - Space Pirate Trainer VR (A-tier, March 25)
 - DuckStation VR software article (March 25)
 - The Legend of Zelda VR (A-tier, March 29)
+- Minesweeper VR (C-tier, March 29)
 
 **In Progress:**
 - Brand system implementation (Phase 1)
@@ -286,3 +287,10 @@ Return the file path when done.
 - No head tracking, no motion controls, just 3D depth on virtual screen
 - Recommendation: Enthusiasts Only
 - Live at: https://compoundvr.com/articles/duckstation-vr
+
+**Minesweeper VR** — Published 2026-03-29
+- C-tier verdict: Competent novelty, ultimately inessential
+- Multi-route coverage: SweeperVR, Minesweeper Peak VR, MineSweeper VR, VR Panel
+- Peak VR is free and mechanically interesting (3D adjacency)
+- RouteType: Multi-Route Coverage
+- Live at: https://compoundvr.com/games/minesweeper-vr
