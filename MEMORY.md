@@ -2,7 +2,7 @@
 
 **Project:** Flat-to-VR Mods / CompoundVR  
 **Managing Editor:** Richard  
-**Last Updated:** March 18, 2026
+**Last Updated:** March 29, 2026
 
 ---
 
@@ -65,12 +65,31 @@
 
 **Published:**
 - Half-Life 2 VR mod article (live on site)
+- Tetris Effect: Connected VR (S-tier, March 29)
+- Space Pirate Trainer VR (A-tier, March 25)
+- DuckStation VR software article (March 25)
+- The Legend of Zelda VR (A-tier, March 29)
 
 **In Progress:**
 - Brand system implementation (Phase 1)
 
 **Next Up:**
 - Additional game coverage per content opportunity map
+
+---
+
+## Key Decisions
+
+- **Logo:** v5 approved and in use
+- **Theme:** Dark, sophisticated, layered surfaces
+- **Content Model:** Canonical game pages with structured metadata
+- **Agent Workflow:** Archangel → Michael → Richard/Ian/Maya → Ship
+- **Release Date Tracking (added 2026-03-29):** Two fields on game cards:
+  - `flatReleaseDate` — Original flat game release (use franchise origin for games like Tetris, Zelda)
+  - `vrReleaseDate` — When VR support became available
+  - Native VR games only use vrReleaseDate (no flatReleaseDate)
+  - Display format: "Month DD, YYYY" (human-readable)
+- **Metadata cards removed (2026-03-29):** Recommendation (redundant with tier), Playability (inferred), Support (too hard to keep accurate)
 
 ---
 
