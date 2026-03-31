@@ -2,7 +2,7 @@
 
 Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
 
-**Published Games:** alien-isolation, batman-arkham-vr, battlezone, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, driveclub, duck-hunt, elite-dangerous, ethan-carter, euro-truck-simulator-2, eve-gunjack, eve-valkyrie, fear, garrys-mod, half-life, half-life-2, pac-man, pixel-ripped-1989, portal, project-cars, resident-evil-7, rez-infinite, super-mario-bros, superhot-vr, team-fortress-2, thumper, tie-fighter, 3dsen-vr
+**Published Games:** ace-combat-7, alien-isolation, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, virtual-boy (VRboy emulator), zelda
 
 ---
 
@@ -92,7 +92,7 @@ All games below are playable in VR via **3dSen VR** (real-time 2D-to-3D voxel tr
 | Contra | 1986 | 3dSen VR | High |
 | Jackal | 1986 | 3dSen VR | Research |
 | Legacy of the Wizard | 1986 | 3dSen VR | Research |
-| Legend of Zelda | 1986 | 3dSen VR | High |
+| Legend of Zelda | 1986 | 3dSen VR | ✅ DONE |
 | Metroid | 1986 | 3dSen VR | High |
 | Zelda II: The Adventure of Link | 1987 | 3dSen VR | High |
 | Castlevania II: Simon's Quest | 1987 | 3dSen VR | Research |
@@ -158,6 +158,16 @@ All games below are playable in VR via **Sega Genesis Classics** — official Se
 | Landstalker | 1992 | Sega Genesis Classics Hub | High |
 | Dynamite Headdy | 1994 | Sega Genesis Classics Hub | High |
 
+### VR Console Emulators
+Native VR emulators for console platforms—not flat games modified for VR, but VR-native emulator applications:
+
+| Console | Emulator | Platform | Status | Priority |
+|---------|----------|----------|--------|----------|
+| Virtual Boy (1995) | VRboy | Meta Quest (OpenXR) | ✅ DONE | Complete |
+| PlayStation 1 | PS1 Emulators | Quest (various) | Research | Multiple options exist |
+| Nintendo 64 | N64 Emulators | Quest (various) | Research | 3D native, potential VR |
+| Dreamcast | Dreamcast Emulators | Quest (various) | Research | 3D native, potential VR |
+
 ### 1993
 | Game | Year | VR Type | Priority |
 |------|------|---------|----------|
@@ -171,7 +181,8 @@ All games below are playable in VR via **Sega Genesis Classics** — official Se
 ### 1996
 | Game | Year | VR Type | Priority |
 |------|------|---------|----------|
-| Quake | 1996 | Mod (Quake VR source ports) | Research |
+| Quake | 1996 | Mod (Quake VR source ports) | ✅ DONE |
+| Tomb Raider | 1996 | Mod (OpenLara source port) | ✅ DONE |
 | Resident Evil | 1996 | Mod (Praydog REFramework) | Research |
 
 ### 1997
@@ -396,7 +407,7 @@ All games below are playable in VR via **Sega Genesis Classics** — official Se
 | Hellblade: Senua's Sacrifice | 2017 | Official | High |
 | Assassin's Creed Origins | 2017 | Mod (VorpX) | Research |
 | Resident Evil 7: Biohazard | 2017 | Official PSVR | ✅ DONE |
-| Subnautica | 2018 | Official | High |
+| Subnautica | 2018 | Official | ✅ DONE |
 | Yooka-Laylee | 2017 | Mod (VRGIN) | Research |
 | Night in the Woods | 2017 | Mod (VRGIN) | Research |
 | Kona | 2017 | Mod (VRGIN) | Research |
@@ -437,6 +448,7 @@ All games below are playable in VR via **Sega Genesis Classics** — official Se
 | Disco Elysium | 2019 | — | Text-heavy RPG, not VR |
 | Satisfactory | 2019 | Research | Unity, factory builder |
 | A Plague Tale: Innocence | 2019 | Research | Narrative action |
+| Ace Combat 7: Skies Unknown | 2019 | Mod (UEVR) | ✅ DONE |
 
 ### 2020
 | Game | Year | VR Type | Priority |
@@ -520,12 +532,12 @@ Games sorted by priority for coverage:
 12. **Hogwarts Legacy VR** (2023) — UEVR
 13. **Black Myth: Wukong VR** (2024) — UEVR
 14. **No Man's Sky VR** (2016) — Official
-15. **Subnautica VR** (2018) — Official
-16. **The Forest VR** (2014) — Official
-17. **Left 4 Dead 2 VR** (2009) — Community mod
-18. **Portal 2 VR** (2011) — Community mod
-19. **Risk of Rain 2 VR** (2020) — Community mod
-20. **Outer Wilds VR** (2019) — NomaiVR mod
+15. **The Forest VR** (2014) — Official
+16. **Left 4 Dead 2 VR** (2009) — Community mod
+17. **Portal 2 VR** (2011) — Community mod
+18. **Risk of Rain 2 VR** (2020) — Community mod
+19. **Outer Wilds VR** (2019) — NomaiVR mod
+20. **Vampire: The Masquerade - Bloodlines VR** (2004) — VorpX, cult classic RPG
 
 ---
 
@@ -568,4 +580,4 @@ Games known to work well with VorpX released before 2010:
 
 ---
 
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-03-31 (Virtual Boy/VRboy added)
