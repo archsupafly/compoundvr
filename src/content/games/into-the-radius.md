@@ -20,9 +20,9 @@ technicalTags:
 experienceTags:
   - Atmospheric
   - Hardcore
-score: 88
-tier: A
-verdict: "Into the Radius delivers one of the most cohesive survival-shooter experiences in VR. The gun handling is meticulous, the atmosphere genuinely tense, and the survival mechanics add weight to every decision. Quest players get a impressive port with visual compromises; PCVR players get the definitive version. A-tier for execution, not S-tier only because the slow-burn tension won't click for everyone."
+score: 82
+tier: B
+verdict: "Into the Radius delivers one of the most cohesive survival-shooter experiences in VR. The gun handling is meticulous, the atmosphere genuinely tense, and the survival mechanics add weight to every decision. Quest players get a impressive port with visual compromises; PCVR players get the definitive version. High B-tier — excellent execution, but the slow-burn tension and permadeath won't click for everyone."
 heroImage: /images/games/into-the-radius-vr-hero.jpg
 vrReleaseDate: 2020-07-20
 ---
@@ -138,7 +138,7 @@ Criticism centers on: navigation (no map, easy to get lost), slow pacing (some f
 
 ## Verdict
 
-Into the Radius is one of the best native VR games available. It earns A-tier not through spectacle but through execution. Everything serves the core loop: guns feel real, survival has weight, atmosphere creates genuine tension.
+Into the Radius is one of the best native VR games available. It earns high B-tier not through spectacle but through execution. Everything serves the core loop: guns feel real, survival has weight, atmosphere creates genuine tension.
 
 The Quest version widens accessibility without breaking the experience. PCVR remains definitive if you have the hardware.
 
@@ -159,4 +159,4 @@ If the premise — slow-burn survival shooter with meticulous gun handling in an
 | Quest Port | Impressive |
 | Value | High |
 
-**Overall: A-Tier (88/100)**
+**Overall: B-Tier (82/100)**
