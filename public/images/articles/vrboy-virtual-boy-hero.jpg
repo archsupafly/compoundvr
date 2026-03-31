@@ -1,0 +1,11 @@
+This file must be regenerated using the Python script.
+
+To generate the hero image:
+
+cd /home/antforce/compoundvr-project/scripts
+python3 generate_vrboy_hero.py
+
+Or specify a custom output path:
+python3 generate_vrboy_hero.py --output /path/to/output.jpg
+
+The image will be generated procedurally using PIL (Pillow).
