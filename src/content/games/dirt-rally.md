@@ -5,7 +5,7 @@ lastVerified: 2026-04-01T00:00:00
 featured: false
 routeType: Official VR Support
 platforms: ['PCVR', 'PSVR']
-recommendation: Essential
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
