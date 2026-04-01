@@ -7,7 +7,7 @@ routeType: Official VR Support
 platforms: ['PCVR', 'PSVR']
 recommendation: Essential
 playability: Fully Playable
-setupBurden: Minimal Setup
+setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
 comfort: Moderate Intensity
 performance: Moderate Demand
