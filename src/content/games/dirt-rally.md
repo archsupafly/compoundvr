@@ -28,7 +28,7 @@ experienceTags:
   - Pikes Peak
 tier: A
 verdict: "DiRT Rally is one of the best motorsports experiences in VR. The official implementation is clean, stable, and immersive. Essential for sim racing enthusiasts with a wheel."
-heroImage: /images/games/dirt-rally-vr-hero.jpg
+heroImage: '/images/games/dirt-rally-vr-hero.jpg'
 gameQuality: 9
 vrImplementation: 8
 ---
