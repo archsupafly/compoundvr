@@ -8,10 +8,10 @@ platforms: ['PCVR', 'PSVR']
 recommendation: Essential
 playability: Fully Playable
 setupBurden: Minimal Setup
-inputStyle: Wheel or Gamepad
+inputStyle: Gamepad Preferred
 comfort: Moderate Intensity
 performance: Moderate Demand
-supportStatus: Complete
+supportStatus: Active
 genres:
   - Racing
   - Simulation
