@@ -2,7 +2,7 @@
 
 Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
 
-**Published Games:** ace-combat-7, alien-isolation, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, virtual-boy (VRboy emulator), zelda
+**Published Games:** ace-combat-7, alien-isolation, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, virtual-boy (VRboy emulator), zelda
 
 ---
 
@@ -303,7 +303,7 @@ Native VR emulators for console platforms—not flat games modified for VR, but 
 |------|------|---------|----------|
 | The Elder Scrolls V: Skyrim | 2011 | Official (Skyrim VR) | **High** |
 | Portal 2 | 2011 | Mod (Portal 2 VR mod) | High |
-| Minecraft | 2011 | Official (Minecraft VR/Vivecraft) | **High** |
+|| Minecraft | 2011 | Official (Minecraft VR/Vivecraft) | ✅ DONE |
 | Kerbal Space Program | 2011 | Research | Unity, space sim, research VRGIN |
 | Battlefield 3 | 2011 | Mod (VorpX) | Research |
 | Saints Row: The Third | 2011 | Mod (VorpX) | Research |
@@ -580,4 +580,4 @@ Games known to work well with VorpX released before 2010:
 
 ---
 
-**Last Updated:** 2026-03-31 (Virtual Boy/VRboy added)
+**Last Updated:** 2026-04-01 (Minecraft VR published)
