@@ -3,7 +3,7 @@ title: "DiRT Rally VR"
 description: "One of the best rally sims ever made, with native VR support that puts you inside the cockpit. Official VR implementation from Codemasters, not a mod — complete with head tracking, realistic physics, and a PSVR-exclusive Co-Driver Mode."
 lastVerified: 2026-04-01T00:00:00
 featured: false
-routeType: Official VR Support
+routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']
 recommendation: Recommended
 playability: Fully Playable
