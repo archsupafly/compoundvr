@@ -2,7 +2,7 @@
 
 Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
 
-**Published Games:** ace-combat-7, alien-isolation, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, virtual-boy (VRboy emulator), zelda
+**Published Games:** ace-combat-7, alien-isolation, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, virtual-boy (VRboy emulator), zelda
 
 ---
 
@@ -227,7 +227,7 @@ Native VR emulators for console platforms—not flat games modified for VR, but 
 | Game | Year | VR Type | Priority |
 |------|------|---------|----------|
 | The Elder Scrolls III: Morrowind | 2002 | Mod (OpenMW-VR/VorpX, DX9 mod) | Research |
-| Star Wars: Knights of the Old Republic | 2002 | Mod (VorpX) | High |
+|| Star Wars: Knights of the Old Republic | 2002 | Mod (VorpX) | ✅ DONE |
 | Neverwinter Nights | 2002 | Mod (VorpX) | Research |
 | Tron 2.0 | 2002 | Mod (VorpX) | Research |
 
