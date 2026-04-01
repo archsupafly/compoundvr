@@ -78,33 +78,33 @@ All games below are playable in VR via **3dSen VR** (real-time 2D-to-3D voxel tr
 | Elevator Action | 1985 | 3dSen VR | Research |
 | Ghosts 'n Goblins | 1985 | 3dSen VR | Research |
 | Goonies | 1985 | 3dSen VR | Research |
-| Mario Bros. | 1985 | 3dSen VR | Research |
-| Battle City | 1985 | 3dSen VR | Research |
-| Bomberman | 1985 | 3dSen VR | Research |
-| City Connection | 1985 | 3dSen VR | Research |
-| Legend of Kage | 1985 | 3dSen VR | Research |
-| Super Mario Bros. | 1985 | 3dSen VR | High |
-| TwinBee | 1985 | 3dSen VR | Research |
-| Adventure Island | 1986 | 3dSen VR | Research |
-| Arkanoid | 1986 | 3dSen VR | Research |
-| Bubble Bobble | 1986 | 3dSen VR | Research |
-| Castlevania | 1986 | 3dSen VR | High |
-| Contra | 1986 | 3dSen VR | High |
-| Jackal | 1986 | 3dSen VR | Research |
-| Legacy of the Wizard | 1986 | 3dSen VR | Research |
-| Legend of Zelda | 1986 | 3dSen VR | ✅ DONE |
-| Metroid | 1986 | 3dSen VR | High |
-| Zelda II: The Adventure of Link | 1987 | 3dSen VR | High |
-| Castlevania II: Simon's Quest | 1987 | 3dSen VR | Research |
-| Final Fantasy | 1987 | 3dSen VR | Research |
-| Dragon Warrior I | 1987 | 3dSen VR | Research |
-| Mega Man | 1987 | 3dSen VR | Research |
-| Mike Tyson's Punch-Out!! | 1987 | 3dSen VR | Research |
-| Gradius | 1987 | 3dSen VR | Research |
-| Life Force | 1987 | 3dSen VR | Research |
-| Mega Man 2 | 1988 | 3dSen VR | Research |
-| Super Mario Bros. 3 | 1988 | 3dSen VR | High |
-| Tetris (Nintendo) | 1988 | 3dSen VR | Research |
+|| Mario Bros. | 1985 | 3dSen VR | Research |
+|| Battle City | 1985 | 3dSen VR | Research |
+|| Bomberman | 1985 | 3dSen VR | Research |
+|| City Connection | 1985 | 3dSen VR | Research |
+|| Legend of Kage | 1985 | 3dSen VR | Research |
+|| Super Mario Bros. | 1985 | 3dSen VR | ✅ DONE |
+|| TwinBee | 1985 | 3dSen VR | Research |
+|| Adventure Island | 1986 | 3dSen VR | Research |
+|| Arkanoid | 1986 | 3dSen VR | Research |
+|| Bubble Bobble | 1986 | 3dSen VR | Research |
+|| Castlevania | 1986 | 3dSen VR | ✅ DONE |
+|| Contra | 1986 | 3dSen VR | High |
+|| Jackal | 1986 | 3dSen VR | Research |
+|| Legacy of the Wizard | 1986 | 3dSen VR | Research |
+|| Legend of Zelda | 1986 | 3dSen VR | ✅ DONE |
+|| Metroid | 1986 | 3dSen VR | High |
+|| Zelda II: The Adventure of Link | 1987 | 3dSen VR | High |
+|| Castlevania II: Simon's Quest | 1987 | 3dSen VR | Research |
+|| Final Fantasy | 1987 | 3dSen VR | Research |
+|| Dragon Warrior I | 1987 | 3dSen VR | Research |
+|| Mega Man | 1987 | 3dSen VR | Research |
+|| Mike Tyson's Punch-Out!! | 1987 | 3dSen VR | Research |
+|| Gradius | 1987 | 3dSen VR | Research |
+|| Life Force | 1987 | 3dSen VR | Research |
+|| Mega Man 2 | 1988 | 3dSen VR | Research |
+|| Super Mario Bros. 3 | 1988 | 3dSen VR | High |
+|| Tetris (Nintendo) | 1988 | 3dSen VR | Research |
 | Duck Tales | 1989 | 3dSen VR | High |
 | Adventure of Lolo | 1989 | 3dSen VR | Research |
 | Dr. Mario | 1990 | 3dSen VR | Research |
