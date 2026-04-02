@@ -2,7 +2,7 @@
      2|
      3|Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
      4|
-     5|**Published Games:** ace-combat-7, alien-isolation, contra, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, until-dawn-rush-of-blood, virtual-boy (VRboy emulator), zelda
+     5|**Published Games:** ace-combat-7, alien-isolation, contra, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, mass-effect, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, until-dawn-rush-of-blood, virtual-boy (VRboy emulator), zelda
      6|
      7|---
      8|
