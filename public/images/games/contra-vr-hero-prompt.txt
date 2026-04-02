@@ -1,0 +1,21 @@
+Contra VR Hero Image Prompt
+============================
+
+Model: imagen-4.0-generate-001
+Aspect Ratio: 16:9 (1920x1080)
+Output: contra-vr-hero.jpg
+
+PROMPT:
+-------
+Cinematic wide shot of a voxel diorama jungle warfare scene viewed from first-person perspective. Blocky voxel soldier protagonist at foreground edge firing iconic spread gun with five-shot fan pattern spreading through dimensional space toward enemy targets. Deep layered jungle stage with platform structures extending into distance, rolling barrel tumbling through mid-ground. Deep navy #0b1020 atmospheric background with cyan #0ee7ff muzzle flash lighting accents. Editorial magazine cover quality, desaturated cinematic color grading, moody atmospheric fog. Angular geometric voxel 3dSen transformation aesthetic, standing at platform edge looking across the jungle canyon. Intense run-and-gun action composition, distant explosions silhouetted. High detail, professional concept art style, documentary photography aesthetic. NO text overlays, NO titles, NO subtitles, NO UI elements, NO watermarks, NO logos, NO person wearing headset, NO floating tech elements, NO promotional graphics, NO VR gimmicks, NO game HUD, NO on-screen text
+
+STYLE NOTES:
+------------
+- Editorial/cinematic documentary style (Wired/Engadget influence)
+- Voxel diorama aesthetic (3dSen VR transformation)
+- Deep navy #0b1020 background (brand color)
+- Cyan #0ee7ff accent lighting (brand color)
+- Desaturated cinematic color grading
+- First-person perspective (VR immersion without gimmicks)
+- Intense action, not promotional/marketing
+- No text overlays, no UI elements, no VR headset photos
