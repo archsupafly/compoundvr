@@ -2,7 +2,7 @@
 
 Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
 
-**Published Games:** ace-combat-7, alien-isolation, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, virtual-boy (VRboy emulator), zelda
+**Published Games:** ace-combat-7, alien-isolation, contra, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, virtual-boy (VRboy emulator), zelda
 
 ---
 
@@ -89,7 +89,7 @@ All games below are playable in VR via **3dSen VR** (real-time 2D-to-3D voxel tr
 || Arkanoid | 1986 | 3dSen VR | Research |
 || Bubble Bobble | 1986 | 3dSen VR | Research |
 || Castlevania | 1986 | 3dSen VR | ✅ DONE |
-|| Contra | 1986 | 3dSen VR | High |
+|| Contra | 1986 | 3dSen VR | ✅ DONE |
 || Jackal | 1986 | 3dSen VR | Research |
 || Legacy of the Wizard | 1986 | 3dSen VR | Research |
 || Legend of Zelda | 1986 | 3dSen VR | ✅ DONE |
@@ -580,4 +580,4 @@ Games known to work well with VorpX released before 2010:
 
 ---
 
-**Last Updated:** 2026-04-01 (Minecraft VR published)
+**Last Updated:** 2026-04-02 (Contra published)

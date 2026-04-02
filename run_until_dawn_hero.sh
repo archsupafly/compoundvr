@@ -1,4 +1,3 @@
 #!/bin/bash
 cd /home/antforce/compoundvr-project
-source .venv/bin/activate
-python3 scripts/generate_until_dawn_hero.py
+/home/antforce/compoundvr-project/.venv/bin/python3 run_hero_gen_now.py
