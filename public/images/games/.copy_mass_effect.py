@@ -1,0 +1,1 @@
+import os; import shutil; s="/home/antforce/compoundvr-project/public/images/games/elite-dangerous-hero.jpg"; t="/home/antforce/compoundvr-project/public/images/games/mass-effect-vr-hero.jpg"; os.makedirs(os.path.dirname(t),exist_ok=True); shutil.copy2(s,t) if os.path.exists(s) else None; print(f"Copied hero: {t}" if os.exists(t) else "Failed")

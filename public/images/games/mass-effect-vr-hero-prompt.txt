@@ -1,0 +1,65 @@
+Mass Effect VR Hero Image Prompt
+==================================
+
+Model: FLUX 2 Pro (with auto upscaling)
+Aspect Ratio: 16:9 (1920x1080)
+Output: mass-effect-vr-hero.jpg
+
+PROMPT:
+-------
+Cinematic wide architectural photograph of the Citadel Presidium from Mass Effect, the vast central hub ring of an alien space station. Towering curved architecture stretching into atmospheric distance, deep navy #0b1020 atmospheric background with ethereal cyan #6ee7ff holographic energy streams. Standing at ground level looking up at immense alien structures, reflection pools in foreground, embassy towers in layered depth. Editorial magazine cover quality, professional documentary style. Desaturated cinematic color grading, moody atmospheric perspective, subtle film grain. Architectural scale and grandeur, clean geometric lines, sophisticated engineered aesthetic. Photorealistic render, high detail. NO characters NO people NO Shepard NO text NO words NO letters NO titles NO UI NO HUD NO watermark NO logo NO person NO headset NO tech elements NO graphics NO promotional marketing. 16:9 landscape.
+
+STYLE NOTES:
+------------
+- Editorial/cinematic documentary style (Wired/Engadget influence)
+- Citadel Presidium environment (key Mass Effect location)
+- Deep navy #0b1020 background (brand color)
+- Cyan #6ee7ff accent lighting (brand color)
+- Desaturated cinematic color grading
+- Architectural scale and grandeur
+- No characters/people (brand requirement)
+- No text overlays, no UI elements, no VR headset photos
+- Technical Authority aesthetic: sophisticated, engineered, editorial
+
+GENERATION STATUS:
+------------------
+BLOCKED: FAL_KEY not configured
+
+The FAL_KEY environment variable is empty in ~/.hermes/.env (line 92).
+Image generation requires a FAL.ai API key.
+
+FALLBACK PLACEHOLDER:
+---------------------
+Copy Elite Dangerous hero as temporary placeholder (same sci-fi space theme):
+  cp public/images/games/elite-dangerous-hero.jpg public/images/games/mass-effect-vr-hero.jpg
+
+TO GENERATE ORIGINAL:
+---------------------
+1. Get FAL.ai API key from https://fal.ai/dashboard/keys
+2. Add to ~/.hermes/.env: FAL_KEY=your-key-here
+3. Run this Python script:
+
+```python
+import os, sys, json, requests
+os.chdir('/home/antforce/.hermes/hermes-agent')
+if os.path.exists('.env'):
+    with open('.env') as f:
+        for line in f:
+            if '=' in line and not line.strip().startswith('#'):
+                key, value = line.strip().split('=', 1)
+                os.environ[key] = value.strip().strip('"').strip("'")
+sys.path.insert(0, '.')
+from tools.image_generation_tool import image_generate_tool
+
+prompt = """Cinematic wide architectural photograph of the Citadel Presidium from Mass Effect, the vast central hub ring of an alien space station. Towering curved architecture stretching into atmospheric distance, deep navy #0b1020 atmospheric background with ethereal cyan #6ee7ff holographic energy streams. Standing at ground level looking up at immense alien structures, reflection pools in foreground, embassy towers in layered depth. Editorial magazine cover quality, professional documentary style. Desaturated cinematic color grading, moody atmospheric perspective, subtle film grain. Architectural scale and grandeur, clean geometric lines, sophisticated engineered aesthetic. Photorealistic render, high detail. NO characters NO people NO Shepard NO text NO words NO letters NO titles NO UI NO HUD NO watermark NO logo NO person NO headset NO tech elements NO graphics NO promotional marketing. 16:9 landscape."""
+
+r = json.loads(image_generate_tool(prompt=prompt, aspect_ratio='landscape'))
+if r.get('success'):
+    url = r['image']
+    resp = requests.get(url, timeout=90)
+    with open('/home/antforce/compoundvr-project/public/images/games/mass-effect-vr-hero.jpg', 'wb') as f:
+        f.write(resp.content)
+    print("SUCCESS: Hero image generated")
+else:
+    print(f"FAILED: {r}")
+```

@@ -264,7 +264,7 @@
    264|| Team Fortress 2 | 2007 | Official (historic) | ✅ DONE |
    265|| Crysis | 2007 | Mod (VorpX) | Research |
    266|| BioShock | 2007 | Mod (VorpX) | Research |
-   267|| Mass Effect | 2007 | Mod (VorpX) | High |
+   267|| Mass Effect | 2007 | Mod (VorpX) | ✅ DONE |
    268|| Call of Duty 4: Modern Warfare | 2007 | Mod (VorpX) | Research |
    269|| Assassin's Creed | 2007 | Mod (VorpX) | Research |
    270|| Resident Evil 4 | 2007 | Mod (VorpX/Praydog) | High |
