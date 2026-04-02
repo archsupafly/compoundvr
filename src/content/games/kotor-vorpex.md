@@ -3,14 +3,14 @@ title: "Star Wars: Knights of the Old Republic VR (2003)"
 description: "A legendary RPG reborn in VR through VorpX injection. The story holds up magnificently, but expect the compromises that come with non-native VR adaptation — geometry issues, HUD scaling challenges, and the fundamental disconnect between third-person design and VR head tracking."
 lastVerified: 2026-04-01
 featured: false
-routeType: VorpX Injection Mod
+routeType: Injection Driver
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable
 setupBurden: Advanced Setup
 inputStyle: Gamepad Preferred
-comfort: Good
-performance: Light Demand
+comfort: Comfortable
+performance: Efficient
 supportStatus: Stable but Quiet
 genres:
   - RPG
