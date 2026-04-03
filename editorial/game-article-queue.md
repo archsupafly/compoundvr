@@ -2,7 +2,7 @@
      2|
      3|Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
      4|
-     5|**Published Games:** ace-combat-7, alien-isolation, contra, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, mass-effect, metroid, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, skyrim-vr, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, until-dawn-rush-of-blood, virtual-boy (VRboy emulator), zelda
+     5|**Published Games:** ace-combat-7, alien-isolation, contra, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, mass-effect, metroid, minecraft, pac-man, portal, project-cars, quake, resident-evil-4, resident-evil-7, skyrim-vr, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, until-dawn-rush-of-blood, virtual-boy (VRboy emulator), zelda
      6|
      7|---
      8|
@@ -267,7 +267,7 @@
    267|| Mass Effect | 2007 | Mod (VorpX) | ✅ DONE |
    268|| Call of Duty 4: Modern Warfare | 2007 | Mod (VorpX) | Research |
    269|| Assassin's Creed | 2007 | Mod (VorpX) | Research |
-   270|| Resident Evil 4 | 2007 | Mod (VorpX/Praydog) | High |
+   270|| Resident Evil 4 | 2007 | Mod (VorpX/Praydog) | ✅ DONE |
    271|
    272|### 2008
    273|| Game | Year | VR Type | Priority |
@@ -581,4 +581,4 @@
    581|
    582|---
    583|
-   584|**Last Updated:** 2026-04-03 (Metroid published)   600|
+   584|**Last Updated:** 2026-04-03 (Resident Evil 4 published)   600|
