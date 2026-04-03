@@ -2,7 +2,7 @@
      2|
      3|Master list of game candidates for CompoundVR coverage, sorted by original release year (oldest to newest). Excludes games already published.
      4|
-     5|**Published Games:** ace-combat-7, alien-isolation, contra, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, mass-effect, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, skyrim-vr, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, until-dawn-rush-of-blood, virtual-boy (VRboy emulator), zelda
+     5|**Published Games:** ace-combat-7, alien-isolation, contra, daggerfall, dead-space, dear-esther, dishonored, doom, doom-3-bfg, duck-hunt, elite-dangerous, ethan-carter, fear, garrys-mod, half-life, half-life-2, jedi-knight-2, kotor-vorpex, mass-effect, metroid, minecraft, pac-man, portal, project-cars, quake, resident-evil-7, skyrim-vr, subnautica, super-mario-bros, team-fortress-2, thumper, tie-fighter, tomb-raider, until-dawn-rush-of-blood, virtual-boy (VRboy emulator), zelda
      6|
      7|---
      8|
@@ -93,7 +93,7 @@
     93| Jackal | 1986 | 3dSen VR | Research |
     94| Legacy of the Wizard | 1986 | 3dSen VR | Research |
     95| Legend of Zelda | 1986 | 3dSen VR | ✅ DONE |
-    96| Metroid | 1986 | 3dSen VR | High |
+|| Metroid | 1986 | 3dSen VR | ✅ DONE |
     97| Zelda II: The Adventure of Link | 1987 | 3dSen VR | High |
     98| Castlevania II: Simon's Quest | 1987 | 3dSen VR | Research |
     99| Final Fantasy | 1987 | 3dSen VR | Research |
@@ -581,4 +581,4 @@
    581|
    582|---
    583|
-   584|**Last Updated:** 2026-04-02 (Contra published)   600|
+   584|**Last Updated:** 2026-04-03 (Metroid published)   600|
