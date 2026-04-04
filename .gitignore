@@ -43,3 +43,7 @@ SOUL.md
 *.sh
 !
 site/
+
+# Hero generation request files (internal workflow)
+*-hero-gen-request.md
+.hero-gen/
