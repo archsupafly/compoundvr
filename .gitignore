@@ -22,3 +22,24 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# --- OpenClaw / project ops (should never be in site repo) ---
+.openclaw/
+.venv/
+__pycache__/
+.vscode/
+tmp/
+.claude-temp-*
+
+# Internal project/ops folders (live in compoundvr ops repo, not here)
+design/
+research/
+editorial/
+TEAM.md
+SOUL.md
+
+# Dev scripts and temp files (not needed for site build)
+*.py
+*.sh
+!
+site/
