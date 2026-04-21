@@ -127,8 +127,6 @@ Once running, crashes are infrequent but not unknown. Save often. The biggest ri
 
 ## The Verdict
 
-## The Verdict
-
 **Tier: B**
 
 **Game Quality: A**
