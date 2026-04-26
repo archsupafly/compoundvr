@@ -1,7 +1,7 @@
 ---
 title: "Gunstar Heroes VR"
 description: "Gunstar Heroes, Treasure's legendary run-and-gun masterpiece, is playable in VR through the Sega Genesis Classics virtual bedroom. Here's why this delisted official VR experience is still worth seeking out for existing owners."
-lastVerified: 2026-04-24
+lastVerified: 1993-06-10
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

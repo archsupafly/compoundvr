@@ -1,7 +1,7 @@
 ---
 title: "Eagle Flight VR"
 description: "A VR-native flight game where you play as an eagle soaring over a stunning recreation of Paris — one of the most comfortable and polished early VR experiences that still holds up today."
-lastVerified: 2026-04-02
+lastVerified: 2016-10-13
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

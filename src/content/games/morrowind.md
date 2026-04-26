@@ -1,7 +1,7 @@
 ---
 title: "Morrowind VR"
 description: "The Elder Scrolls III stands as one of the deepest RPGs ever made, and two competing VR routes — a community-built engine with motion controls and a stereoscopic injection driver — deliver wildly different experiences of Vvardenfell."
-lastVerified: 2026-04-25
+lastVerified: 2002-05-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

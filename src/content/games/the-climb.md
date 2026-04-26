@@ -1,7 +1,7 @@
 ---
 title: "The Climb VR"
 description: "A visceral VR climbing experience from Crytek that translates free solo ascent into full-body tension, stunning vistas, and vertigo that demands respect."
-lastVerified: "2026-04-04"
+lastVerified: 2016-04-05
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Quest']

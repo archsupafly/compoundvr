@@ -1,7 +1,7 @@
 ---
 title: "Borderlands 2 VR"
 description: "The definitive looter-shooter gets a VR port that nails the scale of Pandora but strips away the co-op soul that made the franchise great."
-lastVerified: 2026-04-04
+lastVerified: 2019-10-01
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

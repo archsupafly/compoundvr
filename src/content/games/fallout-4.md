@@ -1,7 +1,7 @@
 ---
 title: "Fallout 4 VR"
 description: "Bethesda's official VR port is one of the biggest RPGs in virtual reality, but it's also one of the most demanding and technically troubled."
-lastVerified: "2026-04-09"
+lastVerified: 2017-12-11
 featured: false
 routeType: "Official Standalone VR Version"
 platforms: ['PCVR']

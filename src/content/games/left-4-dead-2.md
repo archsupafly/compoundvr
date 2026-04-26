@@ -1,7 +1,7 @@
 ---
 title: "Left 4 Dead 2 VR"
 description: "Valve's co-op zombie masterpiece gets a full VR conversion that captures the chaos—if you can handle the setup and occasional jank."
-lastVerified: 2026-04-06
+lastVerified: 2009-11-17
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

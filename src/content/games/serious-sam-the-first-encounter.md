@@ -1,7 +1,7 @@
 ---
 title: "Serious Sam: The First Encounter VR"
 description: "Croteam's legendary horde shooter gets an official VR port with dual-wielding and multiple locomotion options — a chaotic, satisfying blast that shows its age in places."
-lastVerified: 2026-04-22
+lastVerified: 2017-03-01
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR']

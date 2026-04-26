@@ -1,7 +1,7 @@
 ---
 title: "Vampire: The Masquerade - Bloodlines VR"
 description: "A cult classic RPG gets the VorpX treatment, bringing Los Angeles' darkest corners into your headset with head tracking and stereoscopic 3D."
-lastVerified: 2026-04-09
+lastVerified: 2013-08-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']
