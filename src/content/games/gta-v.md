@@ -1,7 +1,7 @@
 ---
 title: "Grand Theft Auto V in VR: The Mod That Proved It Could Work"
 description: "An abandoned injection mod that still delivers one of the most ambitious open-world VR experiences available, if you're willing to wrestle with the setup."
-lastVerified: 2026-04-06
+lastVerified: 2021-07-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "Death Stranding in VR: Walking Across America, Actually Across America"
 description: "An injection mod that transforms Kojima's traversal epic into an unparalleled VR hiking experience—if you can stomach the setup and the motion sickness."
-lastVerified: 2026-04-20
+lastVerified: 2021-03-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

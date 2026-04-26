@@ -1,7 +1,7 @@
 ---
 title: "Heavy Metal FAKK 2 VR"
 description: "A cult-classic Quake III engine action game with striking art direction and creative combat — but VorpX injection delivers a limited VR transformation, no motion controls, availability concerns, and significant modern compatibility hurdles make this an enthusiasts-only proposition."
-lastVerified: 2026-04-17
+lastVerified: 2013-08-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

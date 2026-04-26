@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil 4 (Original) in VR"
 description: "The 2005 classic that reinvented survival horror can be experienced in VR through VorpX injection—limited but atmospheric. The PC versions struggle with technical debt, making this a journey for committed enthusiasts only."
-lastVerified: 2026-04-03
+lastVerified: 2013-08-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

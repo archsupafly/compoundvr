@@ -1,7 +1,7 @@
 ---
 title: "The Witcher 3: Wild Hunt VR"
 description: "Experience one of gaming's greatest RPGs in stereoscopic VR—but know what you're signing up for."
-lastVerified: "2025-04-08"
+lastVerified: 2021-05-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "American McGee's Alice VR"
 description: "A dark reimagining of Wonderland through the lens of a VorpX injection driver—atmosphere that haunts, gameplay that frustrates, and a VR experience that exists somewhere between novelty and genuine immersion."
-lastVerified: 2026-04-11
+lastVerified: 2013-08-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

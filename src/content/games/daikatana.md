@@ -1,7 +1,7 @@
 ---
 title: "Daikatana VR"
 description: "The notorious 2000 FPS gets stereoscopic VR through VorpX injection, offering a curious historical detour but little practical value for VR players."
-lastVerified: "2026-04-16"
+lastVerified: 2013-08-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

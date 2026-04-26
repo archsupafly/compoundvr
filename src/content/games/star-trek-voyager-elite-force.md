@@ -1,7 +1,7 @@
 ---
 title: "Star Trek Voyager: Elite Force VR"
 description: "A classic Star Trek FPS gets VorpX stereoscopic injection — functional but fundamentally limited, like playing a flat game inside a headset."
-lastVerified: 2026-04-19
+lastVerified: 2013-08-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "Marvel's Spider-Man VR"
 description: "Swinging through Manhattan in stereoscopic VR via Luke Ross's R.E.A.L. mod—an ambitious injection that delivers the thrill of the skyline but demands serious hardware and tolerance for instability."
-lastVerified: 2026-04-17
+lastVerified: 2023-03-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']
