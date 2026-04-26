@@ -35,7 +35,7 @@ score: 55
 
 Sonic the Hedgehog is one of the most important video games ever made. The 1991 Genesis platformer defined speed-based gameplay, spawned an enduring franchise, and remains genuinely excellent decades later. But what happens when you take this 2D masterpiece and place it inside a VR wrapper? The Sega Genesis Classics Hub offered an answer: a virtual 90s bedroom where you could play Sonic and dozens of other Genesis games on a simulated CRT television. It was an atmospheric novelty, not a transformative VR experience — and now, following its delisting in December 2024, it's no longer available to new buyers at all.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The Sega Genesis Classics Hub was an official VR mode added to Sega's Genesis Classics collection. It transported players into a faithfully recreated 90s bedroom complete with period-appropriate decor, posters, and furniture. The centerpiece was a virtual CRT television where you could play any of the 50+ included Genesis games — including Sonic the Hedgehog, Sonic 2, Altered Beast, Streets of Rage, and many others.
 

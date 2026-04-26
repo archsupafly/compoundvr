@@ -41,7 +41,7 @@ But love only goes so far. The Source engine was never designed for VR, and the 
 
 The question is whether the payoff justifies the friction. For many, it absolutely does.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The Left 4 Dead 2 VR mod is a **full VR conversion** developed specifically for the Source engine. Unlike universal frameworks such as UEVR or REFramework—which only work with Unreal Engine and RE Engine games respectively—this mod is purpose-built for Left 4 Dead 2.
 
@@ -142,12 +142,14 @@ Left 4 Dead 2 in VR delivers genuine thrills that justify the setup effort for t
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-- **GitHub Repository:** sd805/l4d2vr — Primary mod source, release notes, installation instructions
-- **YouTube Channels:** Beardo Benjo (early prototype coverage), Gamertag VR (multiplayer attempts), various L4D2 VR gameplay demonstrations
-- **Flat2VR Community:** Discord server and Notion documentation for mod status and troubleshooting
-- **Reddit:** r/left4dead2vr, r/virtualreality, r/l4d2 — Community reports on comfort, stability, and setup issues
-- **Steam Workshop:** Curated VR enhancement collections and community fixes
+- sd805/l4d2vr — Primary mod source, release notes, installation instructions
+- Beardo Benjo (early prototype coverage), Gamertag VR (multiplayer attempts), various L4D2 VR gameplay demonstrations
+- Discord server and Notion documentation for mod status and troubleshooting
+- r/left4dead2vr, r/virtualreality, r/l4d2 — Community reports on comfort, stability, and setup issues
+- Curated VR enhancement collections and community fixes
+- No direct testing was performed for this article. All assessments derive from community documentation, video footage, and reported user experiences as of April 2026.
 
-**Note:** No direct testing was performed for this article. All assessments derive from community documentation, video footage, and reported user experiences as of April 2026.
+</details>

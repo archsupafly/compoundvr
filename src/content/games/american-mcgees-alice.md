@@ -41,7 +41,7 @@ The question isn't whether this game is worth experiencing. It's whether experie
 
 The short answer: VorpX brings Wonderland closer, but it doesn't fix what was always broken about the game underneath. The atmosphere benefits enormously from stereoscopic depth and the sense of occupying the same space as Alice's nightmares. The platforming, unfortunately, remains as finicky and frustrating as it was in 2000—and that's a problem when you're trying to judge distances in three dimensions.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 This is a **VorpX injection driver experience**, which means you're getting stereoscopic 3D rendering and head tracking but no motion controls, no native VR UI, and no room-scale support. American McGee's Alice is officially supported in VorpX's game database, which means the injection driver recognizes the game and applies appropriate stereoscopic settings automatically.
 
@@ -179,37 +179,27 @@ This is a curiosity for enthusiasts, not a recommendation for general audiences.
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-**YouTube Channels Referenced:**
 - VRified Games (configuration tutorials and first-person VorpX setup for Alice)
 - General VorpX community content demonstrating third-person implementation
-
-**Documentation:**
 - VorpX official supported games list (American McGee's Alice listed)
 - VorpX forums regarding third-person game configuration and Immersive Screen mode recommendations
-
-**Community Reports:**
 - r/virtualreddit discussions on Alice VR experiences
 - r/AliceMadnessReturns subreddit regarding VorpX implementation
 - r/oculus user experiences with VorpX and third-person titles
-
-**Articles/Technical Sources:**
 - Wikipedia entry for American McGee's Alice (engine, release history)
 - Fan wiki documentation regarding 2000 vs 2011 re-release differences
 - Nexus Mods community regarding HD texture packs and VorpalFix patches
-
-**Claims from Training Data (Verified Against Current Sources):**
 - id Tech 3 engine specifications confirmed
 - Game release history and re-release information cross-referenced
 - Basic gameplay mechanics and critical reception verified against archived reviews
-
-**Confidence Assessment:**
 - Game details and engine: High confidence
 - VorpX implementation: High confidence (officially supported)
 - Gameplay quality assessment: High confidence (broad critical consensus)
 - VR experience specifics: Moderate confidence (based on VorpX third-person general behavior and community reports)
+- ---
+- *Last Updated: 2026-04-11*
 
----
-
-*Last Updated: 2026-04-11*
+</details>

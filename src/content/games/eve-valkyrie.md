@@ -38,7 +38,7 @@ For a while, it delivered. The head-tracking targeting system, where you lock on
 
 Then the servers shut down in August 2022. The game is now functionally dead, kept alive only through community workarounds that unlock limited solo content. What remains is a historical artifact, not a playable experience.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 EVE: Valkyrie is an **Official Standalone VR Version** — a native VR game that later expanded to include non-VR play. It launched as VR-only and remained that way for 16 months until the Warzone update in September 2017 added support for flat-screen play on PC and PlayStation, with cross-play between VR and non-VR players.
 

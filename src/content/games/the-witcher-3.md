@@ -36,7 +36,7 @@ heroImage: /images/games/the-witcher-3-vr-hero.jpg
 
 Stepping into the Continent in VR is both exactly what you imagine and nothing like you hoped. The Witcher 3: Wild Hunt is widely regarded as one of the finest role-playing games ever crafted—an expansive fantasy epic with rich storytelling, morally complex choices, and a world that rewards exploration. In VR, courtesy of Luke Ross's R.E.A.L. injection driver, that world becomes stereoscopic and head-tracked. But VR is not a magic spell that transforms flat games into native experiences, and The Witcher 3's VR implementation is a reminder that technical execution and design intent matter enormously.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The Witcher 3 VR implementation is an **injection driver**—specifically, Luke Ross's R.E.A.L. (Real-time Environment and Lighting) driver. This is not a mod with motion controls, reworked interactions, or VR-native design. It is a stereoscopic 3D wrapper that adds head tracking to a game built for monitors.
 

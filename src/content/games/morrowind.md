@@ -1,6 +1,6 @@
 ---
 title: "Morrowind VR"
-description: "The Elder Scrolls III stands as one of the deepest RPGs ever made, and two competing VR routes — a community-built engine with motion controls and a stereoscopic injection driver — deliver wildly different experiences of Vvardenfell."
+description: "The Elder Scrolls III stands as one of the deepest RPGs ever made, and two competing VR options — a community-built engine with motion controls and a stereoscopic injection driver — deliver wildly different experiences of Vvardenfell."
 lastVerified: 2002-05-01
 featured: false
 routeType: Full VR Mod
@@ -123,7 +123,8 @@ Morrowind's world is worth experiencing in VR for anyone who loves the game and 
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - OpenMW official repository and documentation (gitlab.com/OpenMW/openmw)
 - VorpX official features page and supported games list (vorpx.com)
@@ -133,3 +134,5 @@ Morrowind's world is worth experiencing in VR for anyone who loves the game and 
 - Steam community discussions for Morrowind — general player discourse, no VR-specific threads surfaced
 - Training data: OpenMW-VR fork history (Port2VR/openmw-vr on GitLab), VorpX DX9 mod requirement for Morrowind, community reception patterns from Flat2VR community knowledge
 - Note: Several primary sources (GitLab wiki, OpenMW forum, Reddit) were inaccessible due to bot protection; claims about OpenMW-VR's capabilities and status are based on available documentation and established community knowledge
+
+</details>

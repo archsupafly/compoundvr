@@ -39,7 +39,7 @@ vrReleaseDate: null
 
 Some games earn their reputation. Daikatana, John Romero's notoriously troubled 2000 shooter built on the Quake II engine, carries one of the most damned legacies in FPS history. Delayed repeatedly, marketed with hubris, and released to critical disappointment, it represents an era when ambition outpaced execution. The VorpX injection driver can push this artifact into stereoscopic 3D with head tracking support—but the question isn't whether it's possible. It's whether anyone should bother.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 This is a **VorpX injection driver profile**, not a native VR implementation or community mod. VorpX sits between the game and your headset, intercepting Direct3D calls to create stereoscopic 3D imagery while mapping mouse look to head tracking. It does not modify the game itself.
 
@@ -118,29 +118,22 @@ Daikatana in VR is a historical curiosity, not a recommendation. The VorpX route
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-**YouTube Channels Reviewed:**
 - General VorpX setup and Quake II engine injection tutorials from VR Grid and Paradise's Decay
 - Daikatana retrospective coverage from various gaming history channels (flat content, not VR-specific)
-
-**Community Sources:**
 - VorpX official game list and profile documentation
 - Flat2VR Discord general injection driver discussion (no direct quotes, trend analysis only)
 - Reddit r/vorpX historical posts regarding Quake II engine compatibility
-
-**Documentation:**
 - VorpX official documentation on FullVR vs Cinema modes
 - Quake II engine technical specifications and VR compatibility notes
-
-**Training Data Cross-Reference:**
 - Daikatana (2000) critical reception and design history
 - John Romero and Ion Storm development context
 - VorpX injection driver capabilities and limitations
-
-**Evidence Confidence:**
 - VorpX profile existence and basic functionality: High (documented in VorpX materials)
 - Specific Daikatana VR user experience details: Moderate (limited specific reporting, extrapolated from Quake II engine behavior and general VorpX patterns)
 - Game quality assessment: High (extensive historical critical consensus)
+- This article was compiled from research and documentation. No direct hands-on testing was performed. Evidence scope is noted above.
 
-**Testing Disclosure:** This article was compiled from research and documentation. No direct hands-on testing was performed. Evidence scope is noted above.
+</details>

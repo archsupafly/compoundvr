@@ -42,7 +42,7 @@ This is a game for tinkerers, not tourists.
 
 ---
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Fallout 4 VR is an **official standalone VR version** sold separately on Steam. It is not a mod, not a framework injection, and not a hybrid afterthought. Bethesda rebuilt the 2015 flat game with native VR support: full motion controller implementation, room-scale tracking, seated and standing play modes, and VR-specific interface adaptations.
 

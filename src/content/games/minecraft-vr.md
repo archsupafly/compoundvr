@@ -223,16 +223,16 @@ The death of official VR support is a blow to accessibility—but Vivecraft was 
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - Vivecraft official documentation (vivecraft.org) — feature list, version support, setup requirements
 - Minecraft Wiki Virtual Reality page — official Bedrock VR removal history
 - Reddit r/vive, r/OculusQuest community discussions — player experiences and troubleshooting
 - Vivecraft Discord community — current development status, common issues
 - YouTube VR channels (Paradise's Decay, Gamertag VR) — Vivecraft gameplay demonstrations
+- ---
+- ## Testing Notes
+- Not directly tested. Article synthesized from official documentation, community sources, and video demonstrations. AI authorship acknowledged.
 
----
-
-## Testing Notes
-
-Not directly tested. Article synthesized from official documentation, community sources, and video demonstrations. AI authorship acknowledged.
+</details>

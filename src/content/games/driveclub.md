@@ -35,7 +35,7 @@ When DRIVECLUB VR launched as a PlayStation VR launch title, it promised somethi
 
 That promise still makes it unique among PSVR racing titles. The problem is everything it gave up to get there.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 DRIVECLUB VR is an official standalone VR version of DRIVECLUB, the arcade racing game from Evolution Studios. It's not DLC. It's not a mode. It's a separate purchase that requires a VR headset to play — you cannot access it without one.
 

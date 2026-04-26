@@ -40,7 +40,7 @@ In VR, that agency gets physical. You're not pressing a button to swing a lights
 
 ---
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 JK XR is an OpenXR-based engine port built on top of the OpenJK project, which itself is an open-source continuation of Raven Software's original id Tech 3 (Quake III Arena engine) code [Documentation]. Team Beef — the same group behind QuestDoom, QuakeQuest, Return to Castle Wolfenstein VR, and the Jedi Outcast port — handles the VR adaptation. The project is available on SideQuest for Meta Quest and Pico headsets, and via GitHub releases for PCVR [Documentation].
 
@@ -125,9 +125,12 @@ Jedi Academy in VR is the Star Wars fantasy delivered. It's not a tech demo or a
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-- **Documentation:** Team Beef JK XR GitHub repository (github.com/Team-Beef-Studios/JKXR), SideQuest listing, README and feature documentation
-- **Community Reports:** Flat2VR Discord discussions of JK XR performance and stability, Reddit r/OculusQuest and r/vive threads on JKXR setup experiences
-- **Video Evidence:** YouTube VR gameplay footage from Beardo Benjo and Gamertag VR channels covering JK XR Jedi Academy gameplay
-- **Training Data:** General knowledge of Jedi Academy's game design, mission structure, and multiplayer community — verified against current sources
+- Team Beef JK XR GitHub repository (github.com/Team-Beef-Studios/JKXR), SideQuest listing, README and feature documentation
+- Flat2VR Discord discussions of JK XR performance and stability, Reddit r/OculusQuest and r/vive threads on JKXR setup experiences
+- YouTube VR gameplay footage from Beardo Benjo and Gamertag VR channels covering JK XR Jedi Academy gameplay
+- General knowledge of Jedi Academy's game design, mission structure, and multiplayer community — verified against current sources
+
+</details>

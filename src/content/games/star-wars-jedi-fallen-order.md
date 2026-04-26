@@ -39,7 +39,7 @@ vrReleaseDate: 2024-02-01
 
 The idea of wielding a lightsaber in virtual reality has driven VR adoption since headsets first hit consumer shelves. While Beat Saber and Vader Immortal scratched that itch, Star Wars Jedi: Fallen Order offers something different: a full, narrative-driven action-adventure where you play as a genuine Jedi Padawan-turned-Knight with force powers, wall-running, and meaningful exploration through the Star Wars galaxy. Through Praydog's Universal Unreal Engine VR Mod (UEVR), this third-person adventure transforms into something surprisingly immersive — though it remains a third-person experience at its core.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 This is a **Framework-Based** VR implementation via [UEVR](https://flat2vr.com), Praydog's Universal Unreal Engine injection mod that converts Unreal Engine 4 and 5 games into full stereoscopic VR experiences. [Verified] Unlike injection drivers like VorpX that only provide head tracking and stereoscopic 3D, UEVR delivers full 6DOF (six degrees of freedom) tracking, proper world scale, and — in the case of Jedi: Fallen Order — a compelling third-person VR perspective that puts you directly behind Cal Kestis.
 

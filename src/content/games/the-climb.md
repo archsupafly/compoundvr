@@ -38,7 +38,7 @@ Welcome to *The Climb*.
 
 Crytek's 2016 release didn't invent VR climbing, but it perfected the sensation—turning what could have been a mini-game into a full-body experience that captures something essential about virtual reality that flat screens cannot touch. This isn't about pressing a button to ascend. It's about reaching, grasping, pulling, and managing the quiet panic that sets in when the summit feels impossibly distant and your forearms are starting to burn.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 *The Climb* is a **native VR experience**, developed from the ground up for virtual reality by Crytek, the studio behind *Crysis* and *Far Cry*. This is not a mod or a port—it's built explicitly for hand presence and room-scale immersion.
 

@@ -36,7 +36,7 @@ heroImage: /images/games/vampire-the-masquerade-bloodlines-vr-hero.jpg
 
 There are games that age gracefully, and then there is *Vampire: The Masquerade - Bloodlines* — a title that launched broken, was rescued by its community, and has persisted as one of the most beloved RPGs ever made. Troika Games' 2004 immersive sim trades polish for ambition, offering a seedy, choice-drenched tour through Los Angeles' vampire underworld that still has no equal two decades later. Playing it in VR via VorpX injection does not fix its problems. What it does is bring you face-to-face with the game's singular atmosphere, for better and occasionally for worse.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 This is a VorpX injection driver implementation, which means stereoscopic 3D rendering and head tracking layered over a game that was never built for virtual reality. There are no motion controls. There is no hand presence. The UI remains flat, floating at a fixed distance. What you get is the original PC experience viewed through a headset, with the ability to look around naturally and a convincing sense of depth in the game's environments.
 
@@ -93,18 +93,18 @@ This is worth doing if you love the game enough to forgive its friction. The VR 
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-**Research Sources:**
 - VorpX Forums — community profiles and configuration discussion for *Bloodlines*
 - Reddit r/virtualreality, r/VRGaming, r/vtmb — user experience reports and troubleshooting
 - RPGFan, Grimdark Magazine, IGN — historical coverage of the base game's quality and legacy
 - Steam Community — player reports on VorpX compatibility
-
-**Key Findings:**
 - VorpX provides stereoscopic 3D and head tracking; no motion controls
 - Dialogue/cutscene camera zoom is a persistent comfort issue
 - Third-person switches during feeding cannot be prevented
 - Gamepad recommended over keyboard/mouse for comfort
 - Unofficial community patch is mandatory for optimal experience
 - User experiences range from "fully justified the cost of VorpX" to frustrated troubleshooting
+
+</details>

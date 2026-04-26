@@ -152,7 +152,7 @@ Castlevania in 3dSen VR runs perfectly across all platforms:
 
 ### Precision Platforming
 
-Castlevania is notorious for its demanding platformer—Simon's jump arc is fixed, and landing precision matters. Each VR route handles this differently:
+Castlevania is notorious for its demanding platformer—Simon's jump arc is fixed, and landing precision matters. Each VR option handles this differently:
 
 **3dSen VR:**
 - Fixed camera angle ensures depth perception matches classic gameplay

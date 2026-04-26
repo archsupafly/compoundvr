@@ -36,7 +36,7 @@ heroImage: /images/games/gta-v-vr-hero.jpg
 
 There are VR mods that feel like experiments, and then there are VR mods that feel inevitable. The Luke Ross R.E.A.L. injection for Grand Theft Auto V falls somewhere in between—technically impressive, genuinely transformative, and frustratingly precarious all at once. What you get is nothing less than one of the largest, most detailed open worlds ever built, suddenly filling your field of view. What you give up is stability, simplicity, and any illusion that this was meant to work this way.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The R.E.A.L. VR mod is an injection driver developed by Luke Ross that converts GTA V's standard first-person and third-person camera into a fully head-tracked VR experience. It does not transform the game into a native VR title—there are no motion controls, no hand presence, no redesigned UI, and no VR-specific interactions. What it does provide is stereoscopic 3D rendering and full six-degrees-of-freedom head tracking, effectively turning your headset into a viewport into Los Santos.
 
@@ -123,12 +123,14 @@ It is not for everyone. It is arguably not for most. But for those it is for, th
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - YouTube VR channels: Beardo Benjo, Gamertag VR, Ian from Eurogamer (general GTA VR coverage)
 - Reddit: r/virtualreality, r/GTAV, r/ValveIndex (community reports on compatibility, comfort, setup)
 - Flat2VR Discord (community knowledge base)
 - Road to VR, GamesRadar, PC Gamer (mod status, DMCA coverage, developer interviews)
 - Rockstar Games official channels (no official VR support confirmed)
+- *Article written following CompoundVR editorial standards. No direct testing performed—assessment based on community reports and media coverage.*
 
-*Article written following CompoundVR editorial standards. No direct testing performed—assessment based on community reports and media coverage.*
+</details>

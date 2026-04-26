@@ -41,7 +41,7 @@ But you're not here for a retro game review. You're here because someone told yo
 
 The question is whether that constitutes a meaningful VR experience. The short answer: it's a charming novelty with serious practical problems, chief among them that the entire collection was delisted from Steam in December 2024.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 This is **not** a VR mod for Sonic 3 & Knuckles. There are no motion controls, no hand presence, no volumetric world, and no 3D conversion of the game itself. Sonic 3 & Knuckles in VR means:
 
@@ -59,10 +59,10 @@ This is the elephant in the room. Sega delisted the entire Genesis Classics coll
 
 - You **cannot purchase** the Sega Genesis Classics Hub or Sonic 3 & Knuckles on Steam anymore
 - If you already own it in your Steam library, it still downloads and runs
-- If you don't own it, there is no legitimate way to acquire this specific VR route
+- If you don't own it, there is no legitimate way to acquire this specific VR option
 - No alternative VR pathway for Sonic 3 & Knuckles currently exists (Sonic Origins has no VR support)
 
-This fundamentally limits the recommendation. A VR route that can't be purchased is a closed door for new users.
+This fundamentally limits the recommendation. A VR option that can't be purchased is a closed door for new users.
 
 ## How It Plays
 
@@ -100,7 +100,7 @@ The Hub itself is stable when it runs. The VR mode was added as a feature update
 
 **This is not a VR game.** It's a flat game displayed in a VR room. The VR layer contributes atmosphere, not gameplay. You get no spatial presence inside Sonic's world, no depth perception of the levels, no sense of scale. Angel Island Zone is still a 2D plane. The VR headset is serving as an elaborate monitor stand.
 
-**You can't buy it.** The delisting makes this a dead VR route for anyone who doesn't already own it. Recommending a product that requires gray-market keys or existing library access is not sustainable editorial practice.
+**You can't buy it.** The delisting makes this a dead VR option for anyone who doesn't already own it. Recommending a product that requires gray-market keys or existing library access is not sustainable editorial practice.
 
 **The bedroom gets old.** The novelty of the virtual room wears off after the first session. Once you've looked around the shelves and appreciated the aesthetic, you're left with the realization that you're wearing a VR headset to play a 2D game that would look and control identically on your actual monitor — without the headset's weight, resolution limitations, or battery overhead.
 
@@ -136,9 +136,12 @@ A legendary game rendered inaccessible by delisting and presented in a VR wrappe
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-- **Wikipedia — Sega Genesis Classics**: Collection details, Hub description, VR support confirmation, delisting timeline (December 2024), Sonic titles removal (May 2022) [Verified]
-- **Wikipedia — Sonic the Hedgehog 3 & Knuckles**: Game design, lock-on mechanics, critical reception, development history [Verified]
-- **Steam Community / User Reports**: Hub VR mode functionality, gamepad input during VR play, CRT filter behavior, Workshop ROM hack support [Community Reports — Hearsay]
-- **Training data**: Sega Genesis Classics Hub VR bedroom design details, room interaction model, CRT scanline simulation quality, performance characteristics [Training Data — unverified against current build]
+- Wikipedia — Sega Genesis Classics: Collection details, Hub description, VR support confirmation, delisting timeline (December 2024), Sonic titles removal (May 2022) [Verified]
+- Wikipedia — Sonic the Hedgehog 3 & Knuckles: Game design, lock-on mechanics, critical reception, development history [Verified]
+- Steam Community / User Reports: Hub VR mode functionality, gamepad input during VR play, CRT filter behavior, Workshop ROM hack support [Community Reports — Hearsay]
+- Training data: Sega Genesis Classics Hub VR bedroom design details, room interaction model, CRT scanline simulation quality, performance characteristics [Training Data — unverified against current build]
+
+</details>

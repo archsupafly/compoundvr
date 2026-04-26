@@ -34,7 +34,7 @@ heroImage: /images/games/marvels-spider-man-vr-hero.jpg
 
 Some games are built for VR. Marvel's Spider-Man is not one of them—but you wouldn't know it from the moment you leap off the Empire State Building and the entirety of Manhattan spreads beneath your feet. The Luke Ross R.E.A.L. injection mod turns Insomniac's already-stunning open world into something that genuinely takes your breath away. Then it reminds you, sometimes painfully, that this was never the plan.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The R.E.A.L. VR mod is an injection driver developed by Luke Ross that converts Marvel's Spider-Man's standard third-person camera into a head-tracked stereoscopic VR experience. As with all of Ross's R.E.A.L. mods, this provides stereoscopic 3D rendering and six-degrees-of-freedom head tracking—but no motion controls, no hand presence, no VR-specific UI, and no redesigned interactions.
 

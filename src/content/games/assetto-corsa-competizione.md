@@ -42,7 +42,7 @@ There is a moment in Assetto Corsa Competizione VR that no other racing sim repl
 
 This is ACC's VR promise, and when it delivers, nothing else in sim racing comes close to this level of atmosphere. The catch is that "when it delivers" carries a lot of weight. Unreal Engine 4 is not kind to VR, and ACC's visual ambition frequently outpaces what current hardware can sustain at VR framerates. The result is an official VR implementation that is genuinely excellent in design but frequently compromised in practice.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Assetto Corsa Competizione launched with official VR support built in. This is not a mod, not an injection driver, not a community hack. Kunos Simulazioni implemented native SteamVR and OpenXR support from early access onward. You select VR mode from the in-game menu, and it works. The cockpit is rendered in proper stereoscopic 3D with full head tracking. The mirrors work. The HUD sits where it should. This is as official as it gets.
 

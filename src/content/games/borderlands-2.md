@@ -41,7 +41,7 @@ There is a moment in Borderlands 2 VR when you first crest a ridge on Pandora an
 
 Then you try to check your inventory, and the menu clips through a rock. Or you pull out a sniper rifle and discover the scope is a jarring flat-screen popup that breaks immersion completely. Or you remember that your friends—the ones you spent hundreds of hours with in the original—can't join you. This is Borderlands 2 VR: a fantastic game wearing a VR implementation that never quite stops reminding you it was built for something else.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Borderlands 2 VR is an official standalone VR port developed by Gearbox Software, not a mod or injection hack. It launched as a PSVR exclusive in December 2018 before coming to PCVR in October 2019. You're getting the full base game—every story mission, every side quest, every boss fight, every legendary drop across the sprawling campaign.
 

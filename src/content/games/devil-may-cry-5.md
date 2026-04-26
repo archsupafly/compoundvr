@@ -33,9 +33,9 @@ heroImage: /images/games/devil-may-cry-5-vr-hero.jpg
 
 # Devil May Cry 5 in VR: Stylish From the Front Row, Not the Driver's Seat
 
-Devil May Cry 5 is one of the highest-rated character-action games ever made. A kinetic showcase of combat depth, visual flair, and swagger that earned near-universal acclaim in its flat release. Running it through Praydog's REFramework gives you stereoscopic 3D and full head tracking inside that world — and the result is genuinely cool to look at. But cool to look at and compelling to play in VR are different things, and DMC5's VR route exposes the gap between them.
+Devil May Cry 5 is one of the highest-rated character-action games ever made. A kinetic showcase of combat depth, visual flair, and swagger that earned near-universal acclaim in its flat release. Running it through Praydog's REFramework gives you stereoscopic 3D and full head tracking inside that world — and the result is genuinely cool to look at. But cool to look at and compelling to play in VR are different things, and DMC5's VR implementation exposes the gap between them.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 This is a **framework-based VR implementation** using Praydog's REFramework. It provides:
 
@@ -71,7 +71,7 @@ REFramework is actively maintained and supports both DirectX 11 and DirectX 12 r
 
 **REFramework is well-maintained.** The framework receives regular updates, has an active community, and Praydog has a track record of supporting RE Engine titles across patches and updates. This isn't an abandoned experiment.
 
-**The core game is excellent.** DMC5 is a legitimately great character-action game. If you already love it and want to experience it from inside the world, the VR route delivers that — you're just trading some comfort and convenience for the immersion.
+**The core game is excellent.** DMC5 is a legitimately great character-action game. If you already love it and want to experience it from inside the world, the VR option delivers that — you're just trading some comfort and convenience for the immersion.
 
 ## What Doesn't Work
 
@@ -114,8 +114,11 @@ DMC5 in VR is a fascinating novelty and a genuinely cool way to revisit a great 
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-- **Praydog REFramework GitHub repository** — verified VR feature support and game compatibility list confirming DMC5 is supported with generic 6DOF VR but no motion controls
-- **Training data / general knowledge** — DMC5 game design, combat mechanics, RE Engine capabilities, and REFramework VR behavior patterns across RE Engine titles
-- **No direct hands-on testing was performed** — all observations are based on research compilation from multiple sources
+- Praydog REFramework GitHub repository — verified VR feature support and game compatibility list confirming DMC5 is supported with generic 6DOF VR but no motion controls
+- Training data / general knowledge — DMC5 game design, combat mechanics, RE Engine capabilities, and REFramework VR behavior patterns across RE Engine titles
+- No direct hands-on testing was performed — all observations are based on research compilation from multiple sources
+
+</details>

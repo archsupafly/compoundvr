@@ -38,7 +38,7 @@ Rez Infinite isn't just a game you play — it's a game you feel, hear, and move
 
 This is what "designed for VR" actually looks like.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Rez Infinite is an **official standalone VR version** — a native VR port created by Enhance Games specifically for virtual reality. It launched alongside PSVR in 2016 and has since come to PCVR, PSVR2, and Meta Quest. This isn't a flat game with VR bolted on. It's Rez reimagined for the medium.
 

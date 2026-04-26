@@ -37,7 +37,7 @@ Serious Sam 3: BFE is a prequel to the over-the-top Serious Sam series, and it's
 
 The question isn't whether the VR port is competent — it is. The question is whether Serious Sam 3's particular brand of relentless horde combat is something you want to experience standing in the middle of.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Serious Sam 3 VR: BFE is an **official standalone VR version** sold separately on Steam. Croteam — the same developer behind the original game — built it as a native VR experience, not a mod or an injection wrapper.
 
@@ -118,10 +118,13 @@ The VR implementation exceeds the game it's built on. If Serious Sam 3's gamepla
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - Steam store page: Serious Sam 3 VR: BFE — verified VR support, controller options, release date
 - Croteam official communications — VR port development history
 - YouTube VR channels: gameplay footage from Beardo Benjo, Nathie, Gamertag VR
 - Flat2VR Discord community — player experiences, performance discussion
 - Reddit r/vive, r/oculus — user reports on comfort, motion controls, dual-wielding
+
+</details>

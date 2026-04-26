@@ -39,7 +39,7 @@ The Normandy's bridge stretches out before you. The Citadel's wards tower overhe
 
 But something feels incomplete. You can't reach out and touch the holographic interface. You can't gesture during dialogue. You can't physically lean into conversations or aim your weapon with your hands. You're watching Shepard, not being Shepard.
 
-This is Mass Effect through VorpX—an injection driver that forces stereoscopic 3D and head tracking into a game that was built for televisions and monitors. The question isn't whether Mass Effect is good (it is). The question is whether this VR route is worth your time.
+This is Mass Effect through VorpX—an injection driver that forces stereoscopic 3D and head tracking into a game that was built for televisions and monitors. The question isn't whether Mass Effect is good (it is). The question is whether this VR option is worth your time.
 
 ---
 

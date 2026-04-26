@@ -45,7 +45,7 @@ Two decades later, the game holds up remarkably well — and it holds up even be
 
 ---
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Return to Castle Wolfenstein has two distinct VR implementations, and understanding the difference matters for deciding which path to take.
 

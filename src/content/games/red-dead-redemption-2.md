@@ -42,7 +42,7 @@ This is not a native VR experience. It is not even a mod in the traditional sens
 
 What you get is breathtaking. What you give up is significant.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The R.E.A.L. mod is a Patreon-gated injection driver maintained by Luke Ross. It does not add motion controls, VR-specific interactions, or redesigned UI. It provides:
 

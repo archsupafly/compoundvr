@@ -44,7 +44,7 @@ Super Mario Bros. isn't just a game—it's the foundation of modern platforming.
 
 Playing it in VR through 3dSen VR doesn't just add novelty to nostalgia—it creates something genuinely new. The voxel-based transformation turns 8-bit sprites into fully dimensional dioramas, and the result is one of the most compelling reasons to own a VR headset for retro gaming enthusiasts.
 
-But 3dSen VR is just one of several ways to experience Mario in VR. From mixed reality living room recreations to virtual retro bedrooms, this guide covers every viable VR route for experiencing Nintendo's plumber.
+But 3dSen VR is just one of several ways to experience Mario in VR. From mixed reality living room recreations to virtual retro bedrooms, this guide covers every viable VR option for experiencing Nintendo's plumber.
 
 ## VR Routes Comparison
 

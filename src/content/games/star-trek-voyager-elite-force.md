@@ -33,9 +33,9 @@ heroImage: /images/games/star-trek-voyager-elite-force-vr-hero.jpg
 
 Star Trek: Voyager — Elite Force is a 2000 first-person shooter from Raven Software, built on the Quake III Arena engine (id Tech 3). It casts you as Ensign Alex Munro of Voyager's Hazard Team, fighting through derelict ships, Borg cubes, and hostile alien environments across roughly 30 linear levels. It was widely praised at release — and still holds up as one of the best Star Trek games ever made.
 
-The only VR route available is VorpX, which provides stereoscopic 3D injection and head tracking. There are no community VR mods, no native VR versions, and no active projects to bring motion controls or VR-native interaction to the game.
+The only VR option available is VorpX, which provides stereoscopic 3D injection and head tracking. There are no community VR mods, no native VR versions, and no active projects to bring motion controls or VR-native interaction to the game.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 VorpX is an injection driver — it intercepts the game's rendering pipeline and outputs a stereoscopic 3D image to a VR headset. For Elite Force, which runs on id Tech 3 (an OpenGL/DirectX hybrid from the Quake III era), VorpX offers:
 
@@ -73,7 +73,7 @@ Efficient. Elite Force runs on a 25-year-old engine. Any modern VR-capable PC wi
 
 ### Stability
 
-Stable. The game itself is well-tested across decades of Windows versions (GOG release runs cleanly on modern systems). VorpX profiles for id Tech 3 games are mature and well-supported. Crashes or major bugs are uncommon. The main fragility point is the VorpX injection itself — if VorpX updates break compatibility, the VR route goes down until fixed.
+Stable. The game itself is well-tested across decades of Windows versions (GOG release runs cleanly on modern systems). VorpX profiles for id Tech 3 games are mature and well-supported. Crashes or major bugs are uncommon. The main fragility point is the VorpX injection itself — if VorpX updates break compatibility, the VR option goes down until fixed.
 
 ## What Works Well
 
@@ -92,7 +92,7 @@ Stable. The game itself is well-tested across decades of Windows versions (GOG r
 
 ## Platform Differences
 
-PCVR only. Elite Force was released on Windows and PlayStation 2, but the PS2 version has no VR route. The GOG release is the recommended PC version for VorpX — it runs on modern Windows without DRM complications.
+PCVR only. Elite Force was released on Windows and PlayStation 2, but the PS2 version has no VR option. The GOG release is the recommended PC version for VorpX — it runs on modern Windows without DRM complications.
 
 There is no Quest, PSVR, or PSVR2 version. No standalone VR option exists for this title.
 
@@ -120,16 +120,19 @@ Elite Force is a genuinely good Star Trek FPS — one of the few licensed games 
 VorpX injection provides stereoscopic depth and head tracking, but nothing else. No motion controls, no VR UI, no comfort features, no interaction fidelity. The injection works as advertised — it's functional and stable — but it doesn't transform the game into a VR experience. It adds depth to the view without adding presence to the interaction.
 
 **Overall Tier: C**
-The game is worth playing; the VR route adds novelty without substance. If you already own VorpX and Elite Force, firing it up for a Borg cube run is a reasonable way to spend an evening. But this is not a VR recommendation — it's a flat game recommendation with a VR viewing mode attached. On the absolute scale where native VR games with full motion controls compete for the same Saturday afternoon, Elite Force via VorpX sits firmly in the "interesting curiosity" tier, not the "must-play" tier.
+The game is worth playing; the VR option adds novelty without substance. If you already own VorpX and Elite Force, firing it up for a Borg cube run is a reasonable way to spend an evening. But this is not a VR recommendation — it's a flat game recommendation with a VR viewing mode attached. On the absolute scale where native VR games with full motion controls compete for the same Saturday afternoon, Elite Force via VorpX sits firmly in the "interesting curiosity" tier, not the "must-play" tier.
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-- **VorpX supported games list** — confirmed Elite Force is an officially supported VorpX profile with geometry 3D
-- **VorpX features page** — confirmed injection driver capabilities: stereoscopic 3D, head tracking, DirectVR, EdgePeek, controller mapping
-- **Wikipedia: Star Trek Voyager – Elite Force** — game details, engine (id Tech 3), release history, critical reception (Metacritic 86)
-- **Metacritic** — critic score 86, user score 8.3, generally favorable reviews
-- **GOG.com** — confirmed availability on modern digital storefront
-- **Research compilation** — no community VR mods found; no native VR versions; no active VR modding projects for Elite Force
-- **Training data** — VorpX profile behavior for id Tech 3 titles (Quake III, Jedi Outcast, etc.) used as reference for expected injection quality, head tracking, and DirectVR feature support
+- VorpX supported games list — confirmed Elite Force is an officially supported VorpX profile with geometry 3D
+- VorpX features page — confirmed injection driver capabilities: stereoscopic 3D, head tracking, DirectVR, EdgePeek, controller mapping
+- Wikipedia: Star Trek Voyager – Elite Force — game details, engine (id Tech 3), release history, critical reception (Metacritic 86)
+- Metacritic — critic score 86, user score 8.3, generally favorable reviews
+- GOG.com — confirmed availability on modern digital storefront
+- Research compilation — no community VR mods found; no native VR versions; no active VR modding projects for Elite Force
+- Training data — VorpX profile behavior for id Tech 3 titles (Quake III, Jedi Outcast, etc.) used as reference for expected injection quality, head tracking, and DirectVR feature support
+
+</details>

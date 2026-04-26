@@ -39,7 +39,7 @@ The short version: if you own a VR headset and want to fly like a bird over a be
 
 ---
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Eagle Flight is a **native VR title** — designed from zero for VR headsets, not adapted from a flat game.
 
@@ -254,40 +254,30 @@ If you've ever wanted to experience what it feels like to be a bird soaring over
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-**Research Sources:**
 - Game mechanics, controls, and comfort systems compiled from aggregate coverage during 2016-2020 VR releases
 - Platform differences observed from multi-platform reviews (PCVR vs PSVR)
 - Multiplayer mode descriptions from historical coverage
 - Performance expectations based on original hardware requirements and long-term player reports
 - Comfort assessments compiled from VR reviewer consensus across multiple publications
-
-**Verification Requirements:**
 - Current store availability (Steam, Meta Store, PlayStation Store) — should be verified before publication
 - Current pricing by platform — should be verified before publication
 - Multiplayer server status and active player population — should be researched before publication
 - Any recent patches or compatibility updates (unlikely given development status)
-
-**Testing Notes:**
 - This article is based on accumulated knowledge from historical coverage and training data
 - No direct hands-on testing was conducted for this article
 - Multiplayer population status estimated based on game age and typical playerbase contraction for 2016 VR titles
-
----
-
-## Update Watch Notes
-
-**What could change this assessment:**
+- ---
+- ## Update Watch Notes
 - Platform delisting (common with older VR titles)
 - Multiplayer server shutdowns
 - Major VR runtime changes affecting compatibility (unlikely — game uses standard runtimes)
 - Significant pricing changes
-
-**Development Status:**
-Ubisoft is not actively developing or patching Eagle Flight. The game is complete, stable, and in maintenance mode.
-
-**Recommended revisit if:**
+- Ubisoft is not actively developing or patching Eagle Flight. The game is complete, stable, and in maintenance mode.
 - The game is delisted from digital stores
 - Multiplayer servers are announced for shutdown
 - Significant platform compatibility issues emerge
+
+</details>

@@ -38,7 +38,7 @@ X-Wing Alliance never quite escaped the shadow of its legendary predecessors. Re
 
 Two decades later, the X-Wing Alliance Upgrade project has done something remarkable. Through SteamVR integration and a complete visual overhaul, this forgotten chapter of Star Wars flight simulation has become something its predecessors never were: a fully realized VR experience that puts you inside the Rebellion's most iconic craft.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The X-Wing Alliance Upgrade (XWAU) is a community-driven modernization project that does far more than patch a twenty-five-year-old game. It fundamentally rebuilds the visual experience while adding native VR support:
 
@@ -218,28 +218,23 @@ This is a substantial VR space combat experience with decades of content depth. 
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-**Primary Sources:**
 - TIE Fighter TFTC article (compoundvr-site) — Reference for XWAU technical implementation, setup patterns, and VR integration approach
 - X-Wing Alliance (1999) base game knowledge — Campaign structure, craft roster, narrative elements
-
-**Research Attempts:**
 - XWAU official website (Google Sites) — Requires authentication, unable to access
 - ModDB XWAU page — Cloudflare protection prevented access
 - Reddit r/vive and r/pcgaming threads — 403 error on access
 - Flat2VR Discord redirect — Community knowledge source, requires Discord access
 - VR Grid — No content found
-
-**Evidence Classification:**
 - Technical implementation details: [Training Data] — Cross-referenced with TFTC article patterns
 - VR integration approach: [Training Data] — SteamVR integration confirmed across sources
 - Campaign content: [Training Data] — X-Wing Alliance original game content
 - Setup complexity: [Training Data] — Inferred from TFTC patterns and XWAU project scope
-
-**Confidence Notes:**
 - High confidence: XWAU provides VR support via SteamVR, visual overhaul scope, campaign structure
 - Moderate confidence: Specific performance requirements (extrapolated from TFTC patterns)
 - Editor should verify: Current XWAU version features, any recent VR-specific updates
+- 2026-04-15
 
-**Last Verified:** 2026-04-15
+</details>

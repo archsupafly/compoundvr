@@ -265,31 +265,23 @@ You can emulate Gunstar Heroes in any Genesis emulator and play it through Virtu
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-### Research Sources
-
-**YouTube VR Channels Referenced:**
+- ### Research Sources
 - General Sega Genesis Classics VR coverage from VR enthusiast channels
 - No specific Gunstar Heroes VR footage found (limited coverage of individual games within the collection)
-
-**Steam Community & Reviews:**
 - Sega Genesis Classics Steam community discussions on VR mode functionality
 - User reports on controller configuration requirements
 - Delisting announcement impact on availability
-
-**Documentation:**
 - Existing CompoundVR Sega Genesis Classics article for framework context
 - Game-writer template v2 for structure and tier methodology
 - Review methodology v1 for rating standards
-
-**Training Data / Historical Knowledge:**
 - Gunstar Heroes game details (1993 release, Treasure development, weapon mechanics, co-op features)
 - Sega Genesis Classics delisting date (December 6, 2024)
 - Genesis Classics VR mode features (virtual bedroom, CRT emulation, cartridge interaction)
+- This article was compiled using research-based methodology. No direct VR testing was performed. Claims about controller configuration issues are based on community reports from Steam forums and similar sources.
+- ---
+- *Last verified: April 24, 2026*
 
-**Note:** This article was compiled using research-based methodology. No direct VR testing was performed. Claims about controller configuration issues are based on community reports from Steam forums and similar sources.
-
----
-
-*Last verified: April 24, 2026*
+</details>

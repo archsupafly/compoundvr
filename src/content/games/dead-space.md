@@ -39,7 +39,7 @@ flatReleaseDate: 2008-10-14
 
 This review covers the **2008 original**, not the 2023 remake. The original has official VorpX Geometry 3D support. The remake does not — its executable naming conflicts with the original, and community workarounds using other game profiles produce inconsistent results.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Dead Space in VR runs through **VorpX**, a paid injection driver (~$40) that hooks into flat games and renders them in stereoscopic 3D with head tracking. This is not a VR mod. It is not native VR support. It provides:
 

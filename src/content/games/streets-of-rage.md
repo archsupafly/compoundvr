@@ -42,7 +42,7 @@ The Sega Genesis Classics collection on Steam included a VR Hub mode that placed
 
 If you are looking for a VR beat 'em up — motion punches, spatial crowd control, anything that actually uses the medium — this is not it. This is a 2D game on a virtual screen inside a nostalgic room. Three different games, one identical wrapper, and none of them meaningfully transformed by VR.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The Sega Genesis Classics VR Hub was an official mode included with Sega's Genesis Classics collection on Steam. It ran through SteamVR and placed the player inside a themed bedroom environment where a CRT television displayed whichever Genesis title was selected.
 

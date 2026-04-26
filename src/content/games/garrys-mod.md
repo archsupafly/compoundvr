@@ -39,7 +39,7 @@ Garry's Mod exists as a platform more than a game. It's a physics sandbox with n
 
 This is a mod that works — but only if you're willing to troubleshoot, accept rough edges, and accept that some of GMod's vast library simply won't cooperate.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 VRMod is a community-made modification that adds full VR support to Garry's Mod through SteamVR. It's not official support, not a publisher-backed port, and not a polished product. The original creator, Catse, released it in March 2019 with explicit warnings: this is unfinished, experimental, and comes with bugs, bad performance, and potential crashes. Don't buy VR or GMod just for this.
 

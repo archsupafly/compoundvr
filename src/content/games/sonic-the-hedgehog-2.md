@@ -36,7 +36,7 @@ score: 55
 
 Sonic the Hedgehog 2 is widely considered the pinnacle of the Genesis library. The 1992 sequel introduced Tails, the spin dash, and some of the most iconic level design in platforming history. It's faster, bigger, and more ambitious than the original — and arguably the game that cemented Sonic as a cultural icon. But when placed inside the Sega Genesis Classics VR hub, the result was the same story as every other game in that collection: a 2D platformer on a virtual screen inside a nostalgic bedroom, not a VR transformation. And now, with the collection delisted since December 2024, this experience is no longer available to anyone who doesn't already own it.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The Sega Genesis Classics Hub was an official VR mode included with Sega's Genesis Classics collection on Steam. It placed players inside a faithfully recreated 90s bedroom — period posters, CRT television, retro decor — where they could play any of the 50+ included Genesis games on a simulated TV screen.
 

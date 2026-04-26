@@ -149,7 +149,7 @@ Duck Tales in 3dSen VR runs perfectly across all platforms:
 - Optimized camera positioning for platforming visibility
 - Fine-tuned depth values that preserve the pogo-cane precision
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 ### 3dSen VR — Emulation with Dimension
 
@@ -189,7 +189,7 @@ What it doesn't provide:
 
 Duck Tales lives or dies on its signature mechanic: Scrooge's cane pogo. Holding the button mid-jump causes Scrooge to bounce continuously, allowing him to cross hazards, reach high platforms, and defeat enemies by bouncing on their heads.
 
-Each VR route handles this core mechanic:
+Each VR option handles this core mechanic:
 
 **3dSen VR:**
 - Fixed camera angle ensures depth perception matches classic gameplay

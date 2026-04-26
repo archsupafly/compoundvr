@@ -38,7 +38,7 @@ verdict: "A solid official VR port that delivers the core Serious Sam experience
 
 Serious Sam: The First Encounter is one of those games that feels almost inevitable in VR. An old-school horde shooter built around massive open arenas, hundreds of enemies charging at you from every direction, and an arsenal of satisfying weapons — that formula translates naturally to standing in the middle of the chaos with guns in both hands. Croteam clearly agreed, because they built the VR version themselves. This is not a fan mod or a third-party port. It is an official, developer-made VR adaptation sold as its own product on Steam, and it shows.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Serious Sam VR: The First Encounter is an **official standalone VR version** of the HD remaster of the original 2001 game. It was developed by Croteam VR and published by Devolver Digital and Croteam, releasing as a full product after an Early Access period. It runs on Serious Engine 2017 and requires a VR headset — the Steam page categorizes it as "VR Only."
 
@@ -140,10 +140,13 @@ A strong official VR port that earns its recommendation despite the underlying g
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - Steam Store API (app 552450) — product details, features, system requirements, categories, release date
 - Wikipedia — Serious Sam: The First Encounter article — game history, engine details, platform information
 - Steam community data — user review volume (~704 reviews), support status inference
 - Training data — gameplay impressions, VR locomotion assessment, comfort evaluation, multiplayer population status
 - Note: No direct hands-on testing. Evidence is research compilation [Verified] from Steam documentation, Wikipedia, and aggregated community reports.
+
+</details>

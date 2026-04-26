@@ -20,6 +20,17 @@ const { items, columns = 3, showImages = true, showTier = true, showRouteType = 
   showPlatforms?: boolean;
 };
 
+// Route type YAML values → gamer-friendly display labels
+const routeTypeLabels: Record<string, string> = {
+  'Official Hybrid': 'Official VR Mode',
+  'Official Standalone VR Version': 'Standalone VR',
+  'Full VR Mod': 'Full VR Mod',
+  'Framework-Based': 'VR Framework',
+  'Injection Driver': '3D Injection',
+  'Multi-Route Coverage': 'Multiple VR Options',
+  'Emulator': 'VR Emulator',
+};
+
 // Route type to CSS class mapping
 const routeTypeClass: Record<string, string> = {
   'Official Hybrid': 'route-type--official',
@@ -71,7 +82,7 @@ const recClass: Record<string, string> = {
           
           {showRouteType && (
             <span class={`route-type-pill ${routeTypeClass[game.routeType] || ''}`}>
-              {game.routeType}
+              {routeTypeLabels[game.routeType] || game.routeType}
             </span>
           )}
         </div>

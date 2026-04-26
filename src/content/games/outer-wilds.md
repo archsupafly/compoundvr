@@ -42,7 +42,7 @@ The NomaiVR mod doesn't just let you play Outer Wilds in VR. It fully commits to
 
 But here's the honest framing up front: this is one of the most intense VR experiences you can have. Zero-gravity flight, rapid planetary transitions, and the game's inherent movement language create serious comfort challenges. This isn't a casual Sunday VR session. It's a commitment. The question isn't whether the mod works—it absolutely does—but whether your stomach and your VR legs are ready for what it's offering.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 NomaiVR is a full VR conversion mod developed by Raicuparta (Ricardo Lopes) with contributions from artumino. This isn't injection-style stereoscopic 3D with head tracking. This is a comprehensive rebuild of how you interact with the game world.
 

@@ -35,7 +35,7 @@ Zelda II: The Adventure of Link has always been the outlier. While every other m
 
 Now, through 3dSen VR, you can experience this divisive classic in virtual reality. But is that experience worth seeking out?
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Zelda II in VR runs through **3dSen VR**, a unique emulator that transforms flat NES games into playable 3D voxel dioramas. This isn't a native VR port or a traditional emulator — it's a real-time 2D-to-3D conversion engine that rebuilds NES graphics as voxel environments.
 
@@ -171,9 +171,12 @@ The product of game and VR implementation: a compelling but niche experience. If
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - 3dSen VR Steam page — feature set, system requirements, supported games list
 - Zelda Wiki (Zelda II: The Adventure of Link) — game mechanics, combat system, difficulty information
 - 3dSen VR community discussions — VR comfort notes, camera controls, side-scrolling behavior
 - General NES emulation documentation — setup process, ROM requirements
+
+</details>

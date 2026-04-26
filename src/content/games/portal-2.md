@@ -41,7 +41,7 @@ The Portal 2 VR Mod, developed primarily by Gistix, transforms Valve's 2011 puzz
 
 Portal 2 was always about understanding three-dimensional space. The puzzles require you to think about where you are, where you need to be, and how portals connect those points. In VR, that understanding becomes visceral. You don't just see the spatial relationships — you physically inhabit them.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 The Portal 2 VR Mod is a community-built full VR conversion available through GitHub. It requires Portal 2 ownership on Steam and works with SteamVR-compatible headsets. The mod injects full motion control support into a game that was designed for mouse and keyboard, rebuilds the UI for VR viewing, and adapts Portal 2's mechanics for room-scale play.
 

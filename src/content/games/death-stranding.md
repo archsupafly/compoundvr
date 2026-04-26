@@ -37,7 +37,7 @@ No game in the flat-to-VR catalog is more conceptually suited to VR than Death S
 
 If you can handle the tradeoffs, this is one of the most atmospheric VR experiences you can have in an open-world game. If you can't, no amount of conceptual fit will save it.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Death Stranding in VR runs through the **Luke Ross R.E.A.L. VR** injection driver—the same mod used for GTA V and Red Dead Redemption 2. It works by hooking into the Decima engine's camera system and rendering the game in stereoscopic 3D with head tracking. The mod supports both third-person and first-person perspectives.
 

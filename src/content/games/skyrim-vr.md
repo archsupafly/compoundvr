@@ -40,7 +40,7 @@ Skyrim needs no introduction. Bethesda's open-world fantasy RPG became a cultura
 
 You get the entire base game. All three DLC expansions. Every quest, every dungeon, every dragon shout. Bethesda didn't create a sampler or a VR-themed spinoff. They ported the whole thing. That ambition is both Skyrim VR's greatest strength and its most persistent limitation.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Skyrim VR is an **official standalone VR version**—a native VR port developed by Bethesda, sold as a separate product. This isn't a modded version of the flat-screen game. It's not VorpX injecting stereoscopic rendering. It's a VR-native release designed for motion controllers, available on Steam for PCVR and on PlayStation Store for PSVR.
 
@@ -246,7 +246,8 @@ For everyone else: it's Skyrim in VR. Not VR's best showcase, but a complete adv
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - YouTube coverage: Beardo Benjo, Gamertag VR, Paradise's Decay — extensive Skyrim VR gameplay demonstrations and mod reviews
 - Skyrim VR subreddit (r/skyrimvr) — community documentation on essential mods, performance tuning, and platform differences
@@ -257,9 +258,8 @@ For everyone else: it's Skyrim in VR. Not VR's best showcase, but a complete adv
 - Wabbajack modlist documentation — "Essential Vanilla Plus" and other stabilized VR modpacks
 - Training data: General knowledge of Skyrim game design, Creation Engine limitations, and VR hardware capabilities
 - No direct testing performed — AI authorship acknowledged
+- ---
+- ## Testing Notes
+- No direct testing was performed for this article. This coverage is based on research from YouTube reviewers, official documentation, community forums, and mod documentation. Platform differences and performance expectations are synthesized from aggregated user reports across PCVR and PSVR communities.
 
----
-
-## Testing Notes
-
-No direct testing was performed for this article. This coverage is based on research from YouTube reviewers, official documentation, community forums, and mod documentation. Platform differences and performance expectations are synthesized from aggregated user reports across PCVR and PSVR communities.
+</details>

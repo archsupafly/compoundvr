@@ -39,7 +39,7 @@ This self-described "rhythm violence" game from two-person studio Drool was ther
 
 The result is one of the most intense, immersive, and genuinely transformative VR experiences available — a game that plays identically on a monitor or in a headset, but feels fundamentally different depending on which you choose.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Thumper is an **Official Hybrid** — a flat game with VR support built in from launch. There's no separate VR version to buy, no mod to install, no launcher that switches between modes. You just... toggle VR on or off in the options menu.
 

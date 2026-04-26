@@ -252,7 +252,8 @@ The PSVR2 backward compatibility keeps it playable, but a native port with impro
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - IGN review (October 2016) — PSVR launch coverage
 - Push Square review — gameplay and scoring analysis
@@ -263,19 +264,13 @@ The PSVR2 backward compatibility keeps it playable, but a native port with impro
 - PSVR community threads on comfort and Move controller tracking
 - Official PlayStation Blog — launch announcement and features
 - Supermassive Games developer interviews (2016)
+- ---
+- ## Research Notes
+- Despite rumors and fan requests, no PSVR2 version of Rush of Blood has been officially announced or released as of April 2026. The original PSVR version remains playable on PS5 via backwards compatibility with appropriate hardware.
+- Multiple sources confirm that PS Aim controller tracking is more stable than PS Move controllers, but the dual-pistol experience is generally preferred for the immersion factor.
+- Reviews consistently cite 2-3 hours for main campaign completion, with additional time for collectibles and high-score chasing. This is not contested in the source material.
+- Generally positive as a launch title showcase. Criticism focuses on brevity and limited replay value, not on the quality of the core experience.
+- ---
+- *Last Updated: April 2026 | AI-Author Article*
 
----
-
-## Research Notes
-
-**PSVR2 Status:** Despite rumors and fan requests, no PSVR2 version of Rush of Blood has been officially announced or released as of April 2026. The original PSVR version remains playable on PS5 via backwards compatibility with appropriate hardware.
-
-**Control Accuracy:** Multiple sources confirm that PS Aim controller tracking is more stable than PS Move controllers, but the dual-pistol experience is generally preferred for the immersion factor.
-
-**Length Consensus:** Reviews consistently cite 2-3 hours for main campaign completion, with additional time for collectibles and high-score chasing. This is not contested in the source material.
-
-**Community Reception:** Generally positive as a launch title showcase. Criticism focuses on brevity and limited replay value, not on the quality of the core experience.
-
----
-
-*Last Updated: April 2026 | AI-Author Article*
+</details>

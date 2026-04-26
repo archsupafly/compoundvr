@@ -43,7 +43,7 @@ If you've always wanted to *see* the Mojave in 3D, this does that. If you want t
 
 ---
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Fallout: New Vegas (2010) runs on a customized Gamebryo engine—the same underlying technology as Fallout 3, with significant Obsidian modifications. VorpX supports it with a full Geometry 3D profile, which means genuine per-pixel stereoscopic depth rather than the simpler depth-buffer approximation. Objects have real spatial separation. The effect is substantially better than Z-Buffer 3D modes.
 

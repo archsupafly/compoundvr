@@ -40,7 +40,7 @@ Which is exactly why people keep trying to experience it in VR.
 
 The official *Batman: Arkham VR* exists, but it's a brief, combat-free tech demo compared to the full experience. For the real thing—Batman gliding over Gotham's island asylum, predator takedowns from the rafters, the full Metroidvania progression—you'll need VorpX. And that means managing your expectations.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 VorpX is a commercial injection driver that forces stereoscopic 3D and head tracking into games never built for VR. For *Arkham Asylum*, it provides Geometry 3D reconstruction—meaning actual depth perception based on rendered geometry, not just post-processing tricks.
 
@@ -103,7 +103,8 @@ VorpX delivers exactly what injection drivers promise: stereoscopic 3D and head 
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - VorpX official supported games list (Geometry 3D confirmed for Arkham series)
 - Reddit r/Vive and r/oculus community reports on Arkham VorpX experiences
@@ -111,3 +112,5 @@ VorpX delivers exactly what injection drivers promise: stereoscopic 3D and head 
 - YouTube VR coverage of Arkham series VorpX implementations
 - Community consensus on FOV tweaking requirements and motion sickness considerations
 - Performance notes from VorpX Geometry 3D documentation
+
+</details>

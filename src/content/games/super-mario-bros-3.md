@@ -46,7 +46,7 @@ Released in 1988 in Japan and 1990 in North America, it took everything from Sup
 
 Playing it in VR through 3dSen VR doesn't just add novelty to nostalgia. It transforms the experience into something genuinely spatial—turning the most celebrated 2D platformer into a 3D diorama you can step inside, examine from any angle, and appreciate with new eyes. The result is the definitive way to experience a game that, incredibly, still hasn't been bettered in its specific craft.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 ### 3dSen VR — The Voxel Transformation Engine
 

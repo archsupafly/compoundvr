@@ -36,7 +36,7 @@ Halo: Combat Evolved is one of the most important first-person shooters ever mad
 
 The short answer: only if you're deeply curious and already own VorpX.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Halo: Combat Evolved in VR runs through **VorpX**, a paid injection driver that hooks into DirectX games and forces stereoscopic 3D rendering plus head tracking on titles never built for VR. This is not a mod. It is not a port. It does not add motion controls, hand presence, weapon aiming, or any VR-native interaction system.
 
@@ -136,10 +136,13 @@ A great game wrapped in the thinnest possible VR veneer. If you own VorpX and lo
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
-- **VorpX official supported games list** (vorpx.com/supported-games) — confirmed both "Halo" and "Halo: MasterChief Collection (Halo 1 only)" are officially supported
-- **VorpX features page** (vorpx.com/features) — confirmed injection driver capabilities: stereoscopic 3D, head tracking, DirectVR, controller mapping, EdgePeek
-- **Steam MCC community discussions** — general game context, MCC update patterns
-- **Training data** — VorpX injection driver behavior patterns, Halo CE game design and encounter structure, community-reported vehicle section comfort issues, HUD/UI behavior in injection contexts
+- VorpX official supported games list (vorpx.com/supported-games) — confirmed both "Halo" and "Halo: MasterChief Collection (Halo 1 only)" are officially supported
+- VorpX features page (vorpx.com/features) — confirmed injection driver capabilities: stereoscopic 3D, head tracking, DirectVR, controller mapping, EdgePeek
+- Steam MCC community discussions — general game context, MCC update patterns
+- Training data — VorpX injection driver behavior patterns, Halo CE game design and encounter structure, community-reported vehicle section comfort issues, HUD/UI behavior in injection contexts
 - Claims about vehicle section comfort issues, HUD readability, and profile stability come from training data and should be verified by direct testing before final publication
+
+</details>

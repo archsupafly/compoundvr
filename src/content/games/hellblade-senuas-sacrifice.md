@@ -42,7 +42,7 @@ Some games feel like they were destined for VR. Hellblade: Senua's Sacrifice mig
 
 Ninja Theory's 2017 "independent AAA" action-adventure follows Senua, a Pict warrior descending into Helheim to rescue her dead lover's soul. It's a brutal, beautiful, and genuinely uncomfortable journey through psychosis, grief, and Norse mythology. The VR edition—added free for all owners in 2018—takes an already immersive experience and wraps it around your senses. But this is still a third-person game played with a gamepad, and that brings both magic and limitations.
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Hellblade's VR support is an **official hybrid update**, not a separate product. Ninja Theory added full VR compatibility to the base game in July 2018, making it available free to everyone who already owned the flat version. This is developer-supported, polished integration—not a mod or injection driver.
 

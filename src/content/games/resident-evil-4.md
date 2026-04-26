@@ -46,7 +46,7 @@ What you get is atmospheric, occasionally impressive, and frequently frustrating
 
 ---
 
-## What This VR Route Actually Is
+## What This VR Option Actually Is
 
 Resident Evil 4 (original) on PC uses **VorpX injection driver**. This is not a community VR mod. It is not a source port. And critically, **Praydog's REFramework does not support RE4's MT Framework engine**—that tool is designed for RE Engine games (RE7, RE2 Remake, RE3 Remake, Village). The original RE4 stands outside that modern ecosystem.
 
@@ -245,7 +245,8 @@ The Quest-native RE4 VR is what a proper VR adaptation looks like. VorpX with th
 
 ---
 
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - VorpX forum documentation for Resident Evil 4 profiles
 - Community reports on RE4 Steam vs. Ultimate HD Edition compatibility
@@ -253,13 +254,10 @@ The Quest-native RE4 VR is what a proper VR adaptation looks like. VorpX with th
 - Comparative evaluation against RE4 VR Quest (native VR port)
 - Training knowledge of RE4 game design, camera systems, and PC port history
 - No direct headset testing performed—AI authorship acknowledged
+- ---
+- ## Testing Notes
+- No direct testing was performed for this article. This coverage is based on VorpX documentation, community forum reports, comparative analysis with other injection driver experiences, and established understanding of RE4's technical architecture. The VorpX profile for RE4 is mature and well-documented; the limitations described are inherent to the game's design rather than driver instability.
+- ---
+- *Last updated: April 2026*
 
----
-
-## Testing Notes
-
-No direct testing was performed for this article. This coverage is based on VorpX documentation, community forum reports, comparative analysis with other injection driver experiences, and established understanding of RE4's technical architecture. The VorpX profile for RE4 is mature and well-documented; the limitations described are inherent to the game's design rather than driver instability.
-
----
-
-*Last updated: April 2026*
+</details>
