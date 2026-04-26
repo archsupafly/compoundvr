@@ -131,12 +131,13 @@ The Genesis Classics VR Hub was a virtual room with a television, not a VR trans
 **Overall Tier: D**
 Three of the best beat 'em ups in history, wrapped in a VR implementation that never justified the headset. The bedroom was charming for about five minutes. The games played exactly as they would on any monitor. Co-op was gone. The collection is now delisted. For existing owners who already own it and want the nostalgia hit, it is harmless — but it was never the best way to play these games, and it certainly was never a real VR experience. If you do not already own the Sega Genesis Classics collection, you cannot access this at all. Even if you could, there would be little reason to.
 
----
-
-## Source Log
+<details class="source-log">
+<summary>Sources</summary>
 
 - Sega Genesis Classics Hub documentation and Steam store page (historical, pre-delisting)
 - Wikipedia: Streets of Rage, Streets of Rage 2, Streets of Rage 3 (game details, release history, gameplay mechanics, censorship differences)
 - YouTube VR gameplay footage of Sega Genesis Classics VR hub
 - Flat2VR Discord community knowledge on Sega Genesis Classics VR mode
 - Community reports on delisting status and current availability
+
+</details>

@@ -820,6 +820,44 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
   }
 
   /* ========================================
+     SOURCE LOG — Editorial Footnotes
+     ======================================== */
+  /* The last h2 in article prose ("Source Log") and everything after it
+     renders as small footnotes, visually separated from the article body */
+  article.prose .source-log,
+  article.prose details.source-log {
+    font-size: 0.75rem;
+    line-height: 1.5;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border-subtle);
+    padding-top: 1rem;
+    margin-top: 3rem;
+  }
+
+  article.prose details.source-log summary {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-tertiary);
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 0.5rem;
+  }
+
+  article.prose details.source-log ul,
+  article.prose details.source-log ol {
+    font-size: 0.75rem;
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+  }
+
+  article.prose details.source-log li {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin: 0.25rem 0;
+  }
+
+  /* ========================================
      META
      ======================================== */
   .meta {
