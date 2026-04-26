@@ -1,7 +1,7 @@
 ---
 title: "Pixel Ripped 1989"
 description: "A native VR masterpiece that proves the medium's unique potential through a clever game-within-a-game concept that merges 8-bit nostalgia with immersive reality."
-lastVerified: 2026-03-23T18:56:00
+lastVerified: 2018-07-10
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PSVR', 'PCVR', 'Quest']

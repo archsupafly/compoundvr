@@ -1,7 +1,7 @@
 ---
 title: "Sonic the Hedgehog 2 VR"
 description: "The greatest Genesis platformer played inside a virtual 90s bedroom — the Sega Genesis Classics VR hub was atmospheric but not transformative, and now it's delisted."
-lastVerified: "2026-04-19"
+lastVerified: 2018-07-26
 featured: false
 routeType: "Official Hybrid"
 platforms: ['PCVR']

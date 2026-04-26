@@ -1,7 +1,7 @@
 ---
 title: "Star Wars Jedi Knight: Jedi Academy VR"
 description: "Jedi Academy in VR gives you a customizable Jedi with full motion-controlled lightsaber combat, gesture-based Force powers, and the freedom to choose your path — all through Team Beef's JK XR port."
-lastVerified: 2026-04-20
+lastVerified: 2023-12-23
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'PCVR']

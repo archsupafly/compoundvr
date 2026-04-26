@@ -1,7 +1,7 @@
 ---
 title: "Garry's Mod VR"
 description: "A community-made VR mod transforms the physics sandbox into a full VR experience with motion controls, but rough edges and addon conflicts mean it's best for enthusiasts willing to tinker."
-lastVerified: 2026-03-22T13:30:00
+lastVerified: 2021-06-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

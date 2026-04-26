@@ -1,7 +1,7 @@
 ---
 title: "Space Pirate Trainer VR"
 description: "The foundational VR wave shooter that defined room-scale gaming. Mechanically polished, accessible, and still worth playing in 2026—provided you understand it's a pure arcade experience with no campaign."
-lastVerified: 2026-03-25
+lastVerified: 2016-04-05
 featured: false
 routeType: "Official Standalone VR Version"
 platforms: ['PCVR', 'Quest', 'PSVR']

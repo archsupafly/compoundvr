@@ -1,7 +1,7 @@
 ---
 title: "Super Mario Bros. 3 VR"
 description: "Nintendo's 1988 masterpiece becomes a spectacular 3D diorama in 3dSen VR — the definitive way to experience the greatest 2D platformer ever made."
-lastVerified: 2026-04-09T15:00:00
+lastVerified: 2018-08-01
 featured: false
 routeType: Emulator
 platforms: ['PCVR', 'Quest']

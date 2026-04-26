@@ -1,7 +1,7 @@
 ---
 title: "Battlezone VR (2016)"
 description: "A native VR tank combat game built from the ground up for first-generation VR headsets. Polished cockpit experience, solid co-op multiplayer, and respectful Classic Mode homage. But the procedural campaign grows repetitive before the credits roll."
-lastVerified: 2026-03-23T00:08:00
+lastVerified: 2016-10-13
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

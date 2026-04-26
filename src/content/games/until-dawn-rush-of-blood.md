@@ -1,7 +1,7 @@
 ---
 title: "Until Dawn: Rush of Blood VR"
 description: "A horror-themed rail shooter that turns Until Dawn's nightmare into a carnival ride of jump scares and arcade shooting — built from the ground up for VR and still one of PSVR's most memorable launch-window experiences."
-lastVerified: 2026-04-01
+lastVerified: 2016-10-13
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PSVR']

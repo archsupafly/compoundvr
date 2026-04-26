@@ -1,7 +1,7 @@
 ---
 title: "Star Wars: X-Wing Alliance VR"
 description: "The forgotten 1999 space sim reborn in VR through the X-Wing Alliance Upgrade project. Pilot Rebel craft through a full campaign with modern visuals, cockpit presence, and the kind of capital ship encounters that make you understand why the Rebellion needed hope."
-lastVerified: 2026-04-15
+lastVerified: 2022-07-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

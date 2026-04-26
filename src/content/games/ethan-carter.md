@@ -1,7 +1,7 @@
 ---
 title: "The Vanishing of Ethan Carter VR"
 description: "One of VR's earliest official developer ports. A photorealistic mystery through autumn forests and abandoned railways—now a delisted time capsule from VR's formative years."
-lastVerified: 2026-03-19
+lastVerified: 2016-07-15
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

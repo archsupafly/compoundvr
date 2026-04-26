@@ -1,7 +1,7 @@
 ---
 title: "The Elder Scrolls: Daggerfall VR"
 description: "Bethesda's sprawling 1996 RPG gets new life through Daggerfall Unity — with two distinct paths to VR: a dedicated motion-control mod and VorpX injection."
-lastVerified: 2026-03-24T02:30:00
+lastVerified: 2020-01-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "Subnautica in VR"
 description: "The definitive VR experience for Subnautica requires the SubmersedVR mod—adding full motion controls, hand-tracked interaction, and proper VR-native design to an abandoned official implementation."
-lastVerified: 2026-03-24
+lastVerified: 2022-06-01
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR']

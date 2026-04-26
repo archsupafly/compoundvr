@@ -1,7 +1,7 @@
 ---
 title: "Tomb Raider (1996) in VR"
 description: "A polished OpenXR source port that transforms the 1996 classic into an immersive VR experience. Feature-complete, free, and built by Team Beef using the OpenLara engine. A-tier flat-to-VR adaptation with multiple view modes and full motion controls."
-lastVerified: 2026-03-25
+lastVerified: 2023-08-01
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR', 'Quest']

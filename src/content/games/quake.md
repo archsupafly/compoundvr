@@ -1,7 +1,7 @@
 ---
 title: "Quake VR"
 description: "The 1996 FPS godfather rebuilt with hand tracking, physical weapons, and room-scale movement that makes it feel like it was always meant for VR."
-lastVerified: 2026-03-29
+lastVerified: 2021-03-15
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR', 'Quest']

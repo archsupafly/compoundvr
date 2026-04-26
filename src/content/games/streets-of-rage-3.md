@@ -1,7 +1,7 @@
 ---
 title: "Streets of Rage 3 VR"
 description: "The hardest and most mechanically dense Streets of Rage game, played on a virtual CRT in a 90s bedroom — the same Sega Genesis Classics VR hub that framed its predecessors, now delisted and unavailable to new buyers."
-lastVerified: "2026-04-23"
+lastVerified: 2018-07-26
 featured: false
 routeType: "Official Hybrid"
 platforms: ['PCVR']

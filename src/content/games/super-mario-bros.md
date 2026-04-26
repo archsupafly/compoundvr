@@ -1,7 +1,7 @@
 ---
 title: "Super Mario Bros. VR"
 description: "The game that defined platformers becomes a magical 3D diorama experience through 3dSen VR — the most compelling way to revisit a gaming legend."
-lastVerified: 2026-03-24T02:12:00
+lastVerified: 2018-08-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']

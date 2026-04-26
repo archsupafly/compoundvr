@@ -1,7 +1,7 @@
 ---
 title: "Duck Tales VR"
 description: "Scrooge McDuck's legendary pogo-cane adventure gains genuine depth in 3dSen VR — Capcom's platforming classic transformed into an explorable voxel world where the Moon Theme hits different in three dimensions."
-lastVerified: 2026-04-12
+lastVerified: 2018-08-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']

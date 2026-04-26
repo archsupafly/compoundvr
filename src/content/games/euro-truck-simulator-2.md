@@ -1,7 +1,7 @@
 ---
 title: "Euro Truck Simulator 2 VR"
 description: "One of the most complete VR implementations in simulation gaming — full game access, all DLC, all mods. But it demands serious hardware tuning and assumes you're bringing a steering wheel."
-lastVerified: 2026-03-22T16:30:00
+lastVerified: 2017-01-01
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR']

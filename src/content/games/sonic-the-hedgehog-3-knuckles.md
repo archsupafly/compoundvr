@@ -1,7 +1,7 @@
 ---
 title: "Sonic the Hedgehog 3 & Knuckles VR"
 description: "The pinnacle of 16-bit platforming, played inside a virtual bedroom on a CRT TV — charming novelty, not a true VR experience."
-lastVerified: 2026-04-20
+lastVerified: 2018-07-26
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

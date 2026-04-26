@@ -1,7 +1,7 @@
 ---
 title: "Assetto Corsa Competizione VR"
 description: "The official GT World Challenge sim delivers native VR support with unmatched atmosphere and track fidelity — but its Unreal Engine 4 foundation makes it one of the most demanding VR racing experiences available."
-lastVerified: 2026-04-18
+lastVerified: 2019-05-29
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

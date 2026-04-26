@@ -1,7 +1,7 @@
 ---
 title: "Sonic the Hedgehog VR"
 description: "Playing the legendary Genesis platformer inside a nostalgic 90s bedroom — the Sega Genesis Classics VR hub was a novelty that wrapped retro classics in virtual atmosphere."
-lastVerified: "2026-04-16"
+lastVerified: 2018-07-26
 featured: false
 routeType: "Official Hybrid"
 platforms: ['PCVR']

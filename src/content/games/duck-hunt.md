@@ -1,7 +1,7 @@
 ---
 title: "Duck Hunt VR"
 description: "The classic NES light gun game has multiple VR paths: 3dSen VR's voxel transformation with motion controllers, plus modern reimaginings on Quest and Steam. The 3dSen route is the authentic classic experience; clones vary in quality."
-lastVerified: 2026-03-22T23:45:00
+lastVerified: 2018-08-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']

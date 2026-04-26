@@ -1,7 +1,7 @@
 ---
 title: "Portal VR"
 description: "The original test chambers in full VR — experienced through a Portal 2 mod and the power of community ingenuity."
-lastVerified: 2026-03-23T19:00:00
+lastVerified: 2022-04-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

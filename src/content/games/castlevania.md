@@ -1,7 +1,7 @@
 ---
 title: "Castlevania VR"
 description: "Simon Belmont's legendary vampire hunt gains new dimension in 3dSen VR — the gothic action platformer transformed into an immersive voxel diorama where Dracula's castle rises in genuine 3D."
-lastVerified: 2026-04-01T00:00:00
+lastVerified: 2018-08-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']

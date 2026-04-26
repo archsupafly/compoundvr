@@ -1,7 +1,7 @@
 ---
 title: "Streets of Rage 2 VR"
 description: "One of the greatest beat 'em ups ever made, played on a virtual CRT in a 90s bedroom — the Sega Genesis Classics VR hub framed a classic but never transformed it into VR."
-lastVerified: "2026-04-21"
+lastVerified: 2018-07-26
 featured: false
 routeType: "Official Hybrid"
 platforms: ['PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "Pac-Man VR"
 description: "The most iconic arcade game of all time has multiple VR paths — from the lost 1996 arcade hardware to modern emulator solutions in 3dSen VR and EmuVR."
-lastVerified: 2026-03-23T09:55:00
+lastVerified: 2018-08-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']

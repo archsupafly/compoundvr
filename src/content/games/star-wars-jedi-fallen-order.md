@@ -1,7 +1,7 @@
 ---
 title: "Star Wars Jedi: Fallen Order VR"
 description: "One of the best Star Wars games of the past decade gains a new dimension through UEVR — a compelling third-person VR experience that puts you beside a Jedi, not in his boots."
-lastVerified: 2026-04-22
+lastVerified: 2024-02-01
 featured: false
 routeType: Framework-Based
 platforms: ['PCVR']

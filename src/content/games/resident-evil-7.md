@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil 7 biohazard VR"
 description: "The complete guide to playing Resident Evil 7 in VR — official PSVR support versus Praydog's community PCVR mod. Two routes, one question: which is right for you?"
-lastVerified: 2026-03-22T09:00:00
+lastVerified: 2017-01-24
 featured: true
 routeType: Multi-Route Coverage
 platforms: ['PSVR', 'PCVR']

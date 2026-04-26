@@ -1,7 +1,7 @@
 ---
 title: "Red Dead Redemption 2 VR"
 description: "Rockstar's open-world masterpiece gains scale and presence through injection VR, but the comfort cost is steep."
-lastVerified: 2026-04-12
+lastVerified: 2022-06-15
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

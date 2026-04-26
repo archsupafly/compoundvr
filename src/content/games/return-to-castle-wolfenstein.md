@@ -1,7 +1,7 @@
 ---
 title: "Return to Castle Wolfenstein VR"
 description: "The 2001 classic shooter gets an excellent Quest-native port and VorpX support, delivering two genuinely viable routes to one of PC gaming's most influential campaigns."
-lastVerified: 2026-04-15
+lastVerified: 2020-06-01
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'PCVR']

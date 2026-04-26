@@ -1,7 +1,7 @@
 ---
 title: "Hellblade: Senua's Sacrifice VR"
 description: "A haunting third-person journey through psychosis and Norse mythology that becomes even more immersive in VR—though it stops short of full motion controls."
-lastVerified: 2026-04-13
+lastVerified: 2018-07-31
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

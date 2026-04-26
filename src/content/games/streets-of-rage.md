@@ -1,7 +1,7 @@
 ---
 title: "Streets of Rage VR"
 description: "The 1991 beat 'em up that started it all, played on a virtual CRT in a 90s bedroom — the Sega Genesis Classics VR hub offered nostalgia, not VR gameplay. Now delisted and unavailable to new buyers."
-lastVerified: "2026-04-22"
+lastVerified: 2018-07-26
 featured: false
 routeType: "Official Hybrid"
 platforms: ['PCVR']

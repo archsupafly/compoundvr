@@ -1,7 +1,7 @@
 ---
 title: "Zelda II: The Adventure of Link VR"
 description: "The black sheep of the Zelda franchise transforms into a 3D voxel diorama — a fascinating but demanding VR curiosity for NES enthusiasts."
-lastVerified: 2026-04-06
+lastVerified: 2019-01-01
 featured: false
 routeType: "Framework-Based"
 platforms: ['PCVR', 'Quest']

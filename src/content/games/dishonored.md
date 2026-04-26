@@ -1,7 +1,7 @@
 ---
 title: "Dishonored VR"
 description: "One of VorpX's showcase titles. Geometry 3D support and DirectVR scanning make it functional, but this is injection—not transformation. Great game, weak VR implementation, mid-tier experience."
-lastVerified: 2026-03-19
+lastVerified: 2015-05-01
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

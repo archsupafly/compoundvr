@@ -1,7 +1,7 @@
 ---
 title: "Portal 2 VR"
 description: "A community VR mod transforms Valve's puzzle masterpiece into a fully playable room-scale experience. The portal gun in your hand changes everything."
-lastVerified: 2026-04-03
+lastVerified: 2022-04-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

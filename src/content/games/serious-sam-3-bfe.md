@@ -1,7 +1,7 @@
 ---
 title: "Serious Sam 3: BFE VR"
 description: "Croteam's brutally honest old-school FPS gets a proper native VR port with full motion controls — if you can stomach the relentless horde gameplay."
-lastVerified: 2026-04-24
+lastVerified: 2017-11-09
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "Star Wars: TIE Fighter VR"
 description: "The complete 1994 space sim rebuilt in VR through TFTC mod. All 13 campaigns, every TIE variant, cockpit presence that makes you understand why Imperial pilots die in such numbers. Complex setup and HOTAS required—but this is the definitive way to serve the Empire."
-lastVerified: 2026-03-23T00:20:00
+lastVerified: 2022-06-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

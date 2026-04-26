@@ -1,7 +1,7 @@
 ---
 title: "Ace Combat 7: Skies Unknown in VR"
 description: "UEVR injection transforms Ace Combat 7 into a cockpit-level flight combat experience with full campaign playability, though HUD gaps and hardware demands temper the recommendation."
-lastVerified: 2026-03-24
+lastVerified: 2024-01-01
 featured: false
 routeType: Framework-Based
 platforms: ['PCVR']

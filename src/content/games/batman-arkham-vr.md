@@ -1,7 +1,7 @@
 ---
 title: "Batman: Arkham VR"
 description: "Rocksteady's official Arkham VR experience delivers the fantasy of being Batman — but leaves you wanting more than this hour-long detective story can provide."
-lastVerified: 2026-03-23T19:35:00
+lastVerified: 2016-10-13
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PSVR', 'PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "Half-Life VR"
 description: "Valve's genre-defining 1998 masterpiece lives on through three distinct VR implementations — a standalone Quest port, a full PCVR conversion, and an ambitious fan remake."
-lastVerified: 2026-03-23T16:30:00
+lastVerified: 2019-03-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['Quest', 'PCVR', 'Pico']

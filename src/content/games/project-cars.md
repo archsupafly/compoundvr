@@ -1,7 +1,7 @@
 ---
 title: "Project CARS VR"
 description: "The first AAA racing simulation to take VR seriously. Historic for proving cockpit racing belongs in headsets, but incomplete implementation and modern alternatives make this more curiosity than recommendation."
-lastVerified: 2026-03-19
+lastVerified: 2016-03-28
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

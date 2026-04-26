@@ -1,7 +1,7 @@
 ---
 title: "Doom 3 BFG VR: Fully Possessed"
 description: "One of VR's earliest complete game conversions. Standing in a dark Martian corridor with flashlight in one hand and pistol in the other is an experience flat-screen gaming cannot deliver."
-lastVerified: 2026-03-19
+lastVerified: 2017-03-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

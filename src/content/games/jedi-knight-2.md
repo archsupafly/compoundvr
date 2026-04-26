@@ -1,7 +1,7 @@
 ---
 title: "Star Wars Jedi Knight II: Jedi Outcast VR"
 description: "One of the finest Star Wars games ever made, transformed into a complete VR experience with full motion controls, lightsaber combat, and Force powers."
-lastVerified: 2026-03-23T22:30:00
+lastVerified: 2022-03-01
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'PCVR']

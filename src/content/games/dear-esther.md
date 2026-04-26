@@ -1,7 +1,7 @@
 ---
 title: "Dear Esther VR"
 description: "A haunting walking simulator transforms into an unforgettable VR experience — one of the best examples of how narrative-driven exploration games can thrive in virtual reality."
-lastVerified: 2026-03-23T09:46:00
+lastVerified: 2017-05-01
 featured: false
 routeType: Framework-Based
 platforms: ['PCVR']
