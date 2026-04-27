@@ -5,7 +5,7 @@ lastVerified: 2016-06-01
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']
-recommendation: Only for Enthusiasts / Tinkerers
+recommendation: "Enthusiasts/Tinkerers Only"
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
@@ -26,7 +26,7 @@ experienceTags:
   - Career Mode
   - Rallycross
   - Pikes Peak
-tier: C+
+tier: "C"
 verdict: "DiRT Rally in VR is a demanding, often nauseating experience with limited appeal outside of dedicated sim racing enthusiasts. Technically competent, but hard to recommend when better racing options exist in VR today."
 heroImage: '/images/games/dirt-rally-vr-hero.jpg'
 gameQuality: 7
