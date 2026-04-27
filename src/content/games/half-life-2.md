@@ -1,6 +1,6 @@
 ---
 title: Half-Life 2 in VR
-description: The Half-Life 2 VR Mod Is a Time Machine That Works. A complete, playable, genuinely transformative way to experience one of the most influential games ever made.
+description: The definitive flat-to-VR conversion. A complete, playable, genuinely transformative way to experience one of the most influential games ever made.
 lastVerified: 2022-09-23
 featured: true
 routeType: Full VR Mod
@@ -25,7 +25,7 @@ experienceTags:
   - Essential Experience
   - Technical Achievement
 score: 92
-tier: A
+tier: S
 verdict: "This isn't just the best flat-to-VR conversion available. It's the argument for why flat-to-VR conversion matters at all."
 heroImage: /images/games/half-life-2-vr-hero.jpg
 flatReleaseDate: 2004-11-16
@@ -43,6 +43,14 @@ And yet here it is. Here you are.
 The Source VR Mod Team released this conversion in September 2022, after roughly a decade of on-and-off development that started with a Sony HMZ-T1 headset and some hacked-together motion tracking [Community Report]. What exists now is something that shouldn't feel as coherent as it does: a full room-scale VR implementation of Valve's 2004 masterpiece, complete with manual reloading, two-handed weapon stabilization, and physics that somehow hold up when you're physically twisting your wrists to angle a gravity gun shot.
 
 The mod is free on Steam if you own Half-Life 2. Not family-shared—actually owned. It installs like any other Steam game, launches through SteamVR, and has accumulated over 7,600 reviews with a 98% positive rating [Documentation]. Those numbers suggest something rare in the flat-to-VR space: a project that actually shipped complete.
+
+---
+
+## What This VR Option Actually Is
+
+This is a full community-made VR conversion of Half-Life 2, built with Valve's blessing and distributed as a free Steam app. It is not an injection driver or a framework hack. It is a ground-up reimplementation of the game's input, rendering, and interaction systems for room-scale VR, with motion controls, manual reloading, physics interactions, and the complete campaign playable from start to finish.
+
+The team has since added Episode One and Episode Two, also free, also complete. This is not a tech demo. It is not a proof of concept. It is a finished product.
 
 ---
 
@@ -72,7 +80,7 @@ The comfort issues are real and worth taking seriously. The airboat and buggy se
 
 There's no teleport movement option, only smooth locomotion with snap or smooth turning [Documentation]. This is a design choice that prioritizes immersion over accessibility. It means the mod requires "VR legs"—the acquired tolerance for artificial movement that prevents nausea. New VR users should approach with caution.
 
-Performance is another variable. The Source engine is single-threaded and DirectX 9, which the team has worked around with a DXVK implementation [Community Report]. Users with hardware meeting the minimum requirements (GTX 1060/RX 580, 8GB RAM) report stable performance, but the recommended specs (GTX 1080/RX 5700, 16GB RAM) suggest where the experience actually shines [Documentation].
+Performance is another variable. The Source engine is single-threaded and DirectX 9, which the team has worked around with a DXVK implementation [Community Report]. Users with hardware meeting the minimum requirements report stable performance, but the recommended specs suggest where the experience actually shines [Documentation].
 
 ---
 
@@ -96,13 +104,21 @@ This is the part where we note what hasn't been personally tested. We haven't ru
 
 ## The Verdict
 
+**Game Quality: S**
+
+Half-Life 2 is not just one of the best first-person shooters ever made. It is one of the best games ever made, full stop. Its pacing, environmental storytelling, physics-driven design, and world-building remain unmatched two decades later. The campaign is tight. The set pieces are iconic. The gravity gun is still one of gaming's most satisfying tools. Nothing about the underlying game has aged out of relevance.
+
+**VR Implementation Quality: A**
+
+The Source VR Mod Team took a game built for CRT monitors and mouse-and-keyboard and made it feel native to hardware that didn't exist when the original code was compiled. Manual reloading, two-handed stabilization, room-scale physics interaction, and the complete campaign playable end-to-end—this is not a mod that proves potential. It proves completion. The missing hand animations, occasional texture blur, and vehicle comfort issues keep it from a perfect score, but they do not diminish what has been achieved. This is the standard against which every flat-to-VR conversion is measured.
+
+**Overall Tier: S**
+
 There's a temptation with flat-to-VR mods to grade on a curve. To say "for a mod, it's impressive" as if that qualifier excuses rough edges. The Half-Life 2 VR mod doesn't need that charity. It stands on its own as a complete, playable, genuinely transformative way to experience one of the most influential games ever made.
 
 Is it perfect? No. The vehicle sections are demanding, the textures show their age, and some animations remain placeholder. But the core experience—being physically present in City 17, manipulating its physics with your own hands, nodding at characters who look back at you—is something that didn't exist two decades ago and couldn't have been predicted.
 
 The mod team didn't just port a game. They built a time machine that works.
-
----
 
 This isn't just the best flat-to-VR conversion available. It's the argument for why flat-to-VR conversion matters at all.
 
@@ -127,4 +143,13 @@ The flat-to-VR landscape is crowded with projects that demonstrate potential. Th
 **Developer:** Source VR Mod Team  
 **Steam:** [Half-Life 2: VR Mod](https://store.steampowered.com/app/658920/) | [Episode One](https://store.steampowered.com/app/2177750/) | [Episode Two](https://store.steampowered.com/app/2177760/)  
 **Website:** [halflife2vr.com](https://halflife2vr.com/)
-)
+
+<details class="source-log"><summary>Sources</summary>
+
+- Source VR Mod Team public documentation and Steam store pages (mod features, system requirements, install process, roadmap)
+- Flat2VR Discord community knowledge (development history, texture upscaling experiments, controller binding reports)
+- Reddit r/vive and r/hlvr community reports (comfort experiences, fitness tracker anecdotes, exploration behavior)
+- YouTube VR gameplay footage from Beardo Benjo, Gamertag VR, and Paradise's Decay (control implementation, physics interaction, visual quality)
+- Steam user reviews for Half-Life 2: VR Mod (aggregate sentiment, bug reports, completion confirmation)
+
+</details>
