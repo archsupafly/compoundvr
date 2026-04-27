@@ -146,8 +146,4 @@ Fallout 4 VR offers something no other virtual reality experience can match: a c
 
 ## Source Log
 
-¹ Bethesda / Steam store page for Fallout 4 VR — official feature list, DLC contents, support status
-² YouTube VR gameplay footage and setup guides (Beardo Benjo, Gamertag VR, and general VR channel coverage)
-³ Flat2VR Discord community knowledge — mod recommendations, performance configurations, stability reports
-⁴ Steam user reviews for Fallout 4 VR — performance reports, crash patterns, hardware experiences
-⁵ Reddit community reports (r/vive, r/oculus, Fallout-specific subreddits) — modding guidance, setup notes, stability feedback
+*Source Log: Research conducted via Bethesda/Steam store page for Fallout 4 VR (official features, DLC contents, support status), YouTube VR gameplay footage and setup guides (Beardo Benjo, Gamertag VR), Flat2VR Discord community knowledge (mod recommendations, performance configurations, stability reports), Steam user reviews (performance reports, crash patterns, hardware experiences), and Reddit community reports (r/vive, r/oculus, Fallout-specific subreddits). No direct testing performed; assessment based on aggregated community experience and technical documentation.*
