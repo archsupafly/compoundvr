@@ -168,10 +168,13 @@ For players willing to spend twenty minutes on installation and configuration, P
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Portal 2 VR Mod GitHub repository (github.com/Gistix/portal2vr)
 - Portal 1 Remastered Steam Workshop content
 - Flat2VR Discord community knowledge
 - Steam Community guides for Portal 2 VR mod usage
 - Portal Stories: Mel VR compatibility documentation
+
+</details>

@@ -199,7 +199,8 @@ Just remember to set your monitor to 1920×1080 before you start.
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - DFUVR GitHub Repository (LokiusV/Daggerfall-Unity-VR) — mod documentation and setup instructions
 - Daggerfall Unity Nexus Mods — DFUVR release page and community discussion
@@ -207,3 +208,5 @@ Just remember to set your monitor to 1920×1080 before you start.
 - Flat2VR Discord — community knowledge and support for DFUVR
 - Daggerfall Unity Official Forums — mod compatibility and installation guides
 - Reddit r/Daggerfall and r/daggerfallunity — community experiences and troubleshooting
+
+</details>

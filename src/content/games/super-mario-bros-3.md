@@ -324,7 +324,8 @@ This is how you revisit a masterpiece.
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - 3dSen VR Steam Store page and official documentation
 - 3dSen VR Meta Quest Store page
@@ -333,17 +334,12 @@ This is how you revisit a masterpiece.
 - Flat2VR Discord community knowledge on NES emulation in VR
 - Historical documentation of Super Mario Bros. 3 development and design
 - EmuVR official documentation for comparison coverage
+- ---
+- 3dSen VR ($24.99, includes 100+ supported NES games) + legally obtained Super Mario Bros. 3 NES ROM
+- Gamepad strongly recommended (Xbox, PlayStation, Switch Pro, or 8BitDo)
+- Extremely comfortable—no artificial locomotion, stable horizon, player-controlled viewing
+- Runs flawlessly on any VR-capable system; minimal hardware requirements
+- PCVR (SteamVR), Meta Quest (standalone), Meta Quest Mixed Reality
+- April 2026
 
----
-
-**Software Required:** 3dSen VR ($24.99, includes 100+ supported NES games) + legally obtained Super Mario Bros. 3 NES ROM
-
-**Input:** Gamepad strongly recommended (Xbox, PlayStation, Switch Pro, or 8BitDo)
-
-**Comfort:** Extremely comfortable—no artificial locomotion, stable horizon, player-controlled viewing
-
-**Performance:** Runs flawlessly on any VR-capable system; minimal hardware requirements
-
-**Platforms:** PCVR (SteamVR), Meta Quest (standalone), Meta Quest Mixed Reality
-
-**Last Verified:** April 2026
+</details>

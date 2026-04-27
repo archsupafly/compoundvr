@@ -347,7 +347,8 @@ Just don't expect the Konami Code to feel any less necessary.
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - 3dSen VR Steam Store page and documentation
 - 3dSen VR Meta Quest Store page
@@ -355,3 +356,5 @@ Just don't expect the Konami Code to feel any less necessary.
 - Konami Contra NES manual and historical documentation
 - Flat2VR Discord community knowledge on NES emulation in VR
 - YouTube gameplay demonstrations from retro VR enthusiasts
+
+</details>

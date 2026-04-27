@@ -108,10 +108,13 @@ The sequels (Pixel Ripped 1995 and Pixel Ripped 1978) expand the concept across 
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Steam Store page for Pixel Ripped 1989
 - UploadVR review coverage (2018)
 - THE VR GRID review (2018)
 - Flat2VR Discord community feedback
 - ARVORE official documentation
+
+</details>

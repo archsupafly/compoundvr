@@ -123,7 +123,8 @@ If you're looking for a substantial Batman VR experience, the 2024 release *Batm
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - IGN review (October 2016)
 - UploadVR review (PSVR launch coverage)
@@ -131,3 +132,5 @@ If you're looking for a substantial Batman VR experience, the 2024 release *Batm
 - Steam Community discussions (2024-2025 player experiences)
 - Rocksteady Studios official documentation
 - Kevin Conroy voice acting credits (IMDb, Arkham Wiki)
+
+</details>

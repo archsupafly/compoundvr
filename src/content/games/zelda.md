@@ -292,7 +292,8 @@ The kingdom has never looked better.
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - 3dSen VR Steam Store page and documentation
 - 3dSen itch.io devlog (3dSen has supported Zelda since early 2018)
@@ -302,3 +303,5 @@ The kingdom has never looked better.
 - RetroRGB coverage of EmuVR features
 - Flat2VR Discord community knowledge on NES emulation in VR
 - Steam Community guides for Zelda 100% completion in 3dSen
+
+</details>

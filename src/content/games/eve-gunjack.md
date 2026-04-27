@@ -166,7 +166,8 @@ If you're seeking a living turret shooter in VR, look to more recent releases. G
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Road to VR review (2015) — "Gunjack Sets the Bar for Gear VR Turret Shooters"
 - Delisted Games — EVE: Gunjack entry
@@ -174,3 +175,5 @@ If you're seeking a living turret shooter in VR, look to more recent releases. G
 - Polygon announcement coverage (August 2015)
 - EVE Online official news — "Introducing Gunjack"
 - Steam Community announcements (July 2022)
+
+</details>

@@ -352,7 +352,8 @@ Life is like a hurricane—and in 3dSen VR, that hurricane has depth.
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - 3dSen VR Steam Store page and documentation
 - 3dSen VR Meta Quest Store page
@@ -361,3 +362,5 @@ Life is like a hurricane—and in 3dSen VR, that hurricane has depth.
 - Historical coverage of Duck Tales (1989) development and reception
 - Flat2VR Discord community knowledge on NES emulation in VR
 - YouTube gameplay demonstrations from retro VR enthusiasts
+
+</details>

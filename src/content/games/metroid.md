@@ -317,7 +317,8 @@ Just don't expect a map.
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - 3dSen VR Steam Store page and official documentation
 - 3dSen VR Meta Quest Store page
@@ -325,3 +326,5 @@ Just don't expect a map.
 - Flat2VR Discord community knowledge on NES emulation in VR
 - YouTube gameplay demonstrations from Beardo Benjo and retro VR enthusiasts
 - 3dSen VR supported games list (Metroid confirmed inclusion)
+
+</details>

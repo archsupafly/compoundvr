@@ -342,7 +342,8 @@ The Mushroom Kingdom has never been more accessible—or more dimensional.
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - 3dSen VR Steam Store page and documentation
 - EmuVR official website and installation wiki
@@ -351,3 +352,5 @@ The Mushroom Kingdom has never been more accessible—or more dimensional.
 - RetroRGB coverage of EmuVR netplay features
 - YouTube gameplay reviews from Mike Matei, Eurogamer, and UploadVR
 - Flat2VR Discord community knowledge on NES emulation in VR
+
+</details>

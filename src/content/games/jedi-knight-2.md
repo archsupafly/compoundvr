@@ -160,7 +160,8 @@ This is what flat-to-VR modding should aspire to: complete functionality, though
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Team Beef JKXR GitHub repository and documentation
 - SideQuest app page and installation guides
@@ -168,3 +169,5 @@ This is what flat-to-VR modding should aspire to: complete functionality, though
 - Eurogamer coverage (April 2023) on JK XR release
 - Flat2VR Discord community reports and troubleshooting
 - Team Beef Patreon development updates
+
+</details>

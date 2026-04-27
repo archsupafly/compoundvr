@@ -183,7 +183,8 @@ If you own Portal 2 and a PCVR headset, the question isn't whether to try this. 
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Portal 2 VR Mod GitHub repository (github.com/Gistix/portal2vr)
 - Flat2VR Discord community knowledge and playtesting reports
@@ -191,3 +192,5 @@ If you own Portal 2 and a PCVR headset, the question isn't whether to try this. 
 - Steam Community guides for Portal 2 VR mod installation and troubleshooting
 - Source VR Mod Team development updates and feature documentation
 - Portal 2 Steam Workshop community content compatibility reports
+
+</details>

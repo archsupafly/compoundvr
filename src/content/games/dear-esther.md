@@ -191,10 +191,13 @@ Full detailed installation guides are available through Flat2VR community resour
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Eusth VRGIN GitHub repository and documentation
 - Flat2VR Discord community knowledge base
 - YouTube VR reviews of Dear Esther: Landmark Edition
 - Steam Community discussions on VRGIN compatibility
 - The Chinese Room developer commentary (Director's Commentary mode)
+
+</details>

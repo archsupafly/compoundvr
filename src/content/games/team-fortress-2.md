@@ -166,10 +166,13 @@ If Virtual Fortress 2 eventually adds multiplayer and completes its implementati
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Official TF2 Wiki Oculus Rift User Guide — detailed documentation of the 2013 VR implementation
 - Road to VR coverage of Valve's 2013 GDC presentation on TF2 VR
 - Virtual Fortress 2 GitHub repository and itch.io page
 - Steam Community discussions on activating legacy VR mode
 - Flat2VR Discord — community knowledge on current state of TF2 VR
+
+</details>

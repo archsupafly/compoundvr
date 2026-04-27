@@ -285,7 +285,8 @@ If you own a Quest and haven't played Half-Life, install Lambda1VR. If you have 
 
 ---
 
-## Research Sources
+<details class="source-log">
+<summary>Sources</summary>
 
 - Lambda1VR Official Website — https://www.lambda1vr.com/
 - Lambda1VR GitHub Repository — https://github.com/Team-Beef-Studios/Lambda1VR
@@ -294,3 +295,5 @@ If you own a Quest and haven't played Half-Life, install Lambda1VR. If you have 
 - Black Mesa Source VR Nexus Mods — https://www.nexusmods.com/halflife2episode2/mods/4
 - Mixed News coverage of Black Mesa VR launch (April 2023)
 - Reddit r/Lambda1VR community documentation
+
+</details>
