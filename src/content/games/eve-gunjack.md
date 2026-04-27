@@ -1,17 +1,17 @@
 ---
 title: "EVE Gunjack"
-description: "A polished turret shooter that proved mobile VR could deliver console-quality visuals — now delisted and unplayable."
+description: "A polished turret shooter that proved mobile VR could deliver console-quality visuals — now delisted and diminished, but still playable solo."
 lastVerified: 2015-11-01
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR', 'Quest']
-recommendation: Not Recommended
-playability: Broken
+recommendation: Recommended with Caveats
+playability: Partially Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
 comfort: Comfortable
 performance: Efficient
-supportStatus: Abandoned
+supportStatus: Stable but Quiet
 genres:
   - Arcade Shooter
   - Turret Shooter
@@ -24,8 +24,8 @@ experienceTags:
   - Official Release
   - Delisted
   - Single-Player
-tier: F
-verdict: "EVE Gunjack was a remarkably polished mobile VR turret shooter that demonstrated what Unreal Engine 4 could achieve on a smartphone. Released for Gear VR in 2015 and later expanding to PC and PlayStation VR, it offered satisfying arcade action with impressive production values. However, CCP Games delisted the title in July 2022 and shut down its servers in August 2022. It is no longer available for purchase or playable."
+tier: D
+verdict: "EVE Gunjack was a remarkably polished mobile VR turret shooter that demonstrated what Unreal Engine 4 could achieve on a smartphone. Released for Gear VR in 2015 and later expanding to PC and PlayStation VR, it offered satisfying arcade action with impressive production values. CCP Games delisted the title in July 2022 and shut down its multiplayer servers in August 2022. It is no longer available for purchase and the multiplayer is dead, but the solo campaign remains playable for existing owners."
 heroImage: /images/games/eve-gunjack-hero.jpg
 vrReleaseDate: 2015-11-01
 ---
@@ -34,7 +34,7 @@ vrReleaseDate: 2015-11-01
 
 In the early days of consumer virtual reality, CCP Games bet big on the technology. While EVE: Valkyrie grabbed headlines as the flagship multiplayer space combat experience, its smaller sibling EVE Gunjack quietly established a new benchmark for what mobile VR could achieve. Built from the ground up in Unreal Engine 4 and released alongside the Samsung Gear VR in November 2015, Gunjack demonstrated that smartphone-powered VR could deliver console-quality visuals and satisfying arcade action.
 
-The game is now gone — delisted from all stores and unplayable since its server shutdown in August 2022. But its legacy as one of the most polished early VR shooters remains relevant for anyone studying the evolution of virtual reality gaming.
+The game is now delisted from all stores and its multiplayer servers went dark in August 2022. But the solo campaign still works for those who own it, and its legacy as one of the most polished early VR shooters remains relevant for anyone studying the evolution of virtual reality gaming.
 
 ## What It Was
 
@@ -120,11 +120,12 @@ On July 1, 2022, CCP Games announced that Gunjack (alongside EVE: Valkyrie – W
 
 > "All good things come to an end, even to fearless turret operators. Today, we have begun the process of discontinuing support for Gunjack to focus CCP Games' efforts and resources on new developments in our evolving portfolio of EVE Universe titles."
 
-The servers remained active until **August 5, 2022**, after which:
-- The game became unplayable (server authentication required)
+The servers went offline on **August 5, 2022**, after which:
+- Online leaderboards and multiplayer ceased to function
 - Social media profiles were closed
 - The official website went offline
 - Customer support ended
+- The solo campaign remained playable for existing owners
 
 The delisting was part of CCP's broader withdrawal from VR development following the closure of their VR-focused Newcastle studio in 2017. After years of maintaining games that had found only niche audiences, the company chose to focus resources on EVE Online and its upcoming projects.
 
@@ -144,13 +145,13 @@ For the flat-to-VR community, Gunjack serves as:
 - Evidence of how quickly even well-made VR games can disappear
 - A reminder that official releases face their own sustainability challenges
 
-There is no community mod, fan remake, or preservation project that has resurrected Gunjack. Unlike flat-to-VR conversions that live on through community effort, this was a server-dependent commercial product whose infrastructure is permanently offline.
+There is no community mod, fan remake, or preservation project that has resurrected Gunjack for new buyers. Unlike flat-to-VR conversions that live on through community effort, this was a commercial product whose store presence is gone and whose online infrastructure is offline.
 
-You cannot play Gunjack today. Trailers, Let's Plays, and archived reviews are the only ways to experience what CCP Shanghai accomplished in 2015.
+If you already own Gunjack, the solo campaign is still playable. If you don't, there is currently no legal way to acquire it. Trailers, Let's Plays, and archived reviews are the only ways to experience what CCP Shanghai accomplished in 2015.
 
 ## The Verdict
 
-**Tier: F (Not Recommended)**
+**Tier: D (Recommended with Caveats)**
 
 **Game Quality: B+**
 For what it was — a mobile VR arcade turret shooter — Gunjack was excellent. The shooting felt good, the presentation was premium, and the technical execution was flawless. Its only sins were repetition and shallow use of the EVE universe's potential.
@@ -158,11 +159,11 @@ For what it was — a mobile VR arcade turret shooter — Gunjack was excellent.
 **VR Implementation Quality: B+**
 The head-locked turret sacrificed some immersion for usability, but this was a reasonable trade-off for mobile VR hardware. The cockpit detail and smooth performance demonstrated genuine VR craft.
 
-**Current Status: Unavailable**
+**Current Status: Delisted — Solo Playable, Multiplayer Dead**
 
-Gunjack is not a flat-to-VR conversion worth pursuing — it was never a flat game, and it no longer exists at all. Its value today is historical: a well-crafted early VR shooter that proved mobile platforms could deliver real games, and a cautionary tale about the impermanence of server-dependent entertainment.
+Gunjack is not a flat-to-VR conversion worth pursuing — it was never a flat game, and it is no longer sold. For existing owners, the solo campaign remains a competent if thin introduction to VR turret shooters. For everyone else, its value is historical: a well-crafted early VR shooter that proved mobile platforms could deliver real games, and a cautionary tale about the impermanence of server-dependent entertainment.
 
-If you're seeking a living turret shooter in VR, look to more recent releases. Gunjack's time has passed.
+If you're seeking a living turret shooter in VR, look to more recent releases. Gunjack's time as a recommended purchase has passed, but it is not a dead experience for those who already own it.
 
 ---
 
