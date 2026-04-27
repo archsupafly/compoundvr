@@ -31,9 +31,17 @@ else if (tier === 'C') tierClass = 'tier tier--large tier--c';
 else if (tier === 'D') tierClass = 'tier tier--large tier--d';
 else tierClass = 'tier tier--large tier--f';
 
-// Format date as "Month DD, YYYY"
-function formatDate(date: Date): string {
-  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+// Short date: Sep 26, 1986
+function formatShortDate(date: Date): string {
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+
+// Numeric date: 01/08/2018
+function formatNumericDate(date: Date): string {
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  const y = date.getFullYear();
+  return `${m}/${d}/${y}`;
 }
 ---
 
@@ -53,9 +61,9 @@ function formatDate(date: Date): string {
       <div class="stat">
         <div class="stat-label">Release</div>
         <div class="stat-value">
-          {game.data.flatReleaseDate && formatDate(game.data.flatReleaseDate)}
-          {game.data.flatReleaseDate && game.data.vrReleaseDate && <span class="stat-note"> · VR mod {formatDate(game.data.vrReleaseDate)}</span>}
-          {!game.data.flatReleaseDate && game.data.vrReleaseDate && formatDate(game.data.vrReleaseDate)}
+          {game.data.flatReleaseDate && formatShortDate(game.data.flatReleaseDate)}
+          {game.data.flatReleaseDate && game.data.vrReleaseDate && <><br /><span class="stat-note">VR mod {formatNumericDate(game.data.vrReleaseDate)}</span></>}
+          {!game.data.flatReleaseDate && game.data.vrReleaseDate && formatShortDate(game.data.vrReleaseDate)}
         </div>
       </div>
       <div class="stat">
