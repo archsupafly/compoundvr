@@ -30,6 +30,7 @@ experienceTags:
 tier: C
 verdict: "A legendary RPG with a technically competent but fundamentally limited VR conversion. Worth it only for those who specifically want to revisit Geralt's world from inside the helmet."
 heroImage: /images/games/the-witcher-3-vr-hero.jpg
+sources: "Luke Ross R.E.A.L. driver documentation, Flat2VR community knowledge base, VR YouTube coverage from Beardo Benjo and Gamertag VR, Reddit VR community feedback, technical documentation on injection driver methodology."
 ---
 
 # The Witcher 3: Wild Hunt in VR: A Legendary World, Limited by the Hardware of Its Time
@@ -125,6 +126,3 @@ The R.E.A.L. injection driver provides stereoscopic 3D and head tracking, and it
 **Overall Tier: C**
 The Witcher 3 VR is a curiosity for enthusiasts, not a destination. If you are determined to experience Geralt's journey with depth perception and head tracking, the technical foundation exists. But the compromises are substantial, the setup burden real, and the absence of VR-native design choices felt throughout. It is a testament to the original game's quality that it remains engaging despite the limited implementation—but this is not how most players should experience The Witcher 3 for the first time, nor is it the definitive way to return.
 
----
-
-**Sources consulted:** Luke Ross R.E.A.L. driver documentation, Flat2VR community knowledge base, VR YouTube coverage from Beardo Benjo and Gamertag VR, Reddit VR community feedback, technical documentation on injection driver methodology.

@@ -28,6 +28,7 @@ experienceTags:
 tier: A
 verdict: "The Climb remains one of VR's most effective presence engines, translating the physicality and danger of free solo climbing with minimal friction and maximum visual impact."
 heroImage: /images/games/the-climb-vr-hero.jpg
+sources: "Wikipedia, UploadVR, Road to VR, Forbes, Hardcore Gamer, Rock Paper Shotgun, Meta developer documentation, Reddit VR communities, YouTube VR channels (Beardo Benjo, Gamertag VR), Crytek official resources."
 ---
 
 # The Climb in VR: The Drop That Changes Everything
@@ -126,6 +127,3 @@ Native VR design from the ground up, full motion controls, and a mechanics syste
 **Overall Tier: A**
 *The Climb* remains essential VR software nearly a decade after release. It demonstrates what happens when a capable studio treats VR as a primary platform rather than an obligation. The experience is singular, polished, and effective—worth owning for anyone serious about what virtual reality can achieve.
 
----
-
-*Sources consulted: Wikipedia, UploadVR, Road to VR, Forbes, Hardcore Gamer, Rock Paper Shotgun, Meta developer documentation, Reddit VR communities, YouTube VR channels (Beardo Benjo, Gamertag VR), Crytek official resources.*
