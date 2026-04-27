@@ -34,7 +34,7 @@ const featuredArticles = articles.filter((a) => a.data.featured).slice(0, 3);
   </section>
 
   <section class="section container">
-    <h2>All VR Routes</h2>
+    <h2>All VR Games</h2>
     <CardGrid items={displayGames.map((game) => ({
       href: `/games/${game.id}/`,
       title: game.data.title,
