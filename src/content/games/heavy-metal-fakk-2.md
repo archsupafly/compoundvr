@@ -30,6 +30,7 @@ tier: D
 verdict: "A visually distinctive cult classic with creative combat and environmental variety — but VorpX injection provides only a limited VR transformation, the third-person camera gains little from head tracking, modern compatibility problems make getting the game running a project in itself, and availability is uncertain. Only for dedicated fans willing to fight two games at once: FAKK 2 and their own PC."
 heroImage: /images/games/heavy-metal-fakk-2-vr-hero.jpg
 flatReleaseDate: 2000-06-29
+sources: "- Game history, Ritual Entertainment, Quake III engine details, gameplay mechanics, art direction, Julie Strain/Heavy Metal 2000 connection, campaign length - VorpX general behavior, Z3D vs Geometry 3D characteristics, injection driver limitations - Modern compatibility issues with Quake III engine era titles, community patch landscape - Specific VorpX 3D mode for FAKK 2 (likely Geometry 3D based on engine patterns and official profile listing, but not independently confirmed), current state of community patches and their VorpX compatibility, current digital storefront availability - Not directly tested — all assessments are research compilation based on training data and general VorpX/engine knowledge - ## Testing Notes - Not directly tested - This draft is based on research compilation of game characteristics, engine behavior, and VorpX injection driver patterns - Specific VorpX profile behavior for FAKK 2 should be verified before publication - Modern compatibility patch landscape should be confirmed as current - The Z3D vs Geometry 3D classification should be verified against current VorpX profile database"
 ---
 
 # Heavy Metal FAKK 2 in VR: Cult Classic, Steep Climb
@@ -155,22 +156,3 @@ The combination of limited VR benefit, Z3D rather than Geometry 3D, and signific
 - [x] Honest recommendation, not vague positivity
 - [x] All YAML frontmatter fields populated
 - [x] Sources documented below
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Game history, Ritual Entertainment, Quake III engine details, gameplay mechanics, art direction, Julie Strain/Heavy Metal 2000 connection, campaign length
-- VorpX general behavior, Z3D vs Geometry 3D characteristics, injection driver limitations
-- Modern compatibility issues with Quake III engine era titles, community patch landscape
-- Specific VorpX 3D mode for FAKK 2 (likely Geometry 3D based on engine patterns and official profile listing, but not independently confirmed), current state of community patches and their VorpX compatibility, current digital storefront availability
-- Not directly tested — all assessments are research compilation based on training data and general VorpX/engine knowledge
-- ## Testing Notes
-- Not directly tested
-- This draft is based on research compilation of game characteristics, engine behavior, and VorpX injection driver patterns
-- Specific VorpX profile behavior for FAKK 2 should be verified before publication
-- Modern compatibility patch landscape should be confirmed as current
-- The Z3D vs Geometry 3D classification should be verified against current VorpX profile database
-
-</details>

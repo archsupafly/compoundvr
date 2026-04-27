@@ -30,6 +30,7 @@ verdict: "An exceptional RPG with a fundamentally limited VR implementation. Wor
 score: 75
 flatReleaseDate: 2004-11-16
 heroImage: /images/games/vampire-the-masquerade-bloodlines-vr-hero.jpg
+sources: "- VorpX Forums — community profiles and configuration discussion for *Bloodlines* - Reddit r/virtualreality, r/VRGaming, r/vtmb — user experience reports and troubleshooting - RPGFan, Grimdark Magazine, IGN — historical coverage of the base game's quality and legacy - Steam Community — player reports on VorpX compatibility - VorpX provides stereoscopic 3D and head tracking; no motion controls - Dialogue/cutscene camera zoom is a persistent comfort issue - Third-person switches during feeding cannot be prevented - Gamepad recommended over keyboard/mouse for comfort - Unofficial community patch is mandatory for optimal experience - User experiences range from \"fully justified the cost of VorpX\" to frustrated troubleshooting"
 ---
 
 # Vampire: The Masquerade - Bloodlines in VR: The Flawed Masterpiece Gets a Headset
@@ -90,21 +91,3 @@ VorpX provides functional stereoscopic 3D and head tracking, but the fundamental
 
 **Overall Tier: B**
 This is worth doing if you love the game enough to forgive its friction. The VR layer adds genuine value to an already exceptional RPG, particularly for repeat playthroughs where the technical annoyances matter less than the atmospheric gain. But this is not a transformative experience — it is a cult classic viewed through a new lens, not a game reborn for virtual reality.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- VorpX Forums — community profiles and configuration discussion for *Bloodlines*
-- Reddit r/virtualreality, r/VRGaming, r/vtmb — user experience reports and troubleshooting
-- RPGFan, Grimdark Magazine, IGN — historical coverage of the base game's quality and legacy
-- Steam Community — player reports on VorpX compatibility
-- VorpX provides stereoscopic 3D and head tracking; no motion controls
-- Dialogue/cutscene camera zoom is a persistent comfort issue
-- Third-person switches during feeding cannot be prevented
-- Gamepad recommended over keyboard/mouse for comfort
-- Unofficial community patch is mandatory for optimal experience
-- User experiences range from "fully justified the cost of VorpX" to frustrated troubleshooting
-
-</details>

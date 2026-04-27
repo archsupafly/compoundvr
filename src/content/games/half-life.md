@@ -30,6 +30,7 @@ verdict: "Half-Life in VR is excellent — multiple quality implementations, ful
 heroImage: /images/games/half-life-vr-hero.jpg
 flatReleaseDate: 1998-11-19
 vrReleaseDate: 2019-03-01
+sources: "- Lambda1VR Official Website — https://www.lambda1vr.com/ - Lambda1VR GitHub Repository — https://github.com/Team-Beef-Studios/Lambda1VR - Lambda1VR SideQuest Page — https://sidequestvr.com/app/124/lambda1vr-half-life-vr-meta-quest - Half-Life 2: VR Mod Steam Page — https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/ - Black Mesa Source VR Nexus Mods — https://www.nexusmods.com/halflife2episode2/mods/4 - Mixed News coverage of Black Mesa VR launch (April 2023) - Reddit r/Lambda1VR community documentation"
 ---
 
 # Half-Life in VR: The Original Masterpiece, Reborn
@@ -282,18 +283,3 @@ For PCVR users, the choice between Half-Life: Source VR Mod and Black Mesa VR de
 The common thread is that Half-Life works in VR. The level design accommodates room-scale movement. The pacing suits immersive sessions. The combat benefits from physical presence. Even the dated visuals become charming when you're physically present in Black Mesa's corridors.
 
 If you own a Quest and haven't played Half-Life, install Lambda1VR. If you have a PCVR setup and own Half-Life: Source, try the VR Mod. The original Half-Life is waiting — and it's never been more accessible, more immersive, or more worth your time.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Lambda1VR Official Website — https://www.lambda1vr.com/
-- Lambda1VR GitHub Repository — https://github.com/Team-Beef-Studios/Lambda1VR
-- Lambda1VR SideQuest Page — https://sidequestvr.com/app/124/lambda1vr-half-life-vr-meta-quest
-- Half-Life 2: VR Mod Steam Page — https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/
-- Black Mesa Source VR Nexus Mods — https://www.nexusmods.com/halflife2episode2/mods/4
-- Mixed News coverage of Black Mesa VR launch (April 2023)
-- Reddit r/Lambda1VR community documentation
-
-</details>

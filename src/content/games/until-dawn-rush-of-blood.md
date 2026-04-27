@@ -30,6 +30,7 @@ tier: B
 verdict: "A polished VR showcase that delivers intense horror atmosphere and satisfying arcade shooting, hampered by brevity and a narrow focus. Essential for Until Dawn fans and PSVR collectors, but the 2-3 hour runtime limits broader appeal."
 heroImage: /images/games/until-dawn-rush-of-blood-hero.jpg
 vrReleaseDate: 2016-10-13
+sources: "- IGN review (October 2016) — PSVR launch coverage - Push Square review — gameplay and scoring analysis - PlayStation Lifestyle review — control scheme impressions - Digital Foundry technical analysis — PSVR performance - Metacritic aggregate — user and critic consensus - Reddit discussions: r/PSVR, r/UntilDawn - PSVR community threads on comfort and Move controller tracking - Official PlayStation Blog — launch announcement and features - Supermassive Games developer interviews (2016) - --- - ## Research Notes - Despite rumors and fan requests, no PSVR2 version of Rush of Blood has been officially announced or released as of April 2026. The original PSVR version remains playable on PS5 via backwards compatibility with appropriate hardware. - Multiple sources confirm that PS Aim controller tracking is more stable than PS Move controllers, but the dual-pistol experience is generally preferred for the immersion factor. - Reviews consistently cite 2-3 hours for main campaign completion, with additional time for collectibles and high-score chasing. This is not contested in the source material. - Generally positive as a launch title showcase. Criticism focuses on brevity and limited replay value, not on the quality of the core experience. - --- - *Last Updated: April 2026 | AI-Author Article*"
 ---
 
 # Until Dawn: Rush of Blood: The Carnival Ride Through Hell
@@ -249,28 +250,3 @@ Until Dawn: Rush of Blood is a well-made VR experience that does exactly what it
 For PSVR owners, this remains one of the better showcase titles for the platform, particularly for demonstrating horror immersion and motion controls to newcomers. As a commercial product, the value proposition depends entirely on whether you're comfortable paying for 2-3 hours of polished content with limited replayability.
 
 The PSVR2 backward compatibility keeps it playable, but a native port with improved tracking and visuals would be the definitive way to experience this. Until then, Rush of Blood is recommended for the right audience — Until Dawn fans, horror enthusiasts, and players who understand they're buying an arcade experience, not a full sequel.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- IGN review (October 2016) — PSVR launch coverage
-- Push Square review — gameplay and scoring analysis
-- PlayStation Lifestyle review — control scheme impressions
-- Digital Foundry technical analysis — PSVR performance
-- Metacritic aggregate — user and critic consensus
-- Reddit discussions: r/PSVR, r/UntilDawn
-- PSVR community threads on comfort and Move controller tracking
-- Official PlayStation Blog — launch announcement and features
-- Supermassive Games developer interviews (2016)
-- ---
-- ## Research Notes
-- Despite rumors and fan requests, no PSVR2 version of Rush of Blood has been officially announced or released as of April 2026. The original PSVR version remains playable on PS5 via backwards compatibility with appropriate hardware.
-- Multiple sources confirm that PS Aim controller tracking is more stable than PS Move controllers, but the dual-pistol experience is generally preferred for the immersion factor.
-- Reviews consistently cite 2-3 hours for main campaign completion, with additional time for collectibles and high-score chasing. This is not contested in the source material.
-- Generally positive as a launch title showcase. Criticism focuses on brevity and limited replay value, not on the quality of the core experience.
-- ---
-- *Last Updated: April 2026 | AI-Author Article*
-
-</details>

@@ -28,6 +28,7 @@ experienceTags:
 tier: "A"
 verdict: "A staggering VR RPG that rewards the effort it demands. Vanilla friction is real, but the modded experience — which is how virtually everyone actually plays it — transforms this into one of VR's finest and most complete adventures."
 heroImage: /images/games/fallout-4-vr-hero.jpg
+sources: "Research conducted via Bethesda/Steam store page for Fallout 4 VR (official features, DLC contents, support status), YouTube VR gameplay footage and setup guides (Beardo Benjo, Gamertag VR), Flat2VR Discord community knowledge (mod recommendations, performance configurations, stability reports), Steam user reviews (performance reports, crash patterns, hardware experiences), and Reddit community reports (r/vive, r/oculus, Fallout-specific subreddits). No direct testing performed; assessment based on aggregated community experience and technical documentation."
 ---
 
 # Fallout 4 in VR: The Commonwealth Was Always Meant to Be This Big
@@ -141,9 +142,3 @@ Bethesda's official VR port delivers genuine native VR with full motion controls
 
 **Overall Tier: A**
 Fallout 4 VR offers something no other virtual reality experience can match: a complete AAA open-world RPG inside your headset, with the modding infrastructure to make it genuinely excellent rather than merely ambitious. The vanilla friction is real and should be acknowledged honestly — this is not a plug-and-play experience. But the modded reality is how people actually play it, and that reality is one of VR's finest adventures. The Commonwealth in VR is vast, immersive, and deeply rewarding. For players willing to make the initial setup investment, this is borderline essential.
-
----
-
-## Source Log
-
-*Source Log: Research conducted via Bethesda/Steam store page for Fallout 4 VR (official features, DLC contents, support status), YouTube VR gameplay footage and setup guides (Beardo Benjo, Gamertag VR), Flat2VR Discord community knowledge (mod recommendations, performance configurations, stability reports), Steam user reviews (performance reports, crash patterns, hardware experiences), and Reddit community reports (r/vive, r/oculus, Fallout-specific subreddits). No direct testing performed; assessment based on aggregated community experience and technical documentation.*

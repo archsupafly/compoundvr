@@ -29,6 +29,7 @@ tier: B
 verdict: "A polished, atmospheric VR experience that perfectly captures the sensation of being Batman — investigating crime scenes, examining evidence, and moving through iconic locations. The problem is the runtime: at roughly one hour, it's difficult to recommend at full price, even with the stellar production values and authentic voice work from Kevin Conroy."
 heroImage: /images/games/batman-arkham-vr-hero.jpg
 vrReleaseDate: 2016-10-13
+sources: "- IGN review (October 2016) - UploadVR review (PSVR launch coverage) - Metacritic aggregate reviews and user feedback - Steam Community discussions (2024-2025 player experiences) - Rocksteady Studios official documentation - Kevin Conroy voice acting credits (IMDb, Arkham Wiki)"
 ---
 
 # Batman: Arkham VR: The Batman Fantasy, Compressed
@@ -120,17 +121,3 @@ Batman: Arkham VR is less a game and more a premium VR attraction — the kind o
 That said, if you're a Batman fan, this remains the definitive "be the Batman" experience. The suit-up sequence, the atmospheric environments, and Kevin Conroy's final performance as the Dark Knight make this worth experiencing at least once — ideally during a sale when the runtime-to-price ratio feels less painful.
 
 If you're looking for a substantial Batman VR experience, the 2024 release *Batman: Arkham Shadow* for Meta Quest delivers full-length gameplay with proper combat. But for pure atmospheric authenticity and the sensation of standing in the Batcave as Batman himself, Arkham VR remains unmatched.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- IGN review (October 2016)
-- UploadVR review (PSVR launch coverage)
-- Metacritic aggregate reviews and user feedback
-- Steam Community discussions (2024-2025 player experiences)
-- Rocksteady Studios official documentation
-- Kevin Conroy voice acting credits (IMDb, Arkham Wiki)
-
-</details>

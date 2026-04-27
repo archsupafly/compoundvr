@@ -31,6 +31,7 @@ experienceTags:
 tier: B
 verdict: "A legendary run-and-gun that holds up brilliantly, delivered through a charming but limited virtual 90s bedroom experience. The VR adds atmosphere, not gameplay transformation."
 heroImage: /images/games/gunstar-heroes-vr-hero.jpg
+sources: "- ### Research Sources - General Sega Genesis Classics VR coverage from VR enthusiast channels - No specific Gunstar Heroes VR footage found (limited coverage of individual games within the collection) - Sega Genesis Classics Steam community discussions on VR mode functionality - User reports on controller configuration requirements - Delisting announcement impact on availability - Existing CompoundVR Sega Genesis Classics article for framework context - Game-writer template v2 for structure and tier methodology - Review methodology v1 for rating standards - Gunstar Heroes game details (1993 release, Treasure development, weapon mechanics, co-op features) - Sega Genesis Classics delisting date (December 6, 2024) - Genesis Classics VR mode features (virtual bedroom, CRT emulation, cartridge interaction) - This article was compiled using research-based methodology. No direct VR testing was performed. Claims about controller configuration issues are based on community reports from Steam forums and similar sources. - --- - *Last verified: April 24, 2026*"
 ---
 
 # Gunstar Heroes in VR: A Run-and-Gun Masterpiece in a Virtual 90s Bedroom
@@ -262,26 +263,3 @@ You can emulate Gunstar Heroes in any Genesis emulator and play it through Virtu
 | **Performance** | Lightweight (runs on any VR-capable PC) |
 | **Game Length** | 2-3 hours for experienced players; longer for newcomers |
 | **Replayability** | High (multiple difficulties, weapon combinations, co-op) |
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- ### Research Sources
-- General Sega Genesis Classics VR coverage from VR enthusiast channels
-- No specific Gunstar Heroes VR footage found (limited coverage of individual games within the collection)
-- Sega Genesis Classics Steam community discussions on VR mode functionality
-- User reports on controller configuration requirements
-- Delisting announcement impact on availability
-- Existing CompoundVR Sega Genesis Classics article for framework context
-- Game-writer template v2 for structure and tier methodology
-- Review methodology v1 for rating standards
-- Gunstar Heroes game details (1993 release, Treasure development, weapon mechanics, co-op features)
-- Sega Genesis Classics delisting date (December 6, 2024)
-- Genesis Classics VR mode features (virtual bedroom, CRT emulation, cartridge interaction)
-- This article was compiled using research-based methodology. No direct VR testing was performed. Claims about controller configuration issues are based on community reports from Steam forums and similar sources.
-- ---
-- *Last verified: April 24, 2026*
-
-</details>

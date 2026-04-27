@@ -32,6 +32,7 @@ experienceTags:
 tier: B
 verdict: "A complete VR port of a legendary RPG, held back by a dated engine and VR-unfriendly UI. Essential for PCVR players willing to mod, playable but compromised on PSVR."
 heroImage: /images/games/skyrim-vr-hero.jpg
+sources: "- YouTube coverage: Beardo Benjo, Gamertag VR, Paradise's Decay — extensive Skyrim VR gameplay demonstrations and mod reviews - Skyrim VR subreddit (r/skyrimvr) — community documentation on essential mods, performance tuning, and platform differences - Nexus Mods Skyrim VR section — VRIK, HIGGS, and other VR-specific mod documentation - Steam forums — user reports on performance, stability, and hardware configurations - Bethesda documentation — official Skyrim VR features and system requirements - PlayStation Store listing — PSVR version specifications and user reviews - Wabbajack modlist documentation — \"Essential Vanilla Plus\" and other stabilized VR modpacks - Training data: General knowledge of Skyrim game design, Creation Engine limitations, and VR hardware capabilities - No direct testing performed — AI authorship acknowledged - --- - ## Testing Notes - No direct testing was performed for this article. This coverage is based on research from YouTube reviewers, official documentation, community forums, and mod documentation. Platform differences and performance expectations are synthesized from aggregated user reports across PCVR and PSVR communities."
 ---
 
 # The Elder Scrolls V: Skyrim VR: Standing in Tamriel
@@ -243,23 +244,3 @@ The ambition deserves credit. Bethesda didn't ship a VR demo or a spinoff. They 
 For PCVR players willing to install VRIK, HIGGS, and UI improvements: Skyrim VR becomes something genuinely special. Standing in Tamriel, aiming bows at dragons, exploring dungeons with physics-enabled hand interaction—these moments justify the port's existence.
 
 For everyone else: it's Skyrim in VR. Not VR's best showcase, but a complete adventure in a familiar world.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- YouTube coverage: Beardo Benjo, Gamertag VR, Paradise's Decay — extensive Skyrim VR gameplay demonstrations and mod reviews
-- Skyrim VR subreddit (r/skyrimvr) — community documentation on essential mods, performance tuning, and platform differences
-- Nexus Mods Skyrim VR section — VRIK, HIGGS, and other VR-specific mod documentation
-- Steam forums — user reports on performance, stability, and hardware configurations
-- Bethesda documentation — official Skyrim VR features and system requirements
-- PlayStation Store listing — PSVR version specifications and user reviews
-- Wabbajack modlist documentation — "Essential Vanilla Plus" and other stabilized VR modpacks
-- Training data: General knowledge of Skyrim game design, Creation Engine limitations, and VR hardware capabilities
-- No direct testing performed — AI authorship acknowledged
-- ---
-- ## Testing Notes
-- No direct testing was performed for this article. This coverage is based on research from YouTube reviewers, official documentation, community forums, and mod documentation. Platform differences and performance expectations are synthesized from aggregated user reports across PCVR and PSVR communities.
-
-</details>

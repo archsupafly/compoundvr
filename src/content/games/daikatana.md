@@ -33,6 +33,7 @@ verdict: "Daikatana in VR is technically possible but fundamentally uncompelling
 heroImage: /images/games/daikatana-vr-hero.jpg
 flatReleaseDate: 2000-05-23
 vrReleaseDate: null
+sources: "- General VorpX setup and Quake II engine injection tutorials from VR Grid and Paradise's Decay - Daikatana retrospective coverage from various gaming history channels (flat content, not VR-specific) - VorpX official game list and profile documentation - Flat2VR Discord general injection driver discussion (no direct quotes, trend analysis only) - Reddit r/vorpX historical posts regarding Quake II engine compatibility - VorpX official documentation on FullVR vs Cinema modes - Quake II engine technical specifications and VR compatibility notes - Daikatana (2000) critical reception and design history - John Romero and Ion Storm development context - VorpX injection driver capabilities and limitations - VorpX profile existence and basic functionality: High (documented in VorpX materials) - Specific Daikatana VR user experience details: Moderate (limited specific reporting, extrapolated from Quake II engine behavior and general VorpX patterns) - Game quality assessment: High (extensive historical critical consensus) - This article was compiled from research and documentation. No direct hands-on testing was performed. Evidence scope is noted above."
 ---
 
 # Daikatana in VR: A Time-Travel Disaster in Stereoscopic 3D
@@ -115,25 +116,3 @@ The VorpX injection functions as advertised: stereoscopic 3D works, head trackin
 
 **Overall Tier: D**
 Daikatana in VR is a historical curiosity, not a recommendation. The VorpX route works technically, but the underlying game offers little worth experiencing in any format, let alone with the added friction of injection setup and VR comfort concerns. For the vast majority of VR players, this represents time better spent on virtually any other title. Only dedicated gaming historians and Romero archivists need apply.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- General VorpX setup and Quake II engine injection tutorials from VR Grid and Paradise's Decay
-- Daikatana retrospective coverage from various gaming history channels (flat content, not VR-specific)
-- VorpX official game list and profile documentation
-- Flat2VR Discord general injection driver discussion (no direct quotes, trend analysis only)
-- Reddit r/vorpX historical posts regarding Quake II engine compatibility
-- VorpX official documentation on FullVR vs Cinema modes
-- Quake II engine technical specifications and VR compatibility notes
-- Daikatana (2000) critical reception and design history
-- John Romero and Ion Storm development context
-- VorpX injection driver capabilities and limitations
-- VorpX profile existence and basic functionality: High (documented in VorpX materials)
-- Specific Daikatana VR user experience details: Moderate (limited specific reporting, extrapolated from Quake II engine behavior and general VorpX patterns)
-- Game quality assessment: High (extensive historical critical consensus)
-- This article was compiled from research and documentation. No direct hands-on testing was performed. Evidence scope is noted above.
-
-</details>

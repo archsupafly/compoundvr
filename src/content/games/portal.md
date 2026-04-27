@@ -30,6 +30,7 @@ verdict: "Portal's brilliant puzzle design translates beautifully to VR when pla
 heroImage: /images/games/portal-vr-hero.jpg
 flatReleaseDate: 2007-10-09
 vrReleaseDate: 2022-04-01
+sources: "- Portal 2 VR Mod GitHub repository (github.com/Gistix/portal2vr) - Portal 1 Remastered Steam Workshop content - Flat2VR Discord community knowledge - Steam Community guides for Portal 2 VR mod usage - Portal Stories: Mel VR compatibility documentation"
 ---
 
 # Portal in VR: The Original Test Chambers Reimagined
@@ -165,16 +166,3 @@ Portal in VR delivers something rare: a complete, beloved single-player campaign
 The B-tier rating reflects the friction of setup and the workaround nature of the implementation, not the quality of the experience itself. Once configured, this is one of the best arguments for flat-to-VR modding — it preserves and enhances a genuine classic.
 
 For players willing to spend twenty minutes on installation and configuration, Portal in VR offers hours of exceptional puzzle gameplay. The original test chambers, experienced at scale with motion controls, remain as engaging as they were in 2007 — perhaps more so.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Portal 2 VR Mod GitHub repository (github.com/Gistix/portal2vr)
-- Portal 1 Remastered Steam Workshop content
-- Flat2VR Discord community knowledge
-- Steam Community guides for Portal 2 VR mod usage
-- Portal Stories: Mel VR compatibility documentation
-
-</details>

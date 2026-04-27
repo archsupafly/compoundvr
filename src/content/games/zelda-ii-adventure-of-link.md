@@ -27,6 +27,7 @@ verdict: "A compelling VR window into one of Nintendo's most divisive classics �
 heroImage: /images/games/zelda-ii-adventure-of-link-vr-hero.jpg
 flatReleaseDate: 1987-01-14
 vrReleaseDate: 2019-01-01
+sources: "- 3dSen VR Steam page — feature set, system requirements, supported games list - Zelda Wiki (Zelda II: The Adventure of Link) — game mechanics, combat system, difficulty information - 3dSen VR community discussions — VR comfort notes, camera controls, side-scrolling behavior - General NES emulation documentation — setup process, ROM requirements"
 ---
 
 # Zelda II: The Adventure of Link in VR: The Side-Scrolling Black Sheep Gets a Third Dimension
@@ -168,15 +169,3 @@ For what it is — a VR viewing window for NES games — 3dSen VR is excellent. 
 The product of game and VR implementation: a compelling but niche experience. If you're curious about Zelda II and have VR hardware, this is a novel way to play it. The voxel diorama view adds a tangible quality that makes the 1987 adventure feel more present. But if you're not already interested in this notoriously difficult NES game, VR won't change your mind.
 
 3dSen VR makes Zelda II **more interesting to look at**. It doesn't make it **easier to love**. For NES enthusiasts and Zelda historians, this is a worthwhile experience. For everyone else, it's a curiosity — an impressive technical demonstration wrapped around a divisive classic.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam page — feature set, system requirements, supported games list
-- Zelda Wiki (Zelda II: The Adventure of Link) — game mechanics, combat system, difficulty information
-- 3dSen VR community discussions — VR comfort notes, camera controls, side-scrolling behavior
-- General NES emulation documentation — setup process, ROM requirements
-
-</details>

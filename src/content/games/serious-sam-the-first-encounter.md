@@ -32,6 +32,7 @@ experienceTags:
 heroImage: /images/games/serious-sam-the-first-encounter-vr-hero.jpg
 tier: B
 verdict: "A solid official VR port that delivers the core Serious Sam experience with genuine motion controls and dual-wielding, but the aging engine and fast-paced horde combat create comfort challenges that limit its appeal."
+sources: "- Steam Store API (app 552450) — product details, features, system requirements, categories, release date - Wikipedia — Serious Sam: The First Encounter article — game history, engine details, platform information - Steam community data — user review volume (~704 reviews), support status inference - Training data — gameplay impressions, VR locomotion assessment, comfort evaluation, multiplayer population status - Note: No direct hands-on testing. Evidence is research compilation [Verified] from Steam documentation, Wikipedia, and aggregated community reports."
 ---
 
 # Serious Sam: The First Encounter in VR: Dual-Wielding Hordes in Ancient Egypt
@@ -137,16 +138,3 @@ Croteam built a genuine VR adaptation, not a token port. Full motion controls wi
 
 **Overall Tier: B**
 A strong official VR port that earns its recommendation despite the underlying game's age. The VR implementation is serious work from a developer who clearly understood what VR demanded, and dual-wielding two weapons while backpedaling from a screaming horde of Headless Kamikazes is an experience flat Serious Sam simply cannot match. But the game underneath is a 2001 shooter — straightforward, repetitive, and showing its years. Worth playing for VR shooter fans who want visceral horde action. Not worth paying full price if you already own the flat version and only have casual curiosity.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Steam Store API (app 552450) — product details, features, system requirements, categories, release date
-- Wikipedia — Serious Sam: The First Encounter article — game history, engine details, platform information
-- Steam community data — user review volume (~704 reviews), support status inference
-- Training data — gameplay impressions, VR locomotion assessment, comfort evaluation, multiplayer population status
-- Note: No direct hands-on testing. Evidence is research compilation [Verified] from Steam documentation, Wikipedia, and aggregated community reports.
-
-</details>

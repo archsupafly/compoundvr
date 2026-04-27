@@ -38,6 +38,7 @@ verdict: "Contra in 3dSen VR delivers exactly what fans want: the authentic NES 
 heroImage: /images/games/contra-vr-hero.jpg
 flatReleaseDate: 1986-02-20
 vrReleaseDate: 2018-08-01
+sources: "- 3dSen VR Steam Store page and documentation - 3dSen VR Meta Quest Store page - EmuVR official website and community documentation - Konami Contra NES manual and historical documentation - Flat2VR Discord community knowledge on NES emulation in VR - YouTube gameplay demonstrations from retro VR enthusiasts"
 ---
 
 # Contra in VR: The Run-and-Gun Legend Gets Dimensional
@@ -344,17 +345,3 @@ Just don't expect the Konami Code to feel any less necessary.
 **Co-op:** Two-player simultaneous supported locally and online
 
 **Last Verified:** April 2026
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam Store page and documentation
-- 3dSen VR Meta Quest Store page
-- EmuVR official website and community documentation
-- Konami Contra NES manual and historical documentation
-- Flat2VR Discord community knowledge on NES emulation in VR
-- YouTube gameplay demonstrations from retro VR enthusiasts
-
-</details>

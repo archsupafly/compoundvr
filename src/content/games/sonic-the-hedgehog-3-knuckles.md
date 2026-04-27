@@ -31,6 +31,7 @@ heroImage: /images/games/sonic-the-hedgehog-3-knuckles-vr-hero.jpg
 flatReleaseDate: "1994-02-02"
 vrReleaseDate: "2018-07-26"
 score: 58
+sources: "- Wikipedia — Sega Genesis Classics: Collection details, Hub description, VR support confirmation, delisting timeline (December 2024), Sonic titles removal (May 2022) [Verified] - Wikipedia — Sonic the Hedgehog 3 & Knuckles: Game design, lock-on mechanics, critical reception, development history [Verified] - Steam Community / User Reports: Hub VR mode functionality, gamepad input during VR play, CRT filter behavior, Workshop ROM hack support [Community Reports — Hearsay] - Training data: Sega Genesis Classics Hub VR bedroom design details, room interaction model, CRT scanline simulation quality, performance characteristics [Training Data — unverified against current build]"
 ---
 
 # Sonic the Hedgehog 3 & Knuckles in VR: The Blue Blur on a Bedroom CRT
@@ -133,15 +134,3 @@ The VR is a themed menu screen, not a VR adaptation of the game. You stand in a 
 
 **Overall Tier: C**
 A legendary game rendered inaccessible by delisting and presented in a VR wrapper that adds atmosphere without adding substance. If you already own it and want the nostalgia hit, the bedroom environment delivers a genuine moment. But the VR layer is a curiosity, not a reason to boot up your headset. Sonic 3 & Knuckles deserves better — and until someone builds a proper VR adaptation or Sonic Origins gets VR support, this is the only door, and it's locked for new arrivals.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Wikipedia — Sega Genesis Classics: Collection details, Hub description, VR support confirmation, delisting timeline (December 2024), Sonic titles removal (May 2022) [Verified]
-- Wikipedia — Sonic the Hedgehog 3 & Knuckles: Game design, lock-on mechanics, critical reception, development history [Verified]
-- Steam Community / User Reports: Hub VR mode functionality, gamepad input during VR play, CRT filter behavior, Workshop ROM hack support [Community Reports — Hearsay]
-- Training data: Sega Genesis Classics Hub VR bedroom design details, room interaction model, CRT scanline simulation quality, performance characteristics [Training Data — unverified against current build]
-
-</details>

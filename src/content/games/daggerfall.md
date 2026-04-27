@@ -31,6 +31,7 @@ verdict: "Daggerfall Unity VR (DFUVR) delivers the full classic experience with 
 heroImage: /images/games/daggerfall-vr-hero.jpg
 flatReleaseDate: 1996-09-20
 vrReleaseDate: 2020-01-01
+sources: "- DFUVR GitHub Repository (LokiusV/Daggerfall-Unity-VR) — mod documentation and setup instructions - Daggerfall Unity Nexus Mods — DFUVR release page and community discussion - VorpX Forums — Daggerfall Unity compatibility thread and user reports - Flat2VR Discord — community knowledge and support for DFUVR - Daggerfall Unity Official Forums — mod compatibility and installation guides - Reddit r/Daggerfall and r/daggerfallunity — community experiences and troubleshooting"
 ---
 
 # Daggerfall in VR: A 1996 RPG Unlocked
@@ -196,17 +197,3 @@ The caveats are real: the UI requires specific monitor settings and the interact
 The base game is available for free from Bethesda. Daggerfall Unity is a free, open-source project. DFUVR is a free mod. The barrier to entry is low, and the experience is unique. For Elder Scrolls fans, retro RPG enthusiasts, or anyone curious about gaming history, Daggerfall VR is worth the setup time.
 
 Just remember to set your monitor to 1920×1080 before you start.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- DFUVR GitHub Repository (LokiusV/Daggerfall-Unity-VR) — mod documentation and setup instructions
-- Daggerfall Unity Nexus Mods — DFUVR release page and community discussion
-- VorpX Forums — Daggerfall Unity compatibility thread and user reports
-- Flat2VR Discord — community knowledge and support for DFUVR
-- Daggerfall Unity Official Forums — mod compatibility and installation guides
-- Reddit r/Daggerfall and r/daggerfallunity — community experiences and troubleshooting
-
-</details>

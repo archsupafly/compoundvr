@@ -29,6 +29,7 @@ experienceTags:
 tier: C
 verdict: "A phenomenal game viewed through a VR headset, but not a phenomenal VR game — the lack of motion controls and the third-person camera limit what VR actually adds."
 heroImage: /images/games/devil-may-cry-5-vr-hero.jpg
+sources: "- Praydog REFramework GitHub repository — verified VR feature support and game compatibility list confirming DMC5 is supported with generic 6DOF VR but no motion controls - Training data / general knowledge — DMC5 game design, combat mechanics, RE Engine capabilities, and REFramework VR behavior patterns across RE Engine titles - No direct hands-on testing was performed — all observations are based on research compilation from multiple sources"
 ---
 
 # Devil May Cry 5 in VR: Stylish From the Front Row, Not the Driver's Seat
@@ -111,14 +112,3 @@ Framework-based VR with no motion controls, no first-person mode, no comfort fea
 
 **Overall Tier: C**
 DMC5 in VR is a fascinating novelty and a genuinely cool way to revisit a great game, but the VR layer adds immersion without adding interaction. You're inside the arena, but you're still playing with a gamepad, watching rather than wielding. For enthusiasts who want to see what RE Engine spectacle looks like in stereoscopic 3D, it's worth experimenting with. For anyone looking for a compelling VR gameplay experience, this isn't it — play DMC5 on a screen, where its combat systems actually sing.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Praydog REFramework GitHub repository — verified VR feature support and game compatibility list confirming DMC5 is supported with generic 6DOF VR but no motion controls
-- Training data / general knowledge — DMC5 game design, combat mechanics, RE Engine capabilities, and REFramework VR behavior patterns across RE Engine titles
-- No direct hands-on testing was performed — all observations are based on research compilation from multiple sources
-
-</details>

@@ -33,6 +33,7 @@ experienceTags:
 tier: B
 verdict: "The game underneath is an all-timer, but this VR port makes significant compromises—most critically the removal of co-op. Worth it for solo vault hunters, but not the definitive way to experience Pandora."
 heroImage: /images/games/borderlands-2-vr-hero.jpg
+sources: "Research referenced IGN's original review, Road to VR's PSVR assessment, Reddit community feedback from r/PSVR and r/virtualreality, Steam community discussions regarding PCVR crosshair issues, and UploadVR's beginner guides."
 ---
 
 # Borderlands 2 VR: The Looter-Shooter That Lost Its Soul
@@ -129,7 +130,3 @@ The VR port works, but it is not good VR. The sniper scope implementation is bro
 Borderlands 2 VR is worth playing if you love the franchise and want to see Pandora from a new angle, or if you missed the original and want a substantial single-player campaign. But go in with honest expectations: this is a compromised port of a great game, not a great VR game. The lack of co-op is a fundamental loss, the technical issues are real, and the lack of ongoing support means what you buy is what you get.
 
 For the right player—the solo vault hunter who can tolerate some jank for the sake of scale—this is still dozens of hours of quality content. For everyone else, the flat version with friends remains the definitive way to experience one of gaming's best co-op shooters.
-
----
-
-*Source notes: Research referenced IGN's original review, Road to VR's PSVR assessment, Reddit community feedback from r/PSVR and r/virtualreality, Steam community discussions regarding PCVR crosshair issues, and UploadVR's beginner guides.*

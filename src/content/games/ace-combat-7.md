@@ -29,6 +29,7 @@ verdict: "B-Tier: Great arcade flight combat marred by uneven VR implementation.
 heroImage: /images/games/ace-combat-7-vr-hero.jpg
 flatReleaseDate: 2019-01-18
 vrReleaseDate: 2024-01-01
+sources: "Community reports from r/acecombat, r/virtualreality, r/MetaQuestVR, Nexus Mods documentation, and user testimonial videos (2024-2025)."
 ---
 
 # Ace Combat 7: Skies Unknown — VR Review
@@ -239,7 +240,6 @@ Ace Combat 7 via UEVR represents **injection-driver VR at its most compelling** 
 
 ## Methodology Notes
 
-**Sources:** Community reports from r/acecombat, r/virtualreality, r/MetaQuestVR, Nexus Mods documentation, and user testimonial videos (2024-2025).
 
 **Limitations:** This assessment synthesizes community reporting rather than direct testing. Individual experiences may vary based on hardware configurations, UEVR version, and patch status. The UEVR ecosystem evolves rapidly; verify current compatibility before installation.
 

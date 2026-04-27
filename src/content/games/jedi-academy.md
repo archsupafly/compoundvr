@@ -30,6 +30,7 @@ verdict: "Jedi Academy was built for player choice, and JK XR honors that design
 heroImage: /images/games/jedi-academy-vr-hero.jpg
 flatReleaseDate: 2003-09-16
 vrReleaseDate: 2023-12-23
+sources: "- Team Beef JK XR GitHub repository (github.com/Team-Beef-Studios/JKXR), SideQuest listing, README and feature documentation - Flat2VR Discord discussions of JK XR performance and stability, Reddit r/OculusQuest and r/vive threads on JKXR setup experiences - YouTube VR gameplay footage from Beardo Benjo and Gamertag VR channels covering JK XR Jedi Academy gameplay - General knowledge of Jedi Academy's game design, mission structure, and multiplayer community — verified against current sources"
 ---
 
 # Star Wars Jedi Knight: Jedi Academy in VR: Build Your Own Jedi, For Real This Time
@@ -122,15 +123,3 @@ JK XR's port is feature-complete: full motion controls, gesture-based Force powe
 
 **Overall Tier: A**
 Jedi Academy in VR is the Star Wars fantasy delivered. It's not a tech demo or a proof of concept — it's a full, completable, variable game that gives you real agency over how you play your Jedi, and then makes you physically perform every choice. Until someone makes a native VR Star Wars game with this much mechanical depth, this is the standard.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Team Beef JK XR GitHub repository (github.com/Team-Beef-Studios/JKXR), SideQuest listing, README and feature documentation
-- Flat2VR Discord discussions of JK XR performance and stability, Reddit r/OculusQuest and r/vive threads on JKXR setup experiences
-- YouTube VR gameplay footage from Beardo Benjo and Gamertag VR channels covering JK XR Jedi Academy gameplay
-- General knowledge of Jedi Academy's game design, mission structure, and multiplayer community — verified against current sources
-
-</details>

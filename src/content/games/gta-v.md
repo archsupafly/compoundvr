@@ -30,6 +30,7 @@ experienceTags:
 tier: B
 verdict: "A landmark game running through an abandoned injection driver. Worth the effort for enthusiasts who can stomach the setup complexity and comfort challenges."
 heroImage: /images/games/gta-v-vr-hero.jpg
+sources: "- YouTube VR channels: Beardo Benjo, Gamertag VR, Ian from Eurogamer (general GTA VR coverage) - Reddit: r/virtualreality, r/GTAV, r/ValveIndex (community reports on compatibility, comfort, setup) - Flat2VR Discord (community knowledge base) - Road to VR, GamesRadar, PC Gamer (mod status, DMCA coverage, developer interviews) - Rockstar Games official channels (no official VR support confirmed) - *Article written following CompoundVR editorial standards. No direct testing performed—assessment based on community reports and media coverage.*"
 ---
 
 # Grand Theft Auto V in VR: The Mod That Proved It Could Work
@@ -120,17 +121,3 @@ The R.E.A.L. mod provides the basics—stereoscopic 3D and head tracking—but s
 This is a compromised experience that delivers something genuinely unique. You do not play GTA V in VR because it is the best VR experience available; you play it because it is the only way to experience this specific game in this specific way. The setup burden, comfort challenges, and abandoned status are significant caveats. But for the right player—someone with the hardware, the patience, and the stomach—the reward is one of the most ambitious VR experiences available: a full-scale open world with dozens of hours of narrative content, playable today, in true stereoscopic depth.
 
 It is not for everyone. It is arguably not for most. But for those it is for, there is still nothing else quite like it.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- YouTube VR channels: Beardo Benjo, Gamertag VR, Ian from Eurogamer (general GTA VR coverage)
-- Reddit: r/virtualreality, r/GTAV, r/ValveIndex (community reports on compatibility, comfort, setup)
-- Flat2VR Discord (community knowledge base)
-- Road to VR, GamesRadar, PC Gamer (mod status, DMCA coverage, developer interviews)
-- Rockstar Games official channels (no official VR support confirmed)
-- *Article written following CompoundVR editorial standards. No direct testing performed—assessment based on community reports and media coverage.*
-
-</details>

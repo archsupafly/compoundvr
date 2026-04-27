@@ -36,6 +36,7 @@ verdict: "Super Mario Bros. 3 in 3dSen VR is the definitive way to experience on
 heroImage: /images/games/super-mario-bros-3-vr-hero.jpg
 flatReleaseDate: 1988-10-23
 vrReleaseDate: 2018-08-01
+sources: "- 3dSen VR Steam Store page and official documentation - 3dSen VR Meta Quest Store page - 3dSen developer documentation and supported games list - YouTube gameplay demonstrations from VR retro gaming enthusiasts - Flat2VR Discord community knowledge on NES emulation in VR - Historical documentation of Super Mario Bros. 3 development and design - EmuVR official documentation for comparison coverage - --- - 3dSen VR ($24.99, includes 100+ supported NES games) + legally obtained Super Mario Bros. 3 NES ROM - Gamepad strongly recommended (Xbox, PlayStation, Switch Pro, or 8BitDo) - Extremely comfortable—no artificial locomotion, stable horizon, player-controlled viewing - Runs flawlessly on any VR-capable system; minimal hardware requirements - PCVR (SteamVR), Meta Quest (standalone), Meta Quest Mixed Reality - April 2026"
 ---
 
 # Super Mario Bros. 3 in VR: The Greatest 2D Platformer Finds a Third Dimension
@@ -321,25 +322,3 @@ For the price of a few coffees ($24.99 for 3dSen VR, which includes 100+ support
 The Mushroom Kingdom has never looked more dimensional. The raccoon tail has never felt more satisfying. And Bowser's castle has never loomed with more menace.
 
 This is how you revisit a masterpiece.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam Store page and official documentation
-- 3dSen VR Meta Quest Store page
-- 3dSen developer documentation and supported games list
-- YouTube gameplay demonstrations from VR retro gaming enthusiasts
-- Flat2VR Discord community knowledge on NES emulation in VR
-- Historical documentation of Super Mario Bros. 3 development and design
-- EmuVR official documentation for comparison coverage
-- ---
-- 3dSen VR ($24.99, includes 100+ supported NES games) + legally obtained Super Mario Bros. 3 NES ROM
-- Gamepad strongly recommended (Xbox, PlayStation, Switch Pro, or 8BitDo)
-- Extremely comfortable—no artificial locomotion, stable horizon, player-controlled viewing
-- Runs flawlessly on any VR-capable system; minimal hardware requirements
-- PCVR (SteamVR), Meta Quest (standalone), Meta Quest Mixed Reality
-- April 2026
-
-</details>

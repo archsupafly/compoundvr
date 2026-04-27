@@ -35,6 +35,7 @@ verdict: "Castlevania in 3dSen VR transforms Konami's gothic masterpiece into a 
 heroImage: /images/games/castlevania-vr-hero.jpg
 flatReleaseDate: 1986-09-26
 vrReleaseDate: 2018-08-01
+sources: "- 3dSen VR Steam Store page and documentation - 3dSen VR Meta Quest Store page - EmuVR official website and installation documentation - Konami Castlevania NES manual and historical documentation - Flat2VR Discord community knowledge on NES emulation in VR - YouTube gameplay demonstrations from retro VR enthusiasts"
 ---
 
 # Castlevania in VR: The Vampire Killer's Dimensional Descent into Dracula's Castle
@@ -320,17 +321,3 @@ For fans of NES action games—particularly those who appreciate Castlevania's d
 Dracula's castle has never felt more real. The vampire hunter's journey has never been more immersive. And for the price of a few coffees, you can experience one of action gaming's foundational texts in what may be its most compelling presentation.
 
 The night is still young. Simon Belmont would approve.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam Store page and documentation
-- 3dSen VR Meta Quest Store page
-- EmuVR official website and installation documentation
-- Konami Castlevania NES manual and historical documentation
-- Flat2VR Discord community knowledge on NES emulation in VR
-- YouTube gameplay demonstrations from retro VR enthusiasts
-
-</details>

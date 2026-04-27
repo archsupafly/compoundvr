@@ -36,6 +36,7 @@ verdict: "Super Mario Bros. in 3dSen VR is one of the most delightful flat-to-VR
 heroImage: /images/games/super-mario-bros-vr-hero.jpg
 flatReleaseDate: 1985-09-13
 vrReleaseDate: 2018-08-01
+sources: "- 3dSen VR Steam Store page and documentation - EmuVR official website and installation wiki - 3dSen itch.io devlog and community profiles - SideQuest app listings for Mario fan games - RetroRGB coverage of EmuVR netplay features - YouTube gameplay reviews from Mike Matei, Eurogamer, and UploadVR - Flat2VR Discord community knowledge on NES emulation in VR"
 ---
 
 # Super Mario Bros. in VR: Gaming's Most Iconic Platformer Reborn in 3D
@@ -339,18 +340,3 @@ For the price of a few lattes, you can experience one of gaming's most important
 But the broader Mario VR landscape is richer than any single route suggests. Whether you want the authentic diorama of 3dSen, the nostalgic ritual of EmuVR, or the spatial novelty of mixed reality, there's a Mario VR experience suited to your preferences and setup.
 
 The Mushroom Kingdom has never been more accessible—or more dimensional.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam Store page and documentation
-- EmuVR official website and installation wiki
-- 3dSen itch.io devlog and community profiles
-- SideQuest app listings for Mario fan games
-- RetroRGB coverage of EmuVR netplay features
-- YouTube gameplay reviews from Mike Matei, Eurogamer, and UploadVR
-- Flat2VR Discord community knowledge on NES emulation in VR
-
-</details>

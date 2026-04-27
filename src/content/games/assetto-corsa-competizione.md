@@ -34,6 +34,7 @@ verdict: "The most authentic GT3 racing experience in VR — when your hardware 
 heroImage: /images/games/assetto-corsa-competizione-vr-hero.jpg
 flatReleaseDate: 2019-05-29
 vrReleaseDate: 2019-05-29
+sources: "Kunos Simulazioni official documentation, Steam community reports and reviews, YouTube VR sim racing coverage (Beardo Benjo, Gamertag VR, Sim Racing channels), Flat2VR Discord sim racing discussions, community benchmark data on ACC VR performance across hardware tiers."
 ---
 
 # Assetto Corsa Competizione in VR: Authentic GT3 Atmosphere at a Price
@@ -133,7 +134,3 @@ The VR support is official, stable, and well-designed. Cockpit presence, head tr
 
 **Overall Tier: B**
 ACC VR is recommended with real caveats. When your hardware can sustain it, the experience is superb — the best GT3 cockpit presence in sim racing. But the performance ceiling is genuinely brutal, and the existence of the original Assetto Corsa with its superior VR efficiency makes ACC's compromises harder to accept. This is the right choice for players who want maximum atmosphere and official GT3 content. It is the wrong choice for players who want maximum VR performance. Know which camp you're in before you buy.
-
----
-
-*Sources: Kunos Simulazioni official documentation, Steam community reports and reviews, YouTube VR sim racing coverage (Beardo Benjo, Gamertag VR, Sim Racing channels), Flat2VR Discord sim racing discussions, community benchmark data on ACC VR performance across hardware tiers.*

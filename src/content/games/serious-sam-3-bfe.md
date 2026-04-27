@@ -29,6 +29,7 @@ verdict: "A solid native VR port of a polarizing game — the VR implementation 
 flatReleaseDate: 2011-11-22
 vrReleaseDate: 2017-11-09
 heroImage: /images/games/serious-sam-3-bfe-vr-hero.jpg
+sources: "- Steam store page: Serious Sam 3 VR: BFE — verified VR support, controller options, release date - Croteam official communications — VR port development history - YouTube VR channels: gameplay footage from Beardo Benjo, Nathie, Gamertag VR - Flat2VR Discord community — player experiences, performance discussion - Reddit r/vive, r/oculus — user reports on comfort, motion controls, dual-wielding"
 ---
 
 # Serious Sam 3: BFE in VR: Old-School Carnage, New-School Presence
@@ -115,16 +116,3 @@ Croteam delivered a genuinely good native VR port. Full motion controls, dual-wi
 
 **Overall Tier: B**
 The VR implementation exceeds the game it's built on. If Serious Sam 3's gameplay clicks for you, the VR version is the best way to play it. If the game itself doesn't appeal, the quality of the port won't change your mind. A well-built VR port of a good-but-not-great game lands solidly in B territory.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Steam store page: Serious Sam 3 VR: BFE — verified VR support, controller options, release date
-- Croteam official communications — VR port development history
-- YouTube VR channels: gameplay footage from Beardo Benjo, Nathie, Gamertag VR
-- Flat2VR Discord community — player experiences, performance discussion
-- Reddit r/vive, r/oculus — user reports on comfort, motion controls, dual-wielding
-
-</details>

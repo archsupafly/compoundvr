@@ -28,6 +28,7 @@ tier: C
 verdict: "A legendary shooter deserves better than a windshield view. VorpX adds stereoscopic depth and head tracking to Halo: Combat Evolved, but without motion controls, VR interactions, or any sense of embodied presence, this is the flat game wearing 3D glasses — not a VR experience."
 heroImage: /images/games/halo-combat-evolved-vr-hero.jpg
 flatReleaseDate: 2001-11-15
+sources: "- VorpX official supported games list (vorpx.com/supported-games) — confirmed both \"Halo\" and \"Halo: MasterChief Collection (Halo 1 only)\" are officially supported - VorpX features page (vorpx.com/features) — confirmed injection driver capabilities: stereoscopic 3D, head tracking, DirectVR, controller mapping, EdgePeek - Steam MCC community discussions — general game context, MCC update patterns - Training data — VorpX injection driver behavior patterns, Halo CE game design and encounter structure, community-reported vehicle section comfort issues, HUD/UI behavior in injection contexts - Claims about vehicle section comfort issues, HUD readability, and profile stability come from training data and should be verified by direct testing before final publication"
 ---
 
 # Halo: Combat Evolved in VR: The Ring Is Real, But You're Still Watching Through Glass
@@ -133,16 +134,3 @@ A great game wrapped in the thinnest possible VR veneer. If you own VorpX and lo
 - What failed: N/A
 - Major caveats: Assessment based on VorpX documentation, supported games list, and established injection driver behavior patterns — not direct playtesting
 - What was not tested: Full campaign playthrough, multiplayer, MCC versus original side-by-side, all comfort settings
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- VorpX official supported games list (vorpx.com/supported-games) — confirmed both "Halo" and "Halo: MasterChief Collection (Halo 1 only)" are officially supported
-- VorpX features page (vorpx.com/features) — confirmed injection driver capabilities: stereoscopic 3D, head tracking, DirectVR, controller mapping, EdgePeek
-- Steam MCC community discussions — general game context, MCC update patterns
-- Training data — VorpX injection driver behavior patterns, Halo CE game design and encounter structure, community-reported vehicle section comfort issues, HUD/UI behavior in injection contexts
-- Claims about vehicle section comfort issues, HUD readability, and profile stability come from training data and should be verified by direct testing before final publication
-
-</details>

@@ -30,6 +30,7 @@ experienceTags:
 tier: A
 verdict: "Vivecraft transforms Minecraft into a legitimate A-tier VR experience with full motion controls, room-scale support, and seamless multiplayer—but only the community mod counts. The official implementation is dead and buried."
 heroImage: /images/games/minecraft-vr-hero.jpg
+sources: "- Vivecraft official documentation (vivecraft.org) — feature list, version support, setup requirements - Minecraft Wiki Virtual Reality page — official Bedrock VR removal history - Reddit r/vive, r/OculusQuest community discussions — player experiences and troubleshooting - Vivecraft Discord community — current development status, common issues - YouTube VR channels (Paradise's Decay, Gamertag VR) — Vivecraft gameplay demonstrations - --- - ## Testing Notes - Not directly tested. Article synthesized from official documentation, community sources, and video demonstrations. AI authorship acknowledged."
 ---
 
 # Minecraft VR Review
@@ -220,19 +221,3 @@ Vivecraft is the gold standard for community VR mods. Full motion controls, room
 Minecraft in VR with Vivecraft is genuinely transformative. Standing inside your world, reaching out to place blocks, physically drawing your bow—these interactions elevate an already-great game into something special. The setup friction is real, and Java Edition's limitations (no Bedrock cross-play, no portable/standalone option) hurt accessibility. But for anyone with a PC VR headset willing to follow instructions, this is essential VR.
 
 The death of official VR support is a blow to accessibility—but Vivecraft was always the superior implementation anyway. It's the platform Mojang should have built but never did.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Vivecraft official documentation (vivecraft.org) — feature list, version support, setup requirements
-- Minecraft Wiki Virtual Reality page — official Bedrock VR removal history
-- Reddit r/vive, r/OculusQuest community discussions — player experiences and troubleshooting
-- Vivecraft Discord community — current development status, common issues
-- YouTube VR channels (Paradise's Decay, Gamertag VR) — Vivecraft gameplay demonstrations
-- ---
-- ## Testing Notes
-- Not directly tested. Article synthesized from official documentation, community sources, and video demonstrations. AI authorship acknowledged.
-
-</details>

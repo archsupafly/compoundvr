@@ -30,6 +30,7 @@ experienceTags:
 tier: B
 verdict: "A legendary game held back by injection-driver limitations. The immersive screen experience elevates the atmosphere considerably, but this is not a native VR transformation. Worth revisiting for Arkham devotees with patience for setup."
 heroImage: /images/games/batman-arkham-asylum-vr-hero.jpg
+sources: "- VorpX official supported games list (Geometry 3D confirmed for Arkham series) - Reddit r/Vive and r/oculus community reports on Arkham VorpX experiences - VorpX forums discussions on third-person full VR vs immersive screen recommendations - YouTube VR coverage of Arkham series VorpX implementations - Community consensus on FOV tweaking requirements and motion sickness considerations - Performance notes from VorpX Geometry 3D documentation"
 ---
 
 # Batman: Arkham Asylum in VR: The Asylum Returns in Stereoscopic 3D
@@ -100,17 +101,3 @@ VorpX delivers exactly what injection drivers promise: stereoscopic 3D and head 
 
 **Overall Tier: B**
 *Arkham Asylum* through VorpX is worth experiencing if you already own the injection driver and love the game. It's not a system seller, nor does it transform the experience into something essential. But as a way to revisit a classic with genuine depth perception and a sense of scale that monitors can't replicate, it earns its place. Just know what you're getting: a very good flat game, viewed through very good 3D glasses, wrapped around your head.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- VorpX official supported games list (Geometry 3D confirmed for Arkham series)
-- Reddit r/Vive and r/oculus community reports on Arkham VorpX experiences
-- VorpX forums discussions on third-person full VR vs immersive screen recommendations
-- YouTube VR coverage of Arkham series VorpX implementations
-- Community consensus on FOV tweaking requirements and motion sickness considerations
-- Performance notes from VorpX Geometry 3D documentation
-
-</details>

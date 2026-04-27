@@ -31,6 +31,7 @@ experienceTags:
 tier: C
 verdict: "A cult classic horror-platformer that gains atmospheric presence in VR through VorpX's immersive screen mode, but its stiff platforming and third-person camera limitations make it a curiosity for enthusiasts rather than a must-play VR conversion."
 heroImage: /images/games/american-mcgees-alice-vr-hero.jpg
+sources: "- VRified Games (configuration tutorials and first-person VorpX setup for Alice) - General VorpX community content demonstrating third-person implementation - VorpX official supported games list (American McGee's Alice listed) - VorpX forums regarding third-person game configuration and Immersive Screen mode recommendations - r/virtualreddit discussions on Alice VR experiences - r/AliceMadnessReturns subreddit regarding VorpX implementation - r/oculus user experiences with VorpX and third-person titles - Wikipedia entry for American McGee's Alice (engine, release history) - Fan wiki documentation regarding 2000 vs 2011 re-release differences - Nexus Mods community regarding HD texture packs and VorpalFix patches - id Tech 3 engine specifications confirmed - Game release history and re-release information cross-referenced - Basic gameplay mechanics and critical reception verified against archived reviews - Game details and engine: High confidence - VorpX implementation: High confidence (officially supported) - Gameplay quality assessment: High confidence (broad critical consensus) - VR experience specifics: Moderate confidence (based on VorpX third-person general behavior and community reports) - --- - *Last Updated: 2026-04-11*"
 ---
 
 # American McGee's Alice in VR: Wonderland's Darkest Corners, Now Larger Than Life
@@ -176,30 +177,3 @@ VorpX's injection driver works as advertised—stereoscopic 3D is clean, head tr
 
 **Overall Tier: C**
 This is a curiosity for enthusiasts, not a recommendation for general audiences. The atmospheric benefits of stereoscopic 3D are real and genuinely enhance the experience of exploring Wonderland. But the compromises—no motion controls, third-person camera limitations, and the game's own dated mechanics—make this a niche experience. Play it if you love the original and want to see it from a new perspective. Skip it if you're looking for polished VR gameplay or can't tolerate retro jank.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- VRified Games (configuration tutorials and first-person VorpX setup for Alice)
-- General VorpX community content demonstrating third-person implementation
-- VorpX official supported games list (American McGee's Alice listed)
-- VorpX forums regarding third-person game configuration and Immersive Screen mode recommendations
-- r/virtualreddit discussions on Alice VR experiences
-- r/AliceMadnessReturns subreddit regarding VorpX implementation
-- r/oculus user experiences with VorpX and third-person titles
-- Wikipedia entry for American McGee's Alice (engine, release history)
-- Fan wiki documentation regarding 2000 vs 2011 re-release differences
-- Nexus Mods community regarding HD texture packs and VorpalFix patches
-- id Tech 3 engine specifications confirmed
-- Game release history and re-release information cross-referenced
-- Basic gameplay mechanics and critical reception verified against archived reviews
-- Game details and engine: High confidence
-- VorpX implementation: High confidence (officially supported)
-- Gameplay quality assessment: High confidence (broad critical consensus)
-- VR experience specifics: Moderate confidence (based on VorpX third-person general behavior and community reports)
-- ---
-- *Last Updated: 2026-04-11*
-
-</details>

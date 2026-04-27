@@ -31,6 +31,7 @@ experienceTags:
 tier: "C"
 verdict: "Fallout: New Vegas is an S-tier RPG, but VorpX injection limits the VR experience to stereoscopic 3D and head tracking with no motion controls or hand presence. The Mojave gains genuine atmospheric depth, yet the experience never escapes the feeling of playing a flat game on a very good screen strapped to your face. Only for wasteland devotees who want to see the desert in stereo."
 heroImage: /images/games/fallout-new-vegas-vr-hero.jpg
+sources: "Research conducted via VorpX official supported games list and documentation, Flat2VR community knowledge base, Reddit community reports (r/vorpx, r/fo4vr, r/vive), and aggregated YouTube VR channel assessments. Game analysis based on established Fallout: New Vegas documentation and community knowledge. No direct testing performed; assessment based on VorpX profile capabilities and aggregated community experience."
 ---
 
 # Fallout: New Vegas in VR: The Mojave in Stereo, Not in Your Hands
@@ -143,7 +144,3 @@ VorpX injection provides functional stereo 3D and head tracking with a well-conf
 
 **Overall Tier: C**
 The Mojave in stereo is genuinely more evocative than the Mojave on a flat screen. First-person navigation, VATS targeting, and wide-open desert landscapes all benefit from 3D depth. But you're playing the exact same game with the exact same controls—just wearing a headset instead of looking at a monitor. For VorpX owners who already love New Vegas, it's a worthwhile way to revisit the wasteland. For everyone else, the C reflects an experience that adds atmosphere without adding interaction, and depth without adding presence.
-
----
-
-*Source Log: Research conducted via VorpX official supported games list and documentation, Flat2VR community knowledge base, Reddit community reports (r/vorpx, r/fo4vr, r/vive), and aggregated YouTube VR channel assessments. Game analysis based on established Fallout: New Vegas documentation and community knowledge. No direct testing performed; assessment based on VorpX profile capabilities and aggregated community experience.*

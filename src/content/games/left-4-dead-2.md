@@ -29,6 +29,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely thrilling VR conversion of one of the best co-op shooters ever made, held back by Source engine limitations, comfort considerations, and the need for community-sourced polish. Worth the effort for fans, but expect to tinker."
 heroImage: /images/games/left-4-dead-2-vr-hero.jpg
+sources: "- sd805/l4d2vr — Primary mod source, release notes, installation instructions - Beardo Benjo (early prototype coverage), Gamertag VR (multiplayer attempts), various L4D2 VR gameplay demonstrations - Discord server and Notion documentation for mod status and troubleshooting - r/left4dead2vr, r/virtualreality, r/l4d2 — Community reports on comfort, stability, and setup issues - Curated VR enhancement collections and community fixes - No direct testing was performed for this article. All assessments derive from community documentation, video footage, and reported user experiences as of April 2026."
 ---
 
 # Left 4 Dead 2 in VR: The Co-op Classic That Refuses to Die
@@ -139,17 +140,3 @@ The mod achieves something impressive: full 6DoF VR with motion controls in a So
 
 **Overall Tier: B**  
 Left 4 Dead 2 in VR delivers genuine thrills that justify the setup effort for the right audience. It is not a polished, native VR product, and it asks more of players than commercial releases. But the payoff—experiencing this classic with physical presence and motion controls—is substantial. If you have the tolerance for jank and a group of friends willing to dive in together, this is one of the best ways to spend an evening in VR. For everyone else, the friction may outweigh the reward.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- sd805/l4d2vr — Primary mod source, release notes, installation instructions
-- Beardo Benjo (early prototype coverage), Gamertag VR (multiplayer attempts), various L4D2 VR gameplay demonstrations
-- Discord server and Notion documentation for mod status and troubleshooting
-- r/left4dead2vr, r/virtualreality, r/l4d2 — Community reports on comfort, stability, and setup issues
-- Curated VR enhancement collections and community fixes
-- No direct testing was performed for this article. All assessments derive from community documentation, video footage, and reported user experiences as of April 2026.
-
-</details>

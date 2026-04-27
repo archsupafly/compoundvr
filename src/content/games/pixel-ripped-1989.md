@@ -28,6 +28,7 @@ tier: A
 verdict: "Pixel Ripped 1989 is exactly what a native VR title should be — an experience that couldn't exist anywhere else. The game-within-a-game concept isn't a gimmick; it's the foundation of a genuinely clever adventure that merges 8-bit platforming with 3D world interaction. For anyone who grew up with Game Boys or Mega Man, this is essential VR."
 heroImage: /images/games/pixel-ripped-1989-hero.jpg
 vrReleaseDate: 2018-07-10
+sources: "- Steam Store page for Pixel Ripped 1989 - UploadVR review coverage (2018) - THE VR GRID review (2018) - Flat2VR Discord community feedback - ARVORE official documentation"
 ---
 
 # Pixel Ripped 1989: When Nostalgia Meets VR's Unique Possibilities
@@ -105,16 +106,3 @@ Pixel Ripped 1989 represents VR at its most conceptually interesting. It doesn't
 For a flat-to-VR site, covering native titles like this serves an important purpose: it establishes the baseline of what proper VR design looks like. When we evaluate flat-to-VR mods, we're implicitly asking whether they approach this level of integration. Pixel Ripped 1989 is the standard — a reminder that when VR is built correctly from the ground up, the results can be genuinely special.
 
 The sequels (Pixel Ripped 1995 and Pixel Ripped 1978) expand the concept across different eras of gaming history, but this 2018 original remains the essential starting point. For anyone with a VR headset and nostalgia for the 8-bit generation, this belongs in your library.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Steam Store page for Pixel Ripped 1989
-- UploadVR review coverage (2018)
-- THE VR GRID review (2018)
-- Flat2VR Discord community feedback
-- ARVORE official documentation
-
-</details>

@@ -27,6 +27,7 @@ experienceTags:
 tier: B
 verdict: "A polished VR-native flight game with excellent comfort design — easy to recommend to new VR users and anyone seeking a relaxing aerial experience over Paris."
 heroImage: /images/games/eagle-flight-vr-hero.jpg
+sources: "- Game mechanics, controls, and comfort systems compiled from aggregate coverage during 2016-2020 VR releases - Platform differences observed from multi-platform reviews (PCVR vs PSVR) - Multiplayer mode descriptions from historical coverage - Performance expectations based on original hardware requirements and long-term player reports - Comfort assessments compiled from VR reviewer consensus across multiple publications - Current store availability (Steam, Meta Store, PlayStation Store) — should be verified before publication - Current pricing by platform — should be verified before publication - Multiplayer server status and active player population — should be researched before publication - Any recent patches or compatibility updates (unlikely given development status) - This article is based on accumulated knowledge from historical coverage and training data - No direct hands-on testing was conducted for this article - Multiplayer population status estimated based on game age and typical playerbase contraction for 2016 VR titles - --- - ## Update Watch Notes - Platform delisting (common with older VR titles) - Multiplayer server shutdowns - Major VR runtime changes affecting compatibility (unlikely — game uses standard runtimes) - Significant pricing changes - Ubisoft is not actively developing or patching Eagle Flight. The game is complete, stable, and in maintenance mode. - The game is delisted from digital stores - Multiplayer servers are announced for shutdown - Significant platform compatibility issues emerge"
 ---
 
 # Eagle Flight in VR: Soaring Over Paris in One of VR's Most Polished Early Titles
@@ -251,33 +252,3 @@ The only knock: motion controller support is present but not meaningful. The gam
 Eagle Flight holds up. The core flight experience is polished, Paris is beautiful to explore, and the comfort design makes it accessible to nearly everyone. It's not a must-play S-tier experience, but it's a solid recommendation — especially for new VR users building confidence or veterans wanting a relaxing flight game between more intense sessions.
 
 If you've ever wanted to experience what it feels like to be a bird soaring over a city, this is one of VR's best answers to that question.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Game mechanics, controls, and comfort systems compiled from aggregate coverage during 2016-2020 VR releases
-- Platform differences observed from multi-platform reviews (PCVR vs PSVR)
-- Multiplayer mode descriptions from historical coverage
-- Performance expectations based on original hardware requirements and long-term player reports
-- Comfort assessments compiled from VR reviewer consensus across multiple publications
-- Current store availability (Steam, Meta Store, PlayStation Store) — should be verified before publication
-- Current pricing by platform — should be verified before publication
-- Multiplayer server status and active player population — should be researched before publication
-- Any recent patches or compatibility updates (unlikely given development status)
-- This article is based on accumulated knowledge from historical coverage and training data
-- No direct hands-on testing was conducted for this article
-- Multiplayer population status estimated based on game age and typical playerbase contraction for 2016 VR titles
-- ---
-- ## Update Watch Notes
-- Platform delisting (common with older VR titles)
-- Multiplayer server shutdowns
-- Major VR runtime changes affecting compatibility (unlikely — game uses standard runtimes)
-- Significant pricing changes
-- Ubisoft is not actively developing or patching Eagle Flight. The game is complete, stable, and in maintenance mode.
-- The game is delisted from digital stores
-- Multiplayer servers are announced for shutdown
-- Significant platform compatibility issues emerge
-
-</details>

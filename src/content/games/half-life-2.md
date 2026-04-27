@@ -30,6 +30,7 @@ verdict: "This isn't just the best flat-to-VR conversion available. It's the arg
 heroImage: /images/games/half-life-2-vr-hero.jpg
 flatReleaseDate: 2004-11-16
 vrReleaseDate: 2022-09-23
+sources: "- Source VR Mod Team public documentation and Steam store pages (mod features, system requirements, install process, roadmap) - Flat2VR Discord community knowledge (development history, texture upscaling experiments, controller binding reports) - Reddit r/vive and r/hlvr community reports (comfort experiences, fitness tracker anecdotes, exploration behavior) - YouTube VR gameplay footage from Beardo Benjo, Gamertag VR, and Paradise's Decay (control implementation, physics interaction, visual quality) - Steam user reviews for Half-Life 2: VR Mod (aggregate sentiment, bug reports, completion confirmation)"
 ---
 
 # The Half-Life 2 VR Mod Is a Time Machine That Works
@@ -143,13 +144,3 @@ The flat-to-VR landscape is crowded with projects that demonstrate potential. Th
 **Developer:** Source VR Mod Team  
 **Steam:** [Half-Life 2: VR Mod](https://store.steampowered.com/app/658920/) | [Episode One](https://store.steampowered.com/app/2177750/) | [Episode Two](https://store.steampowered.com/app/2177760/)  
 **Website:** [halflife2vr.com](https://halflife2vr.com/)
-
-<details class="source-log"><summary>Sources</summary>
-
-- Source VR Mod Team public documentation and Steam store pages (mod features, system requirements, install process, roadmap)
-- Flat2VR Discord community knowledge (development history, texture upscaling experiments, controller binding reports)
-- Reddit r/vive and r/hlvr community reports (comfort experiences, fitness tracker anecdotes, exploration behavior)
-- YouTube VR gameplay footage from Beardo Benjo, Gamertag VR, and Paradise's Decay (control implementation, physics interaction, visual quality)
-- Steam user reviews for Half-Life 2: VR Mod (aggregate sentiment, bug reports, completion confirmation)
-
-</details>

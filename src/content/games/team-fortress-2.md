@@ -28,6 +28,7 @@ verdict: "TF2 has two VR paths, neither fully ready. The official VR mode from 2
 heroImage: /images/games/team-fortress-2-vr-hero.jpg
 flatReleaseDate: 2007-10-10
 vrReleaseDate: 2013-05-01
+sources: "- Official TF2 Wiki Oculus Rift User Guide — detailed documentation of the 2013 VR implementation - Road to VR coverage of Valve's 2013 GDC presentation on TF2 VR - Virtual Fortress 2 GitHub repository and itch.io page - Steam Community discussions on activating legacy VR mode - Flat2VR Discord — community knowledge on current state of TF2 VR"
 ---
 
 # Team Fortress 2 in VR: A Beloved Shooter Lost in Translation
@@ -163,16 +164,3 @@ The sad reality is that Team Fortress 2, one of Valve's most beloved titles, has
 For VR players craving a class-based shooter experience, alternatives exist. *Pavlov VR* and *Onward* offer tactical multiplayer. *Contractors* has mods that bring TF2 content into a VR-native framework. But playing actual TF2 in VR? That remains a dream.
 
 If Virtual Fortress 2 eventually adds multiplayer and completes its implementation, TF2 could become a genuine VR must-have. The foundation is there — motion controls, proper VR architecture, familiar maps. For now, though, both paths remain experiments rather than experiences worth your time.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Official TF2 Wiki Oculus Rift User Guide — detailed documentation of the 2013 VR implementation
-- Road to VR coverage of Valve's 2013 GDC presentation on TF2 VR
-- Virtual Fortress 2 GitHub repository and itch.io page
-- Steam Community discussions on activating legacy VR mode
-- Flat2VR Discord — community knowledge on current state of TF2 VR
-
-</details>

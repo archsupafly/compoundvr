@@ -31,6 +31,7 @@ verdict: "Portal 2 in VR is a remarkable conversion that makes one of gaming's g
 heroImage: /images/games/portal-2-vr-hero.jpg
 flatReleaseDate: 2011-04-19
 vrReleaseDate: 2022-04-01
+sources: "- Portal 2 VR Mod GitHub repository (github.com/Gistix/portal2vr) - Flat2VR Discord community knowledge and playtesting reports - YouTube coverage from Beardo Benjo, Gamertag VR, and VR enthusiasts demonstrating gameplay - Steam Community guides for Portal 2 VR mod installation and troubleshooting - Source VR Mod Team development updates and feature documentation - Portal 2 Steam Workshop community content compatibility reports"
 ---
 
 # Portal 2 in VR: The Portal Gun Was Always Meant to Be in Your Hand
@@ -180,17 +181,3 @@ Portal 2 in VR delivers something rare: a complete, beloved single-player campai
 The A-minus tier reflects minor friction — the manual installation, the locked player position, the inherited UI limitations — rather than any fundamental flaw. These are barriers to entry, not barriers to quality. Once you're past them, Portal 2 VR is one of the most compelling reasons to own a VR headset.
 
 If you own Portal 2 and a PCVR headset, the question isn't whether to try this. It's why you haven't already.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Portal 2 VR Mod GitHub repository (github.com/Gistix/portal2vr)
-- Flat2VR Discord community knowledge and playtesting reports
-- YouTube coverage from Beardo Benjo, Gamertag VR, and VR enthusiasts demonstrating gameplay
-- Steam Community guides for Portal 2 VR mod installation and troubleshooting
-- Source VR Mod Team development updates and feature documentation
-- Portal 2 Steam Workshop community content compatibility reports
-
-</details>

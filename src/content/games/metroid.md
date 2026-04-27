@@ -30,6 +30,7 @@ experienceTags:
 tier: B
 verdict: "Metroid in 3dSen VR successfully transforms Nintendo's foundational Metroidvania into a dimensional experience that enhances the isolation and atmosphere. The voxel conversion adds genuine depth to Planet Zebes's caverns, making the lonely descent feel more tangible. The password system is preserved, exploration remains intact, and the atmospheric dread gains new presence. A worthwhile revisit for fans, though the original's repetitive maze design shows its 1986 origins."
 heroImage: /images/games/metroid-vr-hero.jpg
+sources: "- 3dSen VR Steam Store page and official documentation - 3dSen VR Meta Quest Store page - Nintendo Metroid NES manual and historical documentation - Flat2VR Discord community knowledge on NES emulation in VR - YouTube gameplay demonstrations from Beardo Benjo and retro VR enthusiasts - 3dSen VR supported games list (Metroid confirmed inclusion)"
 ---
 
 # Metroid in VR: Samus Aran's Lonely Descent into Planet Zebes
@@ -314,17 +315,3 @@ Just don't expect a map.
 **Session Length:** Plan for password save management between sessions
 
 **Last Verified:** April 2026
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam Store page and official documentation
-- 3dSen VR Meta Quest Store page
-- Nintendo Metroid NES manual and historical documentation
-- Flat2VR Discord community knowledge on NES emulation in VR
-- YouTube gameplay demonstrations from Beardo Benjo and retro VR enthusiasts
-- 3dSen VR supported games list (Metroid confirmed inclusion)
-
-</details>

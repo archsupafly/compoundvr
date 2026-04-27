@@ -30,6 +30,7 @@ verdict: "A substantial campaign experience with genuine cockpit presence and mo
 heroImage: /images/games/star-wars-x-wing-alliance-vr-hero.jpg
 flatReleaseDate: 1999-02-28
 vrReleaseDate: 2022-07-01
+sources: "- TIE Fighter TFTC article (compoundvr-site) — Reference for XWAU technical implementation, setup patterns, and VR integration approach - X-Wing Alliance (1999) base game knowledge — Campaign structure, craft roster, narrative elements - XWAU official website (Google Sites) — Requires authentication, unable to access - ModDB XWAU page — Cloudflare protection prevented access - Reddit r/vive and r/pcgaming threads — 403 error on access - Flat2VR Discord redirect — Community knowledge source, requires Discord access - VR Grid — No content found - Technical implementation details: [Training Data] — Cross-referenced with TFTC article patterns - VR integration approach: [Training Data] — SteamVR integration confirmed across sources - Campaign content: [Training Data] — X-Wing Alliance original game content - Setup complexity: [Training Data] — Inferred from TFTC patterns and XWAU project scope - High confidence: XWAU provides VR support via SteamVR, visual overhaul scope, campaign structure - Moderate confidence: Specific performance requirements (extrapolated from TFTC patterns) - Editor should verify: Current XWAU version features, any recent VR-specific updates - 2026-04-15"
 ---
 
 # Star Wars: X-Wing Alliance in VR: The Rebellion's Story, Finally Told in Cockpit Reality
@@ -215,26 +216,3 @@ This is a substantial VR space combat experience with decades of content depth. 
 **Comfort:** Space combat involves rapid rotation. Not for VR-sensitive users.
 
 **Links:** [XWAU Website](https://sites.google.com/view/xwaupgrade/home) | [XWAU on ModDB](https://www.moddb.com/mods/x-wing-alliance-upgrade)
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- TIE Fighter TFTC article (compoundvr-site) — Reference for XWAU technical implementation, setup patterns, and VR integration approach
-- X-Wing Alliance (1999) base game knowledge — Campaign structure, craft roster, narrative elements
-- XWAU official website (Google Sites) — Requires authentication, unable to access
-- ModDB XWAU page — Cloudflare protection prevented access
-- Reddit r/vive and r/pcgaming threads — 403 error on access
-- Flat2VR Discord redirect — Community knowledge source, requires Discord access
-- VR Grid — No content found
-- Technical implementation details: [Training Data] — Cross-referenced with TFTC article patterns
-- VR integration approach: [Training Data] — SteamVR integration confirmed across sources
-- Campaign content: [Training Data] — X-Wing Alliance original game content
-- Setup complexity: [Training Data] — Inferred from TFTC patterns and XWAU project scope
-- High confidence: XWAU provides VR support via SteamVR, visual overhaul scope, campaign structure
-- Moderate confidence: Specific performance requirements (extrapolated from TFTC patterns)
-- Editor should verify: Current XWAU version features, any recent VR-specific updates
-- 2026-04-15
-
-</details>

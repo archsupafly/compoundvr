@@ -30,6 +30,7 @@ verdict: "JK XR delivers the definitive Jedi Outcast VR experience. Team Beef's 
 heroImage: /images/games/jedi-knight-2-vr-hero.png
 flatReleaseDate: 2002-03-26
 vrReleaseDate: 2022-03-01
+sources: "- Team Beef JKXR GitHub repository and documentation - SideQuest app page and installation guides - Steam Community Guide: JK XR - Jedi Knight II: Outcast VR Port - Eurogamer coverage (April 2023) on JK XR release - Flat2VR Discord community reports and troubleshooting - Team Beef Patreon development updates"
 ---
 
 # Star Wars Jedi Knight II: Jedi Outcast in VR: A Jedi's Journey Reborn
@@ -157,17 +158,3 @@ This is what flat-to-VR modding should aspire to: complete functionality, though
 4. **Launch via Companion App** to verify files and start playing
 
 **PCVR Note:** Ensure your headset uses the correct OpenXR runtime (SteamVR for most headsets, Oculus for Link/AirLink, unofficial PimaxXR for Pimax devices).
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Team Beef JKXR GitHub repository and documentation
-- SideQuest app page and installation guides
-- Steam Community Guide: JK XR - Jedi Knight II: Outcast VR Port
-- Eurogamer coverage (April 2023) on JK XR release
-- Flat2VR Discord community reports and troubleshooting
-- Team Beef Patreon development updates
-
-</details>

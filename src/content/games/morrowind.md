@@ -28,6 +28,7 @@ experienceTags:
 tier: B
 verdict: "Morrowind in VR is a genuine adventure — the world sells itself — but neither route delivers a polished native VR experience. OpenMW-VR is the clear choice for anyone wanting real VR interaction; VorpX is a fallback for those who just want to look around Vvardenfell in stereoscopic 3D."
 heroImage: /images/games/morrowind-vr-hero.jpg
+sources: "- OpenMW official repository and documentation (gitlab.com/OpenMW/openmw) - VorpX official features page and supported games list (vorpx.com) - Wikipedia article on OpenMW — development history, engine architecture, TES3MP multiplayer fork - OpenMW wiki (wiki.openmw.org) — VR page attempted but blocked by anti-bot protection - OpenMW forum VR subforum — attempted but blocked by anti-bot protection - Steam community discussions for Morrowind — general player discourse, no VR-specific threads surfaced - Training data: OpenMW-VR fork history (Port2VR/openmw-vr on GitLab), VorpX DX9 mod requirement for Morrowind, community reception patterns from Flat2VR community knowledge - Note: Several primary sources (GitLab wiki, OpenMW forum, Reddit) were inaccessible due to bot protection; claims about OpenMW-VR's capabilities and status are based on available documentation and established community knowledge"
 ---
 
 # The Elder Scrolls III: Morrowind in VR: Two Roads to Vvardenfell
@@ -120,19 +121,3 @@ OpenMW-VR does the hard part right — engine-level stereoscopic rendering, prop
 
 **Overall Tier: B**
 Morrowind's world is worth experiencing in VR for anyone who loves the game and can tolerate the compromises. OpenMW-VR is the real route; VorpX is a novelty. The gap between how good Vvardenfell feels in VR and how clunky the interaction remains is the defining tension of this experience. For fans, it's a pilgrimage worth making. For VR-first players, there are smoother paths elsewhere.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- OpenMW official repository and documentation (gitlab.com/OpenMW/openmw)
-- VorpX official features page and supported games list (vorpx.com)
-- Wikipedia article on OpenMW — development history, engine architecture, TES3MP multiplayer fork
-- OpenMW wiki (wiki.openmw.org) — VR page attempted but blocked by anti-bot protection
-- OpenMW forum VR subforum — attempted but blocked by anti-bot protection
-- Steam community discussions for Morrowind — general player discourse, no VR-specific threads surfaced
-- Training data: OpenMW-VR fork history (Port2VR/openmw-vr on GitLab), VorpX DX9 mod requirement for Morrowind, community reception patterns from Flat2VR community knowledge
-- Note: Several primary sources (GitLab wiki, OpenMW forum, Reddit) were inaccessible due to bot protection; claims about OpenMW-VR's capabilities and status are based on available documentation and established community knowledge
-
-</details>

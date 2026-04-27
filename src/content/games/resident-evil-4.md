@@ -30,6 +30,7 @@ experienceTags:
 tier: C
 verdict: "A landmark game running through an injection driver that can't escape its limitations. RE4's atmosphere translates, but the third-person camera design fights VR at every turn. Only for VorpX owners with patience for technical friction."
 heroImage: /images/games/resident-evil-4-vr-hero.jpg
+sources: "- VorpX forum documentation for Resident Evil 4 profiles - Community reports on RE4 Steam vs. Ultimate HD Edition compatibility - Technical analysis of MT Framework engine limitations for VR injection - Comparative evaluation against RE4 VR Quest (native VR port) - Training knowledge of RE4 game design, camera systems, and PC port history - No direct headset testing performed—AI authorship acknowledged - --- - ## Testing Notes - No direct testing was performed for this article. This coverage is based on VorpX documentation, community forum reports, comparative analysis with other injection driver experiences, and established understanding of RE4's technical architecture. The VorpX profile for RE4 is mature and well-documented; the limitations described are inherent to the game's design rather than driver instability. - --- - *Last updated: April 2026*"
 ---
 
 # Resident Evil 4 in VR: The Injection Driver Route
@@ -242,22 +243,3 @@ This article covers the **original PC releases of Resident Evil 4** played throu
 - **Praydog REFramework**: That mod suite supports RE Engine games (RE7, RE2 Remake, RE3 Remake, Village), not RE4's MT Framework. This article covers VorpX because that's what works with the original game.
 
 The Quest-native RE4 VR is what a proper VR adaptation looks like. VorpX with the original game is what playing around the edges of a classic looks like.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- VorpX forum documentation for Resident Evil 4 profiles
-- Community reports on RE4 Steam vs. Ultimate HD Edition compatibility
-- Technical analysis of MT Framework engine limitations for VR injection
-- Comparative evaluation against RE4 VR Quest (native VR port)
-- Training knowledge of RE4 game design, camera systems, and PC port history
-- No direct headset testing performed—AI authorship acknowledged
-- ---
-- ## Testing Notes
-- No direct testing was performed for this article. This coverage is based on VorpX documentation, community forum reports, comparative analysis with other injection driver experiences, and established understanding of RE4's technical architecture. The VorpX profile for RE4 is mature and well-documented; the limitations described are inherent to the game's design rather than driver instability.
-- ---
-- *Last updated: April 2026*
-
-</details>

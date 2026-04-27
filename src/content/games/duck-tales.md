@@ -33,6 +33,7 @@ verdict: "Duck Tales in 3dSen VR transforms Capcom's platforming gem into a dime
 heroImage: /images/games/duck-tales-vr-hero.jpg
 flatReleaseDate: 1989-09-22
 vrReleaseDate: 2018-08-01
+sources: "- 3dSen VR Steam Store page and documentation - 3dSen VR Meta Quest Store page - EmuVR official website and installation documentation - Capcom Duck Tales NES manual and historical documentation - Historical coverage of Duck Tales (1989) development and reception - Flat2VR Discord community knowledge on NES emulation in VR - YouTube gameplay demonstrations from retro VR enthusiasts"
 ---
 
 # Duck Tales in VR: The Pogo-Cane Adventure Goes Dimensional
@@ -349,18 +350,3 @@ For fans of NES platformers—particularly those who appreciate Duck Tales' sign
 Scrooge's treasure hunt has never felt more tangible. The Moon Theme has never played over a more dimensional landscape. And for the price of a few coffees, you can experience one of platform gaming's most beloved licensed titles in what may be its most compelling presentation.
 
 Life is like a hurricane—and in 3dSen VR, that hurricane has depth.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam Store page and documentation
-- 3dSen VR Meta Quest Store page
-- EmuVR official website and installation documentation
-- Capcom Duck Tales NES manual and historical documentation
-- Historical coverage of Duck Tales (1989) development and reception
-- Flat2VR Discord community knowledge on NES emulation in VR
-- YouTube gameplay demonstrations from retro VR enthusiasts
-
-</details>

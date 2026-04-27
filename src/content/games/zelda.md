@@ -40,6 +40,7 @@ verdict: "The Legend of Zelda in 3dSen VR is one of the most compelling argument
 heroImage: /images/games/zelda-vr-hero.jpg
 flatReleaseDate: 1986-02-21
 vrReleaseDate: 2018-01-03
+sources: "- 3dSen VR Steam Store page and documentation - 3dSen itch.io devlog (3dSen has supported Zelda since early 2018) - EmuVR official website and installation wiki - Emulation General Wiki 3dSen entry - Real Otaku Gamer 3dSen review highlighting Zelda transformation - RetroRGB coverage of EmuVR features - Flat2VR Discord community knowledge on NES emulation in VR - Steam Community guides for Zelda 100% completion in 3dSen"
 ---
 
 # The Legend of Zelda in VR: The Foundation of Action-Adventures Reborn in 3D
@@ -289,19 +290,3 @@ For the price of a few lattes, you can experience one of gaming's most important
 Whether you choose the dimensional diorama of 3dSen, the spatial novelty of mixed reality, or the nostalgic ritual of EmuVR, there's a VR experience suited to how you want to return to Hyrule.
 
 The kingdom has never looked better.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- 3dSen VR Steam Store page and documentation
-- 3dSen itch.io devlog (3dSen has supported Zelda since early 2018)
-- EmuVR official website and installation wiki
-- Emulation General Wiki 3dSen entry
-- Real Otaku Gamer 3dSen review highlighting Zelda transformation
-- RetroRGB coverage of EmuVR features
-- Flat2VR Discord community knowledge on NES emulation in VR
-- Steam Community guides for Zelda 100% completion in 3dSen
-
-</details>

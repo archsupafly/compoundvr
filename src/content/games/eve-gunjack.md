@@ -28,6 +28,7 @@ tier: D
 verdict: "EVE Gunjack was a remarkably polished mobile VR turret shooter that demonstrated what Unreal Engine 4 could achieve on a smartphone. Released for Gear VR in 2015 and later expanding to PC and PlayStation VR, it offered satisfying arcade action with impressive production values. CCP Games delisted the title in July 2022 and shut down its multiplayer servers in August 2022. It is no longer available for purchase and the multiplayer is dead, but the solo campaign remains playable for existing owners."
 heroImage: /images/games/eve-gunjack-hero.jpg
 vrReleaseDate: 2015-11-01
+sources: "- Road to VR review (2015) — \"Gunjack Sets the Bar for Gear VR Turret Shooters\" - Delisted Games — EVE: Gunjack entry - CCP Games official announcements (2015, 2022) - Polygon announcement coverage (August 2015) - EVE Online official news — \"Introducing Gunjack\" - Steam Community announcements (July 2022)"
 ---
 
 # EVE Gunjack: A Polished Turret Shooter Lost to Time
@@ -164,17 +165,3 @@ The head-locked turret sacrificed some immersion for usability, but this was a r
 Gunjack is not a flat-to-VR conversion worth pursuing — it was never a flat game, and it is no longer sold. For existing owners, the solo campaign remains a competent if thin introduction to VR turret shooters. For everyone else, its value is historical: a well-crafted early VR shooter that proved mobile platforms could deliver real games, and a cautionary tale about the impermanence of server-dependent entertainment.
 
 If you're seeking a living turret shooter in VR, look to more recent releases. Gunjack's time as a recommended purchase has passed, but it is not a dead experience for those who already own it.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Road to VR review (2015) — "Gunjack Sets the Bar for Gear VR Turret Shooters"
-- Delisted Games — EVE: Gunjack entry
-- CCP Games official announcements (2015, 2022)
-- Polygon announcement coverage (August 2015)
-- EVE Online official news — "Introducing Gunjack"
-- Steam Community announcements (July 2022)
-
-</details>

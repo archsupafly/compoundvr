@@ -32,6 +32,7 @@ experienceTags:
 tier: B
 verdict: "One of the most ambitious VR mods ever made. The implementation is exceptional for what it achieves, but the game's zero-gravity flight and intense movement make this a recommendation with serious comfort caveats."
 heroImage: /images/games/outer-wilds-vr-hero.jpg
+sources: "Research conducted via Outer Wilds Mods website (outerwildsmods.com), UploadVR coverage, Reddit community reports (r/outerwilds, r/virtualreality, r/VRGaming), Flat2VR Discord knowledge base, and developer documentation on GitHub. Multiple YouTube VR channel references including Gamertag VR and Beardo Benjo for general VR mod assessment context. No direct testing performed; assessment based on aggregated community experience and technical documentation."
 ---
 
 # Outer Wilds in VR: One of Gaming's Greatest Mysteries, Now in Your Headset
@@ -134,7 +135,3 @@ NomaiVR is among the most comprehensive VR conversion mods available. Full motio
 
 **Overall Tier: B**
 The gap between game quality and implementation quality creates this spread. Outer Wilds VR is extraordinary when everything aligns—your stomach, your hardware, your patience for setup. But the comfort barrier is real and significant. Many players simply won't be able to experience it fully. For those who can, it's unforgettable. For those who can't, it's a cautionary tale about ambition versus accessibility. The B tier reflects this essential tension: exceptional achievement with substantial caveats.
-
----
-
-*Source Log: Research conducted via Outer Wilds Mods website (outerwildsmods.com), UploadVR coverage, Reddit community reports (r/outerwilds, r/virtualreality, r/VRGaming), Flat2VR Discord knowledge base, and developer documentation on GitHub. Multiple YouTube VR channel references including Gamertag VR and Beardo Benjo for general VR mod assessment context. No direct testing performed; assessment based on aggregated community experience and technical documentation.*

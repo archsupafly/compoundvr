@@ -29,6 +29,7 @@ verdict: "Dear Esther in VR is one of the best-kept secrets in flat-to-VR moddin
 heroImage: /images/games/dear-esther-vr-hero.jpg
 flatReleaseDate: 2012-02-14
 vrReleaseDate: 2017-05-01
+sources: "- Eusth VRGIN GitHub repository and documentation - Flat2VR Discord community knowledge base - YouTube VR reviews of Dear Esther: Landmark Edition - Steam Community discussions on VRGIN compatibility - The Chinese Room developer commentary (Director's Commentary mode)"
 ---
 
 # Dear Esther in VR: When a Walking Simulator Becomes a Journey
@@ -188,16 +189,3 @@ If you have any interest in narrative games, atmospheric experiences, or simply 
 5. **Launch through SteamVR** with your headset active
 
 Full detailed installation guides are available through Flat2VR community resources.
-
----
-
-<details class="source-log">
-<summary>Sources</summary>
-
-- Eusth VRGIN GitHub repository and documentation
-- Flat2VR Discord community knowledge base
-- YouTube VR reviews of Dear Esther: Landmark Edition
-- Steam Community discussions on VRGIN compatibility
-- The Chinese Room developer commentary (Director's Commentary mode)
-
-</details>
