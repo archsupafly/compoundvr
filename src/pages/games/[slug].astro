@@ -52,7 +52,7 @@ function formatNumericDate(date: Date): string {
       <div class="hero-overlay"></div>
     </div>
   )}
-  <section class="container section game-page">
+  <section class="container section game-page" style="max-width:var(--max);margin-left:auto;margin-right:auto;">
     <div class="eyebrow">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
     <h1>{game.data.title}</h1>
     <p class="lead">{game.data.description}</p>
