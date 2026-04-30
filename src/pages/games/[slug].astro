@@ -90,12 +90,10 @@ function formatNumericDate(date: Date): string {
         <div class="stat-label">Performance</div>
         <div class="stat-value">{game.data.performance}</div>
       </div>
-    </div>
-
-    <div class="tags-container" style="margin-top:1rem;">
-      {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
-        <span class="pill">{tag}</span>
-      ))}
+      <div class="stat stat-tier">
+        <div class="stat-label">Tier</div>
+        <div class={tierClass}>{tier}</div>
+      </div>
     </div>
 
     <article class="prose article-content" style="margin-top:2rem;">
@@ -160,6 +158,11 @@ function formatNumericDate(date: Date): string {
     max-width: var(--max);
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .stat-tier {
+    background: var(--surface-secondary);
+    border-color: var(--border-default);
   }
 
   .verdict-card {

@@ -46,11 +46,15 @@ The writing still lands too. Stephen Merchant's Wheatley, J.K. Simmons' Cave Joh
 
 Object interaction works better than I expected. Picking up the Weighted Companion Cube, pressing buttons with your virtual hand, carrying objects around chambers — it feels natural. The gels — propulsion, repulsion, conversion — translate cleanly because they're physics-based, and the Source engine handles physics consistently. Co-op adds a social dimension that flat-screen can't touch: physically gesturing at a puzzle element while your partner looks where you're pointing. But both players need the mod. No mixing VR and non-VR.
 
-The limitations are honest and specific. Your physical position is locked to the center of your playspace — you can look around, crouch, lean, but walking across your room won't move your in-game body. The UI has rough edges. Menus and tooltips were built for a monitor; some interactions require a physical mouse or the SteamVR dashboard. Seated play works but feels compromised — the game expects you to stand and physically turn for certain puzzle angles. And the installation process, while documented, is still a GitHub download and manual file placement. One wrong folder and the mod fails silently.
+### The trade-offs
+
+Your physical position is locked to the center of your playspace — you can look around, crouch, lean, but walking across your room won't move your in-game body. The UI has rough edges. Menus and tooltips were built for a monitor; some interactions require a physical mouse or the SteamVR dashboard. Seated play works but feels compromised — the game expects you to stand and physically turn for certain puzzle angles. And the installation process, while documented, is still a GitHub download and manual file placement. One wrong folder and the mod fails silently.
 
 Performance isn't a concern. The Source engine is undemanding; most PCVR-capable systems run this smoothly. CPU bottlenecks can appear in complex workshop chambers, but the base game is lightweight. It's PCVR-only — SteamVR headsets, Quest via Link or Virtual Desktop, Index, Vive. No standalone Quest version.
 
 I should mention: Portal 2 works particularly well for this because it was designed with more environmental variety than the original. The decayed sections, the 1950s test chambers, the massive underground facilities — these varied spaces gain presence in a way the original's tighter corridors don't. If you're deciding between replaying Portal or Portal 2 in VR, the sequel has more to show you.
+
+### Should you?
 
 If you own Portal 2 and a PCVR headset, the barriers are minor: fifteen minutes of setup, some UI awkwardness, locked player position, and the possibility of motion sickness during momentum puzzles. The payoff is one of the best puzzle games ever made, playable start to finish with motion controls, plus co-op, plus effectively infinite workshop content. The portal gun feels like it was always supposed to be in your hand. The spatial puzzles that made the original legendary gain a dimension that makes them feel new again.
 
