@@ -48,7 +48,6 @@ function formatNumericDate(date: Date): string {
 <Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
   <section class="section game-page">
     <div class="game-content">
-      <div class="eyebrow">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
       <h1>{game.data.title}</h1>
       <p class="lead">{game.data.description}</p>
 
@@ -58,7 +57,7 @@ function formatNumericDate(date: Date): string {
         </div>
       )}
 
-      <div class="stats" style="margin-top:1.5rem;">
+      <div class="stats game-stats" style="margin-top:1.5rem;">
         <div class="stat">
           <div class="stat-label">Release</div>
           <div class="stat-value">
@@ -124,6 +123,8 @@ function formatNumericDate(date: Date): string {
           <div class="source-log-content" style="margin-top:0.75rem;">{game.data.sources}</div>
         </details>
       )}
+
+      <div class="eyebrow" style="margin-top:1.5rem;">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
     </div>
   </section>
 </Layout>
@@ -140,6 +141,10 @@ function formatNumericDate(date: Date): string {
     padding: 0 1rem;
   }
 
+  .game-content h1 {
+    font-size: clamp(2rem, 4vw, 3rem);
+  }
+
   .hero-image-container {
     width: 100%;
     margin-top: 1.5rem;
@@ -154,6 +159,15 @@ function formatNumericDate(date: Date): string {
     display: block;
     aspect-ratio: 16 / 9;
     object-fit: cover;
+  }
+
+  .game-stats {
+    grid-template-columns: repeat(8, 1fr);
+    gap: 0.5rem;
+  }
+
+  .game-stats .stat {
+    padding: 0.75rem 0.5rem;
   }
 
   .stat-tier {
@@ -240,6 +254,10 @@ function formatNumericDate(date: Date): string {
   @media (max-width: 720px) {
     .game-content {
       padding: 0 0.5rem;
+    }
+
+    .game-stats {
+      grid-template-columns: repeat(4, 1fr);
     }
   }
 </style>
