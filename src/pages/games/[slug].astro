@@ -96,11 +96,11 @@ function formatNumericDate(date: Date): string {
       </div>
     </div>
 
-    <article class="prose article-content" style="margin-top:2rem;max-width:80ch;">
+    <article class="prose article-content" style="margin-top:2rem;max-width:80ch;margin-left:auto;margin-right:auto;">
       <Content />
     </article>
 
-    <div class="card verdict-card" style="margin-top:2rem;">
+    <div class="card verdict-card" style="margin-top:2rem;max-width:80ch;margin-left:auto;margin-right:auto;">
       <div class="verdict-header">
         <div class="verdict-header-left">
           <h3>Verdict</h3>
@@ -111,14 +111,14 @@ function formatNumericDate(date: Date): string {
       <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
     </div>
 
-    <div class="tags-container tags-bottom" style="margin-top:1.5rem;">
+    <div class="tags-container tags-bottom" style="margin-top:1.5rem;max-width:80ch;margin-left:auto;margin-right:auto;">
       {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
         <span class="pill">{tag}</span>
       ))}
     </div>
 
     {game.data.sources && (
-      <details class="source-log" style="margin-top:1rem;">
+      <details class="source-log" style="margin-top:1rem;max-width:80ch;margin-left:auto;margin-right:auto;">
         <summary>Sources</summary>
         <div class="source-log-content" style="margin-top:0.75rem;">{game.data.sources}</div>
       </details>
