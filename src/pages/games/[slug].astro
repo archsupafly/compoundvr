@@ -90,10 +90,6 @@ function formatNumericDate(date: Date): string {
         <div class="stat-label">Performance</div>
         <div class="stat-value">{game.data.performance}</div>
       </div>
-      <div class="stat stat-tier">
-        <div class="stat-label">Tier</div>
-        <div class={tierClass}>{tier}</div>
-      </div>
     </div>
 
     <div class="tags-container" style="margin-top:1rem;">
@@ -102,17 +98,29 @@ function formatNumericDate(date: Date): string {
       ))}
     </div>
 
-    <div class="card verdict-card" style="margin-top:1.5rem;">
-      <h3>Verdict</h3>
-      <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
-    </div>
-
     <article class="prose article-content" style="margin-top:2rem;">
       <Content />
     </article>
 
+    <div class="card verdict-card" style="margin-top:2rem;">
+      <div class="verdict-header">
+        <div class="verdict-header-left">
+          <h3>Verdict</h3>
+          <span class="recommendation-label">{game.data.recommendation}</span>
+        </div>
+        <div class={tierClass}>{tier}</div>
+      </div>
+      <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
+    </div>
+
+    <div class="tags-container tags-bottom" style="margin-top:1.5rem;">
+      {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
+        <span class="pill">{tag}</span>
+      ))}
+    </div>
+
     {game.data.sources && (
-      <details class="source-log" style="margin-top:2rem;">
+      <details class="source-log" style="margin-top:1rem;">
         <summary>Sources</summary>
         <div class="source-log-content" style="margin-top:0.75rem;">{game.data.sources}</div>
       </details>
@@ -149,16 +157,44 @@ function formatNumericDate(date: Date): string {
     margin-top: -2rem;
     position: relative;
     z-index: 1;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  .stat-tier {
+  .verdict-card {
+    border: 1px solid var(--border-default);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
     background: var(--surface-secondary);
-    border-color: var(--border-default);
   }
 
-  .verdict-card h3 {
+  .verdict-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin-bottom: 0.75rem;
+  }
+
+  .verdict-header h3 {
+    margin: 0;
     color: var(--text-primary);
+  }
+
+  .verdict-header-left {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+  }
+
+  .recommendation-label {
+    font-size: 0.85rem;
+    color: var(--text-tertiary);
+    font-weight: 400;
+  }
+
+  .tags-bottom {
+    justify-content: center;
   }
 
   .stat-note {
