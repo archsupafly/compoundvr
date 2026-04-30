@@ -46,118 +46,114 @@ function formatNumericDate(date: Date): string {
 ---
 
 <Layout title={`${game.data.title} — CompoundVR`} description={game.data.description}>
-  {game.data.heroImage && (
-    <div class="hero-image-container">
-      <img src={game.data.heroImage} alt={game.data.title} class="hero-image" />
-      <div class="hero-overlay"></div>
-    </div>
-  )}
-  <section class="container section game-page" style="max-width:1280px;width:min(1280px, calc(100% - 2rem));margin:0 auto;">
-    <div class="eyebrow">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
-    <h1>{game.data.title}</h1>
-    <p class="lead">{game.data.description}</p>
+  <section class="section game-page">
+    <div class="game-content">
+      <div class="eyebrow">Last verified {game.data.lastVerified.toISOString().slice(0, 10)}</div>
+      <h1>{game.data.title}</h1>
+      <p class="lead">{game.data.description}</p>
 
-    <div class="stats" style="margin-top:1.5rem;">
-      <div class="stat">
-        <div class="stat-label">Release</div>
-        <div class="stat-value">
-          {game.data.flatReleaseDate && formatShortDate(game.data.flatReleaseDate)}
-          {game.data.flatReleaseDate && game.data.vrReleaseDate && <><br /><span class="stat-note">VR mod {formatNumericDate(game.data.vrReleaseDate)}</span></>}
-          {!game.data.flatReleaseDate && game.data.vrReleaseDate && formatShortDate(game.data.vrReleaseDate)}
+      {game.data.heroImage && (
+        <div class="hero-image-container">
+          <img src={game.data.heroImage} alt={game.data.title} class="hero-image" />
+        </div>
+      )}
+
+      <div class="stats" style="margin-top:1.5rem;">
+        <div class="stat">
+          <div class="stat-label">Release</div>
+          <div class="stat-value">
+            {game.data.flatReleaseDate && formatShortDate(game.data.flatReleaseDate)}
+            {game.data.flatReleaseDate && game.data.vrReleaseDate && <><br /><span class="stat-note">VR mod {formatNumericDate(game.data.vrReleaseDate)}</span></>}
+            {!game.data.flatReleaseDate && game.data.vrReleaseDate && formatShortDate(game.data.vrReleaseDate)}
+          </div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">VR Option</div>
+          <div class="stat-value">{routeTypeLabels[game.data.routeType] || game.data.routeType}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">Platforms</div>
+          <div class="stat-value">{game.data.platforms.join(', ')}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">Setup</div>
+          <div class="stat-value">{game.data.setupBurden}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">Input</div>
+          <div class="stat-value">{game.data.inputStyle}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">Comfort</div>
+          <div class="stat-value">{game.data.comfort}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">Performance</div>
+          <div class="stat-value">{game.data.performance}</div>
+        </div>
+        <div class="stat stat-tier">
+          <div class="stat-label">Tier</div>
+          <div class={tierClass}>{tier}</div>
         </div>
       </div>
-      <div class="stat">
-        <div class="stat-label">VR Option</div>
-        <div class="stat-value">{routeTypeLabels[game.data.routeType] || game.data.routeType}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Platforms</div>
-        <div class="stat-value">{game.data.platforms.join(', ')}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Setup</div>
-        <div class="stat-value">{game.data.setupBurden}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Input</div>
-        <div class="stat-value">{game.data.inputStyle}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Comfort</div>
-        <div class="stat-value">{game.data.comfort}</div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Performance</div>
-        <div class="stat-value">{game.data.performance}</div>
-      </div>
-      <div class="stat stat-tier">
-        <div class="stat-label">Tier</div>
-        <div class={tierClass}>{tier}</div>
-      </div>
-    </div>
 
-    <article class="prose article-content" style="margin-top:2rem;max-width:80ch;margin-left:auto;margin-right:auto;">
-      <Content />
-    </article>
+      <article class="prose article-content" style="margin-top:2rem;">
+        <Content />
+      </article>
 
-    <div class="card verdict-card" style="margin-top:2rem;max-width:80ch;margin-left:auto;margin-right:auto;">
-      <div class="verdict-header">
-        <div class="verdict-header-left">
-          <h3>Verdict</h3>
-          <span class="recommendation-label">{game.data.recommendation}</span>
+      <div class="card verdict-card" style="margin-top:2rem;">
+        <div class="verdict-header">
+          <div class="verdict-header-left">
+            <h3>Verdict</h3>
+            <span class="recommendation-label">{game.data.recommendation}</span>
+          </div>
+          <div class={tierClass}>{tier}</div>
         </div>
-        <div class={tierClass}>{tier}</div>
+        <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
       </div>
-      <p class="lead" style="font-size:1rem;max-width:none;">{game.data.verdict}</p>
-    </div>
 
-    <div class="tags-container tags-bottom" style="margin-top:1.5rem;max-width:80ch;margin-left:auto;margin-right:auto;">
-      {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
-        <span class="pill">{tag}</span>
-      ))}
-    </div>
+      <div class="tags-container" style="margin-top:1.5rem;">
+        {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
+          <span class="pill">{tag}</span>
+        ))}
+      </div>
 
-    {game.data.sources && (
-      <details class="source-log" style="margin-top:1rem;max-width:80ch;margin-left:auto;margin-right:auto;">
-        <summary>Sources</summary>
-        <div class="source-log-content" style="margin-top:0.75rem;">{game.data.sources}</div>
-      </details>
-    )}
+      {game.data.sources && (
+        <details class="source-log" style="margin-top:1rem;">
+          <summary>Sources</summary>
+          <div class="source-log-content" style="margin-top:0.75rem;">{game.data.sources}</div>
+        </details>
+      )}
+    </div>
   </section>
 </Layout>
 
 <style>
 
+  .game-page {
+    padding: 2.5rem 0 4rem;
+  }
+
+  .game-content {
+    max-width: 80ch;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
   .hero-image-container {
     width: 100%;
-    height: 400px;
-    position: relative;
+    margin-top: 1.5rem;
+    border-radius: 8px;
     overflow: hidden;
     background: var(--bg-secondary);
   }
 
   .hero-image {
     width: 100%;
-    height: 100%;
+    height: auto;
+    display: block;
+    aspect-ratio: 16 / 9;
     object-fit: cover;
-  }
-
-  .hero-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100px;
-    background: linear-gradient(transparent, var(--bg-body));
-  }
-
-  .game-page {
-    margin-top: -2rem;
-    position: relative;
-    z-index: 1;
-    max-width: var(--max);
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .stat-tier {
@@ -196,10 +192,6 @@ function formatNumericDate(date: Date): string {
     font-weight: 400;
   }
 
-  .tags-bottom {
-    justify-content: center;
-  }
-
   .stat-note {
     color: var(--text-tertiary);
     font-size: 0.75rem;
@@ -209,6 +201,7 @@ function formatNumericDate(date: Date): string {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
+    justify-content: center;
   }
 
   .source-log {
@@ -245,8 +238,8 @@ function formatNumericDate(date: Date): string {
   }
 
   @media (max-width: 720px) {
-    .hero-image-container {
-      height: 250px;
+    .game-content {
+      padding: 0 0.5rem;
     }
   }
 </style>
