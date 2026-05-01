@@ -28,6 +28,8 @@ experienceTags:
   - Atmospheric
   - Single Player
 tier: S
+flatReleaseDate: 2005-01-27
+vrReleaseDate: 2021-10-21
 verdict: "An S-tier VR experience across multiple platforms. The Quest native port is the headline — a full rebuild with motion controls that validates everything RE4 does well. The RE4 Remake on PCVR and PSVR2 offers a gorgeous, immersive alternative. Only the original 2005 version via injection driver remains a curiosity."
 heroImage: /images/games/resident-evil-4-vr-hero.jpg
 sources: "Research conducted via IGN, Road to VR, UploadVR, COGconnected, God is a Geek reviews of RE4 VR Quest; Praydog REFramework documentation, Mixed-News coverage, Steam Community reports, Reddit r/virtualreality and r/oculus discussions for RE4 Remake PCVR mod; PlayStation Blog and Road to VR for PSVR2 mode details. No direct headset testing performed — AI authorship acknowledged."

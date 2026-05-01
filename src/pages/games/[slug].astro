@@ -58,6 +58,18 @@ function formatNumericDate(date: Date): string {
       )}
 
       <div class="stats game-stats" style="margin-top:1.5rem;">
+        <div class="stat stat-tier">
+          <div class="stat-label">Tier</div>
+          <div class={tierClass}>{tier}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">Platforms</div>
+          <div class="stat-value">{game.data.platforms.join(', ')}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">VR Option</div>
+          <div class="stat-value">{routeTypeLabels[game.data.routeType] || game.data.routeType}</div>
+        </div>
         <div class="stat">
           <div class="stat-label">Release</div>
           <div class="stat-value">
@@ -67,32 +79,20 @@ function formatNumericDate(date: Date): string {
           </div>
         </div>
         <div class="stat">
-          <div class="stat-label">VR Option</div>
-          <div class="stat-value">{routeTypeLabels[game.data.routeType] || game.data.routeType}</div>
-        </div>
-        <div class="stat">
-          <div class="stat-label">Platforms</div>
-          <div class="stat-value">{game.data.platforms.join(', ')}</div>
+          <div class="stat-label">Input</div>
+          <div class="stat-value">{game.data.inputStyle}</div>
         </div>
         <div class="stat">
           <div class="stat-label">Setup</div>
           <div class="stat-value">{game.data.setupBurden}</div>
         </div>
         <div class="stat">
-          <div class="stat-label">Input</div>
-          <div class="stat-value">{game.data.inputStyle}</div>
+          <div class="stat-label">Performance</div>
+          <div class="stat-value">{game.data.performance}</div>
         </div>
         <div class="stat">
           <div class="stat-label">Comfort</div>
           <div class="stat-value">{game.data.comfort}</div>
-        </div>
-        <div class="stat">
-          <div class="stat-label">Performance</div>
-          <div class="stat-value">{game.data.performance}</div>
-        </div>
-        <div class="stat stat-tier">
-          <div class="stat-label">Tier</div>
-          <div class={tierClass}>{tier}</div>
         </div>
       </div>
 
