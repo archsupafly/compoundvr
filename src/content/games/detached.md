@@ -6,7 +6,8 @@ featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']
 vrReleaseDate: 2017-05-18
-recommendation: Recommended with Caveats
+tier: D+
+recommendation: Not Recommended
 playability: Mostly Playable
 setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
@@ -26,10 +27,9 @@ experienceTags:
   - Short Campaign
   - High Intensity
   - Dead Multiplayer
-gameQualityTier: C
-vrImplementationTier: B
-overallTier: C
-verdict: "A genuinely distinctive zero-G experience with outstanding atmosphere and confident native VR design, undercut by a threadbare 2–3 hour campaign and a multiplayer mode that is effectively non-functional due to lack of players."
+tier: D+
+overallTier: D+
+verdict: "Detached delivers a convincing zero-gravity sensation, but everything around it falls short. The locomotion is punishing even for experienced VR users, navigation is confusing, the campaign is over in a couple hours, and there are better space games in VR that don't ask you to suffer for the privilege. Pretty to look at, but not worth the stomach ache."
 heroImage: /images/games/detached-vr-hero.jpg
 sources: "Research conducted via Steam store page and user reviews, Push Square PSVR review, UploadVR preview coverage, HowLongToBeat data, and YouTube VR gameplay footage. No direct testing performed. Assessment is research-based."
 ---
