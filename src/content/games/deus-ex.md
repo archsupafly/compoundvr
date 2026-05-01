@@ -26,8 +26,8 @@ experienceTags:
   - Narrative-Driven
   - Cyberpunk
   - Stealth
-tier: B
-verdict: "A great game made genuinely playable in VR through VorpX, but the injection driver limitations—no motion controls, fiddly text readability, and a $40 software cost—keep it from being essential."
+tier: C
+verdict: "A legendary franchise stuck behind an injection driver. Human Revolution via VorpX is the best current VR path, but 'best' here means 'least broken'—no motion controls, text readability fights you, and a $40 software tax on top of the game. Wait for a real VR mod, or play it flat."
 heroImage: /images/games/deus-ex-vr-hero.jpg
 sources: "Research conducted via VorpX official forums and documentation, VorpX version release notes, Steam store page for Deus Ex: Mankind Divided – VR Experience, Reddit community reports (r/DeusEx, r/oculus), PC Gamer coverage of Surreal 98/DXU24, UploadVR coverage of the Mankind Divided VR Experience, and YouTube VR gameplay footage. No direct testing performed."
 ---
