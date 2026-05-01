@@ -5,7 +5,7 @@ lastVerified: 2026-04-30
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR']
-recommendation: Recommended with Caveats
+recommendation: Not Recommended
 playability: Mostly Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
@@ -25,10 +25,10 @@ experienceTags:
   - Fast-Paced Combat
   - Anime Aesthetic
   - Nostalgia-Driven
-tier: C
+tier: D
 flatReleaseDate: 2003-02-27
 vrReleaseDate: 2018-09-04
-verdict: "A genuine mech-pilot fantasy buried under inconsistent performance, dated visuals, and a VR mode that Konami seems to have forgotten exists. Worth it for die-hard fans and mech enthusiasts; everyone else should wait for a sale."
+verdict: "A genuine mech-pilot fantasy that the cockpit view can't save. Fast, button-mashy combat designed for third-person doesn't translate to first-person VR — one of the rare games that's actually more fun in flat. Only for the most devoted ZOE fans."
 heroImage: /images/games/zone-of-the-enders-vr-hero.jpg
 sources: "Research conducted via Konami official store pages (Steam, PlayStation), UploadVR review, IGN review, Video Chums review, Forbes Games review, Way Too Many Games review, Reddit community reports (r/PSVR, r/ZoneoftheEnders), and YouTube VR gameplay footage. No direct testing performed."
 ---
