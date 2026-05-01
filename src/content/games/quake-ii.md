@@ -67,7 +67,7 @@ The campaign is fully playable start to finish on Quest, including both mission 
 
 On PCVR via the Q2VR mod, the experience is more sedate. The decoupled aiming works well: look one direction, shoot another. The HRTF audio is genuinely impressive for a 2013-era mod. But without physical weapon presence, without tracked hands, and with archived code that predates modern OpenXR runtimes, it feels like a historical artifact rather than a current recommendation. It works. It's free. It just isn't exciting next to what the Quest port achieves.
 
-## The Verdict
+## The Bottom Line
 
 Quake II earns its B-tier honestly. The underlying game is a foundational FPS with atmosphere and weapon design that still hold up. The Quest standalone port by Team Beef is the way to play it in VR today — tracked weapons, visual upgrades, full campaign, and a setup process that's annoying but not unreasonable. For Quest owners who don't mind sideloading, this is one of the best classic shooter ports available, sitting comfortably alongside Team Beef's other work.
 

@@ -103,7 +103,7 @@ It works. It's atmospheric. It's also a D-tier VR experience for a game that des
 
 **Everyone else:** Skip the VorpX route. The Quest, PSVR2, and PCVR options are all better.
 
-## The Verdict
+## The Bottom Line
 
 Resident Evil 4 in VR is one of the best VR games you can play. The Quest native port justifies the purchase of a headset for this game alone — it's that good. The Remake options on PCVR and PSVR2 offer a visually stunning alternative with their own strengths. The original injection driver experience is obsolete.
 
