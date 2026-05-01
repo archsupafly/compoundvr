@@ -3,7 +3,7 @@ title: "EmuVR: Your Headset Is Now a 90s Bedroom, and It's Free"
 description: "A virtual room where you play retro games on CRT TVs — but the setup is real work, and not every system works."
 pubDate: 2026-05-01
 author: Ian
-draft: true
+draft: false
 tags:
   - retro gaming
   - emulator
