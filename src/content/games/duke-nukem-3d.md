@@ -26,6 +26,7 @@ experienceTags:
   - Fast-Paced
   - Nostalgic
   - Arcade Shooter
+flatReleaseDate: 1996-01-29
 tier: B
 verdict: "A technically solid VR port of an all-timer FPS that plays better than it has any right to — but the 2D sprite weapons and Quest-only native path keep it from true greatness."
 heroImage: /images/games/duke-nukem-3d-vr-hero.jpg

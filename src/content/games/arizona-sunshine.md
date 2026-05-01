@@ -26,6 +26,7 @@ experienceTags:
   - action
   - horror
   - survival
+vrReleaseDate: 2016-12-06
 tier: B
 verdict: "The Remake is the only version worth your time — a solid, modernized zombie shooter with great gunplay and frustrating jank in equal measure. Play it for the co-op and Horde mode, not the three-hour campaign."
 heroImage: /images/games/arizona-sunshine-vr-hero.jpg
