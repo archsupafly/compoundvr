@@ -1,6 +1,7 @@
 ---
 title: "Fallout: New Vegas VR"
 description: "The Mojave Wasteland through VorpX delivers genuine depth and atmosphere—but as a first-person RPG relying on injection-driven stereo 3D with no motion controls, it's a tough sell for anyone who isn't already living in the wasteland."
+flatReleaseDate: 2010-10-19
 lastVerified: 2013-08-01
 featured: false
 routeType: "Injection Driver"

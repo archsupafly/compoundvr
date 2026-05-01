@@ -1,6 +1,7 @@
 ---
 title: "Metroid VR"
 description: "Samus Aran's foundational Metroidvania debut becomes an atmospheric diorama in 3dSen VR — Planet Zebes rises in genuine 3D, transforming isolation into immersion while preserving the exploration that defined a genre."
+flatReleaseDate: 1986-08-06
 lastVerified: 1986-08-06
 featured: false
 routeType: Framework-Based

@@ -1,6 +1,7 @@
 ---
 title: "Batman: Arkham Asylum VR"
 description: "The 2009 classic that redefined superhero gaming returns in stereoscopic 3D through VorpX injection — a flawed but occasionally spectacular way to revisit the asylum."
+flatReleaseDate: 2009-08-25
 lastVerified: 2013-08-01
 featured: false
 routeType: Injection Driver

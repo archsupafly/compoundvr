@@ -1,6 +1,7 @@
 ---
 title: "DRIVECLUB VR"
 description: "A full racing campaign in VR with a severe visual downgrade — still the most complete PSVR racing experience, but only if you already own it."
+flatReleaseDate: 2014-10-07
 lastVerified: 2016-10-13
 featured: false
 routeType: Official Standalone VR Version

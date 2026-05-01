@@ -1,6 +1,7 @@
 ---
 title: "Minesweeper VR: The Classic Puzzle Finds Unlikely Second Life in Virtual Reality"
 description: "Multiple Minesweeper implementations exist across PCVR and Quest, from 3D cube manipulation to volumetric puzzles. None transform the classic, but Peak VR's free 3D adjacency twist and SweeperVR's polish make them worth a look for puzzle diehards."
+flatReleaseDate: 1992-04-06
 lastVerified: 2018-01-01
 featured: false
 routeType: "Multi-Route Coverage"

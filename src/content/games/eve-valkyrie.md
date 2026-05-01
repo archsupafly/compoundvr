@@ -1,6 +1,7 @@
 ---
 title: "EVE: Valkyrie VR"
 description: "One of VR's first major launch titles, now a cautionary tale about server-dependent games — solo workarounds exist but the core multiplayer experience is gone."
+flatReleaseDate: 2016-03-28
 lastVerified: 2016-03-28
 featured: false
 routeType: Official Standalone VR Version
