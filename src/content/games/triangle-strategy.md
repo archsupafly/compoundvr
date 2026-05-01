@@ -7,7 +7,7 @@ routeType: Official Standalone VR Version
 platforms: ['Quest']
 flatReleaseDate: 2022-03-04
 vrReleaseDate: 2024-10-31
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Partial Motion Controls
@@ -25,8 +25,8 @@ experienceTags:
   - Story-Driven
   - Grid-Based Combat
   - Political Intrigue
-tier: B
-verdict: "A competent, if minimal, VR adaptation of an excellent tactical RPG. The turn-based gameplay translates naturally to headset play, but the VR-specific additions are thin and the lengthy runtime tests the limits of standalone VR comfort. Best for newcomers to the game; a harder sell for returning players."
+tier: A
+verdict: "A tactical RPG that feels like it was always meant to be played on a tabletop — and in VR, it basically is. The HD-2D visuals gain genuine depth, mixed reality passthrough turns your living room into a war room, and the turn-based combat is a natural fit for headset play. Minor compromises in cutscene delivery and pointer-based controls don't dilute what is one of the best official VR ports of a flat game."
 heroImage: /images/games/triangle-strategy-vr-hero.jpg
 sources: "Research conducted via Square Enix official store pages and press materials, Meta Quest Store listing, UploadVR hands-on impressions (November 2024), MIXED Reality News hands-on coverage (November 2024), Siliconera review, and YouTube VR gameplay footage. No direct testing performed."
 ---
