@@ -2,7 +2,7 @@
 title: "Fallout 4 VR"
 description: "A full AAA open-world RPG in VR with native motion controls — and once modded, one of the most immersive experiences you can have in a headset."
 flatReleaseDate: 2015-11-10
-lastVerified: 2017-12-11
+lastVerified: 2015-11-10
 featured: false
 routeType: "Official Standalone VR Version"
 platforms: ['PCVR']

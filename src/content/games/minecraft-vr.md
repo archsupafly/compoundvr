@@ -2,7 +2,7 @@
 title: "Minecraft in VR"
 description: "The official Minecraft VR implementation is dead. Vivecraft—the community mod for Java Edition—is the only way to experience Minecraft in VR, and it's exceptional for those willing to deal with PC modding."
 flatReleaseDate: 2011-11-18
-lastVerified: 2016-08-01
+lastVerified: 2011-11-18
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR']

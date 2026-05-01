@@ -1,7 +1,7 @@
 ---
 title: "Assetto Corsa VR"
 description: "A decade-old racing sim with native VR support and a mod ecosystem so deep it practically rebuilt the game — and still nothing else in the genre matches it for pure driving feel."
-lastVerified: 2026-04-30
+lastVerified: 2017-03-23
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

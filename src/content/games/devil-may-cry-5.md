@@ -2,7 +2,7 @@
 title: "Devil May Cry 5 VR"
 description: "One of the slickest character-action games ever made, running in VR through Praydog's REFramework — but without motion controls, you're watching the style from inside the arena rather than wielding it."
 flatReleaseDate: 2019-03-08
-lastVerified: 2026-04-19
+lastVerified: 2019-03-08
 featured: false
 routeType: Framework-Based
 platforms: ['PCVR']

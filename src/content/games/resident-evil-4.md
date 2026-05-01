@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil 4 VR"
 description: "One of the best action-horror games ever made is also one of the best VR experiences you can buy — but the route you take matters enormously."
-lastVerified: 2026-04-30
+lastVerified: 2021-10-21
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['Quest', 'PCVR', 'PSVR2']

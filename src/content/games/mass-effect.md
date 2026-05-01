@@ -2,7 +2,7 @@
 title: "Mass Effect in VR: The Galaxy at Eye Level"
 description: "Mass Effect via VorpX offers a window into the Citadel and beyond—but without motion controls, hand presence, or VR-native design, this is one Commander Shepard experience best left on the flat screen."
 flatReleaseDate: 2007-11-20
-lastVerified: 2013-08-01
+lastVerified: 2007-11-20
 featured: false
 routeType: "Injection Driver"
 platforms:

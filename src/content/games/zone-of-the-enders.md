@@ -1,7 +1,7 @@
 ---
 title: "Zone of the Enders: The 2nd Runner M∀RS VR"
 description: "An official cockpit mode that puts you inside Jehuty — thrilling when it works, frustrating when it doesn't, and completely absent from PSVR2."
-lastVerified: 2026-04-30
+lastVerified: 2018-09-04
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR']

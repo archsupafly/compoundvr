@@ -1,7 +1,7 @@
 ---
 title: "Angry Birds VR: Isle of Pigs"
 description: "Resolution Games took the world's most famous slingshot and rebuilt it for VR. The result is intuitive, accessible, and more fun than it has any right to be — even if it won't keep you occupied for months."
-lastVerified: 2026-04-30
+lastVerified: 2019-05-16
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['Quest', 'Rift', 'PCVR']

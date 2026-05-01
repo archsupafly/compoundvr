@@ -1,7 +1,7 @@
 ---
 title: "Quake II VR"
 description: "The 1997 shooter classic finds new life in headsets, but not all paths are equal — the standout is a standalone port that makes Strogg hunting feel surprisingly native."
-lastVerified: 2026-04-30
+lastVerified: 2013-12-10
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR', 'Quest']

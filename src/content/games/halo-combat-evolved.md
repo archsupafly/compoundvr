@@ -1,7 +1,7 @@
 ---
 title: "Halo: Combat Evolved VR"
 description: "The game that defined a generation of shooters, floating in stereoscopic 3D — no motion controls, no hand presence, just you and a gamepad inside a headset."
-lastVerified: 2013-08-01
+lastVerified: 2001-11-15
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

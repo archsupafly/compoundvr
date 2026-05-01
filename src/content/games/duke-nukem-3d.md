@@ -1,7 +1,7 @@
 ---
 title: "Duke Nukem 3D VR"
 description: "Team Beef's RazeXR port brings the king of 90s attitude to standalone VR — but does Duke's particular swagger survive first-person immersion?"
-lastVerified: 2026-04-30
+lastVerified: 1996-01-29
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'Pico', 'PCVR']

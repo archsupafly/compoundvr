@@ -2,7 +2,7 @@
 title: "The Elder Scrolls V: Skyrim VR"
 description: "Bethesda's fantasy epic gets a full VR port—complete with motion controls, the entire base game and DLC, and a modding community that transforms the experience on PCVR. PSVR players get a simpler, console-friendly version."
 flatReleaseDate: 2011-11-11
-lastVerified: 2017-11-17
+lastVerified: 2011-11-11
 featured: true
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

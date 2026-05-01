@@ -1,7 +1,7 @@
 ---
 title: "Arizona Sunshine VR"
 description: "The 2016 pioneer gets a full rebuild in 2024. Play the Remake — it's the same game, just finally worthy of its own legacy."
-lastVerified: 2026-04-30
+lastVerified: 2016-12-06
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Quest', 'PSVR', 'PSVR2']

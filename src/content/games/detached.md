@@ -1,7 +1,7 @@
 ---
 title: "Detached VR"
 description: "A tense zero-gravity EVA thriller built natively for VR, where six-degrees-of-freedom thruster movement and suffocating atmosphere deliver one of the most physically demanding spacewalks in the medium — assuming your stomach can handle it."
-lastVerified: 2026-04-30
+lastVerified: 2017-05-18
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

@@ -1,7 +1,7 @@
 ---
 title: "Streets of Rage VR"
 description: "Three of the finest beat 'em ups ever made, locked inside a delisted VR wrapper that never turned them into VR games."
-lastVerified: "2026-04-26"
+lastVerified: 2018-07-26
 featured: false
 routeType: "Official Hybrid"
 platforms: ['PCVR']

@@ -1,7 +1,7 @@
 ---
 title: "Crysis VR"
 description: "The mod that finally answered 'can it run VR?' — fholger's full conversion puts you inside the nanosuit with motion controls, physical melee, and one of the most satisfying flat-to-VR transformations ever made."
-lastVerified: 2026-04-30
+lastVerified: 2007-11-13
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

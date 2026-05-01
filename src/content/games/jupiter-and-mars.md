@@ -1,7 +1,7 @@
 ---
 title: "Jupiter & Mars VR"
 description: "A slow-paced underwater dolphin adventure with official VR support that looks pretty in moments but asks you to do the same three things for four hours straight."
-lastVerified: 2026-04-29
+lastVerified: 2019-04-22
 vrReleaseDate: 2019-04-22
 flatReleaseDate: 2019-04-22
 featured: false
