@@ -13,16 +13,18 @@ const { Content } = await render(article);
 
 <Layout title={`${article.data.title} — CompoundVR`} description={article.data.description}>
   <section class="container section">
-    {article.data.heroImage && (
-      <img 
-        src={article.data.heroImage} 
-        alt={article.data.title}
-        style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5rem;"
-      />
-    )}
-    <div class="meta">{article.data.category} · {article.data.pubDate.toISOString().slice(0, 10)} · {article.data.author}</div>
     <h1>{article.data.title}</h1>
     <p class="lead">{article.data.description}</p>
+    {article.data.heroImage && (
+      <div class="hero-image-container">
+        <img 
+          src={article.data.heroImage} 
+          alt={article.data.title}
+          class="hero-image"
+        />
+      </div>
+    )}
+    <div class="meta">{article.data.category} · {article.data.pubDate.toISOString().slice(0, 10)} · {article.data.author}</div>
     <div style="margin-top:1rem;">
       {article.data.tags.map((tag: string) => <span class="pill">{tag}</span>)}
     </div>
@@ -31,3 +33,40 @@ const { Content } = await render(article);
     </article>
   </section>
 </Layout>
+
+<style>
+  .hero-image-container {
+    width: 100%;
+    margin-top: 1.5rem;
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--bg-secondary);
+  }
+
+  .hero-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  /* Game thumbnails in listicle articles */
+  article.prose img[src*="/images/games/"] {
+    width: 200px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 6px;
+    float: right;
+    margin: 0 0 1rem 1.5rem;
+  }
+
+  @media (max-width: 720px) {
+    article.prose img[src*="/images/games/"] {
+      float: none;
+      width: 100%;
+      margin: 1rem 0;
+    }
+  }
+</style>
