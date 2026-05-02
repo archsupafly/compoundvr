@@ -866,6 +866,20 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
   }
 
   /* ========================================
+     GAME THUMBNAILS — Listicle Articles
+     ======================================== */
+  article.prose img[src*="/images/games/"] {
+    max-width: 140px;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 6px;
+    float: right;
+    margin: 0.25rem 0 0.5rem 1.25rem;
+  }
+
+  /* ========================================
      RESPONSIVE
      ======================================== */
   @media (max-width: 720px) {
@@ -925,6 +939,12 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     .score--large {
       font-size: 1.75rem;
       min-width: 70px;
+    }
+
+    article.prose img[src*="/images/games/"] {
+      float: none;
+      max-width: 120px;
+      margin: 0.5rem 0;
     }
   }
 </style>

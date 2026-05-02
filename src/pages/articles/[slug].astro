@@ -49,23 +49,4 @@ const { Content } = await render(article);
     object-fit: cover;
   }
 
-  /* Game thumbnails in listicle articles - must be global to target markdown content */
-  :global(article.prose img[src*="/images/games/"]) {
-    max-width: 140px;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-    border-radius: 6px;
-    float: right;
-    margin: 0.25rem 0 0.5rem 1.25rem;
-  }
-
-  @media (max-width: 720px) {
-    :global(article.prose img[src*="/images/games/"]) {
-      float: none;
-      max-width: 120px;
-      margin: 0.5rem 0;
-    }
-  }
 </style>
