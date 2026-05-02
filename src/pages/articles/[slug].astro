@@ -49,8 +49,8 @@ const { Content } = await render(article);
     object-fit: cover;
   }
 
-  /* Game thumbnails in listicle articles */
-  article.prose img[src*="/images/games/"] {
+  /* Game thumbnails in listicle articles - must be global to target markdown content */
+  :global(article.prose img[src*="/images/games/"]) {
     max-width: 140px;
     width: 100%;
     height: auto;
@@ -62,7 +62,7 @@ const { Content } = await render(article);
   }
 
   @media (max-width: 720px) {
-    article.prose img[src*="/images/games/"] {
+    :global(article.prose img[src*="/images/games/"]) {
       float: none;
       max-width: 100%;
       margin: 0.75rem 0;
