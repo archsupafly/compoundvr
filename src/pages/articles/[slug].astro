@@ -13,7 +13,6 @@ const { Content } = await render(article);
 
 <Layout title={`${article.data.title} — CompoundVR`} description={article.data.description}>
   <section class="container section">
-    <h1>{article.data.title}</h1>
     <p class="lead">{article.data.description}</p>
     {article.data.heroImage && (
       <div class="hero-image-container">
@@ -25,9 +24,7 @@ const { Content } = await render(article);
       </div>
     )}
     <div class="meta">{article.data.category} · {article.data.pubDate.toISOString().slice(0, 10)} · {article.data.author}</div>
-    <div style="margin-top:1rem;">
-      {article.data.tags.map((tag: string) => <span class="pill">{tag}</span>)}
-    </div>
+
     <article class="prose" style="margin-top:2rem;">
       <Content />
     </article>
@@ -53,20 +50,21 @@ const { Content } = await render(article);
 
   /* Game thumbnails in listicle articles */
   article.prose img[src*="/images/games/"] {
-    width: 200px;
+    max-width: 140px;
+    width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
     object-fit: cover;
     border-radius: 6px;
     float: right;
-    margin: 0 0 1rem 1.5rem;
+    margin: 0.25rem 0 0.5rem 1.25rem;
   }
 
   @media (max-width: 720px) {
     article.prose img[src*="/images/games/"] {
       float: none;
-      width: 100%;
-      margin: 1rem 0;
+      max-width: 100%;
+      margin: 0.75rem 0;
     }
   }
 </style>

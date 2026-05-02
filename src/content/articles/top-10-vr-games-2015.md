@@ -22,7 +22,7 @@ This is the landscape as it actually exists right now. Not the marketing version
 ---
 
 ## #10: Assetto Corsa
-**Official Hybrid | Tier: A**
+**Official Hybrid**
 
 ![Assetto Corsa](/images/games/assetto-corsa-vr-hero.jpg)
 
@@ -35,7 +35,7 @@ The reason it's #10 and not higher is simple: the VR is rough right now. Perform
 ---
 
 ## #9: War Thunder
-**Official Hybrid | Tier: B**
+**Official Hybrid**
 
 ![War Thunder](/images/games/war-thunder-vr-hero.jpg)
 
@@ -48,7 +48,7 @@ The catch is everything else. Ground and naval combat feel awkward in VR. The UI
 ---
 
 ## #8: Euro Truck Simulator 2
-**Official Hybrid | Tier: B**
+**Official Hybrid**
 
 ![Euro Truck Simulator 2](/images/games/euro-truck-simulator-2-hero.jpg)
 
@@ -61,7 +61,7 @@ SCS Software has supported Oculus dev kits since 2013, making Euro Truck Simulat
 ---
 
 ## #7: Project CARS
-**Official Hybrid | Tier: C**
+**Official Hybrid**
 
 ![Project CARS](/images/games/project-cars-vr-hero.jpg)
 
@@ -74,7 +74,7 @@ The problem is stability. VR performance is inconsistent even on high-end hardwa
 ---
 
 ## #6: EVE: Valkyrie
-**Official Standalone VR Version | Tier: D**
+**Standalone VR**
 
 ![EVE: Valkyrie](/images/games/eve-valkyrie-vr-hero.jpg)
 
@@ -87,7 +87,7 @@ So why #6 and why D-tier? Because the game underneath the spectacle is thin. The
 ---
 
 ## #5: Keep Talking and Nobody Explodes
-**Official Standalone VR Version | Tier: B**
+**Standalone VR**
 
 ![Keep Talking and Nobody Explodes](/images/games/keep-talking-and-nobody-explodes-vr-hero.jpg)
 
@@ -100,7 +100,7 @@ Keep Talking doesn't need graphical fidelity or complex physics. It needs trust,
 ---
 
 ## #4: Minecraft VR
-**Community Mod (Minecrift) | Tier: A**
+**Community Mod (Minecrift)**
 
 ![Minecraft VR](/images/games/minecraft-vr-hero.jpg)
 
@@ -113,7 +113,7 @@ The mod supports head tracking, stereoscopic rendering, and even basic room-scal
 ---
 
 ## #3: Alien: Isolation
-**Hidden VR Mode | Tier: A**
+**Hidden VR Mode**
 
 ![Alien: Isolation](/images/games/alien-isolation-vr-hero.jpg)
 
@@ -126,7 +126,7 @@ This isn't a hack or a proof of concept. This is a shipped game with a finished 
 ---
 
 ## #2: Half-Life 2
-**Community Mod (Voron/SteamVR) | Tier: S**
+**Community Mod (Voron/SteamVR)**
 
 ![Half-Life 2](/images/games/half-life-2-vr-hero.jpg)
 
@@ -139,7 +139,7 @@ Playing Half-Life 2 in VR means physically ducking behind cover, aiming the Grav
 ---
 
 ## #1: Elite Dangerous
-**Official Hybrid | Tier: B**
+**Official Hybrid**
 
 ![Elite Dangerous](/images/games/elite-dangerous-hero.jpg)
 
