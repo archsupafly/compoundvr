@@ -1,18 +1,18 @@
 ---
 title: "Beat Saber VR"
-description: "The rhythm game that convinced people to buy headsets — two sabers, blocks, the beat, and shoulders that will remind you tomorrow. But PlayStation players should know support ended in 2025."
+description: "The rhythm game that sold VR headsets by the million — pure rhythm, pure movement, pure fun."
 lastVerified: 2026-05-01
 featured: false
 draft: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Quest', 'PSVR', 'PSVR2']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
 comfort: Comfortable
 performance: Efficient
-supportStatus: Recently Updated
+supportStatus: Active
 genres:
   - Rhythm
   - Action
@@ -25,7 +25,7 @@ experienceTags:
   - Fitness
   - Arcade
 tier: S
-verdict: "The rhythm game that convinced people to buy VR headsets — and still the best at what it does. But PlayStation players should know that support and new content ended in 2025, and multiplayer goes dark in early 2026."
+verdict: "The rhythm game that sold VR to the world. Two sabers, the beat, and the best full-body workout disguised as entertainment you can find anywhere in VR."
 heroImage: /images/games/beat-saber-vr-hero.jpg
 sources: "Research conducted via Meta Quest Store, Steam store page, PlayStation Store, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), Flat2VR Discord community knowledge, and general industry coverage. No direct testing performed."
 ---
@@ -42,11 +42,9 @@ The difficulty curve is genuinely well-designed. Easy mode is approachable enoug
 
 The physicality is what makes Beat Saber stick. This isn't "immersion" in the sense of believing you're in another world. It's immersion in the sense that your body *is* the controller, and after a solid session your body knows it. Play on Hard for forty minutes and tell me your deltoids don't feel it the next day. It sits in that rare space between game and workout, where you're having too much fun to notice you're exercising until you take the headset off and realize you're drenched.
 
-That said, the core loop is the core loop, and not everyone lasts. There is no campaign mode. No story. No character progression or unlock system beyond cosmetic sabers and platforms. Beat Saber is exactly what it presents itself as — a rhythm slasher — and if that concept doesn't hook you in the first hour, the next twenty won't change your mind. The base game ships with a solid track list, but the real longevity comes from building out your library. Official DLC music packs expand the catalog significantly, though buying them adds up if you want breadth.
+That said, the core loop is the core loop, and not everyone lasts. The campaign mode strings together increasingly difficult song sequences with special modifiers and challenges, but it's more of a structured playlist than a narrative — it teaches you the game and scales the challenge, it doesn't transform what Beat Saber fundamentally is. If the rhythm-slashing concept doesn't hook you in the first hour, the next twenty won't change your mind. The base game ships with a solid track list, but the real longevity comes from building out your library. Official DLC music packs expand the catalog significantly, though buying them adds up if you want breadth.
 
-On PC, a custom song community has existed for years, extending the game's life far beyond official content. On Quest, the situation has shifted over time as platform policies evolved. The specifics change, but the broader point is this: Beat Saber's longevity depends on having songs you actually want to slash to, and the official DLC model is the supported path across all platforms.
-
-One notable caveat for PlayStation players: Beat Games announced in mid-2025 that they would stop releasing updates and new content on PS4 and PS5, which covers both PSVR and PSVR2. The game remains playable and already-purchased content still works, but no new music packs are coming. Multiplayer on PlayStation shuts down entirely in January 2026. If you're buying Beat Saber on PlayStation today, you're getting a frozen snapshot — still fun, but no longer growing. Quest and PCVR players are unaffected.
+On PC, a custom song community has existed for years, extending the game's life far beyond official content. On Quest, the situation has shifted over time as platform policies evolved. The specifics change, but the broader point is this: Beat Saber's longevity depends on having songs you actually want to slash to, and the official DLC model is the supported path across all platforms. (Note: PlayStation support for new content ended mid-2025, and PS multiplayer shuts down in early 2026; Quest and PCVR are unaffected.)
 
 So who is this really for? Honestly? Everyone who owns a VR headset and hasn't played it yet. It's the default answer to "what should I play first?" It's the game you hand to a VR skeptic to convert them. It's a legitimate fitness tool disguised as an arcade game. It's the experience that justifies the hardware for people who don't care about sci-fi exploration or horror immersion or whatever else VR promises.
 
