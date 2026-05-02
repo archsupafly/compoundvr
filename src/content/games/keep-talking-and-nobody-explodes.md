@@ -23,8 +23,8 @@ experienceTags:
   - Social
   - Communication
   - Tension
-tier: A
-verdict: "The definitive social VR party game. If you have friends and a headset, this belongs in your library."
+tier: B
+verdict: "One of the best social VR party games you can own — if you have the friends to play it with. If you don't, there's nothing here for you."
 heroImage: /images/games/keep-talking-and-nobody-explodes-vr-hero.jpg
 sources: "Research conducted via Steel Crate Games official website and FAQ, Steam store page, Meta Quest store, PlayStation store, YouTube VR gameplay footage, and community knowledge from Reddit and gaming forums. No direct testing performed."
 ---
@@ -55,7 +55,7 @@ Replayability is the game's other major strength. The manual covers dozens of mo
 
 You need friends. Not "friends you sometimes message online" — you need at least one other person willing to read a manual and talk out loud. Solo play does not exist. There is no single-player mode, no AI partner, no training beyond the tutorial. This is not a game for someone who primarily games alone.
 
-It is also not available on PSVR2. The original PlayStation VR has a native version, but Sony's newer headset was skipped entirely. If you are on PSVR2, you are out of luck unless you boot the flat PS4 version and ignore the VR entirely — which defeats the point.
+It is also not available on PSVR2, though that's less surprising for a game originally released in 2015.
 
 The visuals are deliberately simple: a bomb on a table in a bare room. This is functional, not beautiful. You are not here for visual spectacle, environmental storytelling, or atmospheric immersion. The art serves the gameplay, and that is all it needs to do. It will not impress anyone who judges VR by graphical fidelity.
 
