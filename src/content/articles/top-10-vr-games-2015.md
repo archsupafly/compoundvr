@@ -13,8 +13,6 @@ tags:
 heroImage: /images/articles/top-10-vr-games-2015-hero.jpg
 ---
 
-# Top 10 VR Games to Play in 2015
-
 Consumer VR is almost here. The Oculus Rift CV1 ships in months. The Vive is behind glass at trade shows. PlayStation VR is still "Project Morpheus." But people are already playing VR — on development kits, through hacked command lines, via mods held together with community patches and hope. These aren't polished launch titles. They're proofs of concept, engineering marvels, and in some cases, happy accidents that happened because someone left a VR mode in the code.
 
 This is the landscape as it actually exists right now. Not the marketing version. Not the future that's been promised. The ten things you can actually put on a headset and play today — ranked by how much they matter and how good the experience actually is.

@@ -13,6 +13,7 @@ const { Content } = await render(article);
 
 <Layout title={`${article.data.title} — CompoundVR`} description={article.data.description}>
   <section class="container section">
+    <h1>{article.data.title}</h1>
     <p class="lead">{article.data.description}</p>
     {article.data.heroImage && (
       <div class="hero-image-container">
