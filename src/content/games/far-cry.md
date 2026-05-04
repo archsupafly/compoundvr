@@ -1,7 +1,7 @@
 ---
 title: "Far Cry VR"
 description: "A free, full roomscale conversion by fholger turns Crytek's 2004 tropical shooter into a genuine VR experience — motion controls, two-handed weapons, manual ladder climbing, and the same dense jungle that still looks impossibly good two decades later."
-lastVerified: 2026-05-02
+lastVerified: 2024-06-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']
@@ -33,6 +33,7 @@ verdict: "fholger's free full VR mod is the definitive way to play Far Cry in a 
 heroImage: /images/games/far-cry-vr-hero.jpg
 sources: "Research conducted via fholger GitHub repository (farcry_vrmod), official Far Cry VR manual (farcryvr.de), Flat2VR Discord community knowledge, YouTube VR gameplay footage, and Reddit community reports (r/Vive, r/VRGaming). No direct testing performed."
 flatReleaseDate: 2004-03-23
+vrReleaseDate: 2021-06-01
 ---
 
 # Far Cry VR: The Jungle Finally Deserves a Headset

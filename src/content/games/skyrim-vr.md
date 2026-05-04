@@ -2,7 +2,8 @@
 title: "Skyrim VR"
 description: "The full RPG that justifies owning a VR headset. Already extraordinary out of the box — the PC modding community made it the best VR game ever made."
 flatReleaseDate: 2011-11-11
-lastVerified: 2026-04-30
+vrReleaseDate: 2017-11-17
+lastVerified: 2017-11-17
 featured: true
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

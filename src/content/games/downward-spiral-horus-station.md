@@ -1,7 +1,7 @@
 ---
 title: "Downward Spiral: Horus Station VR"
 description: "An atmospheric zero-gravity adventure where grabbing your way through a derelict space station delivers genuine VR comfort — but thin storytelling and repetitive combat keep it from being essential."
-lastVerified: 2026-05-03
+lastVerified: 2018-05-31
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR']

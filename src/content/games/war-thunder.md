@@ -1,7 +1,7 @@
 ---
 title: "War Thunder VR"
 description: "Free-to-play combat sim with official VR support for aircraft — immersive in Sim Battles, frustrating everywhere else."
-lastVerified: 2026-05-02
+lastVerified: 2014-06-01
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

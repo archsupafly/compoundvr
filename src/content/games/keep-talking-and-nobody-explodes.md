@@ -1,7 +1,8 @@
 ---
 title: "Keep Talking and Nobody Explodes VR"
 description: "The asymmetric bomb-defusal party game that turns your friends into panicked experts and your headset into the most stressful social tool you own."
-lastVerified: 2026-05-01
+lastVerified: 2016-10-13
+vrReleaseDate: 2015-10-01
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Quest', 'PSVR']

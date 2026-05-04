@@ -1,7 +1,7 @@
 ---
 title: "DCS World VR"
 description: "The most immersive way to experience the world's most detailed combat flight simulator, if your hardware and patience can match its demands."
-lastVerified: 2026-05-02
+lastVerified: 2015-05-15
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

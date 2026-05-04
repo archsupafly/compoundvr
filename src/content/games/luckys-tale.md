@@ -1,7 +1,7 @@
 ---
 title: "Lucky's Tale VR"
 description: "The Oculus Rift launch title that proved VR platformers could work — and still holds up as one of the most comfortable introductions to the medium."
-lastVerified: 2026-05-02
+lastVerified: 2016-03-28
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Quest', 'PSVR']

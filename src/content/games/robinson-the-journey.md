@@ -1,7 +1,8 @@
 ---
 title: "Robinson: The Journey VR"
 description: "A CryEngine dinosaur showcase that makes you feel small — for about four hours."
-lastVerified: 2026-05-01
+lastVerified: 2016-11-22
+vrReleaseDate: 2016-11-22
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

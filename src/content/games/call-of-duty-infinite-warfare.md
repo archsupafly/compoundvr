@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty: Infinite Warfare VR"
 description: "A stellar flat campaign with almost no meaningful VR route. Jackal Assault is a compelling five-minute demo, and VorpX unlocks the full game at a steep cost in setup pain and performance."
-lastVerified: 2026-05-02
+lastVerified: 2016-11-04
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PSVR', 'PCVR']
