@@ -9,43 +9,57 @@ heroImage: /images/articles/ppsspp-vr-hero.jpg
 tags: ['emulator', 'psp', 'quest', 'retro']
 ---
 
-Here's the thing about emulation in VR: it sounds like a cheat code for instant value. Thousands of PSP games, already sitting in your library or a few clicks away, suddenly playable inside a headset. No new purchases, no scarcity, no hoping a developer ports your favorite obscure RPG. Just... everything, right there.
+Look, I'm not gonna lie. When I first booted up PPSSPP VR on my Quest 3, I was expecting something closer to magic than what I actually got. The promise is intoxicating: your entire PSP library — thousands of games, from *Monster Hunter Freedom Unite* to *Wipeout Pure* to *God of War: Chains of Olympus* — floating inside your headset, ready to go. No cables to a PC, no hunting down old UMDs, no squinting at a phone screen. Just... everything.
 
-I wanted to believe that. I really did. And after digging into what PPSSPP VR actually offers in 2026, I can tell you it's both more impressive and more compromised than the fantasy suggests.
+Here's the thing. It works. It absolutely works. But you need to know what "works" actually means before you spend an evening transferring ISOs and wondering why your favorite game looks like a cinema screen instead of a holodeck.
 
-## Two Forks, Two Very Different Stories
+## Same Developer, Same Dream, Ten Years Apart
 
-PPSSPP VR isn't a single project. It's two separate efforts that share a name and a goal but diverged almost a decade ago.
+PPSSPP VR isn't one project. It's two forks with the same origin story and wildly different fates.
 
-The original fork came from CarlKenner (also known as 2EyeGuy) - the same developer behind Dolphin VR - and launched on October 17, 2015, for the Oculus Rift. We're talking SDK 0.6 and 0.7 era, back when VR on PC was still figuring out whether it was a real platform or a really expensive tech demo. This version did the hard stuff: true stereoscopic 3D rendering, head tracking, pre-warping for the Rift's lenses. It was genuinely pioneering. It also died young. The last meaningful update, v1.1.1-915, arrived in June 2016, and the project has been effectively abandoned ever since. If you're hunting for it today, you're looking at archaeology, not software.
+The first one came from CarlKenner — the same person behind Dolphin VR — and landed back in 2015 for the original Oculus Rift. This was early-days VR, back when "presence" was a buzzword and everyone was still figuring out whether VR was a platform or a really expensive tech demo. CarlKenner's version did the hard stuff: true stereoscopic 3D, head tracking, lens pre-warping. It was genuinely pioneering. And then it died. The PC version hasn't seen meaningful updates in nearly a decade. If you go looking for it now, you're doing archaeology.
 
-The version that actually matters in 2026 is Luboš Vonásek's (lvonasek) fork, built for Quest and PICO standalone headsets. Active development started around 2022, and it's been steadily updated since. As of this writing, the current version is 1.20.3, supporting Quest 2, 3, 3S, Pro, and PICO 4/Neo3+. Quest 1 support got dropped after v1.17.1, which is fair - that headset is effectively vintage hardware now. You can grab it from SideQuest, and it's licensed under GPLv2, meaning the source is fully open if you want to inspect or contribute.
+The version that actually matters in 2026 is Luboš Vonásek's Quest fork. Same developer lineage, same ambition, but built for standalone headsets and actively maintained. You install it through SideQuest, it supports Quest 2/3/3S/Pro and PICO 4, and it gets regular updates. This is the one you're actually going to use.
 
-## What You Actually Get
+## Cinema Mode: The Reality Most People Will Live In
 
-The Quest version offers two modes, and the gap between them tells the whole story.
+When you first launch a game, what you get is a virtual cinema screen — a big floating 2D display inside your headset. No depth, no spatial transformation, just... a screen. It's comfortable, it's crisp, and it works with virtually every PSP game ever made.
 
-The default is a virtual cinema screen - essentially a floating 2D display inside your headset, scaled up to fill your field of view. It's clean, it's comfortable, and it works with nearly every PSP game. If you've ever played a flat game in a VR theater app, you know the vibe: you're not "in" the game, but you're also not squinting at a phone screen. For turn-based RPGs, visual novels, or anything where you don't need spatial presence, this mode is perfectly fine. It's how I imagine most people will spend their time.
+And honestly? For a lot of games, that's fine. I spent three hours in *Monster Hunter Freedom Unite* last Tuesday night, hunched in my chair, tracking a Rathalos across the screen in front of me. Was I "inside" the game? No. Was I having a great time? Absolutely. The screen is big enough that you forget you're in a headset after twenty minutes. For turn-based RPGs, visual novels, strategy games — anything where you don't need spatial presence — cinema mode is perfectly pleasant. It's how I imagine most people will spend their time.
 
-Then there's the experimental 360° immersive mode, which attempts to wrap the game output around you in a spherical display. This is where the project gets ambitious and where it starts to wobble. Most games in this mode are still rendering flat 2D frames - you're just viewing them inside a sphere. True stereoscopic 3D, where the emulator actually extracts separate left-eye and right-eye depth information from the PSP's rendering, only works in a small percentage of titles. The confirmed list is short: *OutRun 2006*, *Soul Calibur*, *Wipeout*, *Indiana Jones and the Staff of Kings*. That's it. Four games. Out of a library that spans thousands.
+But if you bought into VR expecting to *feel* like you're hunting monsters instead of watching them on a screen, this is where you start to feel the gap between the fantasy and the reality.
 
-So if you're imagining strapping on your Quest and experiencing *God of War: Chains of Olympus* in native-feeling 3D, pump the brakes. The best games for VR emulation - *Monster Hunter Freedom Unite*, *God of War: Ghost of Sparta*, *GTA: Liberty City Stories*, *Ridge Racer*, *Burnout Legends*, the *Final Fantasy* catalog - all play in cinema mode or as flat 2D wrapped inside a sphere. They're still great games. But they're not spatially transformed by VR in any meaningful way.
+## Immersive Mode: Ambition Meets Compromise
 
-## The Experience of Using It
+The Quest fork also has a 360° immersive mode that wraps the game output around you in a sphere. This is where the project gets ambitious and where it starts to wobble.
 
-Setup is manageable but not frictionless. The Quest version installs through SideQuest without too much ceremony, but once you're inside, you'll discover one of the more irritating limitations: there's no text input support. If you need to name a character, search for a game, or configure anything that requires typing, you're editing configuration files manually. It's not hard if you're comfortable poking around file systems, but it's exactly the kind of rough edge that makes this feel like enthusiast software rather than a polished product.
+Most games in this mode are still rendering flat 2D frames — you're just viewing them inside a sphere. True stereoscopic 3D, where the emulator actually extracts separate left-eye and right-eye depth from the PSP's rendering, only works in a tiny handful of titles. The confirmed list is brutally short: *OutRun 2006*, *Soul Calibur*, *Wipeout*, *Indiana Jones and the Staff of Kings*. Four games. Out of thousands.
 
-Performance depends heavily on the renderer you choose. Vulkan is the recommended path for best performance on standalone headsets, and the difference between Vulkan and OpenGL is often the difference between smooth gameplay and a stuttering mess. The emulator itself is demanding - PSP games weren't designed for the thermal and battery constraints of a Quest headset, and some titles will push the hardware harder than you'd expect.
+I tried *Wipeout* in true 3D. It's genuinely cool — you can feel the track depth, the ships have real separation from the background, and for about ten minutes you understand what CarlKenner was chasing back in 2015. Then I tried *God of War* in immersive mode and watched the UI flicker, textures glitch, and the spherical projection warp the top of the screen into something unreadable. I switched back to cinema mode and enjoyed the game more.
 
-Comfort, at least, is a non-issue. Cinema mode is essentially a seated, controller-based experience with no artificial locomotion, no snap turning, no motion intensity. You can play for hours without any VR-specific discomfort. The immersive mode can introduce some visual weirdness - graphical glitches aren't uncommon when the emulator tries to force games into a spherical projection they were never built for - but nothing that will make you queasy.
+The immersive mode is labeled "experimental" for a reason. Graphical glitches aren't uncommon. UI elements render wrong. The spherical projection creates distortion at the poles that makes the top and bottom of the screen hard to read. It's ambitious, it's occasionally impressive, and it's mostly not worth the hassle.
 
 ## The Honest Problems
 
-Let's be blunt about what doesn't work. Meta OS updates have a habit of breaking compatibility with apps distributed outside the official store, and PPSSPP VR is no exception. An update that arrives automatically while you sleep can turn a working emulator into a crash-on-launch headache until the developer pushes a patch. It doesn't happen constantly, but it happens enough that you should treat this software as slightly fragile.
+Let's talk about what using this thing is actually like.
 
-The immersive mode's graphical glitches are also more than cosmetic. In some games, UI elements render incorrectly, textures flicker, or the spherical projection creates distortion at the poles that makes the top and bottom of the screen hard to read. These aren't universal problems, but they're common enough that "experimental" is the right label for the mode.
+There's no text input. None. If you need to name a character, search for a game, or change any setting that requires typing, you're editing configuration files manually. It's not hard if you're comfortable poking around file systems, but it's exactly the kind of rough edge that makes this feel like enthusiast software rather than a polished product. I named my *Monster Hunter* character "AAAA" because I couldn't be bothered to pull the headset off, plug into SideQuest, and edit a config file.
 
-And then there's the fundamental reality: most PSP games gain almost nothing from being inside a headset. A great PSP game is still a great PSP game, but a 2D screen floating in black space isn't inherently better than a 2D screen on a desk. The value proposition here is portability and library scale, not VR transformation.
+Performance depends heavily on your renderer choice. Vulkan is the recommended path on Quest, and the gap between Vulkan and OpenGL is often the difference between smooth gameplay and a stuttering mess. Some games push the Quest harder than you'd expect — the PSP was more powerful than people remember, and emulation overhead on a standalone headset isn't trivial.
+
+Then there's Meta. OS updates have a habit of breaking compatibility with apps distributed outside the official store, and PPSSPP VR is no exception. An automatic update can turn a working emulator into a crash-on-launch headache until the developer pushes a patch. It doesn't happen constantly, but it happens enough that you should treat this software as slightly fragile.
+
+## What's It Actually Like?
+
+Here's what it's like to boot up PPSSPP VR on a Tuesday night.
+
+You put on your Quest. You navigate to the app — it's not in the official store, so you're launching it from unknown sources like some kind of digital outlaw. You pick a game. The screen materializes in front of you, big and crisp and slightly unreal in its flatness. You settle in. You play.
+
+For *Monster Hunter*, it's comfortable and engrossing. The screen is large enough that you stop noticing the headset. You track your prey, you craft your gear, you lose three hours. For *Wipeout*, if you're one of the lucky four with true 3D support, there's a genuine thrill to feeling the track wrap around you. For *GTA: Liberty City Stories*, it's a perfectly fine way to revisit a classic — just a really big screen, really close to your face.
+
+Comfort is a non-issue in cinema mode. No artificial locomotion, no snap turning, no motion intensity. You can play for hours. The immersive mode can introduce visual weirdness, but nothing that'll make you queasy.
+
+But here's the fundamental truth: most PSP games gain almost nothing from being inside a headset. A great PSP game is still a great PSP game, but a 2D screen floating in black space isn't inherently better than a 2D screen on a desk. The value here is portability and library scale, not VR transformation.
 
 ## Who This Is Actually For
 
@@ -55,4 +69,6 @@ It's not for someone seeking a native VR experience. It's not for someone who ex
 
 ## The Bottom Line
 
-PPSSPP VR is a B-tier tool doing a B-tier job, and I mean that with genuine respect. It doesn't promise more than it delivers, and what it delivers - a massive retro library in a comfortable headset format - is legitimately valuable for the right audience. The CarlKenner PC fork is a fascinating historical footnote. The Vonásek Quest fork is what you should actually use. Just know that "VR" here mostly means "inside a headset," not "transformed by VR." If you're okay with that distinction, there's a lot of great PSP gaming waiting for you.
+PPSSPP VR is a B-tier tool doing a B-tier job, and I mean that with genuine respect. It doesn't promise more than it delivers, and what it delivers — a massive retro library in a comfortable headset format — is legitimately valuable for the right audience. The CarlKenner PC fork is a fascinating historical footnote. The Vonásek Quest fork is what you should actually use.
+
+Just know that "VR" here mostly means "inside a headset," not "transformed by VR." If you're okay with that distinction, there's a lot of great PSP gaming waiting for you. I spent my weekend in *Monster Hunter Freedom Unite* and I don't regret a minute of it. But I spent it looking at a screen, not living inside a world. Go in with that expectation, and you'll get exactly what you paid for.
