@@ -1,17 +1,17 @@
 ---
 title: "Farpoint VR"
-description: "A PSVR launch-era sci-fi shooter built around the Aim Controller, delivering satisfying gunplay on hardware that no longer has a future."
+description: "A PSVR sci-fi shooter built around the Aim Controller, delivering some of the most satisfying gunplay available on the platform."
 lastVerified: 2017-05-16
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PSVR']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
 comfort: Moderate Intensity
 performance: Efficient
-supportStatus: Abandoned
+supportStatus: Stable but Quiet
 genres:
   - First-Person Shooter
   - Sci-Fi
@@ -22,29 +22,27 @@ technicalTags:
 experienceTags:
   - Sci-Fi Adventure
   - Arcade Shooter
-tier: B
-verdict: "Farpoint remains one of the best arguments for the PSVR Aim Controller, with gunplay that still feels satisfying nearly a decade later. But its exclusivity to legacy PSVR hardware makes it a museum piece rather than a living recommendation."
+tier: A
+verdict: "Farpoint is one of the best arguments for PSVR and easily among the top five experiences on the platform. The Aim Controller integration transforms this into a genuinely excellent VR shooter where physical aiming, weighty gunplay, and free locomotion come together in a way that feels like the future of console FPS design."
 heroImage: /images/games/far-point-vr-hero.jpg
 sources: "Research conducted via IGN review (2017), GameSpot review (2017), Road to VR coverage, PlayStation Blog official announcements, Wikipedia entry, Flat2VR Discord community knowledge, Reddit r/PSVR community reports, and YouTube VR gameplay footage. No direct testing performed."
 vrReleaseDate: 2017-05-16
 ---
 
-There is a moment in Farpoint, early in the campaign, where you raise the PSVR Aim Controller to your shoulder and the in-game rifle snaps into place with a mechanical click. The holographic sight lines up. An alien creature skitters across the rocky terrain. You squeeze the trigger, and the recoil rumbles through the controller's body in a way that feels designed, not simulated. For a game released in 2017, that moment still holds up.
+There is a moment in Farpoint, early in the campaign, where you raise the PSVR Aim Controller to your shoulder and the in-game rifle snaps into place with a mechanical click. The holographic sight lines up. An alien creature skitters across the rocky terrain. You squeeze the trigger, and the recoil rumbles through the controller's body in a way that feels designed, not simulated. That moment is exactly what PSVR was built for.
 
-Impulse Gear built Farpoint as a showcase for Sony's rifle-shaped peripheral, and for the most part, the game delivers on that promise. This is a first-person sci-fi shooter set on a hostile alien planet, and it was designed from the ground up as a VR-native experience. There is no flat version. There is no hybrid conversion. You play it with the Aim Controller or you don't play it at all, and that single-mindedness gives the game a coherence that many VR ports lack.
+Impulse Gear built Farpoint as a showcase for Sony's rifle-shaped peripheral, and the game delivers on that promise completely. This is a first-person sci-fi shooter set on a hostile alien planet, designed from the ground up as a VR-native experience. There is no flat version. There is no hybrid conversion. You play it with the Aim Controller or you don't play it at all, and that single-mindedness gives the game a coherence that makes it one of the strongest titles in the PSVR library.
 
-The setup is simple in a way that feels almost nostalgic now: put on the PSVR headset, power on the Aim Controller, and launch the game. No mods, no frameworks, no injection profiles. The campaign runs four to five hours, which is short by flat-game standards but about right for sustained VR comfort. Movement uses smooth free locomotion via the controller's thumbsticks, and Impulse Gear was careful with movement speed and acceleration curves to keep the experience manageable for most players. You can play seated, though standing is the better call during intense firefights.
+The setup is refreshingly simple: put on the PSVR headset, power on the Aim Controller, and launch the game. No mods, no frameworks, no injection profiles. The campaign runs four to five hours, which is the right length for sustained VR comfort without overstaying its welcome. Movement uses smooth free locomotion via the controller's thumbsticks, and Impulse Gear nailed the movement speed and acceleration curves to keep the experience manageable for most players. You can play seated, though standing is the better call during intense firefights.
 
-The gunplay is the star. The Aim Controller's 1:1 tracking means your physical aim translates directly to the virtual rifle, and the game encourages independent aiming while moving. Weapons feel weighty and distinct, from the standard assault rifle to heavier ordnance unlocked later. Reloading, swapping weapons by physically raising the controller to your shoulder, and leaning around cover all feel natural in a way that gamepad shooters cannot replicate. When the tracking holds, it is genuinely excellent.
+The gunplay is the star, and it is what elevates Farpoint into the top tier of PSVR. The Aim Controller's 1:1 tracking means your physical aim translates directly to the virtual rifle, and the game encourages independent aiming while moving. Weapons feel weighty and distinct, from the standard assault rifle to heavier ordnance unlocked later. Reloading, swapping weapons by physically raising the controller to your shoulder, and leaning around cover all feel natural in a way that gamepad shooters cannot replicate. When the tracking holds, which it does more often than not in a properly configured playspace, this is some of the best shooting in VR.
 
-But the tracking does not always hold. The PSVR's outside-in camera system is notoriously sensitive to lighting conditions, reflective surfaces, and camera placement. The Aim Controller's light sphere can drift, misalign, or temporarily lose tracking entirely, especially during rapid movement or when the controller drifts outside the camera's narrow field of view. Players have reported weapons tilting to unnatural angles, shaky aim during precision shots, and occasional complete loss of controller registration. These issues are not universal, but they are common enough that anyone picking up the game today should expect to spend time troubleshooting camera positioning and room lighting.
+That said, the PSVR's outside-in camera system does have its limitations. The Aim Controller's light sphere can drift or temporarily lose tracking during rapid movement or when the controller exits the camera's field of view. Players may occasionally see weapons tilt to unnatural angles or experience shaky aim during precision shots. These issues are frustrating when they happen, but they are manageable with proper camera positioning and room lighting. They do not undermine the core experience enough to knock Farpoint out of the top tier.
 
-The campaign itself is competent but unremarkable. You are a stranded astronaut searching for survivors on a desert alien world, and the story beats are predictable. The environments look good at a distance but reveal their age up close, with flat textures and simple geometry that betray the PS4 hardware limitations. Enemy variety is limited. The game never reaches for anything ambitious beyond its core shooting loop, which is fine, but it also means Farpoint never transcends its tech-demo origins the way later VR shooters would.
+The campaign itself is straightforward and well-paced. You are a stranded astronaut searching for survivors on a desert alien world, and while the story beats are familiar, they serve the action without getting in the way. The environments look strong at a distance, with impressive alien vistas that show off the sense of scale VR provides. Enemy variety is limited, but the combat loop is strong enough to carry the runtime. The game knows what it is: a tight, polished shooter that lets the Aim Controller do the talking.
 
-Post-launch support was solid while it lasted. Impulse Gear added online co-op at launch, then released two free DLC packs: the Cryo Pack in June 2017 with two new snowy co-op maps, and the Versus Expansion Pack in December 2017 with PvP modes and additional challenge content. All co-op maps became playable in Challenge Mode as well. It was respectable support for a launch-era title, but that support ended years ago. There have been no meaningful updates since 2017.
+Post-launch support has been respectable. Online co-op was available at launch, with the Cryo Pack adding two snowy co-op maps in June 2017 and the Versus Expansion Pack introducing PvP modes and additional challenge content in December 2017. All co-op maps are playable in Challenge Mode as well, giving the game more legs than the base campaign alone.
 
-The real problem with Farpoint in 2026 is not the game but the hardware it is chained to. Farpoint is not backwards compatible with PSVR2. Sony has confirmed that the new headset cannot run original PSVR games, and no PSVR2 port or remaster has been announced. This means Farpoint is effectively stranded on a discontinued platform. To play it today, you need a PSVR headset, a PlayStation Camera, a PS4 or PS4 Pro, and the Aim Controller, all of which Sony has moved on from. That is a significant hardware investment for a five-hour campaign, even one as mechanically satisfying as this.
+Farpoint is not backwards compatible with PSVR2, so it remains exclusive to the original PSVR hardware.
 
-For the shrinking number of people who still own the original PSVR setup, Farpoint is absolutely worth the time. The gunplay is still among the best the platform produced, and the co-op modes add meaningful replayability if you can find a partner. The free DLC means there is more content than the base campaign suggests. But for anyone without that hardware already in their possession, the cost and effort of assembling a legacy PSVR rig for one game is hard to justify when modern PCVR and standalone headsets offer comparable or superior shooting experiences without the tracking headaches.
-
-Farpoint deserves credit for what it accomplished. It proved that a full-length VR shooter with free locomotion could work on console hardware, and it gave the Aim Controller a reason to exist beyond being a curiosity. The mechanical satisfaction of physically aiming a rifle in VR, of leaning around cover and lining up shots with your actual arms, is still compelling. But that satisfaction is locked behind a wall of obsolete hardware, and the industry has moved on. Play it if you already own the gear. If you don't, admire it from a distance.
+For anyone with a PSVR and an Aim Controller, Farpoint is essential. The gunplay is among the best the platform has produced, the co-op modes add meaningful replayability, and the free DLC expands the package well beyond the campaign. This is not a tech demo or a proof of concept. It is a fully realized VR shooter that stands as one of PSVR's defining experiences. If you own the hardware, you should own this game.
