@@ -1,7 +1,7 @@
 ---
 title: "No Man's Sky VR"
 description: "An entire procedurally generated universe inside a headset — breathtaking in scope, deeply flawed in execution."
-lastVerified: 2026-05-08
+lastVerified: 2019-08-14
 featured: false
 routeType: Official Hybrid
 flatReleaseDate: 2016-08-09
