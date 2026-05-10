@@ -1,7 +1,7 @@
 ---
 title: "Dreams VR"
 description: "A remarkable creation tool that becomes genuinely intuitive in VR, wrapped inside an ocean of wildly inconsistent user content that lives or dies by your hardware and your patience."
-lastVerified: 2026-05-09
+lastVerified: 2020-02-14
 featured: false
 routeType: Official Hybrid
 platforms: ['PSVR']
