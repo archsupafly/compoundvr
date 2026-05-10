@@ -1,7 +1,7 @@
 ---
 title: "The Walking Dead: Onslaught VR"
 description: "A licensed zombie action game that confuses familiar faces with good design, leaving VR players with a shallow, imbalanced experience that undermines its own best ideas."
-lastVerified: 2026-05-10
+lastVerified: 2020-09-29
 featured: false
 routeType: Official Standalone VR Version
 vrReleaseDate: 2020-09-29
