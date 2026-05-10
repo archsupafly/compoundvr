@@ -1,7 +1,7 @@
 ---
 title: "Neverwinter Nights VR"
 description: "A classic CRPG injected into VR through VorpX, where OpenGL compatibility issues and persistent visual artifacts make the Forgotten Realms more frustrating than fantastical."
-lastVerified: 2002-06-18
+lastVerified: 2021-10-12
 featured: false
 flatReleaseDate: 2002-06-18
 routeType: Injection Driver
