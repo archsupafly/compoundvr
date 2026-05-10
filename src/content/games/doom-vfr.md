@@ -1,7 +1,7 @@
 ---
 title: "Doom VFR"
 description: "id Software's standalone VR shooter rebuilds Doom's aggression around teleportation and telefrags, delivering brilliant combat ideas undermined by control friction and a short campaign."
-lastVerified: 2026-05-07
+lastVerified: 2017-12-01
 featured: false
 vrReleaseDate: 2017-12-01
 routeType: Official Standalone VR Version
