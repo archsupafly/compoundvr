@@ -1,7 +1,7 @@
 ---
 title: "Medal of Honor: Above and Beyond VR"
 description: "Respawn's native WWII VR shooter delivers satisfying gunplay and cinematic set pieces, but its abandoned multiplayer and stop-start pacing leave it as a compelling single-player curiosity at discount prices."
-lastVerified: 2026-05-10
+lastVerified: 2020-12-11
 vrReleaseDate: 2020-12-11
 featured: false
 routeType: Official Standalone VR Version
