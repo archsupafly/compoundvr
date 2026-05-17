@@ -1,6 +1,6 @@
 ---
 interface Props {
-  article: {
+  articles: Array<{
     id: string;
     data: {
       title: string;
@@ -9,10 +9,10 @@ interface Props {
       category: string;
       pubDate: Date;
     };
-  };
+  }>;
 }
 
-const { article } = Astro.props;
+const { articles } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   news: 'News',
@@ -29,87 +29,179 @@ const categoryClass: Record<string, string> = {
 };
 ---
 
-<a class="featured-hero" href={`/articles/${article.id}/`}>
-  <div class="featured-hero__image-container">
-    {article.data.heroImage ? (
-      <img
-        src={article.data.heroImage}
-        alt={article.data.title}
-        class="featured-hero__image"
-      />
-    ) : (
-      <div class="featured-hero__image--placeholder"></div>
-    )}
-    <div class="featured-hero__overlay"></div>
+<div class="featured-carousel" data-count={articles.length}>
+  <div class="featured-carousel__track">
+    {articles.map((article, i) => (
+      <a
+        class={`featured-carousel__slide ${i === 0 ? 'featured-carousel__slide--active' : ''}`}
+        href={`/articles/${article.id}/`}
+        data-index={i}
+      >
+        <div class="featured-carousel__image-container">
+          {article.data.heroImage ? (
+            <img
+              src={article.data.heroImage}
+              alt={article.data.title}
+              class="featured-carousel__image"
+            />
+          ) : (
+            <div class="featured-carousel__image--placeholder"></div>
+          )}
+          <div class="featured-carousel__overlay"></div>
+        </div>
+
+        <div class="featured-carousel__content">
+          <span class={`featured-carousel__pill ${categoryClass[article.data.category] || ''}`}>
+            {categoryLabels[article.data.category] || article.data.category}
+          </span>
+          <h2 class="featured-carousel__title">{article.data.title}</h2>
+          <p class="featured-carousel__description">{article.data.description}</p>
+          <span class="featured-carousel__date">
+            {article.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </span>
+        </div>
+      </a>
+    ))}
   </div>
 
-  <div class="featured-hero__content">
-    <span class={`featured-hero__pill ${categoryClass[article.data.category] || ''}`}>
-      {categoryLabels[article.data.category] || article.data.category}
-    </span>
-    <h2 class="featured-hero__title">{article.data.title}</h2>
-    <p class="featured-hero__description">{article.data.description}</p>
-    <span class="featured-hero__date">
-      {article.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-    </span>
-  </div>
-</a>
+  {articles.length > 1 && (
+    <div class="featured-carousel__controls">
+      <button class="featured-carousel__arrow featured-carousel__arrow--prev" aria-label="Previous" data-dir="prev">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M12.5 15L7.5 10L12.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="featured-carousel__dots">
+        {articles.map((_, i) => (
+          <button
+            class={`featured-carousel__dot ${i === 0 ? 'featured-carousel__dot--active' : ''}`}
+            data-slide={i}
+            aria-label={`Go to slide ${i + 1}`}
+          />
+        ))}
+      </div>
+      <button class="featured-carousel__arrow featured-carousel__arrow--next" aria-label="Next" data-dir="next">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M7.5 5L12.5 10L7.5 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  )}
+</div>
+
+<script>
+  function initCarousel(root: HTMLElement) {
+    const slides = root.querySelectorAll<HTMLElement>('.featured-carousel__slide');
+    const dots = root.querySelectorAll<HTMLElement>('.featured-carousel__dot');
+    const count = slides.length;
+    if (count <= 1) return;
+
+    let current = 0;
+    let timer: ReturnType<typeof setInterval>;
+
+    function goTo(index: number) {
+      slides[current].classList.remove('featured-carousel__slide--active');
+      dots[current]?.classList.remove('featured-carousel__dot--active');
+      current = (index + count) % count;
+      slides[current].classList.add('featured-carousel__slide--active');
+      dots[current]?.classList.add('featured-carousel__dot--active');
+    }
+
+    function next() { goTo(current + 1); }
+    function prev() { goTo(current - 1); }
+
+    function startAuto() {
+      clearInterval(timer);
+      timer = setInterval(next, 6000);
+    }
+
+    root.querySelector('[data-dir="prev"]')?.addEventListener('click', () => { prev(); startAuto(); });
+    root.querySelector('[data-dir="next"]')?.addEventListener('click', () => { next(); startAuto(); });
+    dots.forEach((dot, i) => {
+      dot.addEventListener('click', () => { goTo(i); startAuto(); });
+    });
+
+    startAuto();
+  }
+
+  document.querySelectorAll<HTMLElement>('.featured-carousel').forEach(initCarousel);
+</script>
 
 <style>
-  .featured-hero {
-    display: block;
+  .featured-carousel {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .featured-carousel__track {
     position: relative;
     border-radius: 12px;
     overflow: hidden;
+  }
+
+  /* Slide */
+  .featured-carousel__slide {
+    display: block;
+    position: relative;
     text-decoration: none;
     color: inherit;
-    margin-bottom: 1.5rem;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+    /* Hidden by default */
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.4s ease;
   }
 
-  .featured-hero:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.35);
+  .featured-carousel__slide--active {
+    position: relative;
+    opacity: 1;
+    pointer-events: auto;
   }
 
-  .featured-hero__image-container {
+  .featured-carousel__slide:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px -4px rgba(0, 0, 0, 0.35);
+  }
+
+  /* Image */
+  .featured-carousel__image-container {
     position: relative;
     aspect-ratio: 16 / 9;
     overflow: hidden;
     background: var(--bg-tertiary, #0b1020);
   }
 
-  .featured-hero__image {
+  .featured-carousel__image {
     width: 100%;
     height: 100%;
     object-fit: cover;
     transition: transform 0.3s ease;
   }
 
-  .featured-hero:hover .featured-hero__image {
+  .featured-carousel__slide:hover .featured-carousel__image {
     transform: scale(1.02);
   }
 
-  .featured-hero__image--placeholder {
+  .featured-carousel__image--placeholder {
     width: 100%;
     height: 100%;
     background: linear-gradient(135deg, var(--bg-secondary, #1a2342), var(--bg-tertiary, #0b1020));
   }
 
-  .featured-hero__overlay {
+  /* Overlay */
+  .featured-carousel__overlay {
     position: absolute;
     inset: 0;
     background: linear-gradient(
       to top,
       rgba(11, 16, 32, 0.92) 0%,
-      rgba(11, 16, 32, 0.6) 40%,
-      rgba(11, 16, 32, 0.15) 70%,
+      rgba(11, 16, 32, 0.55) 40%,
+      rgba(11, 16, 32, 0.12) 70%,
       transparent 100%
     );
     pointer-events: none;
   }
 
-  .featured-hero__content {
+  /* Content */
+  .featured-carousel__content {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -120,7 +212,8 @@ const categoryClass: Record<string, string> = {
     gap: 0.5rem;
   }
 
-  .featured-hero__pill {
+  /* Pill */
+  .featured-carousel__pill {
     display: inline-block;
     width: fit-content;
     font-size: 0.7rem;
@@ -134,31 +227,32 @@ const categoryClass: Record<string, string> = {
     border: 1px solid rgba(110, 231, 255, 0.3);
   }
 
-  .featured-hero__pill--news {
+  .featured-carousel__pill--news {
     background: rgba(110, 231, 255, 0.2);
     color: var(--accent-cyan, #6ee7ff);
     border-color: rgba(110, 231, 255, 0.3);
   }
 
-  .featured-hero__pill--guide {
+  .featured-carousel__pill--guide {
     background: rgba(34, 197, 94, 0.2);
     color: #4ade80;
     border-color: rgba(34, 197, 94, 0.3);
   }
 
-  .featured-hero__pill--comparison {
+  .featured-carousel__pill--comparison {
     background: rgba(168, 85, 247, 0.2);
     color: #c084fc;
     border-color: rgba(168, 85, 247, 0.3);
   }
 
-  .featured-hero__pill--opinion {
+  .featured-carousel__pill--opinion {
     background: rgba(245, 158, 11, 0.2);
     color: #fbbf24;
     border-color: rgba(245, 158, 11, 0.3);
   }
 
-  .featured-hero__title {
+  /* Title */
+  .featured-carousel__title {
     font-size: 1.75rem;
     font-weight: 700;
     color: #f0f4ff;
@@ -166,11 +260,12 @@ const categoryClass: Record<string, string> = {
     margin: 0;
   }
 
-  .featured-hero:hover .featured-hero__title {
+  .featured-carousel__slide:hover .featured-carousel__title {
     color: var(--accent-cyan, #6ee7ff);
   }
 
-  .featured-hero__description {
+  /* Description */
+  .featured-carousel__description {
     font-size: 1rem;
     color: #c5cce6;
     line-height: 1.5;
@@ -181,32 +276,90 @@ const categoryClass: Record<string, string> = {
     overflow: hidden;
   }
 
-  .featured-hero__date {
+  /* Date */
+  .featured-carousel__date {
     font-size: 0.75rem;
     color: #8b92b8;
     margin-top: 0.25rem;
   }
 
+  /* Controls */
+  .featured-carousel__controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 0.75rem;
+  }
+
+  .featured-carousel__arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid var(--border-subtle, rgba(255, 255, 255, 0.12));
+    background: var(--surface-primary, #151d38);
+    color: var(--text-secondary, #c5cce6);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    padding: 0;
+  }
+
+  .featured-carousel__arrow:hover {
+    background: var(--accent-cyan, #6ee7ff);
+    color: var(--bg-primary, #0b1020);
+    border-color: var(--accent-cyan, #6ee7ff);
+  }
+
+  .featured-carousel__dots {
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+  }
+
+  .featured-carousel__dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+    padding: 0;
+    transition: background 0.2s ease, transform 0.2s ease;
+  }
+
+  .featured-carousel__dot:hover {
+    background: rgba(255, 255, 255, 0.4);
+  }
+
+  .featured-carousel__dot--active {
+    background: var(--accent-cyan, #6ee7ff);
+    transform: scale(1.25);
+  }
+
+  /* Responsive */
   @media (max-width: 1024px) {
-    .featured-hero__title {
+    .featured-carousel__title {
       font-size: 1.5rem;
     }
 
-    .featured-hero__content {
+    .featured-carousel__content {
       padding: 1.5rem;
     }
   }
 
   @media (max-width: 640px) {
-    .featured-hero__title {
+    .featured-carousel__title {
       font-size: 1.25rem;
     }
 
-    .featured-hero__description {
+    .featured-carousel__description {
       -webkit-line-clamp: 1;
     }
 
-    .featured-hero__content {
+    .featured-carousel__content {
       padding: 1.25rem;
       gap: 0.35rem;
     }

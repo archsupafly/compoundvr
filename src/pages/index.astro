@@ -36,7 +36,7 @@ const featuredArticles = articles.filter((a) => a.data.featured).slice(0, 3);
 
   {featuredArticles.length > 0 && (
     <section class="section container">
-      <FeaturedHero article={featuredArticles[0]} />
+      <FeaturedHero articles={featuredArticles} />
     </section>
   )}
 
