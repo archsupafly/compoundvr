@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import CardGrid from '../components/CardGrid.astro';
+import ArticleGrid from '../components/ArticleGrid.astro';
 import FeaturedHero from '../components/FeaturedHero.astro';
 import { getCollection } from 'astro:content';
 
@@ -11,14 +12,18 @@ const allGames = (await getCollection('games')).sort((a, b) => {
   return dateB - dateA;
 });
 
-// Get all games for display (up to 16)
-const displayGames = allGames.slice(0, 16);
+// Games for the 2-column grid (up to 12)
+const displayGames = allGames.slice(0, 12);
+
+// Articles for the sidebar column (up to 4, exclude featured ones already in carousel)
+const featuredSlugs = ['flatout-4-vr', 'microsoft-flight-simulator', 'dolphin-vr', 'triangle-strategy', 'ppsspp-vr'];
+const allArticles = (await getCollection('articles')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const sidebarArticles = allArticles
+  .filter(a => !featuredSlugs.includes(a.id))
+  .slice(0, 4);
 
 // Featured items: games + articles in editorial order
-const featuredSlugs = ['flatout-4-vr', 'microsoft-flight-simulator', 'dolphin-vr', 'triangle-strategy', 'ppsspp-vr'];
-
 const gamesMap = Object.fromEntries(allGames.map(g => [g.id, g]));
-const allArticles = await getCollection('articles');
 const articlesMap = Object.fromEntries(allArticles.map(a => [a.id, a]));
 
 const featuredItems = featuredSlugs
@@ -67,18 +72,32 @@ const featuredItems = featuredSlugs
   )}
 
   <section class="section container">
-    <h2>All VR Games</h2>
-    <CardGrid items={displayGames.map((game) => ({
-      href: `/games/${game.id}/`,
-      title: game.data.title,
-      description: game.data.verdict,
-      heroImage: game.data.heroImage,
-      tier: game.data.tier,
-      routeType: game.data.routeType,
-      platforms: game.data.platforms,
-      recommendation: game.data.recommendation,
-      setupBurden: game.data.setupBurden,
-    }))} columns={3} />
+    <h2>Games</h2>
+    <div class="home-grid">
+      <div class="home-grid__games">
+        <CardGrid items={displayGames.map((game) => ({
+          href: `/games/${game.id}/`,
+          title: game.data.title,
+          description: game.data.verdict,
+          heroImage: game.data.heroImage,
+          tier: game.data.tier,
+          routeType: game.data.routeType,
+          platforms: game.data.platforms,
+          recommendation: game.data.recommendation,
+          setupBurden: game.data.setupBurden,
+        }))} columns={2} />
+      </div>
+      <div class="home-grid__articles">
+        <h3>Articles</h3>
+        <ArticleGrid items={sidebarArticles.map((article) => ({
+          href: `/articles/${article.id}/`,
+          title: article.data.title,
+          description: article.data.description,
+          heroImage: article.data.heroImage,
+          meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
+        }))} columns={1} />
+      </div>
+    </div>
   </section>
 
   <section class="section container">
@@ -98,20 +117,6 @@ const featuredItems = featuredSlugs
       </div>
     </div>
   </section>
-
-  <section class="section container">
-    <h2>Latest editorial</h2>
-    <CardGrid items={allArticles
-      .filter((a) => a.data.featured)
-      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-      .slice(0, 3)
-      .map((article) => ({
-        href: `/articles/${article.id}/`,
-        title: article.data.title,
-        description: article.data.description,
-        meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
-      }))} columns={2} showImages={false} showTier={false} showRouteType={false} showPlatforms={false} />
-  </section>
 </Layout>
 
 <style>
@@ -128,6 +133,27 @@ const featuredItems = featuredSlugs
   .homepage-featured {
     padding: 0 0 2rem;
   }
+
+  .home-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+
+  .home-grid__articles h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-primary, #0b1020);
+    margin: 0 0 0.75rem;
+  }
+
+  @media (max-width: 900px) {
+    .home-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
   @media (max-width: 640px) {
     .homepage-hero {
       padding: 1rem 0 0.25rem;

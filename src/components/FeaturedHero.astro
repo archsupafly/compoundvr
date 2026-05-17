@@ -28,38 +28,66 @@ const categoryClass: Record<string, string> = {
 ---
 
 <div class="featured-carousel" data-count={items.length}>
-  <div class="featured-carousel__track">
-    {items.map((item, i) => (
-      <a
-        class={`featured-carousel__slide ${i === 0 ? 'featured-carousel__slide--active' : ''}`}
-        href={item.href}
-        data-index={i}
-      >
-        <div class="featured-carousel__image-container">
-          {item.heroImage ? (
-            <img
-              src={item.heroImage}
-              alt={item.title}
-              class="featured-carousel__image"
-            />
-          ) : (
-            <div class="featured-carousel__image--placeholder"></div>
-          )}
-          <div class="featured-carousel__overlay"></div>
-        </div>
+  <div class="featured-carousel__layout">
+    <div class="featured-carousel__track">
+      {items.map((item, i) => (
+        <a
+          class={`featured-carousel__slide ${i === 0 ? 'featured-carousel__slide--active' : ''}`}
+          href={item.href}
+          data-index={i}
+        >
+          <div class="featured-carousel__image-container">
+            {item.heroImage ? (
+              <img
+                src={item.heroImage}
+                alt={item.title}
+                class="featured-carousel__image"
+              />
+            ) : (
+              <div class="featured-carousel__image--placeholder"></div>
+            )}
+            <div class="featured-carousel__overlay"></div>
+          </div>
 
-        <div class="featured-carousel__content">
-          <span class={`featured-carousel__pill ${categoryClass[item.category] || ''}`}>
-            {categoryLabels[item.category] || item.category}
-          </span>
-          <h2 class="featured-carousel__title">{item.title}</h2>
-          <p class="featured-carousel__description">{item.description}</p>
-          <span class="featured-carousel__date">
-            {item.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-          </span>
-        </div>
-      </a>
-    ))}
+          <div class="featured-carousel__content">
+            <span class={`featured-carousel__pill ${categoryClass[item.category] || ''}`}>
+              {categoryLabels[item.category] || item.category}
+            </span>
+            <h2 class="featured-carousel__title">{item.title}</h2>
+            <p class="featured-carousel__description">{item.description}</p>
+            <span class="featured-carousel__date">
+              {item.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    {items.length > 1 && (
+      <div class="featured-carousel__thumbs">
+        {items.map((item, i) => (
+          <a
+            class={`featured-carousel__thumb ${i === 0 ? 'featured-carousel__thumb--active' : ''}`}
+            href={item.href}
+            data-thumb={i}
+          >
+            <div class="featured-carousel__thumb-image-wrap">
+              {item.heroImage ? (
+                <img src={item.heroImage} alt={item.title} class="featured-carousel__thumb-image" />
+              ) : (
+                <div class="featured-carousel__thumb-placeholder"></div>
+              )}
+            </div>
+            <div class="featured-carousel__thumb-text">
+              <span class={`featured-carousel__thumb-pill ${categoryClass[item.category] || ''}`}>
+                {categoryLabels[item.category] || item.category}
+              </span>
+              <span class="featured-carousel__thumb-title">{item.title}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    )}
   </div>
 
   {items.length > 1 && (
@@ -86,6 +114,7 @@ const categoryClass: Record<string, string> = {
 <script>
   function initCarousel(root: HTMLElement) {
     const slides = root.querySelectorAll<HTMLElement>('.featured-carousel__slide');
+    const thumbs = root.querySelectorAll<HTMLElement>('.featured-carousel__thumb');
     const dots = root.querySelectorAll<HTMLElement>('.featured-carousel__dot');
     const count = slides.length;
     if (count <= 1) return;
@@ -95,9 +124,11 @@ const categoryClass: Record<string, string> = {
 
     function goTo(index: number) {
       slides[current].classList.remove('featured-carousel__slide--active');
+      thumbs[current]?.classList.remove('featured-carousel__thumb--active');
       dots[current]?.classList.remove('featured-carousel__dot--active');
       current = (index + count) % count;
       slides[current].classList.add('featured-carousel__slide--active');
+      thumbs[current]?.classList.add('featured-carousel__thumb--active');
       dots[current]?.classList.add('featured-carousel__dot--active');
     }
 
@@ -114,6 +145,14 @@ const categoryClass: Record<string, string> = {
     dots.forEach((dot, i) => {
       dot.addEventListener('click', () => { goTo(i); startAuto(); });
     });
+    thumbs.forEach((thumb, i) => {
+      thumb.addEventListener('click', (e) => {
+        // Only prevent default for thumb clicks, not the main slide links
+        e.preventDefault();
+        goTo(i);
+        startAuto();
+      });
+    });
 
     startAuto();
   }
@@ -127,10 +166,130 @@ const categoryClass: Record<string, string> = {
     margin: 0 auto;
   }
 
+  .featured-carousel__layout {
+    display: flex;
+    gap: 1rem;
+  }
+
   .featured-carousel__track {
     position: relative;
     border-radius: 12px;
     overflow: hidden;
+    flex: 1;
+    min-width: 0;
+  }
+
+  /* Thumbnails */
+  .featured-carousel__thumbs {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 200px;
+    flex-shrink: 0;
+  }
+
+  .featured-carousel__thumb {
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-subtle, rgba(255, 255, 255, 0.08));
+    background: var(--surface-primary, #151d38);
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: border-color 0.2s ease, background 0.2s ease;
+  }
+
+  .featured-carousel__thumb:hover {
+    border-color: var(--border-default, rgba(255, 255, 255, 0.15));
+    background: var(--surface-secondary, #1a2342);
+  }
+
+  .featured-carousel__thumb--active {
+    border-color: var(--accent-cyan, #6ee7ff);
+    background: rgba(110, 231, 255, 0.06);
+  }
+
+  .featured-carousel__thumb-image-wrap {
+    width: 56px;
+    height: 36px;
+    border-radius: 4px;
+    overflow: hidden;
+    flex-shrink: 0;
+    background: var(--bg-tertiary, #0b1020);
+  }
+
+  .featured-carousel__thumb-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .featured-carousel__thumb-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, var(--bg-secondary, #1a2342), var(--bg-tertiary, #0b1020));
+  }
+
+  .featured-carousel__thumb-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-width: 0;
+  }
+
+  .featured-carousel__thumb-pill {
+    font-size: 0.55rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.1rem 0.35rem;
+    border-radius: 3px;
+    width: fit-content;
+    background: rgba(110, 231, 255, 0.15);
+    color: var(--accent-cyan, #6ee7ff);
+  }
+
+  .featured-carousel__thumb-pill--game {
+    background: rgba(34, 197, 94, 0.15);
+    color: #4ade80;
+  }
+
+  .featured-carousel__thumb-pill--guide {
+    background: rgba(34, 197, 94, 0.2);
+    color: #4ade80;
+  }
+
+  .featured-carousel__thumb-pill--comparison {
+    background: rgba(168, 85, 247, 0.2);
+    color: #c084fc;
+  }
+
+  .featured-carousel__thumb-pill--opinion {
+    background: rgba(245, 158, 11, 0.2);
+    color: #fbbf24;
+  }
+
+  .featured-carousel__thumb-pill--news {
+    background: rgba(110, 231, 255, 0.2);
+    color: #6ee7ff;
+  }
+
+  .featured-carousel__thumb-title {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--text-primary, #f0f4ff);
+    line-height: 1.25;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .featured-carousel__thumb--active .featured-carousel__thumb-title {
+    color: var(--accent-cyan, #6ee7ff);
   }
 
   /* Slide */
@@ -139,7 +298,6 @@ const categoryClass: Record<string, string> = {
     position: relative;
     text-decoration: none;
     color: inherit;
-    /* Hidden by default — absolute positioned, opacity 0 */
     position: absolute;
     inset: 0;
     opacity: 0;
@@ -203,21 +361,21 @@ const categoryClass: Record<string, string> = {
     bottom: 0;
     left: 0;
     right: 0;
-    padding: 2rem;
+    padding: 1.5rem;
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.4rem;
   }
 
   /* Pill */
   .featured-carousel__pill {
     display: inline-block;
     width: fit-content;
-    font-size: 0.7rem;
+    font-size: 0.65rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    padding: 0.25rem 0.6rem;
+    padding: 0.2rem 0.5rem;
     border-radius: 4px;
     background: rgba(110, 231, 255, 0.2);
     color: var(--accent-cyan, #6ee7ff);
@@ -256,7 +414,7 @@ const categoryClass: Record<string, string> = {
 
   /* Title */
   .featured-carousel__title {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: #f0f4ff;
     line-height: 1.25;
@@ -269,7 +427,7 @@ const categoryClass: Record<string, string> = {
 
   /* Description */
   .featured-carousel__description {
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: #c5cce6;
     line-height: 1.5;
     margin: 0;
@@ -281,9 +439,9 @@ const categoryClass: Record<string, string> = {
 
   /* Date */
   .featured-carousel__date {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     color: #8b92b8;
-    margin-top: 0.25rem;
+    margin-top: 0.15rem;
   }
 
   /* Controls */
@@ -342,20 +500,36 @@ const categoryClass: Record<string, string> = {
     transform: scale(1.25);
   }
 
-  /* Responsive */
-  @media (max-width: 1024px) {
-    .featured-carousel__title {
-      font-size: 1.5rem;
+  /* Responsive: collapse thumbs below on smaller screens */
+  @media (max-width: 860px) {
+    .featured-carousel__layout {
+      flex-direction: column;
+    }
+
+    .featured-carousel__thumbs {
+      width: 100%;
+      flex-direction: row;
+      overflow-x: auto;
+      gap: 0.5rem;
+    }
+
+    .featured-carousel__thumb {
+      flex-shrink: 0;
+      width: auto;
     }
 
     .featured-carousel__content {
-      padding: 1.5rem;
+      padding: 1.25rem;
+    }
+
+    .featured-carousel__title {
+      font-size: 1.35rem;
     }
   }
 
   @media (max-width: 640px) {
     .featured-carousel__title {
-      font-size: 1.25rem;
+      font-size: 1.15rem;
     }
 
     .featured-carousel__description {
@@ -363,8 +537,8 @@ const categoryClass: Record<string, string> = {
     }
 
     .featured-carousel__content {
-      padding: 1.25rem;
-      gap: 0.35rem;
+      padding: 1rem;
+      gap: 0.25rem;
     }
   }
 </style>

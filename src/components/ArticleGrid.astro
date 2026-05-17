@@ -9,7 +9,7 @@ interface ArticleCard {
 
 const { items, columns = 3, showImages = true } = Astro.props as { 
   items: ArticleCard[]; 
-  columns?: 2 | 3 | 4;
+  columns?: 1 | 2 | 3 | 4;
   showImages?: boolean;
 };
 ---
@@ -47,6 +47,10 @@ const { items, columns = 3, showImages = true } = Astro.props as {
     gap: 1.5rem;
   }
   
+  .article-grid--1 {
+    grid-template-columns: 1fr;
+  }
+
   .article-grid--2 {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -67,6 +71,7 @@ const { items, columns = 3, showImages = true } = Astro.props as {
   }
   
   @media (max-width: 640px) {
+    .article-grid--1,
     .article-grid--2,
     .article-grid--3,
     .article-grid--4 {
