@@ -1,24 +1,21 @@
 ---
-interface Props {
-  articles: Array<{
-    id: string;
-    data: {
-      title: string;
-      description: string;
-      heroImage?: string;
-      category: string;
-      pubDate: Date;
-    };
-  }>;
+interface FeaturedItem {
+  href: string;
+  title: string;
+  description: string;
+  heroImage?: string;
+  category: string;
+  date: Date;
 }
 
-const { articles } = Astro.props;
+const { items } = Astro.props as { items: FeaturedItem[] };
 
 const categoryLabels: Record<string, string> = {
   news: 'News',
   guide: 'Guide',
   comparison: 'Comparison',
   opinion: 'Opinion',
+  game: 'Game',
 };
 
 const categoryClass: Record<string, string> = {
@@ -26,22 +23,23 @@ const categoryClass: Record<string, string> = {
   guide: 'featured-hero__pill--guide',
   comparison: 'featured-hero__pill--comparison',
   opinion: 'featured-hero__pill--opinion',
+  game: 'featured-hero__pill--game',
 };
 ---
 
-<div class="featured-carousel" data-count={articles.length}>
+<div class="featured-carousel" data-count={items.length}>
   <div class="featured-carousel__track">
-    {articles.map((article, i) => (
+    {items.map((item, i) => (
       <a
         class={`featured-carousel__slide ${i === 0 ? 'featured-carousel__slide--active' : ''}`}
-        href={`/articles/${article.id}/`}
+        href={item.href}
         data-index={i}
       >
         <div class="featured-carousel__image-container">
-          {article.data.heroImage ? (
+          {item.heroImage ? (
             <img
-              src={article.data.heroImage}
-              alt={article.data.title}
+              src={item.heroImage}
+              alt={item.title}
               class="featured-carousel__image"
             />
           ) : (
@@ -51,26 +49,26 @@ const categoryClass: Record<string, string> = {
         </div>
 
         <div class="featured-carousel__content">
-          <span class={`featured-carousel__pill ${categoryClass[article.data.category] || ''}`}>
-            {categoryLabels[article.data.category] || article.data.category}
+          <span class={`featured-carousel__pill ${categoryClass[item.category] || ''}`}>
+            {categoryLabels[item.category] || item.category}
           </span>
-          <h2 class="featured-carousel__title">{article.data.title}</h2>
-          <p class="featured-carousel__description">{article.data.description}</p>
+          <h2 class="featured-carousel__title">{item.title}</h2>
+          <p class="featured-carousel__description">{item.description}</p>
           <span class="featured-carousel__date">
-            {article.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            {item.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
           </span>
         </div>
       </a>
     ))}
   </div>
 
-  {articles.length > 1 && (
+  {items.length > 1 && (
     <div class="featured-carousel__controls">
       <button class="featured-carousel__arrow featured-carousel__arrow--prev" aria-label="Previous" data-dir="prev">
         <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M12.5 15L7.5 10L12.5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
       <div class="featured-carousel__dots">
-        {articles.map((_, i) => (
+        {items.map((_, i) => (
           <button
             class={`featured-carousel__dot ${i === 0 ? 'featured-carousel__dot--active' : ''}`}
             data-slide={i}
@@ -141,8 +139,7 @@ const categoryClass: Record<string, string> = {
     position: relative;
     text-decoration: none;
     color: inherit;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    /* Hidden by default */
+    /* Hidden by default — absolute positioned, opacity 0 */
     position: absolute;
     inset: 0;
     opacity: 0;
@@ -150,15 +147,15 @@ const categoryClass: Record<string, string> = {
     transition: opacity 0.4s ease;
   }
 
+  .featured-carousel__slide:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px -4px rgba(0, 0, 0, 0.35);
+  }
+
   .featured-carousel__slide--active {
     position: relative;
     opacity: 1;
     pointer-events: auto;
-  }
-
-  .featured-carousel__slide:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 24px -4px rgba(0, 0, 0, 0.35);
   }
 
   /* Image */
@@ -249,6 +246,12 @@ const categoryClass: Record<string, string> = {
     background: rgba(245, 158, 11, 0.2);
     color: #fbbf24;
     border-color: rgba(245, 158, 11, 0.3);
+  }
+
+  .featured-carousel__pill--game {
+    background: rgba(34, 197, 94, 0.15);
+    color: #4ade80;
+    border-color: rgba(34, 197, 94, 0.3);
   }
 
   /* Title */
