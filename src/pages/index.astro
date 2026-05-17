@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import CardGrid from '../components/CardGrid.astro';
+import FeaturedHero from '../components/FeaturedHero.astro';
 import { getCollection } from 'astro:content';
 
 // Sort games by last verified date (newest first) for freshness
@@ -32,6 +33,12 @@ const featuredArticles = articles.filter((a) => a.data.featured).slice(0, 3);
       <span class="pill">Editor-run publishing workflow</span>
     </div>
   </section>
+
+  {featuredArticles.length > 0 && (
+    <section class="section container">
+      <FeaturedHero article={featuredArticles[0]} />
+    </section>
+  )}
 
   <section class="section container">
     <h2>All VR Games</h2>
