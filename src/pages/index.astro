@@ -51,7 +51,7 @@ const featuredItems = featuredSlugs
 ---
 
 <Layout title="CompoundVR — Flat-to-VR intelligence" description="CompoundVR catalogs, reviews, and evaluates flat-to-VR games and mods.">
-  <section class="hero container">
+  <section class="hero homepage-hero container">
     <div class="eyebrow">Authority site for flat-to-VR players</div>
     <h1>Your guide to the best mods, hybrid, and native VR games</h1>
     <p class="lead">
@@ -61,7 +61,7 @@ const featuredItems = featuredSlugs
   </section>
 
   {featuredItems.length > 0 && (
-    <section class="section container">
+    <section class="section homepage-featured container">
       <FeaturedHero items={featuredItems} />
     </section>
   )}
@@ -113,3 +113,24 @@ const featuredItems = featuredSlugs
       }))} columns={2} showImages={false} showTier={false} showRouteType={false} showPlatforms={false} />
   </section>
 </Layout>
+
+<style>
+  .homepage-hero {
+    padding: 1.5rem 0 0.5rem;
+  }
+  .homepage-hero h1 {
+    margin-bottom: 0.75rem;
+  }
+  .homepage-hero .lead {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .homepage-featured {
+    padding: 0 0 2rem;
+  }
+  @media (max-width: 640px) {
+    .homepage-hero {
+      padding: 1rem 0 0.25rem;
+    }
+  }
+</style>
