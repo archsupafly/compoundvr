@@ -95,7 +95,7 @@ const featuredItems = featuredSlugs
           description: article.data.description,
           heroImage: article.data.heroImage,
           meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
-        }))} columns={1} />
+        }))} columns={1} layout="horizontal" />
       </div>
     </div>
   </section>
@@ -121,7 +121,7 @@ const featuredItems = featuredSlugs
 
 <style>
   .homepage-hero {
-    padding: 1.5rem 0 0.5rem;
+    padding: 0.5rem 0 0.5rem;
   }
   .homepage-hero h1 {
     margin-bottom: 0.75rem;
@@ -129,6 +129,7 @@ const featuredItems = featuredSlugs
   .homepage-hero .lead {
     margin-left: auto;
     margin-right: auto;
+    max-width: 960px;
   }
   .homepage-featured {
     padding: 0 0 2rem;
