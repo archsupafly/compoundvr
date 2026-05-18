@@ -72,8 +72,9 @@ const featuredItems = featuredSlugs
   )}
 
   <section class="section container">
-    <h2>Games</h2>
     <div class="home-grid">
+      <h2>Games</h2>
+      <h2>Articles</h2>
       <div class="home-grid__games">
         <CardGrid items={displayGames.map((game) => ({
           href: `/games/${game.id}/`,
@@ -88,7 +89,6 @@ const featuredItems = featuredSlugs
         }))} columns={2} />
       </div>
       <div class="home-grid__articles">
-        <h3>Articles</h3>
         <ArticleGrid items={sidebarArticles.map((article) => ({
           href: `/articles/${article.id}/`,
           title: article.data.title,
@@ -141,12 +141,11 @@ const featuredItems = featuredSlugs
     align-items: start;
   }
 
-  .home-grid__articles h3 {
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--text-primary, #0b1020);
-    margin: 0 0 0.75rem;
+  .home-grid h2 {
+    margin: 0;
   }
+
+
 
   @media (max-width: 900px) {
     .home-grid {
