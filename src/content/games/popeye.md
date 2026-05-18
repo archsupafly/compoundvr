@@ -2,8 +2,8 @@
 title: "Popeye VR"
 description: "The NES classic becomes a 3D voxel diorama inside 3dSen VR — charming, comfortable, and over in about the time it takes to eat a can of spinach."
 flatReleaseDate: "1982-11-18"
-vrReleaseDate: "2026-03-02"
-lastVerified: "2026-03-02"
+vrReleaseDate: "2019-06-01"
+lastVerified: "2019-06-01"
 featured: false
 routeType: "Framework-Based"
 platforms:

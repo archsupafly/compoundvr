@@ -2,13 +2,10 @@
 title: "Dolphin VR: The Emulator That Makes Classics Feel New"
 description: "The GameCube and Wii emulator fork that shoves two decades of Nintendo classics into your headset — with all the beauty and brutality that entails."
 pubDate: 2026-05-09
-lastVerified: 2003-11-17
 author: CompoundVR
 category: opinion
 heroImage: /images/articles/dolphin-vr-hero.jpg
 tags: ['emulator', 'dolphin', 'gamecube', 'wii', 'vr-preservation']
-flatReleaseDate: 2003-11-17
-sources: "Research conducted via Dolphin VR community documentation, Dolphin emulator project history, YouTube VR gameplay footage and community reports, Flat2VR Discord community knowledge, and Reddit r/DolphinVR community discussions. Assessment based on community experience and publicly available project documentation. No direct testing performed."
 ---
 
 The first time you load *Metroid Prime* inside a headset, something clicks that shouldn't. Samus's visor fills your entire field of view. The rain on Tallon IV spatters against glass you can almost reach out and touch. The morph ball tunnels stretch past you in proper depth instead of flattening against a television two meters away. For a game released in 2002, it feels suspiciously like it was waiting for this hardware all along.

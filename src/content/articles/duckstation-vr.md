@@ -10,15 +10,6 @@ tags:
   - PS1
   - stereoscopic-3D
   - software
-lastVerified: 2026-03-25
-routeType: "Emulator"
-platforms: ['PCVR', 'Quest']
-recommendation: Enthusiasts Only
-setupBurden: Advanced Setup
-inputStyle: Gamepad
-comfort: Variable
-performance: Efficient
-supportStatus: Stable but Quiet
 softwareType: "Emulator"
 heroImage: /images/articles/duckstation-vr-hero.jpg
 ---

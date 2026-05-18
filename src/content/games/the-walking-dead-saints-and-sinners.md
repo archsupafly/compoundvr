@@ -1,7 +1,7 @@
 ---
 title: "The Walking Dead: Saints & Sinners VR"
 description: "A native VR survival horror built around weighty physics melee combat, resource scarcity, and moral choice in flooded post-apocalyptic New Orleans."
-lastVerified: 2026-05-09
+lastVerified: 2020-01-23
 featured: false
 vrReleaseDate: 2020-01-23
 routeType: Official Standalone VR Version

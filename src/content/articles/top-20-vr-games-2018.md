@@ -1,8 +1,7 @@
 ---
 title: "Top 20 VR Games of 2018"
 description: "The year VR got serious — from rhythm phenomena and robot rescue missions to tactical shooters and physics playgrounds. The twenty games that defined VR's third act."
-pubDate: 2026-05-08
-lastVerified: 2018-12-31
+pubDate: 2018-12-31
 author: Richard
 category: opinion
 tags:

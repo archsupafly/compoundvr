@@ -1,7 +1,7 @@
 ---
 title: "BioShock 2 VR"
 description: "Return to the decaying art-deco underwater dystopia of Rapture in stereoscopic 3D — if you can navigate removed VorpX profiles, 32-bit memory limits, and the occasional crash."
-lastVerified: 2025-10-01
+lastVerified: 2024-05-01
 flatReleaseDate: 2010-02-09
 featured: false
 routeType: Injection Driver

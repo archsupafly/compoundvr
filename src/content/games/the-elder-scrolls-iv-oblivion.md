@@ -2,7 +2,7 @@
 title: "The Elder Scrolls IV: Oblivion VR"
 description: "Cyrodiil in a headset is finally possible, but the journey there demands hardware, patience, and a willingness to fight the UI."
 flatReleaseDate: 2006-03-20
-lastVerified: 2025-04-23
+lastVerified: 2024-04-01
 featured: false
 routeType: Framework-Based
 platforms: ['PCVR']

@@ -1,8 +1,7 @@
 ---
 title: "Top 15 VR Games of 2016"
 description: "The definitive ranking of the games that defined the first year of consumer VR — from room-scale pioneers to the titles that proved headsets weren't just expensive demos."
-pubDate: 2026-05-05
-lastVerified: 2016-12-31
+pubDate: 2016-12-31
 author: Ian
 category: opinion
 tags:

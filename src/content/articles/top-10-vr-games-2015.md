@@ -1,8 +1,7 @@
 ---
 title: "Top 10 VR Games to Play in 2015"
 description: "The ten best VR experiences you can actually play right now — from cockpit sims selling headsets to community mods proving VR is real."
-pubDate: 2026-05-02
-lastVerified: 2015-12-31
+pubDate: 2015-12-31
 author: Ian
 category: opinion
 tags:

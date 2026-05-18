@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Flight Simulator VR"
 description: "Flying over a photorealistic Earth in VR is one of gaming's most extraordinary sights — if your hardware can keep up."
-lastVerified: 2026-04-30
+lastVerified: 2025-05-15
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR2']
