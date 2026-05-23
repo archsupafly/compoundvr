@@ -1,0 +1,242 @@
+---
+// SearchModal.astro — Site-wide search powered by Pagefind
+// Pagefind JS/CSS are loaded dynamically at runtime from /pagefind/ (generated post-build).
+// The search overlay opens via nav button click or Cmd/Ctrl+K.
+---
+
+<div id="search-modal" class="search-modal" aria-hidden="true" role="dialog" aria-label="Search">
+  <div class="search-backdrop" data-search-close></div>
+  <div class="search-dialog">
+    <div class="search-input-wrap">
+      <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder="Search games, articles, topics…"
+        autocomplete="off"
+        aria-label="Search"
+      />
+      <kbd class="search-kbd" data-search-close>Esc</kbd>
+    </div>
+    <div id="search-results" class="search-results">
+      <div class="search-empty">Type to search across all games and articles</div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .search-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 12vh;
+  }
+
+  .search-modal.open {
+    display: flex;
+  }
+
+  .search-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(11, 16, 32, 0.6);
+    backdrop-filter: blur(4px);
+  }
+
+  .search-dialog {
+    position: relative;
+    width: min(640px, calc(100% - 2rem));
+    background: var(--surface-primary, #ffffff);
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.1));
+    border-radius: 16px;
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+
+  .search-input-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.06));
+  }
+
+  .search-icon {
+    flex-shrink: 0;
+    color: var(--text-muted, #9a9aaa);
+  }
+
+  .search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 1.05rem;
+    font-family: var(--font-sans, inherit);
+    color: var(--text-primary, #1a1a2e);
+    background: transparent;
+  }
+
+  .search-input::placeholder {
+    color: var(--text-muted, #9a9aaa);
+  }
+
+  .search-kbd {
+    flex-shrink: 0;
+    font-family: var(--font-mono, monospace);
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.1));
+    border-radius: 4px;
+    color: var(--text-muted, #9a9aaa);
+    background: var(--bg-secondary, #f5f5f5);
+  }
+
+  .search-results {
+    max-height: 50vh;
+    overflow-y: auto;
+    padding: 0.5rem;
+  }
+
+  .search-empty {
+    padding: 2rem 1rem;
+    text-align: center;
+    color: var(--text-muted, #9a9aaa);
+    font-size: 0.9rem;
+  }
+</style>
+
+<style is:global>
+  .search-result-item {
+    display: block;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.15s ease;
+  }
+
+  .search-result-item:hover {
+    background: var(--bg-secondary, #f5f5f5);
+  }
+
+  .search-result-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--text-primary, #1a1a2e);
+    margin-bottom: 0.25rem;
+  }
+
+  .search-result-excerpt {
+    font-size: 0.85rem;
+    color: var(--text-secondary, #4a4a5a);
+    line-height: 1.5;
+  }
+
+  .search-result-excerpt mark {
+    background: var(--accent-cyan-subtle, rgba(14, 231, 255, 0.15));
+    color: var(--text-primary, #1a1a2e);
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+</style>
+
+<script is:inline>
+  // Pagefind search — loaded dynamically so Vite doesn't try to resolve it at build time
+  (function() {
+    var modal = document.getElementById('search-modal');
+    var input = document.getElementById('search-input');
+    var results = document.getElementById('search-results');
+    var debounceTimer;
+    var pagefindLib = null;
+
+    async function loadPagefind() {
+      if (pagefindLib) return pagefindLib;
+      pagefindLib = await import('/pagefind/pagefind.js');
+      return pagefindLib;
+    }
+
+    function openSearch() {
+      modal.classList.add('open');
+      modal.setAttribute('aria-hidden', 'false');
+      input.focus();
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeSearch() {
+      modal.classList.remove('open');
+      modal.setAttribute('aria-hidden', 'true');
+      input.value = '';
+      results.innerHTML = '<div class="search-empty">Type to search across all games and articles</div>';
+      document.body.style.overflow = '';
+    }
+
+    // Open triggers
+    document.querySelectorAll('[data-search-open]').forEach(function(btn) {
+      btn.addEventListener('click', openSearch);
+    });
+
+    // Close triggers
+    document.querySelectorAll('[data-search-close]').forEach(function(el) {
+      el.addEventListener('click', closeSearch);
+    });
+
+    // Keyboard shortcuts
+    document.addEventListener('keydown', function(e) {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        if (modal.classList.contains('open')) {
+          closeSearch();
+        } else {
+          openSearch();
+        }
+      }
+      if (e.key === 'Escape' && modal.classList.contains('open')) {
+        closeSearch();
+      }
+    });
+
+    // Search logic
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      var query = input.value.trim();
+
+      if (!query) {
+        results.innerHTML = '<div class="search-empty">Type to search across all games and articles</div>';
+        return;
+      }
+
+      debounceTimer = setTimeout(async function() {
+        try {
+          var pagefind = await loadPagefind();
+          var searchResult = await pagefind.search(query);
+          results.innerHTML = '';
+
+          if (searchResult.results.length === 0) {
+            results.innerHTML = '<div class="search-empty">No results for "' + query + '"</div>';
+            return;
+          }
+
+          var topResults = searchResult.results.slice(0, 8);
+          for (var i = 0; i < topResults.length; i++) {
+            var data = await topResults[i].data();
+            var a = document.createElement('a');
+            a.href = data.url;
+            a.className = 'search-result-item';
+            a.innerHTML =
+              '<div class="search-result-title">' + (data.meta && data.meta.title ? data.meta.title : data.url) + '</div>' +
+              '<div class="search-result-excerpt">' + (data.sub_results && data.sub_results[0] ? data.sub_results[0].excerpt : (data.excerpt || '')) + '</div>';
+            a.addEventListener('click', closeSearch);
+            results.appendChild(a);
+          }
+        } catch (err) {
+          console.error('Pagefind search error:', err);
+          results.innerHTML = '<div class="search-empty">Search unavailable</div>';
+        }
+      }, 200);
+    });
+  })();
+</script>
