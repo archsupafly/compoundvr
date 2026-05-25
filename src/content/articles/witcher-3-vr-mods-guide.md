@@ -89,3 +89,5 @@ Use Script Merger to resolve conflicts. Read mod pages for load order specifics.
 Mods turn The Witcher 3 VR from a technical curiosity into something you'd actually play. First-person mode is the keystone—without it, VorpX on its own is a third-person game with depth, which is nice but not compelling. With it, plus the visual mods that survive headset scrutiny, you get a version of The Witcher 3 that justifies the setup effort.
 
 It's still not a native VR game. It never will be. But with the right mods, it's a good enough VR experience for people who specifically want to walk through the Continent rather than watch it from above.
+
+For the full VorpX setup guide, performance details, and VR implementation assessment, see [The Witcher 3 VR game page](/games/the-witcher-3/).

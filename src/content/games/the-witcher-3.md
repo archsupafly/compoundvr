@@ -127,3 +127,5 @@ VorpX provides stereoscopic 3D and head tracking for The Witcher 3, and it does 
 **Overall Tier: C**
 The Witcher 3 VR is a curiosity for enthusiasts, not a destination. If you are determined to experience Geralt's journey with depth perception and head tracking, the technical foundation exists. But the compromises are substantial, the setup burden real, and the absence of VR-native design choices felt throughout. It is a testament to the original game's quality that it remains engaging despite the limited implementation—but this is not how most players should experience The Witcher 3 for the first time, nor is it the definitive way to return.
 
+**Want to make the most of it?** The right flat mods—first-person view, HD Reworked textures, lighting overhauls—substantially improve the VR experience. See [The Witcher 3: 1st person view and other mods that improve the VR experience](/articles/witcher-3-vr-mods-guide/).
+
