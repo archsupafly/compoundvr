@@ -26,8 +26,8 @@ experienceTags:
   - Complete Campaign
   - Community Mod
   - Co-op Available
-tier: A
-verdict: "Portal 2 in VR is a remarkable conversion that makes one of gaming's greatest puzzle experiences feel new again. Motion controls transform the portal gun from an abstract cursor into a physical tool, and Aperture Science gains genuine spatial presence. Minor UI limitations and the indirect installation path are the only barriers between this and a higher tier."
+tier: S
+verdict: "Portal 2 in VR is one of the best flat-to-VR conversions ever made. The portal gun in your hand transforms an already legendary puzzle game into something that feels like it was always meant to be played this way. Full campaign, co-op, workshop support, and motion controls that fundamentally improve the experience — this is the argument for why community VR mods matter."
 heroImage: /images/games/portal-2-vr-hero.jpg
 flatReleaseDate: 2011-04-19
 vrReleaseDate: 2022-04-01
