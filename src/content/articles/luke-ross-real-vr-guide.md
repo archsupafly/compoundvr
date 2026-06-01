@@ -4,7 +4,7 @@ description: "Luke Ross built the first major flat-to-VR modding pipeline — an
 pubDate: 2022-01-15
 lastVerified: 2025-06-01
 author: Richard
-category: guide
+category: comparison
 heroImage: /images/articles/luke-ross-real-vr-guide-hero.jpg
 tags:
   - luke-ross
@@ -12,7 +12,7 @@ tags:
   - flat-to-vr
   - injection-driver
   - PCVR
-  - guide
+  - framework-overview
   - gta-v
   - elden-ring
   - cyberpunk-2077
