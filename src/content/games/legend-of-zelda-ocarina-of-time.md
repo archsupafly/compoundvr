@@ -29,7 +29,7 @@ experienceTags:
   - Classic Revival
   - Epic Scale
   - Nostalgia
-tier: "B+"
+tier: B
 verdict: "An S-tier game with no single VR route that delivers the complete package. Dolphin VR plus the first-person mod gets you the full campaign with genuine presence; CitraVR on Quest gives you better visuals in third-person; VRChat and the CryZENx UE5 demo offer hand presence but not the game. The composite experience is richer than before, but the gap between what exists and what should exist persists."
 heroImage: /images/games/legend-of-zelda-ocarina-of-time-vr-hero.jpg
 sources: "Research conducted via Dolphin VR community documentation, YouTube VR gameplay footage (Beardo Benjo, Paradise's Decay, Gamertag VR, CryZENx), Flat2VR Discord community knowledge, Reddit community reports, CitraVR GitHub documentation (amwatson), VRChat world documentation (wrld_37abea33), Henriko Magnifico texture pack site, and Zelda Dungeon coverage. No direct testing performed."
