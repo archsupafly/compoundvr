@@ -12,6 +12,7 @@ tags:
   - unity
   - open-source
 featured: false
+heroImage: /images/articles/vrgin-unity-vr-framework-hero.jpg
 ---
 
 # VRGIN: The Unity VR Injection Framework for Technical Users
