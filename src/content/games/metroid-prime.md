@@ -1,7 +1,7 @@
 ---
 title: "Metroid Prime VR"
 description: "A legendary first-person adventure becomes one of the most compelling arguments for emulator VR — if your stomach and your patience can handle the setup."
-lastVerified: 2025-06-09
+lastVerified: 2026-05-15
 featured: false
 routeType: Emulator
 platforms: ['PCVR']
@@ -31,7 +31,7 @@ tier: A
 verdict: "Metroid Prime through Dolphin VR with the Primed mod is one of the best emulator-driven VR experiences available — a legendary first-person adventure that gains genuine spatial presence from stereoscopic 3D and head tracking, now elevated by motion-tracked arm cannon aiming that makes combat and scanning feel like native VR. The visor system, the scale of Tallon IV, and the solitary exploration all translate beautifully. But the comfort profile remains punishing for sensitive players — smooth locomotion, camera cuts, and morph ball haven't changed — and the occasional graphical quirk reminds you this is a hack, not a native port. The motion controls close the gap between this and the real thing; your stomach is still the gatekeeper."
 flatReleaseDate: 2002-11-17
 heroImage: /images/games/metroid-prime-vr-hero.jpg
-sources: "Research conducted via PC Gamer, Rock Paper Shotgun, Dolphin VR community documentation, Dolphin XR and PrimedGun GitHub repositories (Nobbie248/PrimedGun), Reddit community reports (r/Dolphin_VR, r/Metroid, r/Vive, r/virtualreality), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Vrified Games), Flat2VR Discord community knowledge, and ExplorXR coverage. No direct testing performed. Assessment is based on cross-referenced community consensus and PrimedGun release documentation through June 2025."
+sources: "Research conducted via PC Gamer, Rock Paper Shotgun, Dolphin VR community documentation, Dolphin XR and PrimedGun GitHub repositories (Nobbie248/PrimedGun), Reddit community reports (r/Dolphin_VR, r/Metroid, r/Vive, r/virtualreality), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Vrified Games), Flat2VR Discord community knowledge, and ExplorXR coverage. No direct testing performed. Assessment is based on cross-referenced community consensus and PrimedGun release documentation through May 2026."
 ---
 
 The first time you raise the scan visor and the world dissolves into a wireframe grid that wraps across your entire field of view, you stop thinking about the emulator. You stop thinking about the GameCube, or 2002, or the fact that you're wearing a headset to play a game that predates consumer VR by over a decade. You're just Samus Aran, standing in the rain on Tallon IV, staring at an alien door mechanism and wondering what the hell it wants from you.
