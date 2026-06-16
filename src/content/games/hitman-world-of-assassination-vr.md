@@ -1,6 +1,6 @@
 ---
 title: "Hitman: World of Assassination VR"
-description: "After years of half-measures, IO Interactive finally turned its stealth trilogy into a proper VR sandbox — and the assassination fantasy is strong enough to justify the wait."
+description: "After years of half-measures, IO Interactive finally turned its stealth trilogy into a proper VR sandbox — and the assassination fantasy is strong enough to justify the headset on its own."
 featured: false
 flatReleaseDate: "2021-01-20"
 lastVerified: "2025-09-25"
@@ -27,8 +27,8 @@ experienceTags:
   - Immersive sim
   - Replayable sandbox
   - Cinematic kills
-tier: A
-verdict: "Hitman: World of Assassination in VR is finally the assassination sandbox it always should have been on PC and PSVR2: smart, tactile, and absurdly replayable, held back only by lingering UI awkwardness and the hardware demands of IO's gorgeous Glacier engine."
+tier: S
+verdict: "Hitman: World of Assassination VR is a genuine transformation of IO's trilogy: 22 dense sandbox levels rebuilt with real physicality, social stealth that rewards your body, and a scale of replayability that justifies the headset on its own. On PSVR2 it is the cleanest experience; on PC it is excellent but demands serious hardware."
 heroImage: /images/games/hitman-world-of-assassination-vr-hero.jpg
 sources: "Research via IO Interactive official patch notes and news posts, UploadVR coverage of the September 2025 PC VR overhaul and March 2025 PSVR2 launch, Road to VR's parity report, PlayStation Blog release announcement, and hands-on reviews from Impulse Gamer and TechRadar. No direct testing performed."
 ---
@@ -63,12 +63,8 @@ This is not a gentle VR experience. On PC it is Heavy Demand. IO's Glacier engin
 
 Comfort is Moderate Intensity. Movement is stick-based with no teleport option. The slow pacing of stealth helps a lot — you are rarely sprinting — but the game does not coddle sensitive stomachs. Snap turning is available, the vignette helps, and playing seated is supported. Still, the third-person transitions and the occasional forced camera angle mean some people will feel it.
 
-## Who This Is For
-
-If you already love Hitman, the VR mode is the best way to experience the trilogy's levels. Full stop. If you have been waiting for a reason to use your PSVR2 or high-end PCVR setup for something other than a wave shooter, this is one of the deepest single-player sandboxes available in a headset. It is also a genuine recommendation for immersive-sim fans who might have skipped the flat version — there is nothing else in VR that delivers this kind of systemic stealth at this scale.
-
-Skip it if you want instant action. Hitman is a slow game, and VR does not change that. Skip it if you have weak VR legs and cannot tolerate smooth locomotion without teleport. Skip the Quest 3 Reloaded version unless you have no other option; the standalone port sacrifices too much visual fidelity and only covers Hitman 3.
-
 ## The Bottom Line
 
-Hitman: World of Assassination VR had no business being this good after its rough start. IO Interactive took the long road — PSVR first, then a rough PC port, then a proper PSVR2 rebuild, then finally giving PC the same treatment — but the destination is worth it. Standing inside Agent 47's clockwork murder dioramas, planning kills with your own hands, finally feels like the fantasy the series has always sold. It is not perfect. The holsters are still fussy, the engine still asks a lot of your PC, and the third-person transitions will always be a compromise. But when you pull off a silent assassination by leaning around a corner, dropping a chandelier with a well-placed shot, and walking away through a crowd that never saw you, the headset earns its place.
+Hitman: World of Assassination VR had no business being this good after its rough start. IO Interactive took the long road — PSVR first, then a rough PC port, then a proper PSVR2 rebuild, then finally giving PC the same treatment — but the destination is worth it. Standing inside Agent 47's clockwork murder dioramas, planning kills with your own hands, finally feels like the fantasy the series has always sold.
+
+It is not perfect. The holsters are still fussy, the third-person transitions will always be a compromise, and on PC the engine still asks a lot of your hardware. If you have weak VR legs and cannot tolerate smooth locomotion without teleport, this will test you. Skip the Quest 3 Reloaded version unless you have no other option; the standalone port sacrifices too much visual fidelity and only covers Hitman 3. But on PSVR2 the experience is clean, and even on a high-end PC the trade-off is worth it. When you pull off a silent assassination by leaning around a corner, dropping a chandelier with a well-placed shot, and walking away through a crowd that never saw you, the headset earns its place.
