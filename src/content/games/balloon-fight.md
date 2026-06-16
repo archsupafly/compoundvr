@@ -6,7 +6,7 @@ lastVerified: "2025-06-19"
 featured: false
 routeType: Framework-Based
 platforms: ['PCVR']
-recommendation: Recommended with Caveats
+recommendation: Not Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
@@ -26,7 +26,7 @@ experienceTags:
   - Arcade
   - Pick Up and Play
   - Short Sessions
-tier: B
+tier: D
 verdict: "A genuinely charming novelty that breathes unexpected life into a 40-year-old arcade game. The 3D voxel conversion is impressive, but the $25 emulator price makes this hard to justify for Balloon Fight alone unless you're planning to explore the full retro library."
 heroImage: /images/games/balloon-fight-vr-hero.jpg
 sources: "Research conducted via 3dSen VR Steam store page, Geod Studio official website, Steam community discussions, Reddit community reports (r/oculus, r/retrogaming), UploadVR coverage, TweakTown and NotebookCheck media articles, and YouTube gameplay footage. Assessment based on community experience, documentation review, and media coverage; no direct testing performed."

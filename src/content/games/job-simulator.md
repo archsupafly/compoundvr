@@ -27,7 +27,7 @@ experienceTags:
   - Great for VR Beginners
   - Short Campaign
   - Highly Replayable
-tier: S
+tier: B
 verdict: "The definitive VR introduction and a masterclass in physics-based comedy. Short, yes, but nearly a decade of ports and updates prove its design is timeless."
 heroImage: /images/games/job-simulator-vr-hero.jpg
 sources: "Research conducted via Owlchemy Labs official blog and announcements, Wikipedia, Meta Quest Store and Steam store pages, UploadVR coverage (2016–2024), Road to VR, 6DOF Reviews, IGN, and YouTube VR gameplay footage (Nathie, Gamertag VR). No direct testing performed."

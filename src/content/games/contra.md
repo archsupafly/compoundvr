@@ -9,7 +9,7 @@ routes:
   - 3dSen VR
   - 3dSen VR Mixed Reality
   - EmuVR
-recommendation: Recommended
+recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
@@ -33,7 +33,7 @@ experienceTags:
   - Single-Player
   - Co-op
   - Hand-Crafted Profile
-tier: A
+tier: C
 verdict: "Contra in 3dSen VR delivers exactly what fans want: the authentic NES experience with genuine spatial depth that makes every bullet and platform feel more tangible. The voxel transformation enhances the intensity without compromising the precision timing that defines the game. Two-player co-op works flawlessly, making this one of the best NES-to-VR conversions available."
 heroImage: /images/games/contra-vr-hero.jpg
 flatReleaseDate: 1986-02-20

@@ -6,7 +6,7 @@ lastVerified: 2020-10-02
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Mostly Playable
 setupBurden: Moderate Setup
 inputStyle: Gamepad Preferred
@@ -28,7 +28,7 @@ experienceTags:
   - Campaign
   - Star Wars
   - Space Simulation
-tier: B
+tier: A
 verdict: "A dream come true for Star Wars fans who own a HOTAS and can tolerate tinkering, but technical instability on PC and a dead multiplayer scene keep it from being essential."
 heroImage: /images/games/star-wars-squadrons-vr-hero.jpg
 sources: "Research compiled from Eurogamer VR review, UploadVR VR review, Road to VR headset compatibility guide, PC Gamer VR coverage, Steam community discussions, Reddit community reports (r/StarWarsSquadrons, r/PSVR, r/OculusQuest), and YouTube VR gameplay footage from multiple channels. Assessment based on community consensus and published reviews. No direct testing performed."

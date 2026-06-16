@@ -31,7 +31,7 @@ experienceTags:
   - Single-Player
   - Two-Player Co-op
   - Precision Platforming
-tier: A
+tier: B
 verdict: "Super Mario Bros. 3 in 3dSen VR is the definitive way to experience one of gaming's greatest achievements. The voxel transformation adds genuine spatial depth to the world map, eight unique kingdoms, and precision platforming that still hasn't been matched. It preserves every frame of the original's perfection while making it feel new again."
 heroImage: /images/games/super-mario-bros-3-vr-hero.jpg
 flatReleaseDate: 1988-10-23

@@ -5,7 +5,7 @@ lastVerified: 2019-11-14
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
@@ -23,7 +23,7 @@ experienceTags:
   - Freeform Locomotion
   - Exploration
   - Sci-Fi
-tier: B
+tier: A
 verdict: "Stormland's movement systems are among the best VR has seen, but shallow combat and a repetitive progression loop make it a fascinating experiment rather than a lasting destination."
 vrReleaseDate: 2019-11-14
 heroImage: /images/games/stormland-vr-hero.jpg

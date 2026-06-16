@@ -5,7 +5,7 @@ lastVerified: 2022-06-01
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Advanced Setup
 inputStyle: Full Motion Controls
@@ -25,7 +25,7 @@ experienceTags:
   - Atmospheric
   - Survival Craft
 score: 82
-tier: B
+tier: A
 verdict: "SubmersedVR transforms Subnautica into a genuine VR masterpiece, but requires technical setup, VR legs, and tolerance for occasional jank. Skip the abandoned official implementation entirely."
 heroImage: /images/games/subnautica-vr-hero.jpg
 flatReleaseDate: 2018-01-23

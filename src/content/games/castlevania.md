@@ -9,7 +9,7 @@ routes:
   - 3dSen VR
   - 3dSen VR Mixed Reality
   - EmuVR
-recommendation: Recommended
+recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
@@ -30,7 +30,7 @@ experienceTags:
   - Single-Player
   - Challenging
   - Hand-Crafted Profile
-tier: A
+tier: C
 verdict: "Castlevania in 3dSen VR transforms Konami's gothic masterpiece into a dimensional experience that enhances the atmosphere without compromising the precision gameplay. The voxel conversion adds genuine depth to Dracula's castle, making those iconic staircases and caverns more tangible than ever. A must-have for retro action fans."
 heroImage: /images/games/castlevania-vr-hero.jpg
 flatReleaseDate: 1986-09-26

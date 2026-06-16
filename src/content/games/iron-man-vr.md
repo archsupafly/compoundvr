@@ -5,7 +5,7 @@ lastVerified: 2020-07-03
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PSVR', 'Quest']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
@@ -27,7 +27,7 @@ experienceTags:
   - High-Speed Flight
   - First-Person Action
   - Story-Driven
-tier: B
+tier: A
 verdict: "A genuinely good native VR superhero campaign held back by repetitive enemy encounters. The Quest version is the definitive way to play."
 vrReleaseDate: 2020-07-03
 heroImage: /images/games/iron-man-vr-hero.jpg

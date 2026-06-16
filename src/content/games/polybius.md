@@ -25,7 +25,7 @@ experienceTags:
   - Flow State
   - Speed Rush
 vrReleaseDate: "2017-10-10"
-tier: S
+tier: A
 verdict: "One of the most essential VR arcade experiences ever made. Jeff Minter's tunnel shooter delivers a hypnotic, high-speed rush designed from the ground up for headsets, and it remains unmatched for pure sensory flow."
 heroImage: /images/games/polybius-vr-hero.jpg
 sources: "Research conducted via Steam store page, Metacritic aggregate scores, Wikipedia entry, VR Grid coverage, UploadVR PCVR announcement, PC Gamer coverage, Jeff Minter developer interviews (Game Developer, Llamasoft blog), Reddit community reports, and YouTube VR gameplay footage (The VR Grid, Nathie). No direct testing performed."

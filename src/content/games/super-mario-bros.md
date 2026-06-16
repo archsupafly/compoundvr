@@ -10,7 +10,7 @@ routes:
   - EmuVR
   - 3dSen VR Mixed Reality
   - SideQuest Fan Games (Unofficial)
-recommendation: Recommended
+recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
@@ -31,7 +31,7 @@ experienceTags:
   - Nostalgic
   - Single-Player
   - Hand-Crafted Profile
-tier: A
+tier: C
 verdict: "Super Mario Bros. in 3dSen VR is one of the most delightful flat-to-VR conversions available. The voxel transformation preserves the iconic gameplay while adding genuine spatial depth that makes platforming feel fresh again. It won't replace modern VR platformers, but as a way to experience gaming history, it's unmatched."
 heroImage: /images/games/super-mario-bros-vr-hero.jpg
 flatReleaseDate: 1985-09-13

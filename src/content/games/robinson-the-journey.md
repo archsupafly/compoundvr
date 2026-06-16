@@ -6,7 +6,7 @@ vrReleaseDate: 2016-11-22
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Mixed Input
@@ -26,7 +26,7 @@ experienceTags:
   - Dinosaur Encounters
   - Visual Showcase
   - Companion Character
-tier: B
+tier: A
 verdict: "A visually stunning dinosaur adventure that showcases what CryEngine can do in VR, held back by thin gameplay and a short runtime. Worth it on sale, especially for PCVR players with motion controllers."
 heroImage: /images/games/robinson-the-journey-vr-hero.jpg
 sources: "Research conducted via Steam store page, Crytek press releases, Wikipedia, YouTube VR gameplay footage, IGN review, UploadVR review, The Sixth Axis review, and Reddit community reports. No direct testing performed."
