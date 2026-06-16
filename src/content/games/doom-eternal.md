@@ -29,8 +29,6 @@ experienceTags:
   - High Intensity
   - Head-Based Aiming
 tier: D
-gameQualityTier: A
-vrImplementationTier: D
 verdict: "A visually impressive stereoscopic 3D experience that fundamentally fails as a playable VR shooter. The lack of motion controls, 6DOF, and extreme comfort demands make Doom Eternal through injection drivers a curiosity for hardcore fans with iron stomachs — not a recommendation for anyone seeking a proper VR action game."
 heroImage: /images/games/doom-eternal-hero.jpg
 sources: "Research conducted via VorpX community forums, VK3DVision documentation, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Paradise's Decay), Flat2VR Discord community knowledge, Reddit community reports (r/Doom, r/virtualreality, r/flat2vr), and Steam community discussions. Assessment based on compiled community experience; no direct testing performed."

@@ -24,8 +24,6 @@ experienceTags:
   - Competitive
   - Vertical Combat
   - Team-Based
-gameQualityTier: B
-vrImplementationTier: A
 tier: B
 verdict: "A native VR battle royale with genuinely excellent vertical movement mechanics, now free on Quest, but held back by maintenance-mode status and a declining player base."
 heroImage: /images/games/population-one-vr-hero.jpg
