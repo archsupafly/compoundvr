@@ -27,7 +27,7 @@ experienceTags:
   - Resource Scarcity
   - Moral Choices
   - Tense Atmosphere
-tier: A
+tier: S
 verdict: "One of the most substantial native VR games ever made. The physics-driven combat and survival systems create genuine tension that flat screens cannot replicate, though stamina restrictions and occasional jank keep it from perfection."
 heroImage: /images/games/the-walking-dead-saints-and-sinners-vr-hero.jpg
 sources: "Research conducted via Steam store page, Wikipedia, IGN review, UploadVR hands-on coverage, Road to VR review, Reddit community reports (r/Vive, r/OculusQuest, r/PSVR), Unreal Engine developer blog on physics implementation, and YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie). Assessment based on multi-source research compilation. No direct testing performed."

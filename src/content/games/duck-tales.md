@@ -9,7 +9,7 @@ routes:
   - 3dSen VR
   - 3dSen VR Mixed Reality
   - EmuVR
-recommendation: Recommended
+recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Gamepad Preferred
@@ -28,7 +28,7 @@ technicalTags:
 experienceTags:
   - Nostalgic
   - Single-Player
-tier: A
+tier: C
 verdict: "Duck Tales in 3dSen VR transforms Capcom's platforming gem into a dimensional experience that enhances the exploration without compromising the precision pogo-cane gameplay. The voxel conversion adds genuine depth to treasure-filled caverns and moonlit landscapes, making Scrooge's adventure feel more tangible than ever. Essential for retro platformer fans."
 heroImage: /images/games/duck-tales-vr-hero.jpg
 flatReleaseDate: 1989-09-22

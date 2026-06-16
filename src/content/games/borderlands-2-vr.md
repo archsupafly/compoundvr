@@ -26,7 +26,7 @@ experienceTags:
   - Sci-Fi
   - Comedy
   - Loot-Driven
-tier: C
+tier: B
 verdict: "A remarkable technical achievement dragged down by comfort issues, missing multiplayer, and inconsistent performance. Worth a look for Borderlands faithful with strong VR legs, but not the definitive way to play."
 heroImage: /images/games/borderlands-2-vr-hero.jpg
 sources: "Research conducted via IGN, Road to VR, UploadVR, GodisaGeek, Press Start, and Digitally Downloaded review coverage from December 2018. Assessment based on reported launch-period performance, control schemes, and feature set. No direct testing performed."

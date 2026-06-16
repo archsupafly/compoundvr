@@ -26,7 +26,7 @@ experienceTags:
   - Long Campaign
   - Norse Mythology
   - Sword Combat
-tier: A
+tier: S
 verdict: "One of the only AAA-budget native VR games ever made, and it shows. A 30+ hour Norse campaign, physics-driven combat, and god-scale perspective shifts that still have no real peer in PCVR. Minor repetition in the back half doesn't diminish what Sanzaru achieved here — this is the standard for what a fully-funded VR RPG looks like."
 heroImage: /images/games/asgards-wrath-vr-hero.jpg
 sources: "Research compiled from IGN (2019), Road to VR, UploadVR, Metacritic aggregate, Flat2VR Discord community knowledge, Reddit r/ValveIndex and r/oculus community reports on Revive compatibility, and multiple YouTube VR gameplay analyses. No direct testing performed. Assessment based on cross-referenced community consensus and original 2019 launch reviews."

@@ -6,7 +6,7 @@ featured: false
 vrReleaseDate: 2017-12-01
 routeType: Official Standalone VR Version
 platforms: ['PSVR', 'PCVR']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Mostly Playable
 setupBurden: Moderate Setup
 inputStyle: Mixed Input
@@ -25,7 +25,7 @@ experienceTags:
   - Fast-Paced Combat
   - Demon Slaying
   - Arcade Action
-tier: C
+tier: A
 verdict: "An interesting official VR experiment with genuinely inventive combat mechanics, held back by control compromises, short length, and lack of modern platform support. Worth it for Doom fans willing to tinker."
 heroImage: /images/games/doom-vfr-vr-hero.jpg
 sources: "Research conducted via Bethesda/Steam store pages, IGN review, UploadVR review, Road to VR coverage, PCWorld review, Doom Wiki, Steam community reviews and controller binding discussions, Reddit community reports (r/PSVR, r/VRGaming, r/SteamVR), and YouTube VR gameplay footage. No direct testing performed."
