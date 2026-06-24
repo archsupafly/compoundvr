@@ -1,6 +1,6 @@
 ---
 title: "Mortal Shell VR"
-description: "Mortal Shell in UEVR wraps its grim, suffocating world around your head, but the combat still plays out on a gamepad — a strong B-tier for Souls-likes fans with steady stomachs."
+description: "Mortal Shell in UEVR wraps its grim, suffocating world around your head, but the combat still plays out on a gamepad — a C-tier experience — the world is immersive but third-person gamepad combat caps the VR value."
 flatReleaseDate: "2020-08-18"
 lastVerified: "2023-12-31"
 featured: false
@@ -29,7 +29,7 @@ experienceTags:
   - Parry-and-Harden Combat
   - Third-Person VR
   - Hardcore Melee
-tier: B
+tier: C
 verdict: "A grim, atmospheric Souls-like that gains real presence in UEVR, but the lack of motion-controlled melee and the game's punishing camera work make it a recommendation for committed fans rather than a must-play VR conversion."
 heroImage: /images/games/mortal-shell-vr-hero.jpg
 sources: "Research conducted via the UEVR GitHub repository and documentation, the UEVR official site, the UEVR Profiles Hub, UEVR 1.0 release notes, ARVRTips' UEVR guide, general release-date verification sources for Mortal Shell, and the VorpX Mortal Shell forum thread for injection-driver context. No direct testing performed."
