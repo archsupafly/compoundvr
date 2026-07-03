@@ -29,6 +29,7 @@ experienceTags:
 tier: C
 verdict: "A stellar flat campaign with almost no meaningful VR route. Jackal Assault is a compelling five-minute demo, and VorpX unlocks the full game at a steep cost in setup pain and performance."
 flatReleaseDate: '2016-11-04'
+vrReleaseDate: "2016-11-04"
 heroImage: /images/games/call-of-duty-infinite-warfare-vr-hero.jpg
 sources: "Research conducted via Activision/PlayStation Store documentation, VorpX community forums and profile documentation, Paper Crane Games portfolio, IGN and UploadVR coverage of Jackal Assault, Reddit community reports (r/PSVR, r/Infinitewarfare), TheGamer retrospective coverage, and YouTube VR gameplay footage. Assessment based on research compilation [Verified]; no direct testing performed."
 ---

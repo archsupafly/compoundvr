@@ -2,6 +2,7 @@
 title: "Metro 2033 in VR: The Atmosphere Survives the Injection"
 description: "A paid stereoscopic driver brings the original Metro's suffocating tunnels into VR — but don't expect motion controls or a polished VR-native experience."
 flatReleaseDate: 2010-03-16
+vrReleaseDate: 2016-02-15
 lastVerified: 2016-02-15
 featured: false
 routeType: Injection Driver

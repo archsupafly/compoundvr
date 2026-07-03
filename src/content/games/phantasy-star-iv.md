@@ -3,6 +3,7 @@ title: "Phantasy Star IV VR"
 description: "A masterpiece 16-bit RPG wrapped in a lovingly detailed VR bedroom hub — charming for existing owners, inaccessible for everyone else after its 2024 delisting."
 lastVerified: 2024-12-06
 flatReleaseDate: 1993-12-17
+vrReleaseDate: 2024-12-06
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

@@ -2,6 +2,7 @@
 title: "Tomb Raider: Legend VR"
 description: "A nearly 20-year-old platformer injected into VR via VorpX — genuine stereoscopic depth, but you're still playing a 2006 third-person action game with a headset on."
 flatReleaseDate: 2006-04-07
+vrReleaseDate: 2025-05-30
 lastVerified: 2025-05-30
 featured: false
 routeType: Injection Driver

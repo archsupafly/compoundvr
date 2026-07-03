@@ -2,6 +2,7 @@
 title: "Psychonauts in VR: The Game That Refuses to Convert"
 description: "The 2005 platformer masterpiece has no viable VR mod, a broken VorpX profile, and a much better alternative waiting in Psychonauts 2."
 flatReleaseDate: "2005-04-19"
+vrReleaseDate: "2013-10-11"
 lastVerified: "2013-10-11"
 featured: false
 routeType: Injection Driver

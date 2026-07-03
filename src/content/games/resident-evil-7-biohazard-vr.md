@@ -2,6 +2,7 @@
 title: "Resident Evil 7: Biohazard VR"
 description: "One of the best horror games of its generation becomes a physically terrifying VR experience — but the path in depends on which headset you own."
 flatReleaseDate: "2017-01-24"
+vrReleaseDate: "2022-05-17"
 lastVerified: "2022-05-17"
 featured: false
 routeType: "Framework-Based"

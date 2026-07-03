@@ -2,6 +2,7 @@
 title: "Rick and Morty: Virtual Rick-ality VR"
 description: "A native VR comedy adventure that puts you in Rick's garage — funny, polished, and over before you want it to be."
 flatReleaseDate: "2017-04-20"
+vrReleaseDate: "2017-04-20"
 lastVerified: "2017-04-20"
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'PSVR']

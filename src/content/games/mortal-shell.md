@@ -2,6 +2,7 @@
 title: "Mortal Shell VR"
 description: "Mortal Shell in UEVR wraps its grim, suffocating world around your head, but the combat still plays out on a gamepad — a C-tier experience — the world is immersive but third-person gamepad combat caps the VR value."
 flatReleaseDate: "2020-08-18"
+vrReleaseDate: "2023-12-31"
 lastVerified: "2023-12-31"
 featured: false
 routeType: Framework-Based

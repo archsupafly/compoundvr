@@ -2,6 +2,7 @@
 title: "Fallout 4 VR"
 description: "Bethesda's official port of the entire Commonwealth to PCVR is as ambitious as it is rough — a full open-world RPG in your headset, held together with tape, mods, and the sheer audacity of trying it at all."
 flatReleaseDate: '2015-11-10'
+vrReleaseDate: "2018-01-31"
 lastVerified: '2018-01-31'
 featured: false
 routeType: Official Standalone VR Version

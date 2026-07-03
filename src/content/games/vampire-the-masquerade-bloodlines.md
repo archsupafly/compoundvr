@@ -29,6 +29,7 @@ tier: B
 verdict: "An exceptional RPG with a fundamentally limited VR implementation. Worth it for devoted fans willing to tinker, but the injection driver approach leaves too much on the table."
 score: 75
 flatReleaseDate: 2004-11-16
+vrReleaseDate: 2004-11-16
 heroImage: /images/games/vampire-the-masquerade-bloodlines-vr-hero.jpg
 sources: "- VorpX Forums — community profiles and configuration discussion for *Bloodlines* - Reddit r/virtualreality, r/VRGaming, r/vtmb — user experience reports and troubleshooting - RPGFan, Grimdark Magazine, IGN — historical coverage of the base game's quality and legacy - Steam Community — player reports on VorpX compatibility - VorpX provides stereoscopic 3D and head tracking; no motion controls - Dialogue/cutscene camera zoom is a persistent comfort issue - Third-person switches during feeding cannot be prevented - Gamepad recommended over keyboard/mouse for comfort - Unofficial community patch is mandatory for optimal experience - User experiences range from \"fully justified the cost of VorpX\" to frustrated troubleshooting"
 ---

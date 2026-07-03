@@ -2,6 +2,7 @@
 title: "Golem VR"
 description: "One of PSVR's most underrated titles — true 1:1 melee combat, cinematic atmosphere, and a soundtrack from the composer of Halo. The patience it demands is worth it."
 flatReleaseDate: "2019-11-15"
+vrReleaseDate: "2019-12-01"
 lastVerified: "2019-12-01"
 featured: false
 routeType: Official Standalone VR Version

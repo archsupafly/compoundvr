@@ -2,6 +2,7 @@
 title: "Myst VR"
 description: "The landmark puzzle adventure rebuilt from the ground up by its original creators, delivering the definitive way to experience one of gaming's most important worlds."
 flatReleaseDate: 1993-09-24
+vrReleaseDate: 2020-12-10
 lastVerified: 2020-12-10
 featured: false
 routeType: Official Standalone VR Version

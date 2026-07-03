@@ -2,6 +2,7 @@
 title: "Paper Mario: The Thousand-Year Door VR"
 description: "A turn-based GameCube RPG reborn as a paper diorama you can lean over and inspect in a headset — charming, but only if you’re willing to tinker with an emulator."
 flatReleaseDate: "2004-10-11"
+vrReleaseDate: "2016-07-13"
 lastVerified: "2016-07-13"
 featured: false
 routeType: Emulator

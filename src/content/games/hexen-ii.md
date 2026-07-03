@@ -2,6 +2,7 @@
 title: "Hexen II VR"
 description: "A 1997 dark fantasy shooter gets not one but two native VR resurrections — a polished PCVR source port and a brand-new standalone alpha for Quest."
 flatReleaseDate: 1997-06-02
+vrReleaseDate: 2025-01-24
 lastVerified: 2025-01-24
 featured: false
 routeType: Full VR Mod

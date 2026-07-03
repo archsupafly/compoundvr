@@ -2,6 +2,7 @@
 title: "The Legend of Zelda: Twilight Princess VR"
 description: "A beloved Zelda adventure inside a headset, but only if you're willing to wrestle with a half-decade-dead emulator fork and a stack of community hacks."
 flatReleaseDate: "2006-11-19"
+vrReleaseDate: "2016-07-13"
 lastVerified: "2016-07-13"
 featured: false
 routeType: Emulator

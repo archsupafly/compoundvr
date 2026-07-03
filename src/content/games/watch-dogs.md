@@ -32,6 +32,7 @@ verdict: "A gorgeous VR postcard of Chicago that's held back by its third-person
 heroImage: /images/games/watch-dogs-vr-hero.jpg
 sources: "Research conducted via Luke Ross Patreon (R.E.A.L. VR framework), Mixed News VR mod coverage, Eurogamer VR Corner video preview by Ian Higton, YouTube VR gameplay footage, and Flat2VR community knowledge. Assessment based on community testing and media coverage — no direct testing performed."
 flatReleaseDate: "2014-05-27"
+vrReleaseDate: "2024-05-07"
 ---
 
 There's a moment in the Watch Dogs R.E.A.L. VR mod where you're driving down Lakeshore Drive in a tricked-out muscle car, Chicago's skyline filling your peripheral vision, rain sheeting across the windshield, and you stick your head out the side window like a golden retriever in a pickup truck. It's stupid. It's wonderful. And it's the clearest possible signal that this ten-year-old open-world game was always meant to be looked at up close, even if it was never meant to be played inside a headset.

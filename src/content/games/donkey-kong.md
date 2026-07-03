@@ -2,6 +2,7 @@
 title: "Donkey Kong VR"
 description: "A forty-year-old arcade classic, rebuilt as a 3D diorama inside your headset — charming, slight, and over before you've finished adjusting your straps."
 flatReleaseDate: "1981-07-09"
+vrReleaseDate: "2020-01-15"
 lastVerified: "2020-01-15"
 featured: false
 routeType: "Full VR Mod"

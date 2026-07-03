@@ -2,6 +2,7 @@
 title: "Trackmania Turbo VR"
 description: "A thrilling but tightly fenced VR experience — spectacular loops and wall rides in VR, but limited to just 40 tracks and forced third-person camera"
 flatReleaseDate: 2016-03-22
+vrReleaseDate: 2016-03-22
 lastVerified: 2016-03-22
 featured: false
 routeType: Official Hybrid

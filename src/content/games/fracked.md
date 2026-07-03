@@ -2,6 +2,7 @@
 title: "Fracked VR"
 description: "A short but exhilarating arcade shooter with some of the best skiing and cover mechanics in VR — if you can stomach the 3-hour runtime."
 flatReleaseDate: 2021-08-20
+vrReleaseDate: 2024-08-29
 lastVerified: 2024-08-29
 featured: false
 routeType: Official Standalone VR Version

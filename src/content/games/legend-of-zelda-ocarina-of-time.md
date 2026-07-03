@@ -3,6 +3,7 @@ title: "The Legend of Zelda: Ocarina of Time VR"
 description: "There are more ways into Hyrule now — first-person mods, CitraVR on Quest, VRChat worlds, even a UE5 glimpse — but no single path gives you everything. The S-tier game remains; the VR wrapper is still the compromise."
 lastVerified: 2025-06-01
 flatReleaseDate: 1998-11-21
+vrReleaseDate: 2025-06-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']

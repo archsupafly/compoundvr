@@ -5,6 +5,7 @@ lastVerified: 2017-09-18
 featured: false
 routeType: Official Hybrid
 flatReleaseDate: 2016-06-07
+vrReleaseDate: 2017-09-18
 platforms: ['PCVR', 'PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

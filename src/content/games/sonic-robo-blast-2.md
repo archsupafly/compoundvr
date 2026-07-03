@@ -2,6 +2,7 @@
 title: "Sonic Robo Blast 2 VR"
 description: "A fast 3D Sonic fangame strapped to your face, with 6DoF head tracking, zero motion controls, and a stomach-churning first-person mode that proves speed and VR don't always mix."
 flatReleaseDate: 2020-03-17
+vrReleaseDate: 2021-12-24
 lastVerified: 2021-12-24
 featured: false
 routeType: Full VR Mod

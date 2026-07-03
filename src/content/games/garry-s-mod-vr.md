@@ -3,6 +3,7 @@ title: "Garry's Mod VR"
 description: "A community mod turns the ultimate physics sandbox into a janky, hilarious, occasionally nauseating VR playground — and somehow it works."
 lastVerified: 2025-03-10
 flatReleaseDate: 2006-11-29
+vrReleaseDate: 2025-03-10
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

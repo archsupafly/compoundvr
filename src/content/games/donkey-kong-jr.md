@@ -2,6 +2,7 @@
 title: "Donkey Kong Jr. VR"
 description: "A forty-year-old arcade platformer reborn as a 3D voxel diorama inside your headset — charming, brief, and unexpectedly magical."
 flatReleaseDate: "1982-07-10"
+vrReleaseDate: "2019-06-04"
 lastVerified: "2019-06-04"
 featured: false
 routeType: Framework-Based

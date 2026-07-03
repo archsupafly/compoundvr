@@ -2,6 +2,7 @@
 title: "Super Smash Bros Melee VR"
 description: "A legendary fighter rendered as a 3D diorama through Dolphin VR — novel, but not the way Melee was meant to be played."
 flatReleaseDate: 2001-12-03
+vrReleaseDate: 2016-07-13
 lastVerified: 2016-07-13
 featured: false
 routeType: Emulator

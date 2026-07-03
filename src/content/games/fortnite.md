@@ -2,6 +2,7 @@
 title: "Fortnite VR"
 description: "The world's biggest battle royale technically runs in VR — but Epic doesn't want it there, and your stomach might agree."
 flatReleaseDate: "2017-07-25"
+vrReleaseDate: "2024-01-15"
 lastVerified: "2024-01-15"
 featured: false
 routeType: Framework-Based

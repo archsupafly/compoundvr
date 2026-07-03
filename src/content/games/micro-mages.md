@@ -2,6 +2,7 @@
 title: "Micro Mages in VR: The NES Homebrew That Becomes a Living Toy Diorama"
 description: "One of the best NES homebrew games ever made, transformed into a 3D voxel diorama by a dedicated emulator — a rare VR experience that's as comfortable as it is charming."
 flatReleaseDate: "2019-04-30"
+vrReleaseDate: "2020-06-01"
 lastVerified: "2020-06-01"
 featured: false
 routeType: Framework-Based

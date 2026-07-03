@@ -29,6 +29,7 @@ verdict: "Ridge Racer in VR is a novelty that works better than it has any right
 heroImage: /images/games/ridge-racer-vr-hero.jpg
 sources: "Research conducted via PPSSPP official VR documentation (ppsspp.org), PPSSPP GitHub repository (OpenXR PRs #15901, #16273, #16952), Luboš Vonásek developer page, SideQuest listing, Mixed-news and Road to VR coverage, PPSSPP compatibility reports, YouTube VR gameplay footage (believe2200), and Wikipedia. No direct testing performed."
 flatReleaseDate: 2004-12-12
+vrReleaseDate: 2024-06-01
 ---
 
 There's a particular kind of vertigo that hits when a PSP game wraps around your entire field of view. Ridge Racer — the 2004 PSP launch title, not the 1993 arcade original — was built for a 4.3-inch screen in your hands. Playing it inside a Quest 3, with the track stretching to the horizon and the mountains receding into actual stereoscopic depth, feels like climbing inside a diorama of a game you played on the school bus.

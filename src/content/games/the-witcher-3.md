@@ -2,6 +2,7 @@
 title: "The Witcher 3: Wild Hunt VR"
 description: "Experience one of gaming's greatest RPGs in stereoscopic VR—but know what you're signing up for."
 flatReleaseDate: 2015-05-19
+vrReleaseDate: 2019-06-01
 lastVerified: 2019-06-01
 featured: false
 routeType: Injection Driver

@@ -6,6 +6,7 @@ featured: false
 routeType: Official Hybrid
 platforms: ['PSVR']
 flatReleaseDate: 2020-02-14
+vrReleaseDate: 2020-02-14
 recommendation: Recommended with Caveats
 playability: Mostly Playable
 setupBurden: Beginner Friendly

@@ -2,6 +2,7 @@
 title: "Electronauts VR"
 description: "A neon-drenched DJ booth where you can't play a wrong note — Survios' music remixing experience makes everyone feel like a festival headliner, for better and occasionally for worse."
 flatReleaseDate: "2018-08-07"
+vrReleaseDate: "2019-06-06"
 lastVerified: "2019-06-06"
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Quest', 'PSVR']

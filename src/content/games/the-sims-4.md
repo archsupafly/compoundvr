@@ -2,6 +2,7 @@
 title: "The Sims 4 VR"
 description: "A life sim that should be a natural fit for VR, but the only ways in are either abandoned, broken by a DirectX 11 update, or require you to pretend a controller is a mouse."
 flatReleaseDate: '2014-09-02'
+vrReleaseDate: "2021-02-01"
 lastVerified: '2021-02-01'
 featured: false
 routeType: Multi-Route Coverage

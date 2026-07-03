@@ -3,6 +3,7 @@ title: "Phasmophobia VR"
 description: "A co-op ghost hunt that is genuinely terrifying in VR, held back by object-interaction jank and early-access rough edges that never quite went away."
 lastVerified: 2020-09-18
 flatReleaseDate: 2020-09-18
+vrReleaseDate: 2020-09-18
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR2']

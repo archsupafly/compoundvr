@@ -2,6 +2,7 @@
 title: "Republique VR: The Surveillance Thriller That Proves Comfort Can Be Compelling"
 description: "An official VR port of an acclaimed episodic stealth adventure where you watch, guide, and protect — a rare seated experience that makes its third-person camera gimmick feel genuinely immersive."
 flatReleaseDate: "2013-12-19"
+vrReleaseDate: "2020-06-15"
 lastVerified: "2020-06-15"
 featured: false
 routeType: Official Standalone VR Version

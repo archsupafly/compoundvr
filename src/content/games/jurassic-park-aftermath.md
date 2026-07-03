@@ -2,6 +2,7 @@
 title: "Jurassic World Aftermath: The Stealth Survival VR Game That Actually Scares You"
 description: "A native VR stealth experience that proves cel-shaded dinosaurs can be just as terrifying as photorealistic ones — when the sound design is this good."
 flatReleaseDate: 2020-12-17
+vrReleaseDate: 2023-02-22
 lastVerified: 2023-02-22
 featured: false
 routeType: Official Standalone VR Version

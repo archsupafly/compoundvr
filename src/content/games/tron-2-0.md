@@ -2,6 +2,7 @@
 title: "TRON 2.0 in VR: The Injection Route That Makes a 2003 Classic Glow"
 description: "A visually striking VorpX profile of a cult-classic shooter that proves some aesthetics transcend their era — but also proves injection drivers have a hard ceiling."
 flatReleaseDate: "2003-08-26"
+vrReleaseDate: "2019-12-01"
 lastVerified: "2019-12-01"
 featured: false
 routeType: Injection Driver

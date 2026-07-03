@@ -27,6 +27,7 @@ experienceTags:
 tier: B
 verdict: "One of the strongest injection driver profiles available. The parkour, scale, and clean art direction translate exceptionally well to stereoscopic 3D, but intense movement and lack of motion controls make it a niche proposition for VR veterans only."
 flatReleaseDate: 2009-01-13
+vrReleaseDate: 2009-01-13
 heroImage: /images/games/mirrors-edge-vr-hero.jpg
 sources: "Research conducted via VorpX official forums and documentation, YouTube VR gameplay footage, Flat2VR Discord community knowledge, Reddit community reports (r/mirrorsedge, r/vive), and PC Gamer historical coverage of Vireio Perception. No direct testing performed."
 ---

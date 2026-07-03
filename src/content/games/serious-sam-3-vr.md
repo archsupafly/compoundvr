@@ -2,6 +2,7 @@
 title: "Serious Sam 3 VR: BFE"
 description: "A proper native VR port from the actual developers—no mods, no injections, just the full Serious Sam chaos campaign rebuilt for headsets."
 flatReleaseDate: "2011-11-22"
+vrReleaseDate: "2017-11-09"
 lastVerified: "2017-11-09"
 routeType: Official Standalone VR Version
 platforms: ['PCVR']

@@ -2,6 +2,7 @@
 title: "Saints Row The Third in VR: The Mod That Lets You Wreck Steelport With Your Actual Hands"
 description: "A free community mod with full motion controls and weapon tracking turns this chaotic open-world crime sim into a surprisingly physical VR experience — if you can tolerate broken cutscenes and some jank."
 flatReleaseDate: "2011-11-15"
+vrReleaseDate: "2024-01-03"
 lastVerified: "2024-01-03"
 featured: false
 routeType: Full VR Mod

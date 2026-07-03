@@ -2,6 +2,7 @@
 title: "Just in Time Incorporated VR"
 description: "A native VR puzzle-comedy where you teleport through slow-motion disasters to save ridiculous clients from absurd deaths — charming, comfortable, and over in about ninety minutes."
 flatReleaseDate: 2017-07-27
+vrReleaseDate: 2017-07-27
 lastVerified: 2017-07-27
 featured: false
 routeType: Official Standalone VR Version

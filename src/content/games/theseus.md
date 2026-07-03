@@ -2,6 +2,7 @@
 title: "Theseus VR"
 description: "A two-hour descent into a labyrinth where the Minotaur is terrifying, the combat is thin, and third-person VR proves it can work when it's deliberate."
 flatReleaseDate: "2017-07-26"
+vrReleaseDate: "2017-07-26"
 lastVerified: "2017-07-26"
 featured: false
 routeType: Official Standalone VR Version

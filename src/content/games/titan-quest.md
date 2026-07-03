@@ -2,6 +2,7 @@
 title: "Titan Quest VR"
 description: "A classic ARPG in VR via vorpX — stereoscopic 3D on a giant virtual screen, but don't expect motion controls or a transformed experience."
 flatReleaseDate: "2016-08-31"
+vrReleaseDate: "2020-04-04"
 lastVerified: "2020-04-04"
 featured: false
 routeType: Injection Driver

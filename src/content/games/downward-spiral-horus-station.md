@@ -30,6 +30,7 @@ tier: B
 verdict: "A compelling zero-G locomotion showcase wrapped in a haunting atmosphere, held back by thin narrative and repetitive combat. Best enjoyed in Explore mode with a friend."
 heroImage: /images/games/downward-spiral-horus-station-vr-hero.jpg
 flatReleaseDate: 2018-05-31
+vrReleaseDate: 2018-05-31
 sources: "Research conducted via Steam store page, Road to VR review, UploadVR review, Eurogamer / Ian's VR Corner video coverage, Hey Poor Player review, PlayStation Store page, and community consensus from Reddit r/PSVR. Assessment based on research compilation from multiple independent sources, not direct testing."
 ---
 

@@ -2,6 +2,7 @@
 title: "Along Together VR"
 description: "A charming third-person puzzle platformer where you play as a kid's imaginary friend, manipulating the world with a giant disembodied hand."
 flatReleaseDate: 2018-05-29
+vrReleaseDate: 2018-05-29
 lastVerified: 2018-05-29
 featured: false
 routeType: Official Standalone VR Version

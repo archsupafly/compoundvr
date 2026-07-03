@@ -2,6 +2,7 @@
 title: "Battle Kid: Fortress of Peril VR"
 description: "An uncompromising NES hardcore platformer wrapped in a 3D voxel diorama—novel presentation, same brutal difficulty."
 flatReleaseDate: "2010-02-22"
+vrReleaseDate: "2018-12-24"
 lastVerified: "2018-12-24"
 routeType: "Framework-Based"
 platforms: ['PCVR']

@@ -2,6 +2,7 @@
 title: "BOXVR: The VR Workout That Actually Earns Its Sweat"
 description: "A rhythm boxing fitness game built natively for VR that delivers a genuine workout without the gimmicks — though its best days may be behind it."
 flatReleaseDate: "2019-04-30"
+vrReleaseDate: "2019-05-21"
 lastVerified: "2019-05-21"
 featured: false
 routeType: Official Standalone VR Version

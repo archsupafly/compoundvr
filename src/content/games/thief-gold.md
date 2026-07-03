@@ -2,6 +2,7 @@
 title: "Thief Gold VR"
 description: "A 26-year-old stealth masterpiece injected into VR via VorpX — Z3D depth brings the darkness to life, but you're still playing a 1999 keyboard-and-mouse stealth game with a headset on."
 flatReleaseDate: 1999-10-01
+vrReleaseDate: 2018-04-08
 lastVerified: 2018-04-08
 featured: false
 routeType: Injection Driver

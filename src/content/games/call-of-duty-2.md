@@ -2,6 +2,7 @@
 title: "Call of Duty 2 VR"
 description: "A twenty-year-old WWII shooter in stereoscopic 3D via VorpX — worth it for the curious, but don't expect a native VR overhaul."
 flatReleaseDate: "2005-10-25"
+vrReleaseDate: "2021-11-23"
 lastVerified: "2021-11-23"
 featured: false
 routeType: "Injection Driver"

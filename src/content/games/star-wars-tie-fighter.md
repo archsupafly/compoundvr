@@ -2,6 +2,7 @@
 title: "Star Wars: TIE Fighter VR"
 description: "The greatest space combat sim ever made, rebuilt for VR by fans who refused to let it die. Cockpit presence this good comes with setup friction this real."
 flatReleaseDate: "1994-07-01"
+vrReleaseDate: "2021-07-06"
 lastVerified: "2021-07-06"
 featured: false
 routeType: Full VR Mod

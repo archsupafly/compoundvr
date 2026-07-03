@@ -2,6 +2,7 @@
 title: "Pikmin VR"
 description: "The original Pikmin works in VR through an abandoned 2016 emulator fork. The diorama charm is real, but the setup friction and dead software make this a museum piece, not a recommendation."
 flatReleaseDate: "2001-10-26"
+vrReleaseDate: "2016-07-13"
 lastVerified: "2016-07-13"
 featured: false
 routeType: Emulator

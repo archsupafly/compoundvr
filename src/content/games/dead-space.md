@@ -27,6 +27,7 @@ tier: B
 verdict: "The game itself is an A-tier survival horror classic with brilliant AI, sound design, and diegetic UI. The VorpX injection earns a C+ on the VR implementation scale — genuine stereoscopic depth and solid stability, but no motion controls, no VR-native interaction, and a third-person camera that places you beside Isaac rather than inside him. Combined, it's a B: worth playing if you understand what injection drivers provide and you can handle the amplified horror intensity."
 heroImage: /images/games/dead-space-vr-hero.jpg
 flatReleaseDate: 2008-10-14
+vrReleaseDate: 2008-10-14
 ---
 
 # Dead Space in VR: The Ishimura at Arm's Length

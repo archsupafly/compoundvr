@@ -5,6 +5,7 @@ lastVerified: 2008-04-10
 featured: false
 routeType: Emulator
 flatReleaseDate: 2008-04-10
+vrReleaseDate: 2008-04-10
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable

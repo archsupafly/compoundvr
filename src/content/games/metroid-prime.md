@@ -30,6 +30,7 @@ experienceTags:
 tier: A
 verdict: "Metroid Prime through Dolphin VR with the Primed mod is one of the best emulator-driven VR experiences available — a legendary first-person adventure that gains genuine spatial presence from stereoscopic 3D and head tracking, now elevated by motion-tracked arm cannon aiming that makes combat and scanning feel like native VR. The visor system, the scale of Tallon IV, and the solitary exploration all translate beautifully. But the comfort profile remains punishing for sensitive players — smooth locomotion, camera cuts, and morph ball haven't changed — and the occasional graphical quirk reminds you this is a hack, not a native port. The motion controls close the gap between this and the real thing; your stomach is still the gatekeeper."
 flatReleaseDate: 2002-11-17
+vrReleaseDate: 2026-05-15
 heroImage: /images/games/metroid-prime-vr-hero.jpg
 sources: "Research conducted via PC Gamer, Rock Paper Shotgun, Dolphin VR community documentation, Dolphin XR and PrimedGun GitHub repositories (Nobbie248/PrimedGun), Reddit community reports (r/Dolphin_VR, r/Metroid, r/Vive, r/virtualreality), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Vrified Games), Flat2VR Discord community knowledge, and ExplorXR coverage. No direct testing performed. Assessment is based on cross-referenced community consensus and PrimedGun release documentation through May 2026."
 ---

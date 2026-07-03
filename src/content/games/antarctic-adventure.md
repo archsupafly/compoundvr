@@ -3,6 +3,7 @@ title: "Antarctic Adventure VR"
 description: "A free, university-developed Antarctic educational experience that's over in under an hour and only speaks Spanish. Here's who should bother."
 lastVerified: "2022-07-14"
 flatReleaseDate: "2022-07-14"
+vrReleaseDate: "2022-07-14"
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR']

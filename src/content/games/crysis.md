@@ -29,6 +29,7 @@ verdict: "The fholger VR mod turns one of the most influential FPS campaigns eve
 heroImage: /images/games/crysis-vr-hero.jpg
 sources: "Research conducted via fholger GitHub repository and releases, UploadVR coverage, DSOGaming mod announcement, YouTube VR gameplay footage (multiple channels), Reddit community reports (r/VRGaming, r/virtualreality), and Flat2VR Discord community knowledge. No direct testing performed."
 flatReleaseDate: 2007-11-13
+vrReleaseDate: 2007-11-13
 ---
 
 # Crysis VR: The Full Mod That Finally Answers the Meme

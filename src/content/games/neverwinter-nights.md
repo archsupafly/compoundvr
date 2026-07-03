@@ -2,6 +2,7 @@
 title: "Neverwinter Nights VR"
 description: "A VorpX injection driver profile brings BioWare's 2002 CRPG into stereoscopic 3D, but the Enhanced Edition's modern OpenGL renderer remains stubbornly incompatible."
 flatReleaseDate: 2002-06-18
+vrReleaseDate: 2021-10-12
 lastVerified: 2021-10-12
 featured: false
 routeType: Injection Driver

@@ -33,6 +33,7 @@ tier: B
 verdict: "One of the most complete VR racing packages of its era, delivering exceptional cockpit presence and unmatched weather dynamics — if your hardware can keep up and you can tolerate navigating flat menus from inside a headset."
 heroImage: /images/games/project-cars-2-vr-hero.jpg
 flatReleaseDate: 2017-09-22
+vrReleaseDate: 2017-09-22
 sources: "Research conducted via Slightly Mad Studios official documentation, Bandai Namco press materials, Steam store page and community discussions, UploadVR hands-on preview (July 2017), BabelTechReviews VR performance evaluation, YouTube VR gameplay footage from Gamertag VR and Ian from Eurogamer, and Reddit community reports from r/Vive, r/oculus, and r/pcars. Assessment based on research compilation from multiple independent sources; no direct hands-on testing performed."
 ---
 

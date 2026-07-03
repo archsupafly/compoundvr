@@ -2,6 +2,7 @@
 title: "World of Warcraft VR"
 description: "A decade-in-the-making community mod finally brings Azeroth to VR, but only if you're willing to leave the official servers behind."
 flatReleaseDate: 2004-11-23
+vrReleaseDate: 2024-04-15
 lastVerified: 2024-04-15
 featured: false
 routeType: Full VR Mod

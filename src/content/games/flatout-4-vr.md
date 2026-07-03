@@ -2,6 +2,7 @@
 title: "FlatOut 4 VR"
 description: "An official VR port that turns destructive arcade racing into a white-knuckle cockpit experience, assuming your stomach can handle the ride."
 flatReleaseDate: "2017-04-04"
+vrReleaseDate: "2026-05-07"
 lastVerified: "2026-05-07"
 featured: false
 routeType: "Official Standalone VR Version"

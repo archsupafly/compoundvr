@@ -2,6 +2,7 @@
 title: "Left 4 Dead VR"
 description: "The co-op zombie classic gets a VorpX injection that adds depth and head tracking, but cannot escape the fact that it was never built for your hands."
 flatReleaseDate: "2008-11-18"
+vrReleaseDate: "2021-06-19"
 lastVerified: "2021-06-19"
 featured: false
 routeType: "Injection Driver"

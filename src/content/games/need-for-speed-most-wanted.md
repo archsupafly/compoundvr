@@ -2,6 +2,7 @@
 title: "Need for Speed: Most Wanted VR"
 description: "The 2012 open-world racer runs in VR through injection, but the thrill of speed collides hard with the limits of the tech."
 flatReleaseDate: "2012-10-30"
+vrReleaseDate: "2018-11-09"
 lastVerified: "2018-11-09"
 featured: false
 routeType: Injection Driver

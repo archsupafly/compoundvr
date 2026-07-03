@@ -5,6 +5,7 @@ featured: false
 routeType: Emulator
 tier: C
 flatReleaseDate: 2005-03-24
+vrReleaseDate: 2022-09-28
 lastVerified: 2022-09-28
 platforms: ['Quest', 'Pico']
 recommendation: Enthusiasts/Tinkerers Only

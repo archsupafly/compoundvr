@@ -3,6 +3,7 @@ title: "Hitman: World of Assassination VR"
 description: "After years of half-measures, IO Interactive finally turned its stealth trilogy into a proper VR sandbox — and the assassination fantasy is strong enough to justify the headset on its own."
 featured: false
 flatReleaseDate: "2021-01-20"
+vrReleaseDate: "2025-09-25"
 lastVerified: "2025-09-25"
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR2']

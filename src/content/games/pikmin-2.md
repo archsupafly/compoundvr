@@ -2,6 +2,7 @@
 title: "Pikmin 2 VR"
 description: "Pikmin 2 in VR turns you into a tiny treasure hunter in a giant garden, but only if you're willing to wrestle an abandoned emulator and accept that you'll still be commanding Pikmin with a gamepad."
 flatReleaseDate: "2004-04-29"
+vrReleaseDate: "2020-12-31"
 lastVerified: "2020-12-31"
 featured: false
 routeType: Emulator

@@ -2,6 +2,7 @@
 title: "Gothic III VR"
 description: "A troubled 2006 open-world RPG finds new life through VorpX injection, but the Genome engine's single-threaded stutters and skybox glitches make this a pilgrimage for devoted fans only."
 flatReleaseDate: 2006-10-13
+vrReleaseDate: 2017-05-22
 lastVerified: 2017-05-22
 featured: false
 routeType: Injection Driver

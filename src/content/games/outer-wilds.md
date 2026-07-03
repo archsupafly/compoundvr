@@ -2,6 +2,7 @@
 title: "Outer Wilds VR"
 description: "A fiercely ambitious full-motion VR mod that transforms one of gaming's greatest space mysteries into a physically overwhelming, unforgettable headset experience."
 flatReleaseDate: 2019-05-30
+vrReleaseDate: 2024-01-01
 lastVerified: 2024-01-01
 featured: false
 routeType: Full VR Mod

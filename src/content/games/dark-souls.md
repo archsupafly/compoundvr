@@ -2,6 +2,7 @@
 title: "Dark Souls VR"
 description: "A dedicated VR mod brings Lordran to life in first-person, but the combat doesn't always survive the translation."
 flatReleaseDate: "2011-09-22"
+vrReleaseDate: "2022-06-15"
 lastVerified: "2022-06-15"
 featured: false
 routeType: Full VR Mod

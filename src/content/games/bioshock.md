@@ -2,6 +2,7 @@
 title: "BioShock VR"
 description: "The closest you'll get to Rapture in VR is a Half-Life: Alyx mod, and that's both thrilling and telling."
 flatReleaseDate: "2007-08-21"
+vrReleaseDate: "2022-03-15"
 lastVerified: "2022-03-15"
 routeType: "Full VR Mod"
 platforms: ['PCVR']

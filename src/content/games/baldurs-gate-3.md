@@ -2,6 +2,7 @@
 title: "Baldur's Gate 3 VR"
 description: "A brilliant CRPG squeezed into a headset through a paid full-VR mod or a vorpX screen profile — neither route fixes the fact that Baldur's Gate 3 was never meant to live there."
 flatReleaseDate: 2023-08-03
+vrReleaseDate: 2024-01-15
 lastVerified: 2024-01-15
 featured: false
 routeType: Multi-Route Coverage

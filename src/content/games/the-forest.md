@@ -1,6 +1,7 @@
 ---
 title: "The Forest VR"
 flatReleaseDate: 2014-05-30
+vrReleaseDate: 2019-09-10
 description: "A brutal survival horror game that earned its reputation on flat screens, then showed up in VR with full motion controls, a 3D inventory, and caves that feel genuinely claustrophobic."
 lastVerified: "2019-09-10"
 featured: false

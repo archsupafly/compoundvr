@@ -2,6 +2,7 @@
 title: "Battlefield 3 VR"
 description: "A legendary shooter trapped behind an injection driver, with no multiplayer, no motion controls, and no compelling reason to bother."
 flatReleaseDate: 2011-10-25
+vrReleaseDate: 2022-01-01
 lastVerified: 2022-01-01
 featured: false
 routeType: Injection Driver

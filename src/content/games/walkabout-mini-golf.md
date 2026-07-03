@@ -2,6 +2,7 @@
 title: "Walkabout Mini Golf: The One VR Game I'd Actually Recommend to My Parents"
 description: "A native VR mini-golf experience with best-in-class physics, generous cross-play, and the rare quality of being as relaxing as the real thing."
 flatReleaseDate: 2020-09-24
+vrReleaseDate: 2020-09-24
 lastVerified: 2020-09-24
 featured: false
 routeType: Official Standalone VR Version

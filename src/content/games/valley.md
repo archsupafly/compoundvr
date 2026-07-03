@@ -2,6 +2,7 @@
 title: "Valley VR"
 description: "A Unity VR injection mod turns Blue Isle's first-person speed-platformer into a headset experience — thrilling traversal, broken menus, and the unmistakable feeling of a flat game forced into VR."
 flatReleaseDate: 2016-08-24
+vrReleaseDate: 2022-08-01
 lastVerified: "2022-08-01"
 featured: false
 routeType: Framework-Based

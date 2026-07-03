@@ -2,6 +2,7 @@
 title: "DOOM II VR"
 description: "The classic demon shooter feels like it was always meant for VR — if you can handle the speed"
 flatReleaseDate: "1994-10-10"
+vrReleaseDate: "2023-01-15"
 lastVerified: "2023-01-15"
 featured: false
 routeType: Full VR Mod

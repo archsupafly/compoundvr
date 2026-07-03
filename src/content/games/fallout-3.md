@@ -2,6 +2,7 @@
 title: "Fallout 3 VR"
 description: "A VorpX injection driver profile brings Bethesda's 2008 wasteland RPG into VR with head tracking and stereoscopic 3D, but gamepad-only controls and engine fragility keep it from feeling like a true VR experience."
 flatReleaseDate: "2008-10-28"
+vrReleaseDate: "2017-10-23"
 lastVerified: "2017-10-23"
 featured: false
 routeType: Injection Driver

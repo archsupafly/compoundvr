@@ -3,6 +3,7 @@ title: "Xing: The Land Beyond VR"
 description: "A meditative puzzle journey through the afterlife that feels like stepping inside a watercolor painting—if you're willing to puzzle your way through without a safety net."
 lastVerified: 2019-02-12
 flatReleaseDate: 2017-09-21
+vrReleaseDate: 2019-02-12
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR']

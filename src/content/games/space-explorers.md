@@ -3,6 +3,7 @@ title: "Space Explorers VR"
 description: "A free, Emmy-winning VR documentary filmed by astronauts aboard the International Space Station — breathtaking footage wrapped in a frustrating app."
 lastVerified: 2020-10-22
 flatReleaseDate: 2020-10-22
+vrReleaseDate: 2020-10-22
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['Quest', 'Rift']

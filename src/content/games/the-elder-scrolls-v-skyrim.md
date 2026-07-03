@@ -2,6 +2,7 @@
 title: "The Elder Scrolls V: Skyrim VR"
 description: "The official VR port of one of the great open-world RPGs is janky, dated, and still one of the most compelling reasons to own a PCVR headset."
 flatReleaseDate: "2011-11-11"
+vrReleaseDate: "2018-04-03"
 lastVerified: "2018-04-03"
 featured: false
 routeType: "Official Standalone VR Version"
