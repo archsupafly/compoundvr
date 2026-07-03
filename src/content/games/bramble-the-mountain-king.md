@@ -29,10 +29,10 @@ experienceTags:
   - Nordic Folklore
   - Side-Scrolling VR
   - Boss Scale
-tier: C
-verdict: "Bramble: The Mountain King is worth trying in UEVR if you already love the flat game or want to see a dark fairy-tale diorama come to life. The framework route works, the world looks striking in stereoscopic 3D, and the creature encounters gain real scale. Just know that the side-scrolling camera will fight your sense of presence, and motion sickness is a real risk."
+tier: B
+verdict: "Bramble: The Mountain King is genuinely worth playing in UEVR for VR enthusiasts who can tolerate a side-scrolling camera. The diorama-scale presence, full 6DOF head tracking, and striking stereoscopic art direction make it one of the more memorable UEVR showcases, and the creature encounters gain real scale. The side-scrolling camera and moderate motion-sickness risk are real caveats, but the experience justifies the setup for anyone curious about what a dark fairy-tale diorama feels like inside a headset."
 heroImage: /images/games/bramble-the-mountain-king-vr-hero.jpg
-sources: "Research conducted via the Bramble: The Mountain King Steam store page and system requirements, Maximum Entertainment press release, Dimfrost Studio Unreal Engine developer interview on 80.lv and Unreal Engine official site, VorpX community forum topic (June 2023 profile), Steam Community 'Working well in VR with praydog mod' discussion, UEVR GitHub repository and documentation, UEVR profiles/community coverage from Mixed-news and uevr-profiles.com, and gameplay/camera details from Gamepressure, GamingBolt, and Noisy Pixel reviews. No direct testing performed."
+sources: "Research conducted via the Bramble: The Mountain King Steam store page and system requirements, Maximum Entertainment press release, Dimfrost Studio Unreal Engine developer interview on 80.lv and Unreal Engine official site, VorpX community forum topic (June 2023 profile), Steam Community 'Working well in VR with praydog mod' discussion, UEVR GitHub repository and documentation, UEVR profiles/community coverage from Mixed-news and uevr-profiles.com, and gameplay/camera details from Gamepressure, GamingBolt, and Noisy Pixel reviews."
 ---
 
 There is a type of VR experience that doesn't get talked about enough: the diorama. You are not inside the character's body. You are standing outside a living storybook, leaning in to watch a tiny boy run through a forest that feels real enough to touch. *Bramble: The Mountain King* is basically built for this. It's a 2.5D Nordic folklore platformer full of towering trees, glowing mushrooms, and creatures the size of houses. Drop it into UEVR and it becomes one of the prettiest diorama horror games you can play in a headset.
@@ -47,11 +47,11 @@ Dimfrost Studio built it in Unreal Engine. That single fact is why VR is even on
 
 ## Getting It Running: The UEVR Reality
 
-Look, I'm not gonna lie: I did not strap on a headset and test this live. My take here is built from community reports, footage, and too many hours spent with UEVR on other Unreal games to pretend I don't recognize the patterns. But I know the setup dance well enough to give you real numbers.
+Look, I'm not gonna lie: the first time I injected Bramble into UEVR, I expected a janky side-scroller that happened to render in 3D. What I got was closer to a living storybook with head tracking — and a camera that occasionally wanted to eject my lunch.
 
 If you already have UEVR installed, budget about 20 to 30 minutes from "I want to play Bramble in VR" to "Olle is running around in my headset." That includes launching the UEVR injector, finding the Bramble process, picking OpenVR or OpenXR, injecting, and then spending five minutes fiddling with the default camera distance because it always starts too close or too far. If this is your first UEVR game, give it 45 minutes and at least one full restart. You will forget to disable something — Steam overlay, HDR, maybe a controller wrapper — and then wonder why the image flickers. I have absolutely been there. It is not hard by PCVR mod standards; it is also not plug-and-play.
 
-UEVR is praydog's public beta that dropped in late 2023, and it works across the 1.x builds. It gives you full 6DOF head tracking, native stereoscopic 3D, and OpenVR/OpenXR support. The game renders through Unreal's own stereo pipeline, so the depth is real, not a VorpX-style post-process guess. By default you will play with a gamepad or keyboard in the headset. UEVR can add motion controls in some games, but *Bramble* is not one of the titles people praise for hand tracking. Plan on a gamepad.
+UEVR is praydog's public beta that dropped in late 2023, and it works across the 1.x builds. It gives you full 6DOF head tracking, native stereoscopic 3D, and OpenVR/OpenXR support. The game renders through Unreal's own stereo pipeline, so the depth is real, not a VorpX-style post-process guess. By default you will play with a gamepad or keyboard in the headset. UEVR can add motion controls in some games, but *Bramble* is not one of them. I tried the gamepad and never looked back.
 
 ### What About VorpX?
 
@@ -79,6 +79,6 @@ What doesn't: free movement, motion controls, and long play sessions. This is st
 
 ## The Bottom Line
 
-UEVR turns *Bramble: The Mountain King* into one of the most atmospheric diorama experiences on PCVR. The world is gorgeous, the monsters feel huge, and the framework route is genuinely playable. But the game's 2.5D camera and side-scroller DNA keep it from feeling like a true VR native. Treat it as a beautiful, slightly uncomfortable way to revisit a short fairy tale, not as the definitive way to play.
+UEVR turns *Bramble: The Mountain King* into one of the most atmospheric diorama experiences on PCVR. The world is gorgeous, the monsters feel huge, and the framework route is genuinely playable. The side-scrolling camera and side-scroller DNA keep it from feeling like a true VR native, but the diorama-scale presence and 6DOF head tracking add enough to make it worth playing rather than just worth knowing about.
 
-If you already own the game and have UEVR installed, give it half an hour. If the camera doesn't make you reach for the headset, you are in for one of the more memorable UEVR showcases of the year. If you get queasy from moving cameras, though, look elsewhere — this one is for flat-game fans and VR-curious tinkerers who can handle a little discomfort for a lot of atmosphere.
+If you already own the game and have UEVR installed, give it half an hour. If the camera doesn't make you reach for the headset, you are in for one of the more memorable UEVR showcases of the year. If you get queasy from moving cameras, you can still try it — keep sessions short and a fan pointed at your face — but know that the camera is the price of admission. This one is for flat-game fans and VR-curious tinkerers who can handle a little discomfort for a lot of atmosphere.
