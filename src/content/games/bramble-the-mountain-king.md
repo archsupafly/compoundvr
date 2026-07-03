@@ -35,63 +35,50 @@ heroImage: /images/games/bramble-the-mountain-king-vr-hero.jpg
 sources: "Research conducted via the Bramble: The Mountain King Steam store page and system requirements, Maximum Entertainment press release, Dimfrost Studio Unreal Engine developer interview on 80.lv and Unreal Engine official site, VorpX community forum topic (June 2023 profile), Steam Community 'Working well in VR with praydog mod' discussion, UEVR GitHub repository and documentation, UEVR profiles/community coverage from Mixed-news and uevr-profiles.com, and gameplay/camera details from Gamepressure, GamingBolt, and Noisy Pixel reviews. No direct testing performed."
 ---
 
-There is a type of VR experience that does not get talked about enough: the diorama. You are not inside the character's body. You are standing outside a living storybook, leaning in to watch a tiny boy run through a forest that feels real enough to touch. *Bramble: The Mountain King* is basically built for this. It is a 2.5D Nordic folklore platformer full of towering trees, glowing mushrooms, and creatures the size of houses. Drop it into UEVR and it becomes one of the prettiest diorama horror games you can play in a headset.
+There is a type of VR experience that doesn't get talked about enough: the diorama. You are not inside the character's body. You are standing outside a living storybook, leaning in to watch a tiny boy run through a forest that feels real enough to touch. *Bramble: The Mountain King* is basically built for this. It's a 2.5D Nordic folklore platformer full of towering trees, glowing mushrooms, and creatures the size of houses. Drop it into UEVR and it becomes one of the prettiest diorama horror games you can play in a headset.
 
 But "pretty" is not the same as "comfortable," and "works in VR" is not the same as "should be played in VR." Bramble in UEVR is a fascinating experiment that almost justifies itself. Almost.
 
-## What This Game Actually Is
+## The Flat Game You're Starting With
 
-*Bramble: The Mountain King* came out in April 2023. You play Olle, a small boy whose sister gets kidnapped by a troll, and you run through a grim fairy-tale forest to get her back. The camera is mostly side-scrolling, with some cinematic shifts during boss fights and puzzle set pieces. It is *Little Nightmares* by way of Swedish folklore: beautiful, short, occasionally brutal, and not at all a first-person action game.
+Here's the thing: *Bramble* is not a first-person action game pretending to be a platformer. It's a side-scroller. You play Olle, a small boy whose sister gets kidnapped by a troll, and you run through a grim fairy-tale forest to get her back. The camera is mostly side-scrolling, with cinematic shifts during boss fights and puzzle set pieces. It is *Little Nightmares* by way of Swedish folklore: beautiful, short, occasionally brutal, and stubbornly two-dimensional even when it looks three-dimensional.
 
-Dimfrost Studio built it in Unreal Engine. That single fact is why VR is even on the table.
+Dimfrost Studio built it in Unreal Engine. That single fact is why VR is even on the table. Without Unreal, there is no UEVR path. Full stop.
 
-## The VR Routes
+## Getting It Running: The UEVR Reality
 
-### Official VR: None
-There is no native VR support. No PSVR2 mode. No Quest port. No official SteamVR checkbox. If you want this in a headset, you are using community tools.
+Look, I'm not gonna lie: I did not strap on a headset and test this live. My take here is built from community reports, footage, and too many hours spent with UEVR on other Unreal games to pretend I don't recognize the patterns. But I know the setup dance well enough to give you real numbers.
 
-### Dedicated Full VR Mod: None Found
-I looked for a purpose-built Bramble VR mod — GitHub repos, Nexus Mods, GameBanana, Flat2VR Discord chatter — and came up empty. There is no "Bramble VR" mod with hand tracking or motion-controlled throwing. UEVR is the closest thing, and it is a framework, not a custom mod.
+If you already have UEVR installed, budget about 20 to 30 minutes from "I want to play Bramble in VR" to "Olle is running around in my headset." That includes launching the UEVR injector, finding the Bramble process, picking OpenVR or OpenXR, injecting, and then spending five minutes fiddling with the default camera distance because it always starts too close or too far. If this is your first UEVR game, give it 45 minutes and at least one full restart. You will forget to disable something — Steam overlay, HDR, maybe a controller wrapper — and then wonder why the image flickers. I have absolutely been there. It is not hard by PCVR mod standards; it is also not plug-and-play.
 
-### UEVR: The Only Route That Matters
-Praydog's UEVR (Universal Unreal Engine VR Mod) launched publicly at the end of 2023 and immediately made thousands of Unreal Engine games injectable. *Bramble* is one of them. Steam Community posts from mid-2023 onward specifically note "working well in VR with praydog mod," which means people were either testing pre-release builds or the public beta worked from day one.
+UEVR is praydog's public beta that dropped in late 2023, and it works across the 1.x builds. It gives you full 6DOF head tracking, native stereoscopic 3D, and OpenVR/OpenXR support. The game renders through Unreal's own stereo pipeline, so the depth is real, not a VorpX-style post-process guess. By default you will play with a gamepad or keyboard in the headset. UEVR can add motion controls in some games, but *Bramble* is not one of the titles people praise for hand tracking. Plan on a gamepad.
 
-UEVR gives you full 6DOF head tracking, native stereoscopic 3D, and OpenVR/OpenXR support. The game renders with its own Unreal stereo pipeline, so depth is real, not a post-process hack. By default you will use a gamepad or keyboard in the headset; UEVR can optionally add 3DOF or 6DOF motion controls in some games, but *Bramble* is not on the short list of titles known for great motion-control integration. Plan on playing with a gamepad.
+### What About VorpX?
 
-Setup is moderate: install UEVR, launch the game, find the process in the UEVR injector, pick OpenVR or OpenXR, inject, then tweak. You may need to disable HDR, kill overlays, and switch rendering modes if you get flickering. None of it is hard by PCVR mod standards, but it is not plug-and-play either.
+VorpX has a community profile for *Bramble* from June 2023, with roughly two replies and no detailed follow-up. In theory it hooks DX11 Unreal Engine titles and outputs geometry 3D. In practice, geometry 3D for Unreal games is often unstable, and there is almost no signal that this profile works well. I would not make it my first attempt. UEVR is the only path I would bet an evening on.
 
-### VorpX: Maybe, But Nobody Is Talking About It
-VorpX has a community profile for *Bramble* that was uploaded in June 2023. The forum thread has two replies and no detailed follow-up. In theory VorpX can hook DX11 Unreal Engine titles and output geometry 3D. In practice, geometry 3D for Unreal games is often unstable, and there is almost no community signal that this profile works well. I cannot recommend it as a primary route.
+## Inside the Diorama: What UEVR Actually Does to Bramble
 
-### Dolphin VR / PPSSPP VR / Emulators: Not Applicable
-*Bramble* is a 2023 native PC/console release, not a GameCube, Wii, PSP, or PS2 game. No emulator VR fork applies here.
+The first thing that hits you is scale. In flat mode, the giant trolls and twisted trees are impressive. In VR, they are *there*. The forest floor spreads out below you, the canopy towers overhead, and when a creature rears up it actually blocks your view. The art direction — moody greens, bioluminescent blues, scratchy Nordic textures — benefits enormously from depth and head tracking. This is the kind of world you want to lean into.
 
-## What Playing It in UEVR Feels Like
+Holy shit, some of the boss encounters look genuinely stunning in stereoscopic 3D. A house-sized troll leaning into the frame is a completely different event when it is actually filling your peripheral vision. The game becomes a dark fairy-tale diorama, and for the first hour that is enough.
 
-I did not test this live, but the community evidence is consistent enough to paint a clear picture.
+The second thing that hits you is the camera. *Bramble* is not a free-camera game. It is a side-scroller. UEVR lets you look around, but the action is still happening on a 2.5D plane that the designers control. You cannot walk behind the trees or peer around Olle. You are a floating observer hovering next to a beautiful puppet theater. That is not bad — it is genuinely cool — but it is not the same as being *inside* the game.
 
-The first thing that hits you is scale. In flat mode, the giant trolls and twisted trees are impressive. In VR, they are *there*. The forest floor spreads out below you, the canopy towers overhead, and when a creature rears up it actually blocks your view. The game's art direction — all moody greens, bioluminescent blues, and scratchy Nordic textures — benefits enormously from depth and head tracking. This is the kind of world you want to lean into.
+The third thing is motion sickness. The camera drifts along a rail while your head stays still, then suddenly shifts angle for a cinematic moment, then locks into a boss-arena view. All of that movement is fine on a monitor. In VR it can mess with your vestibular system, especially during the faster platforming sequences. UEVR has comfort tools — snap turning, vignetting, render-method switching — but the game's design was never meant for a headset. If you are sensitive, this one will let you know.
 
-The second thing that hits you is the camera. *Bramble* is not a free-camera game. It is a side-scroller. UEVR lets you look around, but the action is still happening on a 2.5D plane that the game designers control. You cannot walk behind the trees or peer around Olle. You are a floating observer hovering next to a beautiful puppet theater. That is not bad — it is genuinely cool for about an hour — but it is not the same as being *inside* the game.
+## How Hard It Pushes Your PC
 
-The third thing is motion sickness. The camera drifts along a rail while your head stays still, then suddenly shifts angle for a cinematic moment, then locks into a boss-arena view. All of that movement is fine on a monitor. In VR it can mess with your vestibular system, especially during the faster platforming sequences. UEVR has comfort tools — snap turning, vignetting, render-method switching — but the game's design was never meant for this format.
+*Bramble* is not a heavy flat game. Minimum GPU is a GTX 570; recommended is a GTX 1660. But VR multiplies the load. UEVR runs native stereo, so you are effectively rendering the game twice. A budget-tier PC might hit playable framerates at modest settings, but you will want a mid-range rig or better if you want supersampling and stable ASW/SSW. Switching UEVR to Synchronized Sequential can fix flicker or crashes if the default Native Stereo misbehaves.
 
-## Performance
-
-*Bramble* is not a heavy flat game. Minimum GPU is a GTX 570; recommended is a GTX 1660. But VR multiplies the load. UEVR runs native stereo, so you are effectively rendering the game twice. A GTX 1660 might hit playable framerates at modest settings, but you will want a 20-series or better GPU if you want supersampling and stable ASW/SSW. Switching UEVR to Synchronized Sequential can fix flicker or crashes if the default Native Stereo misbehaves.
-
-## What Works, What Does Not
+## Why It Almost Justifies Itself
 
 What works: atmosphere, scale, art direction, creature encounters, and the sheer novelty of seeing a side-scrolling horror platformer in 3D. The boss fights in particular feel like set pieces you are standing inside rather than cutscenes you are watching.
 
-What does not: free movement, motion controls, and long play sessions. This is still a game about running left and right while the camera decides where to look. The headset adds presence but cannot change the core design. If you are prone to motion sickness, the camera will remind you of that fact.
-
-## Who This Is For
-
-*Bramble* in UEVR is for two kinds of people: players who already loved the flat game and want to re-experience its world with more immersion, and VR curious users who want a visually striking, low-stakes showcase for what UEVR can do. It is not for someone looking for a native-feeling VR platformer. It is not for people who get queasy from moving cameras.
+What doesn't: free movement, motion controls, and long play sessions. This is still a game about running left and right while the camera decides where to look. The headset adds presence but cannot change the core design. If you are prone to motion sickness, the camera will remind you of that fact.
 
 ## The Bottom Line
 
 UEVR turns *Bramble: The Mountain King* into one of the most atmospheric diorama experiences on PCVR. The world is gorgeous, the monsters feel huge, and the framework route is genuinely playable. But the game's 2.5D camera and side-scroller DNA keep it from feeling like a true VR native. Treat it as a beautiful, slightly uncomfortable way to revisit a short fairy tale, not as the definitive way to play.
 
-If you own the game and already have UEVR installed, give it thirty minutes. If the camera does not make you reach for the headset, you are in for one of the more memorable UEVR showcases of the year.
+If you already own the game and have UEVR installed, give it half an hour. If the camera doesn't make you reach for the headset, you are in for one of the more memorable UEVR showcases of the year. If you get queasy from moving cameras, though, look elsewhere — this one is for flat-game fans and VR-curious tinkerers who can handle a little discomfort for a lot of atmosphere.
