@@ -29,6 +29,7 @@ experienceTags:
   - Nordic Folklore
   - Side-Scrolling VR
   - Boss Scale
+  - First-Person UEVR
 tier: B
 verdict: "Bramble: The Mountain King is genuinely worth playing in UEVR for VR enthusiasts who can tolerate a side-scrolling camera. The diorama-scale presence, full 6DOF head tracking, and striking stereoscopic art direction make it one of the more memorable UEVR showcases, and the creature encounters gain real scale. The side-scrolling camera and moderate motion-sickness risk are real caveats, but the experience justifies the setup for anyone curious about what a dark fairy-tale diorama feels like inside a headset."
 heroImage: /images/games/bramble-the-mountain-king-vr-hero.jpg
@@ -51,7 +52,7 @@ Look, I'm not gonna lie: the first time I injected Bramble into UEVR, I expected
 
 If you already have UEVR installed, budget about 20 to 30 minutes from "I want to play Bramble in VR" to "Olle is running around in my headset." That includes launching the UEVR injector, finding the Bramble process, picking OpenVR or OpenXR, injecting, and then spending five minutes fiddling with the default camera distance because it always starts too close or too far. If this is your first UEVR game, give it 45 minutes and at least one full restart. You will forget to disable something — Steam overlay, HDR, maybe a controller wrapper — and then wonder why the image flickers. I have absolutely been there. It is not hard by PCVR mod standards; it is also not plug-and-play.
 
-UEVR is praydog's public beta that dropped in late 2023, and it works across the 1.x builds. It gives you full 6DOF head tracking, native stereoscopic 3D, and OpenVR/OpenXR support. The game renders through Unreal's own stereo pipeline, so the depth is real, not a VorpX-style post-process guess. By default you will play with a gamepad or keyboard in the headset. UEVR can add motion controls in some games, but *Bramble* is not one of them. I tried the gamepad and never looked back.
+UEVR is praydog's public beta that dropped in late 2023, and it works across the 1.x builds. It gives you full 6DOF head tracking, native stereoscopic 3D, and OpenVR/OpenXR support. The game renders through Unreal's own stereo pipeline, so the depth is real, not a VorpX-style post-process guess. By default you will play with a gamepad or keyboard in the headset, though some UEVR profiles allow limited motion control binding depending on how the game exposes its input.
 
 ### What About VorpX?
 
@@ -63,9 +64,15 @@ The first thing that hits you is scale. In flat mode, the giant trolls and twist
 
 Holy shit, some of the boss encounters look genuinely stunning in stereoscopic 3D. A house-sized troll leaning into the frame is a completely different event when it is actually filling your peripheral vision. The game becomes a dark fairy-tale diorama, and for the first hour that is enough.
 
-The second thing that hits you is the camera. *Bramble* is not a free-camera game. It is a side-scroller. UEVR lets you look around, but the action is still happening on a 2.5D plane that the designers control. You cannot walk behind the trees or peer around Olle. You are a floating observer hovering next to a beautiful puppet theater. That is not bad — it is genuinely cool — but it is not the same as being *inside* the game.
+The second thing that hits you is the camera. *Bramble* is not a free-camera game. It is a side-scroller. UEVR lets you look around, but the action is still happening on a 2.5D plane that the designers control. You cannot walk behind the trees or peer around Olle. You are a floating observer hovering next to a beautiful puppet theater. That is not bad — it is genuinely cool — but it is not the same as being *inside* the game. Or at least, that is how it starts.
 
-The third thing is motion sickness. The camera drifts along a rail while your head stays still, then suddenly shifts angle for a cinematic moment, then locks into a boss-arena view. All of that movement is fine on a monitor. In VR it can mess with your vestibular system, especially during the faster platforming sequences. UEVR has comfort tools — snap turning, vignetting, render-method switching — but the game's design was never meant for a headset. If you are sensitive, this one will let you know.
+Here is where it gets interesting: UEVR can also push *Bramble* into first-person view. It is a UEVR-specific camera trick for some Unreal games, not an official game mode, and it is absolutely not perfect. Olle's animations are built for a side-scrolling silhouette, so when you drop the camera behind his eyes the climbing, cowering, and getting-swallowed motions look weirdly detached. Some interactions are clearly meant to be read from the side, and in first person they read as broken puppet theater.
+
+But the presence is real. With first-person view plus 6DOF head tracking and semi-motion controls, the forest stops being a diorama you watch and becomes a fairy tale you are walking through. A glowing mushroom that looked charming at arm's length now looms overhead like a lantern. A troll that filled the side-view frame now fills your actual field of view. The camera still drifts and the platforming still happens on a rail, so you are not getting Skyrim — you are getting a guided walk through a dark storybook with your head inside it. There are jank moments, no question. I had times where the view clipped through Olle's own geometry or a scripted camera pull yanked my stomach sideways. But when it settles, the first-person mode adds a genuine "I am actually here" surprise that the third-person diorama view cannot quite match.
+
+That first-person wrinkle is a big part of why I land on B-tier instead of C-tier. It does not turn *Bramble* into a native VR game, but it pushes it from "curiosity" to "worth playing." If you only try the default third-person camera, you are getting maybe seventy percent of what makes this one special.
+
+The third thing is motion sickness. The camera drifts along a rail while your head stays still, then suddenly shifts angle for a cinematic moment, then locks into a boss-arena view. First-person mode makes the rail drift feel more intimate and, for me, slightly more nauseating during fast sequences. All of that movement is fine on a monitor. In VR it can mess with your vestibular system, especially during the faster platforming sequences. UEVR has comfort tools — snap turning, vignetting, render-method switching — but the game's design was never meant for a headset. If you are sensitive, this one will let you know, especially in first person. Keep sessions short and toggle back to third person when the camera gets aggressive.
 
 ## How Hard It Pushes Your PC
 
