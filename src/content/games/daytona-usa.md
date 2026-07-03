@@ -3,6 +3,7 @@ title: "Daytona USA VR"
 description: "A fan-made VRChat recreation of Sega's arcade legend puts you in the Hornet, but the ride is shorter and scrappier than the cabinet memories."
 lastVerified: "2026-01-09"
 flatReleaseDate: "1994-03-31"
+vrReleaseDate: "2026-01-09"
 featured: false
 routeType: Emulator
 platforms: ['PCVR', 'Quest']
