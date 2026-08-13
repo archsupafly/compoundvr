@@ -27,6 +27,14 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <link rel="manifest" href="/manifest.json" />
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YJX1Y7XJ3K"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YJX1Y7XJ3K');
+    </script>
   </head>
   <body>
     <header class="site-header" data-pagefind-ignore>
