@@ -35,13 +35,13 @@ This is the gap between the Rift and the HTC Vive, which ships with motion contr
 
 ## The Launch Lineup
 
-Lucky's Tale is the mascot platformer Oculus needs and the mascot platformer you will play for forty minutes. It is charming. It is technically competent. It is a proof point that third-person VR works. It is also not a system seller. The camera pulls back to a fixed angle, you tilt your head to peek around the cartoony environments, and the novelty of watching a platformer from a floating third-person camera wears off before the second level. It exists to prove a concept. It proves it.
+[Lucky's Tale](/games/luckys-tale/) is the mascot platformer Oculus needs and the mascot platformer you will play for forty minutes. It is charming. It is technically competent. It is a proof point that third-person VR works. It is also not a system seller. The camera pulls back to a fixed angle, you tilt your head to peek around the cartoony environments, and the novelty of watching a platformer from a floating third-person camera wears off before the second level. It exists to prove a concept. It proves it.
 
-Eve: Valkyrie is the showpiece. A space dogfighting game where you sit in a cockpit, look around to track enemies, and feel genuine adrenaline when a fighter pulls onto your six and you physically twist your head to find them. The sense of being inside a cockpit is immediate and persuasive. The gameplay loop is thin — respawn, fly, dogfight, die, repeat — but the VR implementation is reference-grade. If you want to show someone why VR matters in five minutes, you put them in Valkyrie.
+[Eve: Valkyrie](/games/eve-valkyrie/) is the showpiece. A space dogfighting game where you sit in a cockpit, look around to track enemies, and feel genuine adrenaline when a fighter pulls onto your six and you physically twist your head to find them. The sense of being inside a cockpit is immediate and persuasive. The gameplay loop is thin — respawn, fly, dogfight, die, repeat — but the VR implementation is reference-grade. If you want to show someone why VR matters in five minutes, you put them in Valkyrie.
 
 The Oculus Store at launch carries roughly thirty experiences. The highlights:
 
-**Chronos** is the sleeper hit. A third-person action-adventure with a fixed-camera system that feels like Resident Evil meets Dark Souls, reimagined for VR. The camera replaces the character's perspective — you watch your hero from dramatic angles as they explore ancient ruins. It is the first game that made me forget I was wearing a headset.
+**[Chronos](/games/chronos/)** is the sleeper hit. A third-person action-adventure with a fixed-camera system that feels like Resident Evil meets Dark Souls, reimagined for VR. The camera replaces the character's perspective — you watch your hero from dramatic angles as they explore ancient ruins. It is the first game that made me forget I was wearing a headset.
 
 **Henry** is Oculus Story Studio's second short film. An adorable hedgehog with balloon hands. It is five minutes long and it will make you feel something. VR as a storytelling medium gets its proof point here — not through spectacle, but through intimacy. You sit in Henry's room. He is right there. The emotional register is completely different from watching the same story on a screen.
 
