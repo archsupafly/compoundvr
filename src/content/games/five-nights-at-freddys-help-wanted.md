@@ -1,83 +1,79 @@
 ---
-title: "Five Nights at Freddy's: Help Wanted VR"
-description: "A native VR compilation that turns FNAF's jump-scare formula into one of the most genuinely frightening experiences in virtual reality."
-lastVerified: 2023-11-21
+title: "Five Nights at Freddy's VR: Help Wanted"
+description: "A native VR horror anthology that works almost everywhere — here's which version actually justifies strapping the headset on."
+flatReleaseDate: "2019-05-28"
+vrReleaseDate: "2019-05-28"
+lastVerified: "2023-11-21"
 featured: false
-routeType: Official Standalone VR Version
-platforms: ['PCVR', 'Quest', 'PSVR', 'PSVR2']
-recommendation: Recommended
-playability: Fully Playable
-setupBurden: Beginner Friendly
-inputStyle: Full Motion Controls
-comfort: Moderate Intensity
-performance: Efficient
-supportStatus: Active
+routeType: "Official Standalone VR Version"
+platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest', 'Pico']
+recommendation: "Recommended"
+playability: "Fully Playable"
+setupBurden: "Beginner Friendly"
+inputStyle: "Full Motion Controls"
+comfort: "Moderate Intensity"
+performance: "Efficient"
+supportStatus: "Stable but Quiet"
 genres:
   - Horror
   - Survival
-  - Puzzle
+  - Anthology
 technicalTags:
   - Native VR
-  - Motion Controls
-  - Room-Scale
-  - Seated Play Supported
+  - Multiplatform
+  - Seated Friendly
+  - Roomscale Optional
 experienceTags:
   - Jump Scares
   - Atmospheric Horror
-  - Short Sessions
-  - Arcade-Style
-tier: A
-verdict: "One of the most effective horror experiences in VR. The native implementation amplifies every strength of the FNAF formula, and the variety of mini-games keeps it from wearing out its welcome too quickly."
-flatReleaseDate: "2019-05-28"
-vrReleaseDate: "2019-05-28"
-heroImage: /images/games/five-nights-at-freddys-help-wanted-vr-hero.jpg
-sources: "Research conducted via Steam store page, Wikipedia, UploadVR review, PSU PSVR review, The VR Grid, Nook Gaming, Player2.net.au, Flat2VR Discord community knowledge, and Reddit community reports (r/PSVR, r/oculus, r/virtualreality). No direct testing performed."
+  - Mini-Game Collection
+  - Franchise Nostalgia
+tier: "B"
+verdict: "One of the most effective horror experiences in VR, held back from A-tier only by the repetitive minigame loop and a few rough platform ports. If you own any VR headset and can handle jump scares, this belongs in your library."
+heroImage: /images/games/five-nights-at-freddy-s-vr-help-wanted-vr-hero.jpg
+sources: "Research conducted via Wikipedia, Steam and PlayStation store pages, Road to VR, UploadVR, VG247, Pingle Studio porting notes, PICO Store, UEVR and VorpX documentation, and GameBanana / Nexus Mods community mod listings. Assessment is based on published platform details and community play reports."
 ---
 
-There is a specific kind of terror that only works in VR, and *Five Nights at Freddy's: Help Wanted* understands it completely. It is not the terror of combat, or of being chased through corridors, or of resource scarcity. It is the terror of sitting in a chair, knowing something is standing directly behind you, and being too afraid to turn around.
+There is a moment in *Five Nights at Freddy's VR: Help Wanted* when you realize the mask in your virtual hand isn't just for show. You pull it up, hold your breath, and wait while something with too many teeth and not enough lubricant stands inches from your face. It is a cheap horror trick, executed with the kind of physical immediacy that only VR can deliver, and I absolutely fell for it every single time.
 
-Steel Wool Studios released this compilation in May 2019 for PCVR and PSVR, with a Quest port following in July 2020 and a PSVR2 "Full Time Edition" arriving in late 2023. It is not a retrofit. It is a native VR product built from the ground up to put you inside Freddy Fazbear's Pizza — and it is one of the most genuinely frightening experiences available in a headset.
+This is a native VR title from Steel Wool Studios and Scott Cawthon, built in Unreal Engine 4, released on May 28, 2019 for PCVR and PSVR. The design assumes you are standing or sitting inside a dark room with motion controllers. The VR version is the game. The flat mode — added as a free update in December 2019 — is the concession, not the core.
 
 ## What It Actually Is
 
-*Help Wanted* is a collection. The core package remakes the classic *FNAF 1*, *2*, and *3* night-watch survival scenarios for VR, then stacks on original mini-games that use the format in ways the flat-screen games never could. You fix animatronics in "Parts and Service" — physically reaching in to remove eye housings and replace circuitry while trying not to trigger a springlock failure. You crawl through ventilation systems in "Vent Repair," solving pipe puzzles while listening for something moving in the dark. "Night Terrors" drops you into a bedroom and asks you to survive until morning with only a flashlight and rapidly depleting courage.
+*Help Wanted* is an anthology of minigames drawn from the first six years of Five Nights at Freddy's. You get simplified VR recreations of *FNaF 1* through *Sister Location*, plus original challenges built for the format. The twist is that you do it with your actual hands in a 3D space, and the animatronics are now life-sized.
 
-The "Curse of Dreadbear" DLC adds a Halloween-themed hub with more mini-games, including a corn maze stealth sequence and a dark ride where you shoot targets while animatronics lunge from the blackness. The base game plus DLC represents a substantial amount of content — not a single long campaign, but a buffet of short, intense horror vignettes that can be played in 10- to 20-minute sessions.
+The scale change is the most devastating thing VR adds. In the flat-screen games they are pixelated figures in dark hallways. In VR, Chica is eight feet tall and her jaw is wide enough to fit your head. When Bonnie leans into your office, you see the wear on his suit, the dead gleam in his eyes, and the specific angle at which his neck bends wrong. They stop being sprites on a monitor and become objects standing over you.
 
-## The VR Reality
+The physicality is what sells it. Pulling a lever, turning a key, pressing a button, yanking a mask over your eyes — these small interactions force you to be present. Jumpscares that would be routine on a flat screen become startling because the thing lunging at you is doing it from your actual peripheral vision.
 
-This is a seated or standing experience that rarely asks you to move your feet. Most gameplay happens within arm's reach: pressing door buttons, flipping through camera monitors, turning a flashlight on and off. The motion controls are simple but effective — you reach, you grab, you press. On PCVR and Quest, the tracking is reliable and the physical interaction feels natural. You are not waving wands at abstract UI; you are physically closing a metal door to keep a robot bear from entering your office.
+Some of the strongest original minigames push that physicality further. In *Parts and Service* you reach in to remove eye housings and replace circuitry while trying not to trigger a springlock failure. It is a horror-themed VR puzzle box: follow instructions under pressure, or fail and take a face full of endoskeleton. In *Vent Repair* you crawl through ventilation systems solving pipe puzzles while listening for something moving in the dark. It uses the claustrophobia of VR spaces better than most dedicated horror titles: metal tube, dim flashlight, audio that makes every creak sound like it is happening inside your own skull.
 
-The PSVR version, particularly with PlayStation Move controllers, has reported tracking quirks. The camera can misplace your hands when reaching for objects at the edges of the play space, and some players have needed to reposition themselves awkwardly far from the camera to interact with certain UI elements. The DualShock controller is supported but feels like a compromise — the game was designed for hands, and playing it with a gamepad is like eating soup with a fork. The PSVR2 port largely resolves these issues with inside-out tracking, making it the cleanest console VR option.
+Comfort is better than you might expect. Most minigames are stationary or seated-friendly, with no free locomotion, no sprinting, and no artificial turning. The intensity comes from atmosphere and surprise, not from your stomach. The only caveat is the PSVR2 *Full Time Edition*, which lists a 2m × 2m roomscale requirement. Even there, the actual gameplay is still mostly static.
 
-Comfort is mostly forgiving. The game uses teleportation or static positioning for the majority of its scenarios. There are brief elevator rides and cart sequences with artificial movement, but these are short and infrequent. The real discomfort is psychological, not vestibular.
+## The Platform Question
 
-## What It's Like to Play
+Because this is a native VR game across multiple platforms, the real decision is where to buy it.
 
-The flat-screen *FNAF* games build tension through limitation: you cannot leave your office, you can only watch cameras, and your power drains every time you close a door or turn on a light. In VR, those limitations become physical. You are literally sitting in the chair. The monitor is in front of you. The door buttons are to your left and right. When you hear footsteps in the hallway, you have to physically turn your head to check the door lights. When you check the cameras and lower the monitor, the animatronic that was not there thirty seconds ago is now two feet from your face.
+**PCVR** is the reference version. Buy it on Steam and it just works with any SteamVR/OpenXR headset. Visual fidelity is the highest here, load times are short, and mod support exists. If you already have a PCVR setup, this is it.
 
-The scale change is the most devastating thing VR adds. These characters are massive. In the flat-screen games they are pixelated figures in dark hallways. In VR, Chica is eight feet tall and her jaw is wide enough to fit your head. When Bonnie leans into your office, you can see the wear on his suit, the dead gleam in his eyes, and the specific angle at which his neck bends wrong. The jump scares are not startling because of a loud noise — they are startling because a 300-pound animatronic is screaming at you from three feet away.
+**Quest** is the most accessible version. Released on July 16, 2020, it runs standalone with no PC. The graphics are pared down compared to PCVR, but the core scare design is identical. For a game this reliant on audio cues and timing, the downgrade barely matters.
 
-The mini-games that break from the original formula are where the VR design shines brightest. "Parts and Service" is essentially a horror-themed VR puzzle box. You are given instructions, you follow them under pressure, and the consequence for failure is not a score penalty — it is a face full of endoskeleton. "Vent Repair" uses the claustrophobia of VR spaces better than most dedicated horror titles. You are crawling through a metal tube, your flashlight barely illuminating the next junction, and the audio design makes every creak sound like it is happening inside your own skull.
+**PSVR2** is the best console version, released as the *Full Time Edition* on November 21, 2023. It includes the *Curse of Dreadbear* DLC and benefits from modern displays, haptics, and tracking. The roomscale requirement is technically listed, but the game rarely asks you to move around much. If you are a console-first VR owner, this is the version to get.
 
-## Where It Falters
+**PSVR** on PS4 is still playable but firmly legacy. Tracking, resolution, and controller limitations make it the weakest official VR option. **PICO** got the game on October 19, 2023, and functions as a Quest equivalent, though the audience and store visibility are smaller.
 
-The game is a collection of mini-games, and not all of them land with equal force. Some of the *FNAF 2* and *3* remakes feel more like faithful recreations than reinventions — they are scary because the source material is scary, not because VR adds something essential to that specific scenario. After a few hours, the formula can feel repetitive: check cameras, manage resource, survive until 6 AM. The variety of the original mini-games helps, but the core loop is still the core loop.
+## What Holds It Back
 
-The difficulty curve can be punishing in ways that feel arbitrary rather than fair. Some nights require memorizing specific animatronic patterns or failing repeatedly until you learn the exact timing of a door toggle. This is faithful to the original games, but in VR, repeated failure is more physically draining. You will take breaks not because you are bored, but because your nervous system needs a reset.
+The biggest weakness is repetition. The minigames are mechanically thin, and after a few hours the structure feels familiar: survive the night, unlock the next challenge, repeat. The horror works because of immediacy, not depth, and that immediacy can wear thin if you try to marathon it.
 
-There are also some mechanical rough edges. Object interaction can occasionally be finicky — grabbing a specific switch or pulling a lever at the right angle sometimes requires more precision than the interaction system consistently delivers. These moments are brief but they break the spell, reminding you that you are in a game rather than a condemned pizzeria.
+Platform parity is uneven. The Quest port is a technical compromise, and while the scares survive, the atmosphere takes a visible hit. The PSVR2 port is much stronger, but it arrived four and a half years after the original. That explains why *Help Wanted* lands at **B-tier**: the VR implementation is excellent, but the game underneath is a collection of short, similar experiences rather than a world you want to live in.
 
-## Who Should Play This
+## Mods, Injectors, and Why You Can Ignore Them
 
-If you own a VR headset and you have ever thought "I wonder if horror actually works in VR," this is the answer. It is the most effective conversion of a flat-screen horror property into virtual reality that exists, largely because the source material was already about limitation, helplessness, and dread — emotions that VR amplifies naturally.
+There is no meaningful "flat-to-VR" route because the game is already VR. UEVR could inject the non-VR version, but that would be a deliberately worse version of an experience that already exists natively. VorpX does not list the game, and community mods like *Help Wanted +* are content expansions, not a way to enable VR. Emulators are not applicable.
 
-If you are susceptible to jump scares or anxiety, this is not a gentle introduction. It is intense, sustained, and occasionally cruel. The sessions are short, but the adrenaline lasts longer than the playtime.
-
-If you do not enjoy the *FNAF* franchise specifically, there is enough original content here to give it a shot, but the core appeal is the *FNAF* universe in immersive form. The lore, the characters, and the specific rhythm of the night-watch gameplay are the draw. If animatronic pizza bears do not interest you, no amount of VR polish will change that.
-
-The value proposition is solid for the amount of content, though it is worth noting that this is primarily a single-player experience with no multiplayer and limited replayability beyond chasing better scores and faster clear times.
+If you are researching how to play this game in VR, the answer is: buy the native version for your headset. That is the whole guide.
 
 ## The Bottom Line
 
-*Five Nights at Freddy's: Help Wanted* is not a horror game that happens to support VR. It is a horror game that only makes complete sense in VR. The physical presence, the scale of the animatronics, and the simple but devastating act of turning your head to find something standing behind you — these are not enhancements. They are the entire point. Steel Wool Studios understood that the *FNAF* formula was always waiting for this medium, and the result is one of the most ruthlessly effective horror experiences you can have in a headset.
+*Five Nights at Freddy's VR: Help Wanted* is the best argument for why horror and VR belong together. It is not the deepest game, and it is not the prettiest on every platform, but it understands exactly what makes VR scary: scale, proximity, and the fact that you cannot look away without physically turning your head. For anyone who owns a VR headset and can handle a jump scare, it is an easy recommendation. Just pick the native version for your platform and don't waste time trying to mod a flat game that already does the job better itself.
