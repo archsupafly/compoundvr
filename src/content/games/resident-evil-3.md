@@ -2,8 +2,8 @@
 title: "Resident Evil 3 VR"
 description: "An injection driver and a framework mod turn Capcom's action-horror remake into a genuinely terrifying first-person VR experience—if you're willing to wrestle with softlocks, performance, and Nemesis literally filling your headset."
 flatReleaseDate: 2020-04-03
-vrReleaseDate: 2020-04-03
-lastVerified: 2020-04-03
+vrReleaseDate: 2021-12-31
+lastVerified: 2021-12-31
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']

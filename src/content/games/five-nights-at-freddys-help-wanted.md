@@ -28,7 +28,7 @@ experienceTags:
   - Arcade-Style
 tier: A
 verdict: "One of the most effective horror experiences in VR. The native implementation amplifies every strength of the FNAF formula, and the variety of mini-games keeps it from wearing out its welcome too quickly."
-flatReleaseDate: "2014-08-08"
+flatReleaseDate: "2019-05-28"
 vrReleaseDate: "2019-05-28"
 heroImage: /images/games/five-nights-at-freddys-help-wanted-vr-hero.jpg
 sources: "Research conducted via Steam store page, Wikipedia, UploadVR review, PSU PSVR review, The VR Grid, Nook Gaming, Player2.net.au, Flat2VR Discord community knowledge, and Reddit community reports (r/PSVR, r/oculus, r/virtualreality). No direct testing performed."

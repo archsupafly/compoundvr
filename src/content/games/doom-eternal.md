@@ -2,8 +2,8 @@
 title: "Doom Eternal VR"
 description: "Doom Eternal in VR delivers stunning stereoscopic 3D and head tracking through injection drivers, but the lack of motion controls, 6DOF, and brutal comfort demands make it a curiosity for hardcore fans rather than a genuine VR shooter."
 flatReleaseDate: 2020-03-20
-vrReleaseDate: 2020-03-20
-lastVerified: 2020-03-20
+vrReleaseDate: 2020-04-01
+lastVerified: 2021-08-17
 featured: false
 routeType: Injection Driver
 platforms: ['PCVR']
