@@ -55,7 +55,7 @@ The single biggest flat-to-VR story of 2016 came from Bethesda at E3. In June, t
 
 This was a watershed moment for the modding community. For years, the flat-to-VR scene had been built on the assumption that developers wouldn't touch VR — that modders and injection drivers were the only way to play big games in a headset. Bethesda's announcement signaled that the big studios were paying attention.
 
-It also validated the modding community's core thesis: that the games people actually wanted to play in VR were the flat-screen blockbusters. [Fallout 4](/games/fallout-4) and [Doom](/games/doom) were exactly the kind of games the VorpX and Dolphin VR communities had been modding for years. Now the developer was doing it officially.
+It also validated the modding community's core thesis: that the games people actually wanted to play in VR were the flat-screen blockbusters. Fallout 4 and Doom were exactly the kind of games the VorpX and Dolphin VR communities had been modding for years. Now the developer was doing it officially.
 
 ## 6. Skyrim Special Edition Launches — and VorpX Gets a Profile
 
