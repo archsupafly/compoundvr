@@ -19,7 +19,7 @@ Here are the VR modding stories that mattered in 2016.
 
 ## 1. Consumer VR Launches — The Rift and Vive Finally Ship
 
-The biggest story of 2016 wasn't a mod at all. It was the hardware. The Oculus Rift CV1 shipped on March 28, 2016, and the HTC Vive followed on April 5. After years of developer kits, consumer VR was real.
+The biggest story of 2016 wasn't a mod at all. It was the hardware. The Oculus Rift CV1 shipped on March 28, 2016, and the HTC Vive followed on April 5. After years of developer kits, consumer VR was real. (See our [Oculus Rift CV1 review](/articles/oculus-rift-cv1-review) for the full breakdown of the headset that started the consumer era.)
 
 For the modding community, this was a seismic shift. The DK2-era tools had been built for a seated, gamepad-driven experience with rotational head tracking. The Vive, with its room-scale tracking and motion controllers, raised the bar for what "VR" meant. The Rift, meanwhile, shipped without its Touch controllers (which wouldn't arrive until December), leaving it closer to the seated model the modding scene knew.
 
@@ -27,7 +27,7 @@ The result was a fork in the road. VorpX, Dolphin VR, and Vireio were built for 
 
 ## 2. VorpX Adds Oculus Rift CV1 Support
 
-VorpX, the dominant injection driver, spent early 2016 catching up to the new hardware. Version 16.1.1, released in April, added Oculus Rift CV1 support — a critical update for the thousands of DK2-era VorpX users who had upgraded to the consumer headset.
+[VorpX](/articles/vorpx-injection-driver-guide), the dominant injection driver, spent early 2016 catching up to the new hardware. Version 16.1.1, released in April, added Oculus Rift CV1 support — a critical update for the thousands of DK2-era VorpX users who had upgraded to the consumer headset.
 
 The CV1 support was a big deal because it meant the injection driver model wasn't dead. You could still play your flat PC game library in stereoscopic 3D with head tracking on the new hardware. VorpX 16.2.0 followed in July with further improvements, and by the end of the year the driver had accumulated profiles for dozens of new titles.
 
@@ -43,7 +43,7 @@ The Steam community forums lit up with debate. Some praised VorpX for making the
 
 ## 4. Dolphin VR Goes Consumer — CV1, Vive, and DK2 Support
 
-Dolphin VR, the emulator fork that made GameCube and Wii games playable in VR, had its biggest year in 2016. The project moved to the 5.0 series, adding support for the Oculus Rift CV1 and HTC Vive alongside the DK2.
+[Dolphin VR](/articles/dolphin-vr), the emulator fork that made GameCube and Wii games playable in VR, had its biggest year in 2016. The project moved to the 5.0 series, adding support for the Oculus Rift CV1 and HTC Vive alongside the DK2.
 
 The April 2016 release (Dolphin VR 4.0-9519) added CV1 and Vive support. June brought Dolphin VR 5.0-11 and 5.0-12, and July saw Dolphin VR 5.0-250 with SDK 1.3.0. Each release fixed real issues — real Wiimote and Nunchuk support, audio routing to the Rift's speakers, and rendering fixes for both headsets.
 
@@ -77,7 +77,7 @@ The tension would define the next several years of flat-to-VR modding. Some modd
 
 ## 8. Vireio Perception Fades as the Scene Consolidates
 
-Vireio Perception, the open-source injection driver that had been the free alternative to VorpX, largely stalled in 2016. The project had been slower-moving than VorpX for years, and the transition to consumer hardware — with its new runtimes, new tracking, and new expectations — proved too much for the volunteer-driven project.
+[Vireio Perception](/articles/vireio-perception), the open-source injection driver that had been the free alternative to VorpX, largely stalled in 2016. The project had been slower-moving than VorpX for years, and the transition to consumer hardware — with its new runtimes, new tracking, and new expectations — proved too much for the volunteer-driven project.
 
 Vireio's decline wasn't a failure of the open-source model. It was a sign of consolidation. The modding scene was maturing, and the tools that couldn't keep up with the hardware were being left behind. VorpX, with its commercial backing and dedicated developer, was better positioned to survive the transition.
 
