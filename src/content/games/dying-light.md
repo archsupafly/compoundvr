@@ -2,8 +2,8 @@
 title: "Dying Light VR"
 description: "A great open-world zombie game with two half-finished ways to experience it in VR: a hidden, abandoned Oculus mode and a VorpX injection profile."
 flatReleaseDate: 2015-01-26
-vrReleaseDate: 2015-01-26
-lastVerified: 2015-01-26
+vrReleaseDate: 2021-01-01
+lastVerified: 2021-01-01
 featured: false
 routeType: Multi-Route Coverage
 platforms:
