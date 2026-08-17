@@ -17,7 +17,7 @@ Here are the VR modding stories that mattered in 2015.
 
 ## 1. VorpX Adds GTA V Support — Hours After PC Launch
 
-The biggest flat-to-VR moment of 2015 happened in April. Grand Theft Auto V finally landed on PC on April 14th, and within hours VorpX had a working profile for it. VorpX 0.8.1 shipped with GTA V support in Z3D (geometry-reconstructed stereo 3D) mode, letting DK2 owners step into Los Santos in stereoscopic 3D with headtracking.
+The biggest flat-to-VR moment of 2015 happened in April. [Grand Theft Auto V](/games/gta-5) finally landed on PC on April 14th, and within hours VorpX had a working profile for it. VorpX 0.8.1 shipped with GTA V support in Z3D (geometry-reconstructed stereo 3D) mode, letting DK2 owners step into Los Santos in stereoscopic 3D with headtracking.
 
 Was it full VR? No. It was injection-driver VR — headtracking mapped to mouse look, no motion controls, plenty of jank. But the cultural moment was enormous. GTA V was the biggest game in the world, and you could play it in VR *the same day it launched on PC*. That sent a clear signal: if you wanted VR and were willing to tolerate compromises, the injection driver community was moving fast.
 
@@ -25,7 +25,7 @@ A modder named Falandorn also released a separate GTA V headtracking mod that ho
 
 ## 2. Dolphin VR Makes GameCube and Wii Playable in VR
 
-2SDShyuan's Dolphin VR fork — a modified version of the Dolphin emulator with Oculus Rift DK2 and HTC Vive support — hit its stride in 2015. The project had been building momentum, and by April 2015 Dolphin VR 4.0-5286 was the stable release, letting you play *The Legend of Zelda: The Wind Waker*, *Super Mario Sunshine*, *Metroid Prime*, and dozens of GameCube/Wii titles in VR with headtracking.
+2SDShyuan's Dolphin VR fork — a modified version of the Dolphin emulator with Oculus Rift DK2 and HTC Vive support — hit its stride in 2015. The project had been building momentum, and by April 2015 Dolphin VR 4.0-5286 was the stable release, letting you play *The Legend of Zelda: The Wind Waker*, *Super Mario Sunshine*, [*Metroid Prime*](/games/metroid-prime), and dozens of GameCube/Wii titles in VR with headtracking.
 
 This was a different kind of flat-to-VR than VorpX. Where VorpX injected stereo 3D into PC games designed for monitors, Dolphin VR leveraged the emulator's deep access to the game's rendering pipeline to produce proper stereoscopic output. The results varied wildly — some games looked incredible, others were nausea fuel — but the concept was proven: emulation + VR was a viable path.
 
@@ -37,9 +37,9 @@ PSP games were never designed for VR, but their lower polygon counts and simpler
 
 ## 4. VorpX Gets DK2 Positional Tracking and a Flood of Updates
 
-2015 was the year VorpX became genuinely usable. Version 0.7.1 in early 2015 added initial DK2 support with positional tracking — a massive upgrade from the DK1's rotational-only tracking. A Skyrim positional tracking demo video made the rounds, showing the Elder Scrolls in VR with full 6DOF head movement for the first time.
+2015 was the year VorpX became genuinely usable. Version 0.7.1 in early 2015 added initial DK2 support with positional tracking — a massive upgrade from the DK1's rotational-only tracking. A [Skyrim](/games/skyrim) positional tracking demo video made the rounds, showing the Elder Scrolls in VR with full 6DOF head movement for the first time.
 
-By October, VorpX 0.8.1 had shipped with the GTA V profile, and throughout the year the driver accumulated support for dozens of new titles including *Dying Light*, *Alien: Isolation*, *Far Cry 4*, *Life Is Strange*, and *The Witcher 3* (the latter launching in May 2015). VorpX wasn't cheap at €39.99, but for the DK2 faithful, it was the single most important tool in the flat-to-VR toolbox.
+By October, VorpX 0.8.1 had shipped with the GTA V profile, and throughout the year the driver accumulated support for dozens of new titles including *Dying Light*, [*Alien: Isolation*](/games/alien-isolation), [*Far Cry 4*](/games/far-cry-4), *Life Is Strange*, and [*The Witcher 3*](/games/the-witcher-3) (the latter launching in May 2015). VorpX wasn't cheap at €39.99, but for the DK2 faithful, it was the single most important tool in the flat-to-VR toolbox.
 
 ## 5. Vireio Perception Keeps the Open-Source Flame Alive
 

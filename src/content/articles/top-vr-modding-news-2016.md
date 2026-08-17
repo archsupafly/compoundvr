@@ -47,19 +47,19 @@ Dolphin VR, the emulator fork that made GameCube and Wii games playable in VR, h
 
 The April 2016 release (Dolphin VR 4.0-9519) added CV1 and Vive support. June brought Dolphin VR 5.0-11 and 5.0-12, and July saw Dolphin VR 5.0-250 with SDK 1.3.0. Each release fixed real issues — real Wiimote and Nunchuk support, audio routing to the Rift's speakers, and rendering fixes for both headsets.
 
-Dolphin VR remained the gold standard for emulator-based VR. Games like *Metroid Prime*, *The Legend of Zelda: The Wind Waker*, and *Super Mario Sunshine* continued to shine, and the project proved that emulation + VR was a path that could survive the transition to consumer hardware.
+Dolphin VR remained the gold standard for emulator-based VR. Games like [*Metroid Prime*](/games/metroid-prime), *The Legend of Zelda: The Wind Waker*, and *Super Mario Sunshine* continued to shine, and the project proved that emulation + VR was a path that could survive the transition to consumer hardware.
 
 ## 5. Bethesda Announces Fallout 4 VR and Doom VR
 
-The single biggest flat-to-VR story of 2016 came from Bethesda at E3. In June, the publisher announced that *Fallout 4* and *Doom* were getting VR versions — both for the HTC Vive, both arriving in 2017.
+The single biggest flat-to-VR story of 2016 came from Bethesda at E3. In June, the publisher announced that [*Fallout 4*](/games/fallout-4) and [*Doom*](/games/doom) were getting VR versions — both for the HTC Vive, both arriving in 2017.
 
 This was a watershed moment for the modding community. For years, the flat-to-VR scene had been built on the assumption that developers wouldn't touch VR — that modders and injection drivers were the only way to play big games in a headset. Bethesda's announcement signaled that the big studios were paying attention.
 
-It also validated the modding community's core thesis: that the games people actually wanted to play in VR were the flat-screen blockbusters. Fallout 4 and Doom were exactly the kind of games the VorpX and Dolphin VR communities had been modding for years. Now the developer was doing it officially.
+It also validated the modding community's core thesis: that the games people actually wanted to play in VR were the flat-screen blockbusters. [Fallout 4](/games/fallout-4) and [Doom](/games/doom) were exactly the kind of games the VorpX and Dolphin VR communities had been modding for years. Now the developer was doing it officially.
 
 ## 6. Skyrim Special Edition Launches — and VorpX Gets a Profile
 
-October 2016 brought *The Elder Scrolls V: Skyrim Special Edition*, the remastered version of Bethesda's open-world RPG. Within weeks, VorpX had a preliminary profile for it, letting players explore Skyrim in stereoscopic 3D with head tracking.
+October 2016 brought *The Elder Scrolls V: Skyrim Special Edition*, the remastered version of Bethesda's open-world RPG. Within weeks, VorpX had a preliminary profile for it, letting players explore [Skyrim](/games/skyrim) in stereoscopic 3D with head tracking.
 
 Skyrim was the game the modding community had been chasing for years. The original Skyrim had been a VorpX favorite since 2013, and the Special Edition's updated engine and graphics made it an even more attractive target. The VorpX profile, released in November, was rough but functional — and it fed a growing demand for a proper Skyrim VR experience.
 
