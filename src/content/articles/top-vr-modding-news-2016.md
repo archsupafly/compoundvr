@@ -67,7 +67,7 @@ The community response was telling. Players were willing to wrestle with injecti
 
 ## 7. GTA V in VR — The Grand Theft Auto Dream Takes Hold
 
-GTA V was the game the flat-to-VR community wanted above almost everything else — and in 2016, the dream started to become real. Multiple community paths emerged, including the GTA Vibe project and the broader OpenVR work that fed the injection-driver scene. None of it was official — Rockstar and Take-Two showed zero interest in VR — but the community kept pushing Los Santos into headsets anyway.
+[GTA V](/games/gta-5) was the game the flat-to-VR community wanted above almost everything else — and in 2016, the dream started to become real. Multiple community paths emerged, including the GTA Vibe project and the broader OpenVR work that fed the injection-driver scene. None of it was official — Rockstar and Take-Two showed zero interest in VR — but the community kept pushing Los Santos into headsets anyway.
 
 The results were rough. It was seated, injection-driver territory — stereo 3D, head tracking, but no real motion controls and a camera that fought against the game's driving. But the novelty was enormous: one of the biggest, most detailed open worlds ever built, playable in a headset. GTA V in 2016 established the ambition that would drive the modding scene for years — and it set up the serious Grand Theft VR work that made the dream viable in 2017.
 
@@ -79,13 +79,13 @@ The Witcher 3 mattered because it was the perfect test case for the injection-dr
 
 ## 9. Doom 3 BFG — The Community Makes the Horror VR
 
-Doom 3 BFG Edition had an old claim on VR — id Software had flirted with the idea early — and in 2016 the community finally made it real. The Doom 3 BFG VR project layered proper head tracking and stereoscopic 3D onto the 2012 remaster, turning a game designed for a monitor into an immersive, genuinely spooky shooter you could look around inside.
+[Doom 3 BFG Edition](/games/doom-3-bfg) had an old claim on VR — id Software had flirted with the idea early — and in 2016 the community finally made it real. The Doom 3 BFG VR project layered proper head tracking and stereoscopic 3D onto the 2012 remaster, turning a game designed for a monitor into an immersive, genuinely spooky shooter you could look around inside.
 
 It was rough, certainly — injection-driver-era VR with all the usual jank. But Doom 3 BFG VR was one of the few 2016 community projects that felt like a *complete* game in a headset, not just a tech demo. It showed that with the right game, the community-built path could deliver a whole, atmospheric, playable VR experience — and it fed directly into the Doom VR work that continued into 2017 and beyond.
 
 ## 10. Minecraft in VR — The Early Vive Mods
 
-Minecraft was a perfect VR game — a voxel world begging to be stood inside — and 2016 was when the early VR mods for it started landing on the Vive. Before any official VR support, community mods got the familiar blocky landscape running in a headset, letting players look around their own builds at room scale. It was rough, but the *feeling* was unmistakable: this was the game VR was made for.
+[Minecraft](/games/minecraft-vr) was a perfect VR game — a voxel world begging to be stood inside — and 2016 was when the early VR mods for it started landing on the Vive. Before any official VR support, community mods got the familiar blocky landscape running in a headset, letting players look around their own builds at room scale. It was rough, but the *feeling* was unmistakable: this was the game VR was made for.
 
 Those early Vive Minecraft mods mattered because Minecraft was exactly the kind of mass-appeal title the modding scene was built to serve — a game the studios were slow to bring to VR, so the community stepped in. It widened the audience beyond hardcore shooter modders and made a case that flat-to-VR wasn't just for shooters and RPGs; it could turn a casual sandbox into a headset experience people would lose hours in.
 

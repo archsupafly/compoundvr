@@ -57,7 +57,7 @@ It was the strongest single argument of the year that the modders were still ess
 
 ## 6. GTA V — Grand Theft VR Gets Serious
 
-GTA V in VR had been a persistent dream since 2015, and in 2017 it started to feel real. The community mod *Grand Theft VR* — a VorpX-based, OpenVR-driven build that ran on both the HTC Vive and the Oculus Rift — received its first significant updates in years, and suddenly it was a viable way to stand inside Los Santos.
+[GTA V](/games/gta-5) in VR had been a persistent dream since 2015, and in 2017 it started to feel real. The community mod *Grand Theft VR* — a VorpX-based, OpenVR-driven build that ran on both the HTC Vive and the Oculus Rift — received its first significant updates in years, and suddenly it was a viable way to stand inside Los Santos.
 
 The early-2017 updates were the big ones: OpenVR support was refreshed, and the mod added position-tracked controller steering — you rotated the controller to turn the wheel — plus Vive trackpad-based walking and running on foot. Teleportation and seated-pose bugs were fixed. It still required a copy of GTA V and VorpX to run, but it gave the single most-played flat game of the era a real, playable VR path.
 
@@ -65,7 +65,7 @@ Grand Theft VR was the year's clearest proof that the injection-driver model sti
 
 ## 7. Payday 2 VR — The Studios, But It Fits the Scene
 
-Payday 2 wasn't a mod, but it was one of the most important flat-to-VR stories of 2017 because it showed a studio meeting the modding community halfway. In November, the heist shooter shipped Payday 2 VR — an official VR mode, built into the base game, playable on the HTC Vive.
+[Payday 2](/games/payday-2) wasn't a mod, but it was one of the most important flat-to-VR stories of 2017 because it showed a studio meeting the modding community halfway. In November, the heist shooter shipped Payday 2 VR — an official VR mode, built into the base game, playable on the HTC Vive.
 
 What made it interesting was how much it felt like a mod. Payday 2's core loop — planning heists, cracking drills, shooting cops — was already built for a gamepad and mouse, and the VR mode leaned into motion controls and room-scale in a way that felt like the best community-built mods rather than a slimed-down official port. It shipped alongside the flat game, so VR players weren't stranded.
 
@@ -73,13 +73,13 @@ Payday 2 VR mattered because it modeled a future Bethesda had only gestured at: 
 
 ## 8. Robo Recall's Full-Locomotion Mod — When the Community Mods a Native VR Game
 
-Sometimes the modding scene wasn't fighting to get a flat game into VR — it was fighting to get a native VR game to play better. That was the 2017 story around Robo Recall, Epic's hugely fun wave shooter. The game had smooth, teleport-based movement, but a chunk of the community wanted free, continuous locomotion.
+Sometimes the modding scene wasn't fighting to get a flat game into VR — it was fighting to get a native VR game to play better. That was the 2017 story around [Robo Recall](/games/robo-recall), Epic's hugely fun wave shooter. The game had smooth, teleport-based movement, but a chunk of the community wanted free, continuous locomotion.
 
 The full-locomotion mod did exactly that, letting players walk freely instead of being locked to teleport dashes. It was a small change in one sense, but it was huge signal: even native, polished VR games weren't above the community's reach. 2017 showed that the modding spirit applied to VR-native titles too, not just to flat games, and that players would take a "wrong" way to move if it felt better in a headset.
 
 ## 9. Quake 2 VR — The Classic Gets a Real Port
 
-Quake 2, id Software's 1997 shooter, was another of those older games the community kept coming back to. In 2017, a proper Quake 2 VR effort got real traction, running the classic through the headset with motion controls — it was a moment the flat-to-VR scene had been trying for years.
+[Quake 2](/games/quake-ii), id Software's 1997 shooter, was another of those older games the community kept coming back to. In 2017, a proper Quake 2 VR effort got real traction, running the classic through the headset with motion controls — it was a moment the flat-to-VR scene had been trying for years.
 
 The payoff was bigger than the game's age suggested. Quake 2's fast, movement-heavy combat is hard to port to a headset because motion sickness and the speed of the camera fight against full VR presence. Seeing Quake 2 run with real room-scale + motion-controlled aiming in 2017 was a marker: the tools were getting good enough to port the classics that would never get an official treatment, and the results were worth the fight.
 
@@ -95,7 +95,7 @@ Dolphin VR mattered in 2017 because it represented the path Bethesda's official 
 
 Dolphin VR wasn't alone on the emulator front. 3dSen (born out of the 3dnes experiments) took the emulator idea a step further by adding real depth to retro games — layering 2D NES and SNES sprites and backgrounds into actual stereoscopic 3D space. It wasn't a full room-scale remap; it was more of a diorama effect. But it made classics that would otherwise be utterly flat feel like they had volume in a headset.
 
-3dSen mattered because it widened the emulator-VR audience beyond the GameCube/Wii niche Dolphin served. If you loved older 2D-era games, 3dSen was a way to get a real sense of depth and presence from titles the industry had long since moved past. It was a reminder that "flat-to-VR" didn't only mean big 3D shooters — it could also breathe new life into the oldest games in the catalog.
+[3dSen](/articles/3dsen-vr) mattered because it widened the emulator-VR audience beyond the GameCube/Wii niche Dolphin served. If you loved older 2D-era games, 3dSen was a way to get a real sense of depth and presence from titles the industry had long since moved past. It was a reminder that "flat-to-VR" didn't only mean big 3D shooters — it could also breathe new life into the oldest games in the catalog.
 
 ## 12. Subnautica — The Underwater VR That Came from the Devs
 
@@ -107,7 +107,7 @@ Subnautica was the counterweight to Bethesda's official push: here was a mid-siz
 
 ## 13. Half-Life 2 and Half-Life 1 — The Frontier That Kept Getting Tried
 
-Half-Life 2 was the game the flat-to-VR community most wanted and could never quite reach. In 2017 that ambition was still being pursued, but the full motion-controlled Half-Life 2 VR that fans dreamed of was still out of reach — 2017 saw trailers and teases of Half-Life 2 VR projects rather than a finished, playable port. The HL2 VR effort that eventually became real wouldn't fully land until years later.
+[Half-Life 2](/games/half-life-2) was the game the flat-to-VR community most wanted and could never quite reach. In 2017 that ambition was still being pursued, but the full motion-controlled Half-Life 2 VR that fans dreamed of was still out of reach — 2017 saw trailers and teases of Half-Life 2 VR projects rather than a finished, playable port. (The *Portal Stories: Mel* community story project was another 2017 attempt in the same spirit — pushing an established Source game toward a headset even before the tools were truly ready.) The HL2 VR effort that eventually became real wouldn't fully land until years later.
 
 What that meant in 2017: Half-Life 2 was the great *unfinished* frontier. A 2004 game, endlessly relevant, but stuck in VorpX-profile territory and early mod demos rather than a true room-scale port. Half-Life 1 had an even older community claim — the original 1998 game's first attempt at head-mounted play via its source-era VR experiments was a DK1/DK2 curiosity more than a real 2017 story.
 
