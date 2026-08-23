@@ -1,12 +1,12 @@
 ---
 title: "Top VR Modding News of 2016: The Year Consumer VR Changed Everything"
-description: "2016 was the year VR went from dev kits to consumer hardware — the Rift and Vive launched, VorpX and Dolphin VR caught up, and Bethesda announced Fallout 4 VR. Here are the stories that defined the modding scene."
+description: "2016 was the year VR went from dev kits to consumer hardware — the Rift and Vive launched, VorpX and Dolphin VR caught up, Bethesda announced Fallout 4 VR, and the community got GTA V, Witcher 3, Minecraft, and Doom 3 running in headsets."
 pubDate: 2016-12-15
 lastVerified: 2016-12-15
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2016-hero.jpg
-tags: ['2016', 'vr-modding', 'vorpx', 'dolphin-vr', 'htc-vive', 'oculus-rift', 'fallout-4', 'skyrim', 'flat-to-vr']
+tags: ['2016', 'vr-modding', 'vorpx', 'dolphin-vr', 'htc-vive', 'oculus-rift', 'fallout-4', 'skyrim', 'gta-v', 'witcher-3', 'minecraft', 'doom-3', 'flat-to-vr']
 ---
 
 2015 proved the flat-to-VR modding scene was real. 2016 proved it was about to get a lot more complicated.
@@ -65,7 +65,31 @@ Skyrim was the game the modding community had been chasing for years. The origin
 
 The community response was telling. Players were willing to wrestle with injection driver jank and mod configurations just to stand inside Skyrim. The demand was there, even if the official solution wasn't.
 
-## 7. The Rise of Room-Scale and Motion Controllers
+## 7. GTA V in VR — The Grand Theft Auto Dream Takes Hold
+
+GTA V was the game the flat-to-VR community wanted above almost everything else — and in 2016, the dream started to become real. Multiple community paths emerged, including the GTA Vibe project and the broader OpenVR work that fed the injection-driver scene. None of it was official — Rockstar and Take-Two showed zero interest in VR — but the community kept pushing Los Santos into headsets anyway.
+
+The results were rough. It was seated, injection-driver territory — stereo 3D, head tracking, but no real motion controls and a camera that fought against the game's driving. But the novelty was enormous: one of the biggest, most detailed open worlds ever built, playable in a headset. GTA V in 2016 established the ambition that would drive the modding scene for years — and it set up the serious Grand Theft VR work that made the dream viable in 2017.
+
+## 8. The Witcher 3 — VorpX and the First-Person Question
+
+[*The Witcher 3*](/games/the-witcher-3) was the other 2016 obsession. CD Projekt Red's open-world RPG was a VorpX showcase — players wrestling Geralt into stereoscopic 3D with head tracking, and pushing hard on the dream of a first-person view so the whole Continent could be explored from inside. The first-person mods that reshaped the game's VR potential were a constant community effort through the year.
+
+The Witcher 3 mattered because it was the perfect test case for the injection-driver model. It was a huge, gorgeous, story-driven world that people genuinely wanted to *stand inside* — but its third-person camera and gamepad-driven combat were the opposite of room-scale VR. VorpX could get you in there, but the experience lived or died on modders fixing the view and the controls. It was 2016's clearest example of the modding community carrying a great game most of the way toward something that felt like real VR.
+
+## 9. Doom 3 BFG — The Community Makes the Horror VR
+
+Doom 3 BFG Edition had an old claim on VR — id Software had flirted with the idea early — and in 2016 the community finally made it real. The Doom 3 BFG VR project layered proper head tracking and stereoscopic 3D onto the 2012 remaster, turning a game designed for a monitor into an immersive, genuinely spooky shooter you could look around inside.
+
+It was rough, certainly — injection-driver-era VR with all the usual jank. But Doom 3 BFG VR was one of the few 2016 community projects that felt like a *complete* game in a headset, not just a tech demo. It showed that with the right game, the community-built path could deliver a whole, atmospheric, playable VR experience — and it fed directly into the Doom VR work that continued into 2017 and beyond.
+
+## 10. Minecraft in VR — The Early Vive Mods
+
+Minecraft was a perfect VR game — a voxel world begging to be stood inside — and 2016 was when the early VR mods for it started landing on the Vive. Before any official VR support, community mods got the familiar blocky landscape running in a headset, letting players look around their own builds at room scale. It was rough, but the *feeling* was unmistakable: this was the game VR was made for.
+
+Those early Vive Minecraft mods mattered because Minecraft was exactly the kind of mass-appeal title the modding scene was built to serve — a game the studios were slow to bring to VR, so the community stepped in. It widened the audience beyond hardcore shooter modders and made a case that flat-to-VR wasn't just for shooters and RPGs; it could turn a casual sandbox into a headset experience people would lose hours in.
+
+## 11. The Rise of Room-Scale and Motion Controllers
 
 2016 was the year the modding scene had to confront a fundamental question: what does "VR" mean?
 
@@ -75,7 +99,7 @@ This was a problem for the injection driver model. VorpX and Vireio were built a
 
 The tension would define the next several years of flat-to-VR modding. Some modders pushed toward motion control support. Others doubled down on the seated model. The debate was healthy, but it was real.
 
-## 8. Vireio Perception Fades as the Scene Consolidates
+## 12. Vireio Perception Fades as the Scene Consolidates
 
 [Vireio Perception](/articles/vireio-perception), the open-source injection driver that had been the free alternative to VorpX, largely stalled in 2016. The project had been slower-moving than VorpX for years, and the transition to consumer hardware — with its new runtimes, new tracking, and new expectations — proved too much for the volunteer-driven project.
 
@@ -83,13 +107,15 @@ Vireio's decline wasn't a failure of the open-source model. It was a sign of con
 
 The MTBS3D forums, which had been the gathering place for the stereoscopic 3D and injection driver community, also began to fade as the action moved to Reddit's r/Vive and r/oculus and the Steam community forums.
 
-## 9. The Modding Community Moves to Reddit and Discord
+## 13. The Modding Community Moves to Reddit and Discord
 
 2016 was the year the flat-to-VR community found its new home. The MTBS3D forums and blogspot-based modding sites that had defined the DK2 era gave way to Reddit's r/Vive and r/oculus, and to the emerging Discord servers where modders and enthusiasts could share profiles, fixes, and setups in real time.
 
 This was more than a platform shift. It was a generational change. The new VR owners — people who had bought a consumer headset, not a dev kit — were less patient with the rough edges of injection drivers and more interested in sharing working configurations. The community became more accessible, more collaborative, and more focused on making things "just work."
 
-## 10. The Seeds of the Modern Flat-to-VR Scene
+## 14. The Seeds of the Modern Flat-to-VR Scene
+
+By the end of 2016, the flat-to-VR modding landscape looked like this:
 
 By the end of 2016, the flat-to-VR modding landscape looked like this:
 
@@ -97,6 +123,7 @@ By the end of 2016, the flat-to-VR modding landscape looked like this:
 - **Dolphin VR** had successfully transitioned to consumer hardware, proving emulator-based VR could survive
 - **Bethesda** had announced official VR versions of Fallout 4 and Doom, validating the modding community's core thesis
 - **Skyrim Special Edition** had a VorpX profile, feeding demand for a proper Skyrim VR experience
+- **GTA V, The Witcher 3, Doom 3 BFG, and Minecraft** all had community VR paths, proving the modding scene could tackle the biggest and most beloved games around
 - **Room-scale and motion controllers** had raised the bar for what "VR" meant, creating tension with the seated injection driver model
 - **The community** had moved to Reddit and Discord, becoming more accessible and collaborative
 
