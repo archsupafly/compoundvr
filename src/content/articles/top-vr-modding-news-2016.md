@@ -117,8 +117,6 @@ This was more than a platform shift. It was a generational change. The new VR ow
 
 By the end of 2016, the flat-to-VR modding landscape looked like this:
 
-By the end of 2016, the flat-to-VR modding landscape looked like this:
-
 - **VorpX** was the dominant injection driver, now supporting both the Rift CV1 and the Vive, with a growing library of profiles
 - **Dolphin VR** had successfully transitioned to consumer hardware, proving emulator-based VR could survive
 - **Bethesda** had announced official VR versions of Fallout 4 and Doom, validating the modding community's core thesis
