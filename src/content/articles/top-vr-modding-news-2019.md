@@ -89,7 +89,7 @@ Dolphin VR mattered in 2019 because it filled the gap neither official ports, no
 
 [GORN](/games/gorn) hit its full 1.0 release in July 2019, and its modding scene grew alongside it. The physics-driven gladiator sandbox had no official mod support, so the community built its own loader — MemeLoader — and used it to drop custom weapons, arenas, and absurd toys into the arena. It was the same DIY story as the flat-to-VR scene, applied to a native VR game: the community took a polished, fun sandbox and made it unhinged.
 
-[Beat Saber](/games/beat-saber) became the year's biggest modded native VR game through its custom song scene. The rhythm-slicing phenomenon exploded in 2019, and the community's custom-beatmap tooling let players import literally any song — which is a big part of why Beat Saber stayed endlessly fresh and grew into the mainstream phenomenon it became. And [Blade & Sorcery](/games/blade-and-sorcery) kept its modding scene turning over new weapons and spells on top of the best melee physics in VR.
+[Beat Saber](/games/beat-saber) kept its custom-song scene (which exploded in 2018) growing through 2019 — the community's beatmap tooling stayed a big part of why it became a mainstream phenomenon. And [Blade & Sorcery](/games/blade-and-sorcery) kept its modding scene turning over new weapons and spells on top of the best melee physics in VR.
 
 These native-VR mod scenes matter to the retrospective because they prove modding isn't just about resurrecting flat games — it's the enthusiast community shaping the games they already love, in every direction at once.
 

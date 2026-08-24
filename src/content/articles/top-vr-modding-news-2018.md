@@ -59,6 +59,14 @@ Where VorpX injected into the broad library of games, Luke Ross's work targeted 
 
 The significance of 2018's early Ross work wasn't the individual games. It was the model. Here was a clear alternative to the one-stop injection driver: a modder building a driver-specific framework one game at a time, chasing polish over breadth. It set the pattern for the modern flat-to-vr scene, where specialist conversion frameworks from a handful of dedicated modders would come to carry the whole community. The seeds of the [Luke Ross R.E.A.L. framework](/articles/luke-ross-real-vr-guide) were planted in 2018.
 
+## 6. Beat Saber and the Custom-Song Explosion
+
+The biggest native-VR modding story of 2018 didn't come from a flat game at all. [Beat Saber](/games/beat-saber) launched into Early Access on May 1, 2018, and within weeks its modding community had done something that turned a rhythm game into a phenomenon: they made it play any song.
+
+The custom-song scene was the key. Beat Saber shipped with a solid built-in soundtrack, but the community's modding tools let players import literally any track — and a whole ecosystem of custom beatmaps exploded around the game. Within months, the workshop-style sharing of community-made maps meant Beat Saber's library went from a dozen songs to thousands. It's why the game grew into a mainstream sensation rather than a niche rhythm title, and it set the template for the native-VR modding scenes that followed.
+
+Beat Saber mattered to 2018's modding story because it proved the enthusiast community's reach wasn't limited to resurrecting flat games. Native VR games, too, were being shaped by their players — and a modded Beat Saber, with a custom map of any song you could name, was the year's clearest proof of that.
+
 ## The Mess that Wasn't the Story — and What 2018 Proved
 
 Here's what didn't happen in 2018: the flat-to-vr scene didn't die. Bethesda's official versions didn't kill the modders. VorpX didn't fade. The injection driver model didn't collapse under the weight of official releases.
@@ -72,5 +80,6 @@ By December 2018, the flat-to-vr landscape looked like this:
 - **Half-Life 2: VR** remained the great unfinished frontier, visibly real and visibly not done
 - **VorpX** kept the injection-driver model alive for the thousands of games that would never get official support
 - **Luke Ross's R.E.A.L.** launched a purpose-built framework approach that would carry the scene forward
+- **Beat Saber's custom-song scene** proved native VR games could have just as vibrant a modding culture as the flat-to-VR conversions
 
 The question that opened 2017 — does the modding community still matter now that the studios are here — was answered in 2018 with a definitive yes. The studios made the invitations. The modders made the experience. And the pattern was set for every year of flat-to-vr modding to come.
