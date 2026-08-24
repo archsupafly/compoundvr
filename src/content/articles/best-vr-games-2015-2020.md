@@ -161,7 +161,7 @@ Job Simulator defined the vocabulary of VR interaction that every subsequent gam
 
 The VR game that transcended VR. Beat Saber topped the Steam charts — not the VR charts, the overall charts — and became the single most recognizable title in the medium's history. The concept is immediately legible: blocks fly at you in time with music, and you slice them with lightsabers. No tutorial needed. No VR experience required. Pick up the controllers, see the blocks, swing.
 
-What made Beat Saber special wasn't just accessibility. It was the combination of physical exertion, rhythmic satisfaction, and visual spectacle that created a feedback loop stronger than any VR game before it. The custom song community turned it from a game into a platform. The DLC packs brought mainstream music into VR for the first time. Beat Saber is the reason many people bought headsets, and for a significant portion of the VR audience, it's the game they still play most. It's VR's Tetris — simple, perfect, and inexhaustible.
+What made Beat Saber special wasn't just accessibility. It was the combination of physical exertion, rhythmic satisfaction, and visual spectacle that created a feedback loop stronger than any VR game before it. The custom song community turned it from a game into a platform — our [Beat Saber modding guide](/articles/beat-saber-modding-guide) covers the toolchain and finding great maps. The DLC packs brought mainstream music into VR for the first time. Beat Saber is the reason many people bought headsets, and for a significant portion of the VR audience, it's the game they still play most. It's VR's Tetris — simple, perfect, and inexhaustible.
 
 [Read the full Beat Saber VR review](/games/beat-saber)
 
