@@ -75,7 +75,7 @@ Jedi Academy runs on id Tech 3, a lightweight engine by modern standards. On Que
 
 ## What Works Well
 
-**The lightsaber combat is the reason to play this.** Full motion-controlled dueling with collision-based deflections, multiple saber styles, and gesture-based Force powers creates a Star Wars experience that native VR games still haven't matched at this depth. Jedi Academy's mission structure, which throws varied scenarios at you across different planets, gives the combat enough variety to stay engaging for the full campaign.
+**The lightsaber combat is the reason to play this.** Full motion-controlled dueling with collision-based deflections, multiple saber styles, and gesture-based Force powers creates a Star Wars experience that native VR games still haven't matched at this depth. Jedi Academy's mission structure, which throws varied scenarios at you across different planets, gives the combat enough variety to stay engaging for the full campaign. (For a different Star Wars lightsaber sandbox, the Outer Rim conversion in our [best Blade & Sorcery mods guide](/articles/best-blade-sorcery-mods) delivers physics-driven saber dueling in WarpFrog's arena.)
 
 **Character customization translates better in VR than you'd expect.** Choosing your saber type, Force power allocation, and mission order all feel more consequential when you're physically performing the actions rather than clicking through menus. The dark side ending — which Jedi Academy handles better than most Star Wars games — hits differently when you've spent hours physically swinging the saber you chose.
 
