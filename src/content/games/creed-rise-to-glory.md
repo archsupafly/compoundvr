@@ -1,10 +1,10 @@
 ---
 title: "Creed: Rise to Glory VR"
 description: "Survios turns boxing into a full-body VR workout, and the result is one of the most physically demanding games you can strap to your face."
-lastVerified: 2018-09-25
+lastVerified: 2019-05-21
 featured: false
 routeType: Official Standalone VR Version
-platforms: ['PCVR', 'PSVR']
+platforms: ['PCVR', 'PSVR', 'Quest']
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Beginner Friendly
@@ -28,8 +28,8 @@ experienceTags:
 tier: B
 verdict: "A physically intense boxing experience that makes most VR games feel sedentary by comparison, held back by a shallow career mode and multiplayer that never found its footing."
 heroImage: /images/games/creed-rise-to-glory-vr-hero.jpg
-sources: "Research conducted via Survios official announcements, PlayStation Store and Steam store pages, YouTube VR gameplay footage (Nathie, PSVR Without Parole, Beardo Benjo), and Reddit community reports (r/PSVR, r/Vive, r/oculus). No direct testing performed."
-vrReleaseDate: 2018-09-25
+sources: "Research conducted via Survios official announcements (Quest launch), PlayStation Store and Steam store pages, YouTube VR gameplay footage (Nathie, PSVR Without Parole, Beardo Benjo, UploadVR Quest/Rift comparison), and Reddit community reports (r/PSVR, r/Vive, r/oculus). No direct testing performed."
+vrReleaseDate: 2019-05-21
 ---
 
 The first time you land a clean hook in *Creed: Rise to Glory*, you realize this is not a button-mashing boxing game. Your actual shoulder rotates. Your fist travels through real space. Your heart rate jumps. Survios didn't build a boxing simulator so much as a boxing *occupation* — a game that demands your body show up to work.
@@ -54,7 +54,9 @@ PvP multiplayer exists, and when you find a match, it works. Two human players s
 
 ## Controls and Comfort
 
-Punching, blocking, and dodging all map naturally to motion controllers. Raise your gloves to guard. Lean to slip a jab. Throw body shots by aiming low. The tracking holds up well on both PSVR Move controllers and PC VR setups, though the limited tracking volume of the Move wands can occasionally lose a glove mid-combo. The bigger comfort issue is physical, not virtual. *Creed* will exhaust you. There is no locomotion to cause motion sickness — you are confined to a ring — but standing and throwing punches for thirty minutes is a genuine workout. If you approach this like a traditional video game, you will be humbled. If you approach it like cardio equipment with a license attached, you will get exactly what you paid for.
+Punching, blocking, and dodging all map naturally to motion controllers. Raise your gloves to guard. Lean to slip a jab. Throw body shots by aiming low. The tracking holds up well on PSVR Move controllers and PC VR setups, though the limited tracking volume of the Move wands can occasionally lose a glove mid-combo. The bigger comfort issue is physical, not virtual. *Creed* will exhaust you. There is no locomotion to cause motion sickness — you are confined to a ring — but standing and throwing punches for thirty minutes is a genuine workout. If you approach this like a traditional video game, you will be humbled. If you approach it like cardio equipment with a license attached, you will get exactly what you paid for.
+
+The Quest port, which arrived on the Oculus Quest launch day in May 2019 as a cross-buy release and one of the headset's bundled ready-to-play demos, makes the same trade in a different direction. Going wireless is arguably the best way to experience *Creed*: you are ducking, weaving, and spinning without a cable brushing your shoulder or threatening to clothesline you mid-combo. But the Snapdragon 835 build pays for that portability. Lighting is flatter, effects are dialed back, and the overall look is drabber than the PC or PS4 versions. Character models still hold up where it matters — you spend most of the fight staring at an opponent from arm's length — but the port was one of the rougher Quest translations at launch. Inside-out tracking can lose a fast glove during a flurry, more often than on PC, and load times are noticeably longer. Cross-buy softens the blow if you already own the Rift version, but the Quest edition is the version you buy for the freedom of no wires, not for visual fidelity.
 
 Visually, the game runs comfortably on mid-range hardware and PS4 Pro. Character models hold up in close-up, which matters when you are staring at an opponent's gloves from inches away. Crowds and arenas are functional but unremarkable. This is not a game that pushes VR rendering to its limits; it spends its budget on animation fidelity and physical interaction instead.
 
