@@ -51,3 +51,5 @@ So who is this actually for? If you already own VorpX, already love Left 4 Dead,
 But the caveats are real. If you are looking for motion-controlled melee swings, physically reaching for pills, or the kind of embodied zombie combat that makes VR shooters thrilling, this is not your answer. And if you are choosing between this and Left 4 Dead 2's community VR mod — which has motion controls, 6DoF, and actual hand presence — there is no contest. L4D2VR is the fuller experience, and it costs nothing beyond the base game.
 
 Valve has confirmed there is no official Left 4 Dead VR game in development. That leaves the original in a very specific niche: a solid, playable, slightly haunted way to revisit a co-op classic, provided you already have the tools and the stomach for it. For anyone else, the memories are probably better left in flatscreen.
+
+If you'd rather get Left 4 Dead's co-op energy into a headset with motion controls and hand presence, the community also rebuilt those zombie maps inside [Pavlov's Workshop](/articles/best-pavlov-mods) — worth a look if VorpX's gamepad-and-head-tracking approach leaves you wanting more.

@@ -37,7 +37,7 @@ These aren't just reskins. A Left 4 Dead map in Pavlov means you and a team, rea
 
 The other major survival pillar is **Call of Duty Zombies**. The community built a dedicated COD Zombies mod — creator xCeezyx's project recreating the classic game mode for Pavlov — and on top of it, a whole collection of faithful remakes of the iconic maps.
 
-Der Riese, Nuketown Zombies, Call of the Dead — the pack-and-punch, the mystery boxes, the round-based escalation, all rebuilt so you can physically run the classic zombie arenas in a headset. For [Call of Duty](/games/call-of-duty-2) fans, this is the definitive way to experience the mode that defined co-op survival, and it's some of the most polished custom content Pavlov has.
+Der Riese, Nuketown Zombies, Call of the Dead — the pack-and-punch, the mystery boxes, the round-based escalation, all rebuilt so you can physically run the classic zombie arenas in a headset. For [Call of Duty](/games/call-of-duty-black-ops-2) fans, this is the definitive way to experience the mode that defined co-op survival, and it's some of the most polished custom content Pavlov has.
 
 ## The Historical War Maps: WW1, the Civil War, Vietnam
 
