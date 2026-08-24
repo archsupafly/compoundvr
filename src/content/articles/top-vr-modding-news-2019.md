@@ -39,9 +39,17 @@ No flat-to-VR story lived in a vacuum in 2019, and the hardware backdrop that ma
 
 Announced in April and released June 28, the Index raised the technical bar across the board — a higher refresh rate (up to 120Hz and beyond), a wider field of view, and the new Index Controllers, the "Knuckles" that strapped to your hands and tracked individual fingers. For the modding scene, the Index wasn't just a better headset; it was a target. Its higher refresh rate put more pressure on modded games to hit framerates that kept motion sickness at bay, and its finger-tracking controllers opened a new frontier for the native VR games the community also loved to improve.
 
-The Index also sent a message about Valve's commitment to VR. After years of leaving the heavy lifting to HTC and the Oculus ecosystem, Valve was now shipping its own first-class hardware — and the community read it as a sign that the platform they'd been modding into existence was being taken seriously. The Index didn't convert any flat games by itself, but it raised the ceiling every modder was now aiming at.
+The Index also sent a message about Valve's commitment to VR. After years of leaving the heavy lifting to HTC and the Oculus ecosystem, Valve was now shipping its own first-class hardware — and the community read it as a sign that the platform they'd been modding into existence was being taken seriously. The Index didn't convert any flat games by itself, but it raised the ceiling every modder was now aiming at. (Full verdict in our [Valve Index review](/articles/valve-index-review).)
 
-## 4. Half-Life 2 VR — the Frontier Keeps Getting Carved
+## 4. The Oculus Quest and Rift S — the Install Base Explodes
+
+If the Index set the ceiling, the [Oculus Quest](/articles/oculus-quest-review) set the floor — and it was far more important to the flat-to-VR scene's future. When the Quest shipped on May 21, 2019 at $399, it wasn't just another headset. It was the first standalone headset with full six-degrees-of-freedom tracking and motion controllers, no PC required, and it brought VR to a mass-market audience the modding scene had never had before.
+
+For flat-to-VR, the Quest mattered on two levels. First, it exploded the install base — millions of people who had never touched a PC VR headset suddenly owned a VR system, and that meant an audience for VR experiences of every kind. Second, and more directly, it opened a whole new front for community modding. The Quest is Android-based, and the community quickly found ways to sideload content and mods onto it through tools like SideQuest. That wasn't flat-to-VR conversion in the traditional sense, but it was the same DIY spirit applied to a locked-down consumer device — and it laid the groundwork for the standalone modding scene that would grow in the years ahead.
+
+Oculus also launched the [Rift S](/articles/oculus-rift-s-review) the same day — a refresh of the PC Rift that replaced the external sensor stands with built-in inside-out tracking. The Rift S was aimed more at developers and newcomers than hardcore fans, but it mattered to the scene because it kept the PC VR ecosystem accessible and, critically, kept the high-end flat-to-VR library (which the Quest's mobile chip couldn't run) firmly on PC. Together, the Quest and Rift S cemented 2019 as the year VR stopped being an enthusiast niche and started being a mass market.
+
+## 5. Half-Life 2 VR — the Frontier Keeps Getting Carved
 
 The great unfinished project of flat-to-VR pressed on through 2019, and for the first time it started to look real.
 
@@ -49,7 +57,7 @@ The great unfinished project of flat-to-VR pressed on through 2019, and for the 
 
 But it still wasn't done. Through all of 2019, Half-Life 2: VR remained an ongoing, unreleased labor — a project, not a product, with no firm release date. It was the year's most-watched flat-to-VR frontier, a constant reminder that some of the most important work in the scene was being done for free, on a volunteer schedule, by people who simply believed a 2004 classic deserved to be stood inside. The payoff wouldn't fully arrive for years, but 2019 was the year it became clear the mod was coming — and that it was going to be worth the wait.
 
-## 5. Skyrim VR's Modding Scene Matures
+## 6. Skyrim VR's Modding Scene Matures
 
 [Skyrim VR](/games/skyrim) had launched on PC back in April 2018, and 2019 was the year its modding scene settled into maturity. The initial rush of "the mods work on the official port!" had faded; what replaced it was a community systematically turning Bethesda's already-impressive VR port into something far bigger.
 
@@ -57,7 +65,7 @@ The mods had been the point from day one. Skyrim's enormous ecosystem — graphi
 
 Skyrim VR mattered in 2019 because it stayed the proof-of-concept for the entire thesis the modding scene had spent years arguing: official VR was the invitation, and the mods were the real experience.
 
-## 6. VorpX and the Injection Driver — Steady, Not Spectacular
+## 7. VorpX and the Injection Driver — Steady, Not Spectacular
 
 The injection-driver model that had carried the scene since the DK2 days spent 2019 doing what it had always done best: quietly, relentlessly covering the games the studios ignored.
 
@@ -65,7 +73,7 @@ The injection-driver model that had carried the scene since the DK2 days spent 2
 
 The notable thing about VorpX in 2019 was that it was still here at all. With R.E.A.L. proving a purpose-built framework could deliver a complete VR game, one could have expected the generic injection driver to look obsolete. Instead, VorpX's strength remained its breadth: it served the thousands of flat games that would never get a Luke Ross conversion. In a year defined by one modder's masterpiece, the injection driver was the reminder that the long tail of the back catalog still had to be covered by someone.
 
-## 7. Dolphin VR and the Emulators Keep the Classics Alive
+## 8. Dolphin VR and the Emulators Keep the Classics Alive
 
 The emulator fork [Dolphin VR](/articles/dolphin-vr) continued its quiet, essential run in 2019, keeping GameCube and Wii classics playable in a headset.
 
@@ -82,6 +90,7 @@ By December 2019, the flat-to-VR landscape looked like this:
 - **Luke Ross's R.E.A.L.** turned [GTA V](/games/gta-5) into a complete, playable VR game, establishing purpose-built frameworks as the new gold standard
 - **[No Man's Sky](/games/no-mans-sky) Beyond** delivered an entire endless universe in official VR, free, on both PC and PSVR
 - **The Valve Index and Knuckles** raised the hardware ceiling every modder was now aiming at
+- **The Oculus Quest and Rift S** exploded the install base and opened standalone sideloading, bringing VR — and modding — to a mass audience
 - **Half-Life 2 VR** remained the great unfinished frontier, visibly real and visibly not done
 - **Skyrim VR's modding scene** matured into curated, modlist-driven setups
 - **VorpX and the shader-fixers** kept the injection-driver long tail alive
