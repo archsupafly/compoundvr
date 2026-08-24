@@ -81,6 +81,18 @@ Dolphin VR had proven back in 2016 that emulator-based VR could survive the tran
 
 Dolphin VR mattered in 2019 because it filled the gap neither official ports, nor R.E.A.L., nor VorpX could reach. It was the oldest-school path in the scene, and it kept proving that the oldest games were often the best VR experiences the community could build.
 
+## 8. The Native VR Mod Scenes: GORN, Pavlov, Beat Saber, Blade & Sorcery
+
+2019's flat-to-VR headlines tend to dominate, but the year's native VR games were quietly running their own modding revolutions — and for many enthusiasts, those were the year's real story.
+
+[Pavlov](/games/pavlov) built the deepest one. Its Steam Workshop turned the "Counter-Strike in VR" shooter into a bottomless sandbox: community map ports of the Counter-Strike classics (de_dust2 and friends, rebuilt room-for-room), a whole Trouble in Terrorist Town scene that took over Pavlov lobbies in 2019, zombies maps, and custom weapons from nerf guns to lightsabers. TTT in particular became the reason a huge slice of the community owned Pavlov at all — the social-deduction shooter where you read people's physical tells across a real room. It was the year Pavlov stopped being a CS clone and became whatever its community wanted it to be. (Our [best Pavlov mods guide](/articles/best-pavlov-mods) digs into the full catalog.)
+
+[GORN](/games/gorn) hit its full 1.0 release in July 2019, and its modding scene grew alongside it. The physics-driven gladiator sandbox had no official mod support, so the community built its own loader — MemeLoader — and used it to drop custom weapons, arenas, and absurd toys into the arena. It was the same DIY story as the flat-to-VR scene, applied to a native VR game: the community took a polished, fun sandbox and made it unhinged.
+
+[Beat Saber](/games/beat-saber) became the year's biggest modded native VR game through its custom song scene. The rhythm-slicing phenomenon exploded in 2019, and the community's custom-beatmap tooling let players import literally any song — which is a big part of why Beat Saber stayed endlessly fresh and grew into the mainstream phenomenon it became. And [Blade & Sorcery](/games/blade-and-sorcery) kept its modding scene turning over new weapons and spells on top of the best melee physics in VR.
+
+These native-VR mod scenes matter to the retrospective because they prove modding isn't just about resurrecting flat games — it's the enthusiast community shaping the games they already love, in every direction at once.
+
 ## The Year the Solo Modder Became the Story
 
 Here's what didn't happen in 2019: the scene didn't consolidate around official releases, and it didn't consolidate around the injection drivers. Instead, the year's defining moment was a solo modder.
@@ -95,5 +107,6 @@ By December 2019, the flat-to-VR landscape looked like this:
 - **Skyrim VR's modding scene** matured into curated, modlist-driven setups
 - **VorpX and the shader-fixers** kept the injection-driver long tail alive
 - **Dolphin VR** kept the classics playable in a headset
+- **Pavlov, GORN, Beat Saber, and Blade & Sorcery** proved native VR games had their own thriving mod scenes, from Pavlov's Workshop to MemeLoader to the custom-song explosion
 
 2019 was the year the flat-to-VR scene found its template. The injection drivers had carried the community for years. The studios had provided the raw material. But the future belonged to the specialist — the modder building one game at a time, chasing polish over breadth, turning a beloved flat classic into a complete VR experience. That model, proven with GTA V in 2019, was the shape of everything the scene would become.
