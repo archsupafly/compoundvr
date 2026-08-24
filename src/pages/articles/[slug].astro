@@ -9,6 +9,21 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
+
+const pubDateIso = article.data.pubDate.toISOString().slice(0, 10);
+const updatedIso = (article.data.lastVerified ?? article.data.pubDate).toISOString().slice(0, 10);
+const isUpdated = updatedIso !== pubDateIso;
+const jsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: article.data.title,
+  description: article.data.description,
+  datePublished: pubDateIso,
+  ...(isUpdated ? { dateModified: updatedIso } : {}),
+  author: { '@type': 'Person', name: article.data.author },
+  mainEntityOfPage: `https://compoundvr.com/articles/${article.id}/`,
+  ...(article.data.heroImage ? { image: `https://compoundvr.com${article.data.heroImage}` } : {}),
+});
 ---
 
 <Layout title={`${article.data.title} — CompoundVR`} description={article.data.description}>
@@ -24,7 +39,9 @@ const { Content } = await render(article);
         />
       </div>
     )}
-    <div class="meta">{article.data.category} · {article.data.pubDate.toISOString().slice(0, 10)} · {article.data.author}</div>
+    <div class="meta">{article.data.category} · {pubDateIso} · {article.data.author}{isUpdated && ` · Updated ${updatedIso}`}</div>
+
+    <script type="application/ld+json" set:html={jsonLd}></script>
 
     <article class="prose" style="margin-top:2rem;">
       <Content />
