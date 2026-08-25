@@ -3,7 +3,7 @@ title: "Counter-Strike VR"
 description: "CSVR doesn't just put Counter-Strike 1.6 on a headset — it turns the twitchiest competitive shooter of its era into a room-scale gunfight where muscle memory starts over."
 flatReleaseDate: 2000-11-09
 vrReleaseDate: 2026-01-11
-lastVerified: 2026-08-25
+lastVerified: 2026-01-11
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'Pico']
