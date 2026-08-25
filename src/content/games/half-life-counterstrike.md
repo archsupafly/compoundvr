@@ -1,9 +1,9 @@
 ---
-title: "Half-Life: Counter-Strike VR"
+title: "Counter-Strike VR"
 description: "CSVR doesn't just put Counter-Strike 1.6 on a headset — it turns the twitchiest competitive shooter of its era into a room-scale gunfight where muscle memory starts over."
 flatReleaseDate: 2000-11-09
 vrReleaseDate: 2026-01-11
-lastVerified: 2026-01-11
+lastVerified: 2026-08-25
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'Pico']
@@ -40,7 +40,7 @@ The AK-47 kicks harder in VR than I expected. In flat Counter-Strike 1.6, the CV
 
 ## What the VR Option Actually Is
 
-There is no official VR support for Counter-Strike, and until early 2026 there was no real way to play it in a headset at all. The only viable path is **CSVR**, a standalone VR port built by Team Beef Studios — the same group behind Lambda1VR and the Quest ports of Doom, Quake, and Prey. It launched on SideQuest on January 11, 2026, and it's built on the Xash3D-FWGS engine reimplementation of GoldSrc, the same foundation Team Beef used for Half-Life on Quest.
+There is no official VR support for Counter-Strike, and until early 2026 there was no real way to play it in a headset at all. The only viable path is **CSVR**, a standalone VR port built by Team Beef Studios — the same group behind Lambda1VR and the Quest ports of Doom, Quake, and Prey. It launched on SideQuest on January 11, 2026, and it's built on the Xash3D-FWGS engine reimplementation of GoldSrc.
 
 This is not a wrapper or a screen-in-headset solution. CSVR gives you 6DOF controller tracking, room-scale movement, two-handed gun handling, smooth locomotion, in-headset server hosting, bot matches, online PvP, team chat, and crossplay with the Android Xash CS 1.6 client. It requires a $10 copy of Counter-Strike 1.6 on Steam to supply the `valve` and `cstrike` game folders, and installation is a SideQuest sideload plus a file copy. A PC is only needed for setup.
 
