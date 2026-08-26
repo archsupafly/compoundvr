@@ -2,11 +2,11 @@
 title: "Top VR Modding News of 2019: The Year the Solo Modder Took Over"
 description: "2019 was the year one modder reshaped the whole flat-to-VR scene — Luke Ross shipped his R.E.A.L. framework and turned GTA V into a full playable VR game, while No Man's Sky added official VR and the Valve Index raised the hardware bar."
 pubDate: 2019-12-15
-lastVerified: 2019-12-15
+lastVerified: 2026-08-25
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2019-hero.jpg
-tags: ['2019', 'vr-modding', 'luke-ross', 'real-vr', 'gta-v', 'no-mans-sky', 'valve-index', 'knuckles', 'half-life-2', 'skyrim', 'vorpx', 'flat-to-vr']
+tags: ['2019', 'vr-modding', 'luke-ross', 'real-vr', 'gta-v', 'no-mans-sky', 'valve-index', 'knuckles', 'half-life-2', 'garrys-mod', 'vrmod', 'skyrim', 'vorpx', 'flat-to-vr']
 ---
 
 2018 proved the studios' official VR ports weren't going to kill the modders — they were going to become the raw material the community improved. In 2019, the flat-to-VR scene answered a different question: what happens when one dedicated modder decides to build the experience the studios won't?
@@ -57,7 +57,11 @@ The great unfinished project of flat-to-VR pressed on through 2019, and for the 
 
 But it still wasn't done. Through all of 2019, Half-Life 2: VR remained an ongoing, unreleased labor — a project, not a product, with no firm release date. It was the year's most-watched flat-to-VR frontier, a constant reminder that some of the most important work in the scene was being done for free, on a volunteer schedule, by people who simply believed a 2004 classic deserved to be stood inside. The payoff wouldn't fully arrive for years, but 2019 was the year it became clear the mod was coming — and that it was going to be worth the wait.
 
-## 6. Skyrim VR's Modding Scene Matures
+## 6. Catse's VRMod Dragged Garry's Mod Into VR
+
+If the solo-modder wave had a poster child for sheer audacity, it was Catse's VRMod for [Garry's Mod](/games/garry-s-mod-vr). Released to the Steam Workshop on March 10, the addon patched Valve's physics sandbox into full virtual reality — motion controls, roomscale positioning, and the entire Workshop catalog of user content along for the ride. It shipped with a warning label instead of a promise: the mod's own description cautioned that "performance is bad and the projection is not perfect." Nobody cared. Players were quickly throwing props at each other across virtual living rooms while their flatscreen friends sat in the same multiplayer server, and the clip compilations kept spreading. VRMod was rough, unapologetic, and entirely one person's project — proof that in 2019, even a thirteen-year-old sandbox with no official VR plans and an engine held together with duct tape was one determined modder away from a headset.
+
+## 7. Skyrim VR's Modding Scene Matures
 
 [Skyrim VR](/games/skyrim) had launched on PC back in April 2018, and 2019 was the year its modding scene settled into maturity. The initial rush of "the mods work on the official port!" had faded; what replaced it was a community systematically turning Bethesda's already-impressive VR port into something far bigger.
 
@@ -65,7 +69,7 @@ The mods had been the point from day one. Skyrim's enormous ecosystem — graphi
 
 Skyrim VR mattered in 2019 because it stayed the proof-of-concept for the entire thesis the modding scene had spent years arguing: official VR was the invitation, and the mods were the real experience.
 
-## 7. VorpX and the Injection Driver — Steady, Not Spectacular
+## 8. VorpX and the Injection Driver — Steady, Not Spectacular
 
 The injection-driver model that had carried the scene since the DK2 days spent 2019 doing what it had always done best: quietly, relentlessly covering the games the studios ignored.
 
@@ -73,7 +77,7 @@ The injection-driver model that had carried the scene since the DK2 days spent 2
 
 The notable thing about VorpX in 2019 was that it was still here at all. With R.E.A.L. proving a purpose-built framework could deliver a complete VR game, one could have expected the generic injection driver to look obsolete. Instead, VorpX's strength remained its breadth: it served the thousands of flat games that would never get a Luke Ross conversion. In a year defined by one modder's masterpiece, the injection driver was the reminder that the long tail of the back catalog still had to be covered by someone.
 
-## 8. Dolphin VR and the Emulators Keep the Classics Alive
+## 9. Dolphin VR and the Emulators Keep the Classics Alive
 
 The emulator fork [Dolphin VR](/articles/dolphin-vr) continued its quiet, essential run in 2019, keeping GameCube and Wii classics playable in a headset.
 
@@ -81,7 +85,7 @@ Dolphin VR had proven back in 2016 that emulator-based VR could survive the tran
 
 Dolphin VR mattered in 2019 because it filled the gap neither official ports, nor R.E.A.L., nor VorpX could reach. It was the oldest-school path in the scene, and it kept proving that the oldest games were often the best VR experiences the community could build.
 
-## 8. The Native VR Mod Scenes: GORN, Pavlov, Beat Saber, Blade & Sorcery
+## 10. The Native VR Mod Scenes: GORN, Pavlov, Beat Saber, Blade & Sorcery
 
 2019's flat-to-VR headlines tend to dominate, but the year's native VR games were quietly running their own modding revolutions — and for many enthusiasts, those were the year's real story.
 
@@ -104,6 +108,7 @@ By December 2019, the flat-to-VR landscape looked like this:
 - **The Valve Index and Knuckles** raised the hardware ceiling every modder was now aiming at
 - **The Oculus Quest and Rift S** exploded the install base and opened standalone sideloading, bringing VR — and modding — to a mass audience
 - **Half-Life 2 VR** remained the great unfinished frontier, visibly real and visibly not done
+- **Catse's VRMod** dragged [Garry's Mod](/games/garry-s-mod-vr) into headsets — janky, hilarious, and proof the solo-modder wave reached every corner of Steam
 - **Skyrim VR's modding scene** matured into curated, modlist-driven setups
 - **VorpX and the shader-fixers** kept the injection-driver long tail alive
 - **Dolphin VR** kept the classics playable in a headset
