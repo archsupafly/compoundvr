@@ -1,13 +1,13 @@
 ---
 title: "Westworld Awakening VR"
-description: "A short, tightly directed stealth horror experience that uses the Westworld license well — but it's PCVR-only, single-player, and over in about three hours."
+description: "A short, tightly directed stealth horror experience that uses the Westworld license well — three memorable hours of atmosphere and tension, though it remains PCVR-only."
 flatReleaseDate: 2019-08-20
 vrReleaseDate: 2019-08-20
 lastVerified: 2019-08-20
 featured: false
 routeType: Official Standalone VR Version
 platforms: ['PCVR', 'Rift', 'Rift S', 'Vive', 'Index']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
@@ -29,8 +29,8 @@ experienceTags:
   - Hide-and-Seek Stealth
   - Cinematic Horror
   - Short Experience
-tier: B
-verdict: "A well-crafted, atmosphere-first stealth horror experience that delivers a memorable few hours in VR, but its short runtime and lack of replay value keep it from being essential."
+tier: A
+verdict: "A well-crafted, atmosphere-first stealth horror experience that delivers a memorable few hours in VR — short, with little replay value, but the tension, world, and license integration make it well worth the evening."
 heroImage: /images/games/westworld-awakening-vr-hero.jpg
 sources: "Steam store page, Survios launch announcement and game page, Engadget (release date and platform limitations), The Verge (hands-on and developer context), Meta/Oculus Rift store page, UploadVR review (gameplay, length, stealth mechanics), Variety (HBO/Survios launch), The VR Realm review, The VR Critic review, Windows Central review. Assessment based on published VR reviews and developer documentation."
 ---
@@ -39,7 +39,7 @@ sources: "Steam store page, Survios launch announcement and game page, Engadget 
 
 The first thing that happens in *Westworld Awakening* is that you are brutally murdered in an old west farmhouse. The second thing that happens is worse: you wake up again, because you're a Host, and the people running the park need you to keep performing.
 
-Survios — the studio behind *Raw Data* and *Creed: Rise to Glory* — partnered with HBO to turn the Westworld premise into a narrative VR horror experience, and the fit is obvious. The show is about consciousness, control, and being trapped in a loop. VR is uniquely good at making you feel trapped. Put the two together and you get a game whose best moments are less about jump scares and more about the slow realization that you are disposable.
+Survios — the studio behind [Raw Data](/games/raw-data/) and [Creed: Rise to Glory](/games/creed-rise-to-glory/) — partnered with HBO to turn the Westworld premise into a narrative VR horror experience, and the fit is obvious. The show is about consciousness, control, and being trapped in a loop. VR is uniquely good at making you feel trapped. Put the two together and you get a game whose best moments are less about jump scares and more about the slow realization that you are disposable.
 
 ## What This Actually Is
 
@@ -51,7 +51,7 @@ There is no flatscreen version. There is no Quest version. There is no UEVR prof
 
 The pacing is deliberately slow. This is not a shooter. Most of the game is spent crouching behind cubicle walls, hiding under tables, shimmying through vents, and timing button presses so you don't draw Hank's attention. The AI is a little predictable — Hank struggles to check under objects, so you can game the stealth once you learn his patterns — but the tension holds because the sound design and environmental storytelling keep you off-balance.
 
-The puzzles follow a simple loop: scan something, trace where it leads, find a key, unlock a door, repeat. It's *Alien: Isolation* stripped down to its essentials, except the alien is a fellow Host who talks to you while he hunts you. The best puzzles involve manipulating other Hosts' behavior, which ties neatly into the self-awareness theme. I wish the game had gone deeper with that mechanic, because every time it lets you rewrite another Host it becomes more than just a horror exercise.
+The puzzles follow a simple loop: scan something, trace where it leads, find a key, unlock a door, repeat. It's [*Alien: Isolation*](/games/alien-isolation/) stripped down to its essentials, except the alien is a fellow Host who talks to you while he hunts you. The best puzzles involve manipulating other Hosts' behavior, which ties neatly into the self-awareness theme. I wish the game had gone deeper with that mechanic, because every time it lets you rewrite another Host it becomes more than just a horror exercise.
 
 Movement is stealth-oriented, so comfort is gentler than a smooth-locomotion shooter, but the first-person horror framing still makes it a moderate-intensity experience. If you're sensitive to being chased in VR, the crouch-and-sprint sections will get to you regardless of comfort settings.
 
@@ -69,8 +69,8 @@ Length is the clearest limitation. My first playthrough clocked in around three 
 
 The stealth mechanics also wear thin. Once you realize the AI doesn't check under tables consistently, the horror becomes a puzzle of patience rather than genuine fear. The game wants you to feel hunted, but after the second chapter the hunting starts to feel choreographed.
 
-And then there's the platform lock. No Quest release, no standalone version, no console port. If you're a Quest-only VR owner, this game may as well not exist. Even at launch, Engadget noted it wasn't coming to Quest, and that limitation has defined its reach ever since.
+And then there's the platform lock, which is more a reach problem than a quality problem. No Quest release, no standalone version, no console port — so if you're a Quest-only VR owner, this game may as well not exist. That's a real shame, because this is exactly the kind of short, polished, atmosphere-first experience that deserves a wider audience. It would be great to see Survios bring it to more platforms eventually. But a narrow footprint doesn't make the three hours that are here any less effective.
 
 ## The Verdict
 
-*Westworld Awakening* is a strong B-tier VR experience: a memorable, atmospheric few hours that uses its license intelligently and delivers real tension, but runs out of mechanics before it runs out of story. It won't justify a PCVR purchase by itself, but if you already have a Rift, Vive, or Index and want a self-contained horror narrative, it's worth the evening. Just know exactly what you're buying: one night in the park, not a season.
+*Westworld Awakening* is a strong A-tier VR experience: a memorable, atmospheric few hours that uses its license intelligently and delivers real tension. It's short, the stealth AI gets predictable, and the PCVR-only footprint keeps it from the audience it deserves — but what's here is a tight, polished slice of Westworld that's well worth an evening in the headset. If you already have a Rift, Vive, or Index and want a self-contained horror narrative, it's worth the evening. Just know exactly what you're buying: one night in the park, not a season.

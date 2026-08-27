@@ -38,7 +38,7 @@ Here's the thing about Ghostrunner in VR: the first time you wall-run across a c
 
 Ghostrunner is a first-person cyberpunk parkour slasher where both you and every enemy die in one hit. Wall-run, dash, slide, grapple, deflect bullets with Sensory Boost slow-mo. The flat version is already a rhythm game disguised as an action game — memorize the path, execute the sequence, restart in two seconds when you mistime the jump. It's sublime. It's also the worst possible candidate for motion sickness.
 
-No official VR mode exists. No PSVR2 version. No Quest port. 505 Games never shipped one, and Flat2VR Studios — the team licensing official VR ports of flatscreen games — hasn't announced one. What you get instead is a constellation of community options, all built on the same Unreal Engine 4 bones. The best one, UEVR, is free. The worst one might still be worth trying if you've already bought VorpX. And there's a whole legal drama involving Luke Ross, DMCA takedowns, and publisher 505 Games that's worth knowing about even if you never touch the mod.
+No official VR mode exists. No PSVR2 version. No Quest port. 505 Games never shipped one, and Flat2VR Studios — the team licensing official VR ports of flatscreen games — hasn't announced one. What you get instead is a constellation of community options, all built on the same Unreal Engine 4 bones. The best one, [UEVR](/articles/uevr-guide/), is free. The worst one might still be worth trying if you've already bought VorpX. And there's a whole legal drama involving [Luke Ross](/articles/luke-ross-real-vr-guide/), DMCA takedowns, and publisher 505 Games that's worth knowing about even if you never touch the mod.
 
 ## The UEVR route is the one you want
 
@@ -54,7 +54,7 @@ The catch is stability. CYB3R-JUNKI3's own README notes that some cameras are st
 
 ## VorpX: the distant second
 
-If you already own VorpX, Ghostrunner works in Geometry 3D mode. Community reports from the game's launch week confirm it — "works really well everywhere but cyberspace," one user noted, recommending immersive screen mode with edgepeek always on for motion sickness minimizing.
+If you already own [VorpX](/articles/vorpx-injection-driver-guide/), Ghostrunner works in Geometry 3D mode. Community reports from the game's launch week confirm it — "works really well everywhere but cyberspace," one user noted, recommending immersive screen mode with edgepeek always on for motion sickness minimizing.
 
 That last part is telling. Even the least immersive VR option for this game needs a comfort crutch. VorpX gives you stereoscopic 3D and head tracking. No motion controls, no hand presence, no VR UI. It's a TV strapped to your face with depth. For a game built on precision platforming and timing, that's a real limitation. You're watching yourself play rather than playing.
 
