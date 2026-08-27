@@ -46,8 +46,17 @@ const games = defineCollection({
     tier: z.enum(['S', 'A', 'B', 'C', 'D', 'F']).optional(),
     verdict: z.string(),
     heroImage: z.string().optional(),
-    flatReleaseDate: z.coerce.date().optional(),
-    vrReleaseDate: z.coerce.date().optional(),
+    // NOTE: coerce.date() runs new Date(value); new Date(null) === Unix epoch 1970-01-01.
+    // Preprocess null/'' (legit for VR-native games with no flat release) to undefined
+    // so .optional() passes them through instead of coercing to epoch 0.
+    flatReleaseDate: z.preprocess(
+      (v) => (v === null || v === '' ? undefined : v),
+      z.coerce.date().optional()
+    ),
+    vrReleaseDate: z.preprocess(
+      (v) => (v === null || v === '' ? undefined : v),
+      z.coerce.date().optional()
+    ),
     sources: z.string().optional(),
   }),
 });
