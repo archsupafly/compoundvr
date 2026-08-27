@@ -28,8 +28,8 @@ experienceTags:
   - Motion Sickness Risk
   - High Adrenaline
   - One-Hit Death
-tier: B
-verdict: "Ghostrunner's parkour flow state is electrifying in VR, but the speed that makes it great in flat makes it punishing in a headset. Worth it for VR veterans with iron stomachs — everyone else should play the flat version."
+tier: C
+verdict: "Ghostrunner's parkour flow state is electrifying in VR, but the speed that makes it great in flat makes it punishing in a headset. Only for Ghostrunner fans with iron stomachs — everyone else should play the flat version."
 heroImage: /images/games/ghostrunner-vr-hero.jpg
 sources: "Research conducted via Steam store page (https://store.steampowered.com/app/1139900/Ghostrunner/), Wikipedia (https://en.wikipedia.org/wiki/Ghostrunner), UEVR GitHub repository (https://github.com/praydog/UEVR), CYB3R-JUNKI3 Ghostrunner-VR GitHub profile (https://github.com/CYB3R-JUNKI3/Ghostrunner-VR), PCVR Central CJ117 profile page (https://pcvrcentral.com/mods/ghostrunner-uevr-cj117), VorpX forum threads, Flat2VR YouTube channel (https://www.youtube.com/watch?v=TN3ngZmlNSw), Luke Ross Patreon and press coverage (Road to VR, PC Gamer, FRVR), and BlueSkyDefender Depth3D GitHub (https://github.com/BlueSkyDefender/Depth3D)."
 ---
@@ -98,6 +98,6 @@ There's also the legal uncertainty around the R.E.A.L. mod. If you were hoping f
 
 ## The bottom line
 
-Ghostrunner in VR is a B-tier experience: genuinely excellent when it works, genuinely punishing when it doesn't. The UEVR route with CYB3R-JUNKI3's 6DOF profile is the definitive way to play it in VR — it's free, it's well-built, and it delivers the game's mechanical brilliance in a way flat mode can't. But the speed and motion that make Ghostrunner great are the same things that make VR Ghostrunner a challenge. This is for VR veterans who love the game and want the most extreme version of it. If you're looking for a comfortable way to experience Dharma Tower, play the flat version — it's still a fantastic game, and you won't need a fan pointed at your face.
+Ghostrunner in VR is a C-tier experience: genuinely excellent for the few who can handle it, genuinely punishing for everyone else. The UEVR route with CYB3R-JUNKI3's 6DOF profile is the definitive way to play it in VR — it's free, it's well-built, and it delivers the game's mechanical brilliance in a way flat mode can't. But the speed and motion that make Ghostrunner great are the same things that make VR Ghostrunner a challenge — and the motion sickness ceiling stops most players before the flow state ever clicks. This is only for Ghostrunner fans with strong VR legs who want the most extreme version of the game. If you're looking for a comfortable way to experience Dharma Tower, play the flat version — it's still a fantastic game, and you won't need a fan pointed at your face.
 
 For the right player, with the right hardware and the right stomach, Ghostrunner in VR is one of the most electrifying things you can do in a headset. Just don't say I didn't warn you about the wall-running.
