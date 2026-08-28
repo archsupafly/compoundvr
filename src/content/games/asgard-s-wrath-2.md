@@ -33,8 +33,8 @@ experienceTags:
   - Egyptian Mythology
   - 60+ Hour Campaign
   - Uncharted Rifts Roguelike
-tier: B
-verdict: "The biggest, most physical RPG the standalone platform has, and a must-own on sale if you've got a Quest and can handle smooth locomotion — but the open world is thinner than the scale promises and there's no teleport to save you if free movement makes you queasy."
+tier: S
+verdict: "The most ambitious single-player RPG on standalone VR — a 60+ hour god-scale epic that justifies a Quest on its own. The open world is thinner than the promise and you need strong VR legs, but nothing else on standalone comes close."
 heroImage: /images/games/asgard-s-wrath-2-vr-hero.jpg
 sources: "Research compiled from the official Meta store listing and Meta developer blogs (Uncharted Rifts, player guide), Wikipedia (developer, engine, platforms, release date, reception, Sanzaru closure), Metacritic and OpenCritic aggregates, and reviews from IGN (10/10), UploadVR (3/5), Road to VR (hands-on), Forbes (comfort options), NPR, and Siliconera. Performance and comfort behavior verified against UploadVR's Quest 3/Quest 2 coverage and Forbes' comfort-options breakdown. No direct headset testing performed; sources are confined to this field."
 ---
