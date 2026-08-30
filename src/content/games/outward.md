@@ -33,6 +33,10 @@ experienceTags:
 tier: A
 verdict: "Outward in VR is now an A-tier open-world RPG mod. The maintained fork fixes the Definitive Edition breakage, adds proper Skyrim-like hands-and-weapons melee, snap turning, and meaningful QoL, while keeping Aurai's cold, punishing survival loop intact. It is not native Half-Life 2 polish, but it is one of the best full 6DOF motion-control mods and one of the only ways to actually stand inside an open-world RPG."
 heroImage: /images/games/outward-vr-hero.jpg
+modDownload:
+  url: "/mods/outward-vr-mod.zip"
+  label: "Download Outward VR Mod"
+  note: "Hosted by CompoundVR"
 sources: "CompoundVR-maintained Outward VR fork release notes and documentation (Feb 2026), original OutwardVR mod README and GitHub release notes (cybensis), Nexus Mods Outward VR page, Steam store page and Outward Definitive Edition updates, Outward Steam Community VR threads, Wikipedia for release/engine facts, YouTube VR playthroughs, Flat2VR Discord and Reddit community reports. Assessment reflects current fork documentation and community play reports."
 ---
 

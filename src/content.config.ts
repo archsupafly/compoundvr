@@ -58,6 +58,11 @@ const games = defineCollection({
       z.coerce.date().optional()
     ),
     sources: z.string().optional(),
+    modDownload: z.object({
+      url: z.string(),
+      label: z.string().optional(),
+      note: z.string().optional(),
+    }).optional(),
   }),
 });
 
