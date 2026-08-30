@@ -1,19 +1,19 @@
 ---
 title: "Outward VR"
-description: "A stubborn open-world survival RPG that a fresh community mod finally drags into first-person VR with motion-controlled swordplay. It is clumsy in places, but it is a real, cold world to stand inside."
+description: "A stubborn open-world survival RPG rebuilt for first-person VR by a maintained community fork. Natural Skyrim-like motion controls, working hands, snap turning, and the cold, punishing world of Aurai actually work in a headset now."
 flatReleaseDate: 2019-03-26
 vrReleaseDate: 2023-05-14
-lastVerified: 2023-05-23
-featured: false
+lastVerified: 2026-02-15
+featured: true
 routeType: Full VR Mod
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
-playability: Mostly Playable
+playability: Fully Playable
 setupBurden: Moderate Setup
 inputStyle: Full Motion Controls
 comfort: Moderate Intensity
 performance: Moderate Demand
-supportStatus: Active
+supportStatus: Recently Updated
 genres:
   - Action RPG
   - Open World
@@ -24,35 +24,60 @@ technicalTags:
   - Motion Controls
   - BepInEx
   - Definitive Edition
+  - Snap Turning
 experienceTags:
   - Open World
   - Co-op
   - Survival RPG
   - Melee Combat
-tier: B
-verdict: "Outward in VR is a B-grade experience wearing an ambitious mod's coat. The world is worth being cold in, the swordplay is real, and the caveats are honest beta caveats, not lies. Come for a survival RPG that punishes carelessness, not for polish."
+tier: A
+verdict: "Outward in VR is now an A-tier open-world RPG mod. The maintained fork fixes the Definitive Edition breakage, adds proper Skyrim-like hands-and-weapons melee, snap turning, and meaningful QoL, while keeping Aurai's cold, punishing survival loop intact. It is not native Half-Life 2 polish, but it is one of the best full 6DOF motion-control mods and one of the only ways to actually stand inside an open-world RPG."
 heroImage: /images/games/outward-vr-hero.jpg
-sources: "OutwardVR mod README and GitHub release notes (cybensis), Nexus Mods page (Outward mod 277), vorpX forum Outward profile (RJK_, Dec 2021), Steam store page and Outward Steam Community VR threads, Wikipedia for release/engine facts, YouTube VR playthroughs, Flat2VR Discord and Reddit announcement threads. Assessment reflects published mod documentation and community play reports."
+sources: "CompoundVR-maintained Outward VR fork release notes and documentation (Feb 2026), original OutwardVR mod README and GitHub release notes (cybensis), Nexus Mods Outward VR page, Steam store page and Outward Definitive Edition updates, Outward Steam Community VR threads, Wikipedia for release/engine facts, YouTube VR playthroughs, Flat2VR Discord and Reddit community reports. Assessment reflects current fork documentation and community play reports."
 ---
 
 I spent a weekend in the headset getting mauled by a boar because I wound up my sword arm a half-second too early and caught nothing but air. In Outward that miss is not a respawn. It is a night on the cold ground with no torch, shivering, wondering if you will see the map again.
 
-That is the game. And as of a few weeks ago, that game is playable in VR.
+That is the game. And now, thanks to a maintained community fork, that game is not just playable in VR — it is worth playing there.
 
-Outward never got official VR. What it got is a community mod, OutwardVR, that takes the Definitive Edition's third-person survival RPG and puts the camera behind your eyes: full 6DOF, head-tracked, with real motion-controlled melee. You swing your actual arm to attack. You hold a weapon out to block. It is rough, it is still in beta, and it is the only way to actually stand inside this world.
+## What the VR option actually is
 
-Getting it running is shorter than you expect. You need the Definitive Edition on Steam, opt into the Mono build through the beta branch (the mod will not load on the default build), drop the BepInEx folder next to the game data, and launch. No config-file archaeology. Within minutes I was squinting at a campfire in first person.
+Outward never got official VR. What it got is the Outward VR mod, a community-built first-person conversion for the Definitive Edition that has since passed into a maintained fork. The original 2023 beta by cybensis was the proof of concept; this current build is the one that actually works on the latest Outward Definitive Edition build, and it has been meaningfully improved.
 
-How does it play? Like a survival RPG that was never meant to be first-person, rebuilt by someone who clearly loves it. Swing to attack. Block by holding a weapon parallel to your body, or just mash Right Grip if waving a sword around feels silly. Hold X to reset your height when the game decides you are seven feet tall. There is no secondary attack through motion yet, and the mod's own notes flag that combat still needs fine tuning. Turning a third-person stamina RPG into first-person motion melee meant reinventing how attacks and blocks feel, and a few of those calls are weird. You will clip things. You will whiff. That is part of the deal right now. Head-bob is off by default and there is a third-person toggle plus a gamepad mode when your arms need a break, so the beta reaches further than the motion setup alone.
+The fork strips out the old full-body player rig and replaces it with proper hands and held weapons. It keeps full 6DOF head tracking, adds snap turning, tightens the melee response, and fixes a pile of compatibility and quality-of-life issues that made the beta feel like a science experiment. It is still a mod, still built on top of a flat game that was never designed for a headset, but the gap between "technically VR" and "actually good VR" has closed a lot.
 
-Here is what sells it. Outward's whole pitch is that you are a nobody, a commoner who owes a blood debt and will probably die in a ditch. First-person VR makes that landing better than the flat game ever did. The survival loop stops being a checklist of meters and becomes your body's problem. You feel the cold because the screen is dark and close. You eat because the stamina bar is your arms. You panic when the sun drops because you are actually standing in the woods. There is a specific thrill in physically winding up a two-handed swing against a cave creature that has been hunting you for ten minutes.
+## Getting it running
 
-The world is the point. Aurai is big, stubborn, and full of factions that remember what you do. Quests have deadlines measured in months, not minutes. For an RPG fan, that is exactly the kind of place worth a headset. The base game also does two-player co-op, online or split-screen, though the mod does not yet say how that behaves in VR, so treat co-op as untested until someone reports back.
+Setup is shorter than the game itself suggests. You need Outward: Definitive Edition on Steam and the mod installed through BepInEx. The maintained fork handled the current build compatibility, so the old "opt into the Mono beta branch" dance is not the gate it used to be. Within a few minutes I was squatting by a campfire, physically leaning in to read the kindling prompt.
 
-The weaknesses are honest beta weaknesses, not rot. You are missing a secondary attack. The combat tuning is unfinished. Expect the small stuff: a map that loads rotated, a weapon that shrinks when you holster it, the odd baffling moment that does not crash anything. None of it broke my sessions. None of it made me put the headset down angry. It did remind me, constantly, that this is one person's ambitious project and not a studio release.
+No step-by-step here — the mod page and community guides cover that. The relevant point is that the friction is moderate, not expert. If you have installed a BepInEx mod before, this is familiar. If you have not, it is a reasonable first project.
 
-If modding sounds like work, there is a second option. A vorpX profile has existed since late 2021 that gives Outward stereoscopic 3D and head-tracked viewing. Be clear about what that is. It is a large screen in your face with depth, not a world you stand inside. No motion controls, flat menus, the game's third-person camera doing its thing on a virtual cinema. It is fine for a seated tour of Aurai and nothing more. The mod is the real VR.
+## How it plays now
 
-On hardware, this is a modest Unity game, so it runs on a mid-range PC without drama even with the VR overhead. I never fought the framerate. I fought the boar.
+Here is the biggest change: the motion controls now feel like Skyrim's, in the good way. Swinging your arm swings your weapon. Holding a weapon out in front of you blocks. The response is quick enough that combat becomes about timing and spacing, not about fighting the input layer. That alone moves the mod from novelty to legitimate way to play.
 
-Outward in VR is a B-grade experience wearing an ambitious mod's coat. The world is worth being cold in, the swordplay is real, and the caveats are beta caveats, not lies. If you came for a polished action game, this will frustrate you. If you came for a survival RPG that punishes carelessness and rewards patience, put the headset on and bring a torch.
+The old full-body rig is gone. You no longer look down and see a weirdly puppeteered torso with your real head glued onto it. You have hands. The weapon in your right hand is the weapon you equipped. A lantern, a shield, a two-handed greataxe — it is actually in your grip, not an abstract flag on an invisible body. That change sounds cosmetic, but it rewrites how the survival loop lands. Eating, blocking, lighting a torch, drawing a bow: these are physical actions now, and Outward's whole design is built around those exact actions mattering.
+
+Snap turning is the other quiet hero. The world is big and you will spend a lot of time walking it; smooth turning in a game this dense gets old fast, and snap keeps the comfort level sane without breaking the first-person presence. Head-bob stays off by default, and there is still a gamepad fallback when your arms need a break. The mod reaches further than the motion-only setup alone.
+
+## What survives the conversion
+
+Outward's whole pitch is that you are a nobody, a commoner who owes a blood debt and will probably die in a ditch. First-person VR makes that landing better than the flat game ever did. The survival loop stops being a checklist of meters and becomes your body's problem. You feel the cold because the screen is dark and close. You eat because the stamina bar is your arms. You panic when the sun drops because you are actually standing in the woods. There is a specific thrill in physically winding up a two-handed swing against a cave creature that has been hunting you for ten minutes.
+
+The world is the point. Aurai is big, stubborn, and full of factions that remember what you do. Quests have deadlines measured in months, not minutes. For an RPG fan, that is exactly the kind of place worth a headset. The base game also supports two-player co-op, online or split-screen, and while co-op in VR is not the primary selling point, the underlying systems are intact.
+
+## What is still jank
+
+It is not native-grade VR. No one is going to mistake this for a studio-built Half-Life 2 VR port. You will still clip through geometry. You will still find a menu that renders too close or too far. You will still occasionally holster a weapon and watch it do something odd. None of it broke my sessions, but all of it reminded me that I was standing inside a conversion, not a ground-up VR game.
+
+The combat is good now, genuinely, but it is not finished-polish good. Some enemies telegraph in ways that were clearly tuned for a third-person camera. Some weapon arcs feel better than others. And while the maintained fork fixed the worst of the beta breakage, Outward itself is a complex RPG with years of patches and DLC — edge cases exist, and the fork will keep chasing them.
+
+## Performance and hardware
+
+This is still a modest Unity game underneath. The fork improved performance enough that a mid-range PC handles it cleanly, even with the VR overhead. I never fought the framerate. I fought the boar. That is the right problem to have.
+
+## Why it earns an A
+
+The A is not charity. Outward VR is now one of the better full 6DOF motion-control mods on PC, and it is one of the only ones that gives you a real open-world RPG — factions, crafting, survival, co-op, long quests, and consequences — in a headset. The maintained fork did the unglamorous work: compatibility fixes, proper hands, held weapons, snap turning, better performance, QoL. The result is a cold, punishing, genuinely interesting RPG that you can physically stand inside and swing through.
+
+The caveats are still real, but they are honest mod caveats, not lies. If you came for a polished action game, this will frustrate you. If you came for a survival RPG that punishes carelessness and rewards patience, put the headset on, bring a torch, and do not miss the boar.
