@@ -36,7 +36,7 @@ heroImage: /images/games/outward-vr-hero.jpg
 modDownload:
   url: "/mods/outward-vr-mod.zip"
   label: "Download Outward VR Mod"
-  note: "Hosted by CompoundVR"
+  note: "Created by cybensis & archangel"
 sources: "CompoundVR-maintained Outward VR fork release notes and documentation (Feb 2026), original OutwardVR mod README and GitHub release notes (cybensis), Nexus Mods Outward VR page, Steam store page and Outward Definitive Edition updates, Outward Steam Community VR threads, Wikipedia for release/engine facts, YouTube VR playthroughs, Flat2VR Discord and Reddit community reports. Assessment reflects current fork documentation and community play reports."
 ---
 

@@ -16,7 +16,7 @@ const allGames = (await getCollection('games')).sort((a, b) => {
 const displayGames = allGames.slice(0, 12);
 
 // Articles for the sidebar column (up to 4, exclude featured ones already in carousel)
-const featuredSlugs = ['flatout-4-vr', 'microsoft-flight-simulator', 'dolphin-vr', 'triangle-strategy', 'ppsspp-vr'];
+const featuredSlugs = ['flatout-4-vr', 'microsoft-flight-simulator', 'dolphin-vr', 'triangle-strategy', 'outward'];
 const allArticles = (await getCollection('articles')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const sidebarArticles = allArticles
   .filter(a => !featuredSlugs.includes(a.id))
