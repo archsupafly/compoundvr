@@ -42,7 +42,7 @@ That is the game. And now, thanks to a maintained community fork, that game is n
 
 ## What the VR option actually is
 
-Outward never got official VR. What it got is the Outward VR mod, a community-built first-person conversion for the Definitive Edition that has since passed into a maintained fork. The original 2023 beta by cybensis was the proof of concept; this current build is the one that actually works on the latest Outward Definitive Edition build, and it has been meaningfully improved.
+Outward never got official VR. What it got is the [Outward VR mod](/mods/outward-vr-mod.zip), a community-built first-person conversion for the Definitive Edition that has since passed into a maintained fork. The original 2023 beta by cybensis was the proof of concept; this current build is the one that actually works on the latest Outward Definitive Edition build, and it has been meaningfully improved.
 
 The fork strips out the old full-body player rig and replaces it with proper hands and held weapons. It keeps full 6DOF head tracking, adds snap turning, tightens the melee response, and fixes a pile of compatibility and quality-of-life issues that made the beta feel like a science experiment. It is still a mod, still built on top of a flat game that was never designed for a headset, but the gap between "technically VR" and "actually good VR" has closed a lot.
 
