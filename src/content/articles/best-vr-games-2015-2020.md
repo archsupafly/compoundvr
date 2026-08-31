@@ -1,7 +1,7 @@
 ---
 title: "The Best VR Games of 2015–2020"
 description: "The definitive ranking of the thirty games that defined consumer VR's first era — from DK2 experiments and cockpit sims to full-length RPGs and physics sandboxes that proved VR was here to stay."
-pubDate: 2020-12-31
+pubDate: 2021-01-15
 lastVerified: 2026-08-31
 author: Richard
 category: comparison
@@ -25,7 +25,7 @@ This isn't a list of every VR game worth playing between 2015 and 2020. It's the
 ---
 
 ## #30: Subnautica
-**Full VR Mod** · *2018*
+**Native VR + Full VR Mod** · *2018*
 
 ![Subnautica](/images/games/subnautica-vr-hero.jpg)
 
@@ -350,7 +350,7 @@ The scale is what matters most. You stand face-to-face with gods who tower over 
 ---
 
 ## #5: Resident Evil 7: biohazard
-**Multi-Route Coverage** · *2017*
+**Native VR + Full VR Mod** · *2017*
 
 ![Resident Evil 7](/images/games/resident-evil-7-vr-hero.jpg)
 
