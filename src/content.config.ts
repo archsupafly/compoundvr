@@ -12,6 +12,7 @@ const articles = defineCollection({
     draft: z.boolean().default(false),
     tags: z.array(z.string()).default([]),
     category: z.enum(['news', 'guide', 'comparison', 'opinion']).default('guide'),
+    listicle: z.boolean().default(false),
     featured: z.boolean().default(false),
     heroImage: z.string().optional(),
   }),

@@ -4,6 +4,7 @@ description: "The classic games that actually hold up in VR — ranked by VR imp
 pubDate: 2026-03-29
 author: Ian
 category: opinion
+listicle: true
 tags:
   - retro
   - ranking
@@ -23,7 +24,8 @@ We ranked by tier first (S > A > B > C), then by release date within tiers to cr
 ---
 
 ## #10: The Elder Scrolls: Daggerfall VR (1996)
-**Tier: B | VR Release: 2020**
+
+<div class="rank-meta">Tier: B | VR Release: 2020</div>
 
 Daggerfall VR via the Daggerfall Unity VR mod (DFUVR) delivers something rare: a genuinely massive open-world RPG with full 6DOF motion controls. Physical sword swinging, spellcasting through hand gestures, and dungeon exploration at true scale transform Bethesda's 1996 cult classic from historical curiosity into a playable VR RPG.
 
@@ -38,7 +40,8 @@ But for players willing to meet it halfway, this is a singular experience: a spr
 ---
 
 ## #9: Battlezone VR (2016)
-**Tier: B | VR Release: 2016**
+
+<div class="rank-meta">Tier: B | VR Release: 2016</div>
 
 Battlezone is the only native VR title on this list, and that distinction matters. Rebellion's 2016 release was built from the ground up for first-generation VR headsets — no injection drivers, no source port workarounds, no file extraction. You buy it, you launch it, you play.
 
@@ -53,7 +56,8 @@ At its frequent discount prices (often under $10), Battlezone offers solid value
 ---
 
 ## #8: Doom VR (1993)
-**Tier: B | VR Release: 2019**
+
+<div class="rank-meta">Tier: B | VR Release: 2019</div>
 
 Doom in VR isn't a single mod — it's a category. The 1993 classic that defined the first-person shooter has been ported through community source ports built on the GZDoom engine, primarily QuestZDoom for standalone Quest headsets and gzdoom-VR for PCVR.
 
@@ -70,7 +74,8 @@ For VR enthusiasts comfortable with sideloading and file management, Doom VR is 
 ---
 
 ## #7: Star Wars: TIE Fighter VR (1994)
-**Tier: B | VR Release: 2022**
+
+<div class="rank-meta">Tier: B | VR Release: 2022</div>
 
 TIE Fighter Total Conversion (TFTC) is a total conversion mod for 1999's X-Wing Alliance that delivers the complete 1994 space sim rebuilt with modern assets and native VR support. All 13 campaigns, every TIE variant, cockpit presence that makes you understand why Imperial pilots die in such numbers.
 
@@ -87,7 +92,8 @@ For patient Star Wars fans with HOTAS hardware, this is essential — the defini
 ---
 
 ## #6: The Legend of Zelda VR (1986)
-**Tier: A | VR Release: 2018**
+
+<div class="rank-meta">Tier: A | VR Release: 2018</div>
 
 The Legend of Zelda in 3dSen VR creates something remarkable: the foundational action-adventure gains genuine spatial depth that enhances rather than merely alters the experience. The top-down perspective that once flattened Hyrule into a map-like abstraction now features actual elevation — mountains become peaks, dungeons develop cavernous depth, and the sense of scale shifts from "map representation" to "actual world."
 
@@ -102,7 +108,8 @@ The Legend of Zelda remains one of the most perfectly designed games ever create
 ---
 
 ## #5: Super Mario Bros. VR (1985)
-**Tier: A | VR Release: 2018**
+
+<div class="rank-meta">Tier: A | VR Release: 2018</div>
 
 Super Mario Bros. in 3dSen VR is one of the most delightful flat-to-VR conversions available. The voxel transformation preserves the iconic gameplay while adding genuine spatial depth that makes platforming feel fresh again. Blocks pop out as actual cubes. Underground sections gain cavernous depth. Fireballs and enemies move through 3D space.
 
@@ -117,7 +124,8 @@ For Mario fans who've played the original dozens of times and want to see it dif
 ---
 
 ## #4: Tomb Raider VR (1996)
-**Tier: A | VR Release: 2023**
+
+<div class="rank-meta">Tier: A | VR Release: 2023</div>
 
 BeefRaiderXR by Team Beef is not a traditional mod — it's a complete OpenXR source port of Tomb Raider 1 using the OpenLara engine. This is closer to GZDoom or QuakeSpasm than to a wrapper-based VR mod. The result: a polished, feature-complete port with multiple view modes, full motion controls, and cross-platform support.
 
@@ -132,7 +140,8 @@ The 1996 game's DNA creates inherent friction that no VR adaptation can fully re
 ---
 
 ## #3: Quake VR (1996)
-**Tier: A | VR Release: 2021**
+
+<div class="rank-meta">Tier: A | VR Release: 2021</div>
 
 Quake VR earns its A-tier through genuine VR-native systems that go far beyond "playable in VR." Physical weapon handling — dual-wielding, throwing, holster-based reloading with wrist-flick shotgun pumps — creates hand presence that most flat-to-VR conversions skip. Full room-scale movement including physical jumping, finger tracking on Index, and melee combat with headbutts demonstrate a depth of implementation rarely seen in hobbyist mods.
 
@@ -147,7 +156,8 @@ What keeps Quake from S-tier is accessibility. The breakneck speed and bunny-hop
 ---
 
 ## #2: Half-Life VR (1998)
-**Tier: A | VR Release: 2019**
+
+<div class="rank-meta">Tier: A | VR Release: 2019</div>
 
 Half-Life enjoys three distinct, actively maintained VR implementations — a luxury that reflects both the game's importance and its technical accessibility. Lambda1VR for Quest, the Half-Life: Source VR Mod for PCVR, and Black Mesa VR for the fan remake each solve the problem differently.
 
@@ -162,7 +172,8 @@ Half-Life (1998) remains one of the finest first-person shooters ever created. I
 ---
 
 ## #1: Tetris Effect: Connected VR (1984)
-**Tier: S | VR Release: 2018**
+
+<div class="rank-meta">Tier: S | VR Release: 2018</div>
 
 Tetris Effect: Connected is the only S-tier on this list — the definitive VR puzzle experience and one of the few games that justifies VR on its own terms, not as a gimmick but as a genuinely transformative way to experience a familiar game.
 

@@ -43,7 +43,7 @@ const jsonLd = JSON.stringify({
 
     <script type="application/ld+json" set:html={jsonLd}></script>
 
-    <article class="prose" style="margin-top:2rem;">
+    <article class="prose" class:list={[{ listicle: article.data.listicle }]} style="margin-top:2rem;">
       <Content />
     </article>
   </section>

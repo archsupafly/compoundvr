@@ -5,6 +5,7 @@ pubDate: 2021-01-15
 lastVerified: 2026-08-31
 author: Richard
 category: comparison
+listicle: true
 tags:
   - ranking
   - '2015'
@@ -25,9 +26,10 @@ This isn't a list of every VR game worth playing between 2015 and 2020. It's the
 ---
 
 ## #30: Subnautica
-**Native VR + Full VR Mod** · *2018*
 
 ![Subnautica](/images/games/subnautica-vr-hero.jpg)
+
+<div class="rank-meta">Native VR + Full VR Mod · 2018</div>
 
 The ocean planet 4546B is one of gaming's great environments, and experiencing it in VR transforms exploration from a mechanic into a primal instinct. Unknown Worlds built a survival game where the act of descending into deeper water — away from the safety of your lifepod, toward sounds you can't identify — generates genuine dread. The flat version is tense. The VR version makes you check over your shoulder.
 
@@ -38,9 +40,10 @@ The VR implementation has rough edges: the UI wasn't designed for headsets, and 
 ---
 
 ## #29: Westworld Awakening
-**Native VR** · *2019*
 
 ![Westworld Awakening](/images/games/westworld-awakening-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 Upgrade Software turned a premium HBO license into something better than it had any right to be. Westworld Awakening is a first-person stealth-horror game set during Season 1's timeline, and it understands something that most licensed games don't: the franchise's power isn't in its action — it's in its atmosphere of creeping dread and moral ambiguity.
 
@@ -51,9 +54,10 @@ You play as a Host who's beginning to remember. The Delos labs are your playgrou
 ---
 
 ## #28: Golem
-**Native VR** · *2019*
 
 ![Golem](/images/games/golem-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 Highwire Games — a studio founded by former Bungie developers — built a game about controlling stone creatures through a dying girl's dreams. Golem's concept is stranger than its execution: you inhabit a medieval girl named Twine who's connected to golems through a mysterious bond, and your physical movements translate to the stone creatures' actions.
 
@@ -64,9 +68,10 @@ The combat is slow and deliberate — not the frantic wave-shooter pace that dom
 ---
 
 ## #27: SUPERHOT VR
-**Native VR** · *2016*
 
 ![SUPERHOT VR](/images/games/superhot-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2016</div>
 
 The flat-screen version of Superhot is a clever puzzle game where time moves when you move. The VR version is a revelation. The same mechanic — time advances proportionally to your physical movement — transforms from a gimmick into the most viscerally satisfying combat system in VR. Punch a man, grab his gun from the air, shoot his friend, sidestep a bullet, throw the empty weapon into the next guy's face. All in slow motion. All with your actual body.
 
@@ -77,9 +82,10 @@ SUPERHOT VR proved that the best VR games aren't ports. They're reimaginings. Th
 ---
 
 ## #26: Tetris Effect
-**Native VR** · *2018*
 
 ![Tetris Effect](/images/games/tetris-effect-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2018</div>
 
 The most beautiful version of the most perfect game ever designed. Tetsuya Mizuguchi — the man behind Rez and Lumines — took Tetris and wrapped it in a sensory experience that justifies VR's existence. Blocks fall in time with music. Environments shift around you: underwater, in space, through desert storms, across frozen lakes. The effect is meditative in a way that no other VR game achieves.
 
@@ -90,9 +96,10 @@ Tetris Effect in VR isn't about challenge or competition. It's about transcenden
 ---
 
 ## #25: Star Wars: Tales from the Galaxy's Edge
-**Native VR** · *2020*
 
 ![Star Wars: Tales from the Galaxy's Edge](/images/games/star-wars-tales-from-the-galaxys-edge-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2020</div>
 
 ILMxLAB built the Star Wars cantina experience that every fan wanted: you're a hyperspace merchant who crash-lands on Batuu, the same planet from Galaxy's Edge at Disneyland, and stumbles into a conflict with the First Order. The game splits into two experiences — the main story missions where you play as the smuggler, and bonus content where you play as legendary bounty hunter AD-33 (aka Seezelslak) telling tales of classic Star Wars characters.
 
@@ -103,9 +110,10 @@ The VR implementation is polished and accessible. Grabbing objects with short-ra
 ---
 
 ## #24: WipEout Omega Collection
-**Official Hybrid** · *2018*
 
 ![WipEout Omega Collection](/images/games/wipeout-omega-collection-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid · 2018</div>
 
 The anti-gravity racing game that proved VR could deliver speed. WipEout Omega Collection — a remaster of the PS3-era duology — runs at a locked 120fps in VR on PS4 Pro, and the sense of velocity is unlike anything else in the medium. You're not watching a racing game from a distance. You're inside a cockpit, 600 kilometers per hour, threading between pillars in a tunnel while the bass thumps through your skull.
 
@@ -116,9 +124,10 @@ The VR mode was added as a free update, and it's the definitive way to play. The
 ---
 
 ## #23: Ace Combat 7: Skies Unknown
-**Multi-Route Coverage** · *2019*
 
 ![Ace Combat 7](/images/games/ace-combat-7-vr-hero.jpg)
+
+<div class="rank-meta">Multi-Route Coverage · 2019</div>
 
 The childhood fantasy of dogfighting in a fighter jet, realized in VR. Ace Combat 7's PSVR mode lets you sit in the cockpit of an Su-37 and actually aim by looking at targets. The flat version is a perfectly good arcade flight game. The VR version makes you believe you're flying.
 
@@ -129,9 +138,10 @@ The VR mode is limited — a handful of missions, no full campaign — but what'
 ---
 
 ## #22: Medal of Honor: Above and Beyond
-**Native VR** · *2020*
 
 ![Medal of Honor](/images/games/medal-of-honor-above-and-beyond-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2020</div>
 
 Respawn Entertainment — the studio behind Titanfall and Apex Legends — brought the Medal of Honor franchise to VR with a full single-player campaign set in World War II. The result is a game that's uneven in its systems but transcendent in its set pieces. Storming Omaha Beach in VR is one of the era's most intense sequences — bullets whizzing past, explosions shaking the ground, the scale of the invasion laid out around you in a way a flat screen can't convey.
 
@@ -142,9 +152,10 @@ The campaign has pacing problems. The stealth sections are undercooked. The stea
 ---
 
 ## #21: Creed: Rise to Glory
-**Native VR** · *2019*
 
 ![Creed](/images/games/creed-rise-to-glory-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 The Rocky franchise's VR debut understands something that most fighting games don't: in VR, the fight isn't about combos and frame data. It's about体力. Creed: Rise to Glory puts you in the ring as Adonis Creed, and the physical toll of boxing in VR — the actual sweating, the actual ducking, the actual feeling of exhaustion after three rounds — makes it one of the most immersive sports experiences in the medium.
 
@@ -155,9 +166,10 @@ The cinematic career mode follows Adonis's arc from underdog to champion, comple
 ---
 
 ## #20: Star Wars: Squadrons
-**Official Hybrid** · *2020*
 
 ![Star Wars: Squadrons](/images/games/star-wars-squadrons-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid · 2020</div>
 
 The childhood fantasy of flying an X-Wing, delivered with the production values to back it up. Star Wars: Squadrons puts you in the cockpit of iconic Star Wars spacecraft — X-Wings, TIE Fighters, Y-Wings, and more — and lets you fly them in VR with full six-degrees-of-freedom movement. The sense of scale is everything: a Star Destroyer looming above you, a trench run stretching into the distance, the cockpit instruments glowing around you.
 
@@ -168,9 +180,10 @@ The single-player campaign splits time between the New Republic and the remnants
 ---
 
 ## #19: Hellblade: Senua's Sacrifice
-**Official Hybrid** · *2017*
 
 ![Hellblade](/images/games/hellblade-senuas-sacrifice-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid · 2017</div>
 
 Ninja Theory's Norse mythology action game was already one of the most intense narrative experiences of 2017. In VR, it becomes something closer to an endurance test — and that's the point. The game follows Senua, a Pict warrior with psychosis, as she journeys into Helheim to rescue her dead lover's soul. The voices in her head — binaurally mixed to sound like they're whispering directly into your ears — are more unsettling in VR than on any screen.
 
@@ -181,9 +194,10 @@ The combat is solid but repetitive. The puzzles are clever but familiar. What ma
 ---
 
 ## #18: Microsoft Flight Simulator
-**Official Hybrid** · *2020*
 
 ![Microsoft Flight Simulator](/images/games/microsoft-flight-simulator-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid · 2020</div>
 
 The entire planet, rendered in satellite imagery and real-time weather, accessible from a cockpit in VR. Microsoft Flight Simulator's VR support — added months after launch — transformed the most ambitious simulation ever made into the most ambitious VR experience ever made. Flying over your hometown and recognizing landmarks. Landing at an airport you've actually been to. Watching a thunderstorm build on the horizon in real-time.
 
@@ -194,9 +208,10 @@ The VR implementation has performance demands that match the ambition — you ne
 ---
 
 ## #17: Vader Immortal: A Star Wars VR Series
-**Native VR** · *2019*
 
 ![Vader Immortal](/images/games/vader-immortal-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 Three episodes, each a theme-park ride disguised as a game. Vader Immortal is the Star Wars VR experience that non-gamers can understand: you're a smuggler who gets captured by Darth Vader and pulled into a mystery on Mustafar. The production values are ILM at its best — the lightsaber, the environments, the voice work. When Vader himself appears and speaks to you, the scale is genuinely intimidating.
 
@@ -207,9 +222,10 @@ The combat — lightsaber duels and Force-powered puzzles — is satisfying but 
 ---
 
 ## #16: Iron Man VR
-**Native VR** · *2020*
 
 ![Iron Man VR](/images/games/marvels-iron-man-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2020</div>
 
 Camouflaj built the Iron Man game that people wanted since the first movie: you put on the headset, you ARE Tony Stark, and you fly. The motion controls map to repulsor blasts, flight stabilization, and unibeam attacks in a way that feels intuitive within minutes. Taking off from a landing pad, accelerating through clouds, and breaking the sound barrier while firing repulsors at incoming missiles — it's the superhero fantasy made physical.
 
@@ -220,9 +236,10 @@ The campaign is a competent Iron Man story — corporate espionage, drone warfar
 ---
 
 ## #15: Stormland
-**Native VR** · *2019*
 
 ![Stormland](/images/games/stormland-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 Insomniac Games — the studio behind Ratchet & Clank and Spider-Man — built a VR-exclusive action game about a robot gardener fighting to reclaim his world from an alien scourge. Stormland is a game about movement: gliding between floating islands, climbing cliffs with your actual hands, swinging from vines, and diving through clouds to reach the next platform. The locomotion system — a combination of climbing, gliding, and teleporting — makes traversal feel like play rather than a problem to solve.
 
@@ -233,9 +250,10 @@ The combat is solid. The weapons are satisfying. The world is beautiful. But Sto
 ---
 
 ## #14: Pistol Whip
-**Native VR** · *2019*
 
 ![Pistol Whip](/images/games/pistol-whip-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 Beat Saber made rhythm games mainstream in VR. Pistol Whip proved they could be action games too. The concept is simple: enemies appear in choreographed sequences along a track, and you shoot them to the beat. The execution transforms that concept into something that feels like starring in a John Wick movie. You're physically ducking, spinning, reloading by slamming magazines home, and punching enemies who get too close — all in rhythm.
 
@@ -246,9 +264,10 @@ Cloudhead Games understood something that most rhythm shooters didn't: the beat 
 ---
 
 ## #13: Farpoint
-**Native VR** · *2017*
 
 ![Farpoint](/images/games/far-point-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2017</div>
 
 Impulse Gear and Sony built a full-length FPS campaign for PSVR and paired it with the Aim Controller — a rifle-shaped peripheral that made the game feel like something from an arcade cabinet in the best possible way. Farpoint's story about astronauts stranded on an alien world is serviceable sci-fi, but the shooting is what matters. The Aim Controller's 1:1 tracking means you physically aim down sights, track moving targets, and feel the weight of a virtual weapon in your hands.
 
@@ -259,9 +278,10 @@ The co-op mode extended the experience, and the wave-based challenge maps kept p
 ---
 
 ## #12: Fallout 4 VR
-**Native VR** · *2017*
 
 ![Fallout 4 VR](/images/games/fallout-4-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2017</div>
 
 The Commonwealth in VR is both exhilarating and exhausting. Bethesda brought the full Fallout 4 experience — the crafting, the base-building, the VATS system, the hundred-hour campaign — to VR with motion controls and a first-person perspective that makes the wasteland feel genuinely dangerous. Scavenging a building at night, hearing a synth patrol outside, and physically ducking behind cover while you decide whether to sneak or fight — that's a VR experience no other game replicates.
 
@@ -272,9 +292,10 @@ The VR implementation is rough. The visuals are dated. The performance demands s
 ---
 
 ## #11: Blood and Truth
-**Native VR** · *2019*
 
 ![Blood and Truth](/images/games/blood-and-truth-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 London Studios built a crime thriller that feels like playing through a Guy Ritchie film. Blood and Truth follows Danny North, a former soldier returning to London's criminal underworld, through a series of heists, shootouts, and betrayals. The VR implementation is polished — gunplay feels weighty, the motion controls are intuitive, and the set pieces are genuinely cinematic.
 
@@ -285,9 +306,10 @@ The shooting is thin — limited enemy types, simple AI — but the spectacle ca
 ---
 
 ## #10: The Walking Dead: Saints & Sinners
-**Native VR** · *2020*
 
 ![The Walking Dead: Saints & Sinners](/images/games/the-walking-dead-saints-and-sinners-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2020</div>
 
 The Walking Dead game that actually delivered on the franchise's promise. Skydance Interactive built a survival horror experience where every encounter matters, every resource counts, and the zombies are genuinely terrifying — not because they're fast or smart, but because they're everywhere and you're vulnerable.
 
@@ -298,9 +320,10 @@ The knife combat — physically plunging a blade into a walker's skull — is on
 ---
 
 ## #9: No Man's Sky
-**Official Hybrid** · *2019*
 
 ![No Man's Sky](/images/games/no-mans-sky-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid · 2019</div>
 
 The redemption arc of the decade, delivered in VR. Hello Games rebuilt No Man's Sky from the ground up after its disastrous launch, and the VR mode — added for free in the Beyond update — transformed it from a disappointing survival game into the most ambitious space exploration experience ever made. You can fly your ship by physically grabbing the controls. You can walk across alien planets and see the horizon curve beneath you. You can build bases with your hands.
 
@@ -311,9 +334,10 @@ The sense of scale is the achievement. Standing on a planet surface and watching
 ---
 
 ## #8: Moss
-**Native VR** · *2018*
 
 ![Moss](/images/games/moss-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2018</div>
 
 Polyarc built a game that would be a solid action-adventure on any platform. In VR, it becomes something else entirely. You play as a godlike presence watching over Quill, a tiny mouse on a quest to save her uncle. The bond between player and character is established through a shared gaze — Quill looks up at you, and you look down at her — and it's more emotionally effective than any cutscene.
 
@@ -324,9 +348,10 @@ The diorama-like environments, the physical puzzle-solving, and the combat that 
 ---
 
 ## #7: Lone Echo
-**Native VR** · *2017*
 
 ![Lone Echo](/images/games/lone-echo-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2017</div>
 
 Ready at Dawn solved VR locomotion. That's the headline, and it's more significant than it sounds. Before Lone Echo, moving through virtual space meant teleporting, sliding, or fighting nausea. Lone Echo's solution — grabbing surfaces with your hands and pulling yourself through zero-gravity environments — was so intuitive that it made every other locomotion system feel primitive.
 
@@ -337,9 +362,10 @@ The single-player story that wraps around this locomotion system is genuinely go
 ---
 
 ## #6: Asgard's Wrath
-**Native VR** · *2019*
 
 ![Asgard's Wrath](/images/games/asgards-wrath-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2019</div>
 
 The game that proved VR could support a full-length RPG. Before Asgard's Wrath, the prevailing wisdom was that VR games needed to be short — thirty minutes, maybe an hour, before fatigue set in. Sanzaru Games demolished that assumption with a 20+ hour action RPG set across Norse mythology, complete with weapon crafting, companion systems, and boss fights that required genuine mechanical mastery.
 
@@ -350,9 +376,10 @@ The scale is what matters most. You stand face-to-face with gods who tower over 
 ---
 
 ## #5: Resident Evil 7: biohazard
-**Native VR + Full VR Mod** · *2017*
 
 ![Resident Evil 7](/images/games/resident-evil-7-vr-hero.jpg)
+
+<div class="rank-meta">Native VR + Full VR Mod · 2017</div>
 
 The game that proved AAA horror belonged in VR. Capcom didn't bolt VR onto Resident Evil 7 — they built the entire first-person perspective around it. The Baker plantation, the mold-infested corridors, the first time Marguerite appears behind you — these moments are terrifying on a screen and genuinely traumatic in a headset. The VR mode is PSVR-exclusive and has compromises (low resolution, Aim controller only), but the core experience is so powerful that those compromises stop mattering within the first five minutes.
 
@@ -363,9 +390,10 @@ Resident Evil 7 is the reason the "can VR support real games?" question died. A 
 ---
 
 ## #4: Astro Bot Rescue Mission
-**Native VR** · *2018*
 
 ![Astro Bot Rescue Mission](/images/games/astro-bot-rescue-mission-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2018</div>
 
 The platformer that made PSVR owners forget they were waiting for Mario. Team Asobi built a masterclass in VR game design — a third-person platformer where the player's physical perspective is part of the level design. You lean to look around corners. You physically duck to avoid obstacles. You aim gadgets by moving your head. The levels are designed around the fact that you're a giant looking down into a diorama, and every secret, every hidden path, every enemy encounter accounts for the spatial relationship between you and the world.
 
@@ -376,9 +404,10 @@ The production values are Sony at its best — lush environments, responsive con
 ---
 
 ## #3: Skyrim VR
-**Native VR** · *2017*
 
 ![Skyrim VR](/images/games/skyrim-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2017</div>
 
 The game that proved VR could support a full open world. Not a curated experience, not a linear campaign, not a series of minigames — a complete, 300-hour open-world RPG where you can go anywhere, do anything, and live an entire alternate life inside a headset. Skyrim VR shipped with technical problems: the base visuals were dated even in 2017, the motion controls felt bolted on, and the comfort options were limited. None of that mattered.
 
@@ -389,9 +418,10 @@ What mattered was standing on the Throat of the World and actually seeing the en
 ---
 
 ## #2: Beat Saber
-**Native VR** · *2018*
 
 ![Beat Saber](/images/games/beat-saber-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2018</div>
 
 The VR game that transcended VR. Beat Saber topped the Steam charts — not the VR charts, the overall charts — and became the single most recognizable title in the medium's history. The concept is immediately legible: blocks fly at you in time with music, and you slice them with lightsabers. No tutorial needed. No VR experience required. Pick up the controllers, see the blocks, swing.
 
@@ -402,9 +432,10 @@ What made Beat Saber special wasn't just accessibility. It was the combination o
 ---
 
 ## #1: Half-Life: Alyx
-**Native VR** · *2020*
 
 ![Half-Life Alyx](/images/games/half-life-alyx-vr-hero.jpg)
+
+<div class="rank-meta">Native VR · 2020</div>
 
 The game that justified VR for millions of people who were still on the fence. Half-Life: Alyx isn't just the best VR game ever made — it's one of the best games of the generation, period. Valve built a full-length, AAA-quality campaign with production values, level design, and narrative ambition that no other VR game has matched. The combat encounters are genuinely tense. The puzzles are inventive. The story adds real weight to the Half-Life mythos. The environments are detailed enough that you'll spend minutes just looking at propaganda posters on the walls.
 

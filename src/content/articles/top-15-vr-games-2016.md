@@ -4,6 +4,7 @@ description: "The definitive ranking of the games that defined the first year of
 pubDate: 2016-12-31
 author: Ian
 category: opinion
+listicle: true
 tags:
   - ranking
   - '2016'
@@ -21,9 +22,10 @@ This list ranks the fifteen most significant VR games of 2016 — not just by qu
 ---
 
 ## #15: Job Simulator
-**Native VR**
 
 ![Job Simulator](/images/games/job-simulator-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 The absurdist office comedy that became the de facto introduction to room-scale VR. Owlchemy Labs built Job Simulator around a simple premise: what if you could physically interact with a cartoon workplace using your actual hands? The answer was a slapstick sandbox where you throw coffee mugs at robots, photocopy donuts, and cause small kitchen fires — all within a play area the size of a living room.
 
@@ -36,9 +38,10 @@ The limitation is depth. Once you've exhausted the three job scenarios — offic
 ---
 
 ## #14: Eagle Flight
-**Native VR**
 
 ![Eagle Flight](/images/games/eagle-flight-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Ubisoft's first major VR release dropped you into the body of an eagle soaring over a post-apocalyptic Paris where nature had reclaimed the streets. It was the first time a AAA publisher put real resources behind a VR-exclusive title, and the result was a game that understood something fundamental: flying in VR works best when you remove the stomach-churning freedom of six-axis movement and replace it with something more controlled.
 
@@ -51,9 +54,10 @@ The problem is content. The single-player campaign is short, the multiplayer pop
 ---
 
 ## #13: Space Pirate Trainer
-**Native VR**
 
 ![Space Pirate Trainer](/images/games/space-pirate-trainer-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 If Job Simulator was the friendly introduction to room-scale VR, Space Pirate Trainer was the cool one. I-Illusions built a wave shooter that felt like standing inside an 80s arcade cabinet — neon grids, pulsing synth music, and droid waves that test your reflexes, your aim, and your ability to physically dodge behind an imaginary shield.
 
@@ -66,9 +70,10 @@ It's thin. There are no levels, no campaign, no narrative framework. Just you, t
 ---
 
 ## #12: Elite: Dangerous
-**Official Hybrid**
 
 ![Elite: Dangerous](/images/games/elite-dangerous-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid</div>
 
 Frontier's space sim didn't technically launch in 2016 — it had been out since 2014 — but the Horizons expansion and full consumer VR support made this the year it became essential. By December 2016, Elite: Dangerous supported the Rift, the Vive, and every major PC headset with a full cockpit experience that remains one of the most convincing arguments for owning a VR system.
 
@@ -81,9 +86,10 @@ The compromises are still there. The UI text is too small for comfort in many me
 ---
 
 ## #11: Rec Room
-**Native VR**
 
 ![Rec Room](/images/games/rec-room-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Against Gravity launched Rec Room into early access in June and quietly built the closest thing VR had to a social platform. It's a free virtual recreation center where you play paintball, disc golf, dodgeball, and charades with other people who also own headsets. The avatars are simple cartoon figures with floating hands and no legs. The environments are bright, blocky, and immediately readable. The genius is that none of it tries to be realistic — it tries to be social.
 
@@ -96,9 +102,10 @@ Rec Room's real significance isn't any individual game mode. It's the proof that
 ---
 
 ## #10: Raw Data
-**Native VR**
 
 ![Raw Data](/images/games/raw-data-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Survios took the wave shooter template and injected it with enough production value and mechanical complexity to make it feel like a real game. Raw Data dropped you into a corporate dystopia as a hacker resistance fighter mowing through waves of enemy robots with pistols, shotguns, katanas, and a bow that actually required you to draw, aim, and release. It launched on Steam Early Access in July and became the first VR game to crack a million dollars in sales within a month.
 
@@ -111,9 +118,10 @@ The early access release meant Raw Data was still building its campaign througho
 ---
 
 ## #9: Chronos
-**Native VR**
 
 ![Chronos](/images/games/chronos-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Gunfire Games built an action RPG for Oculus Rift that made a bold design choice: it was third-person. Your character appears on screen in front of you, and you control them with a gamepad while the camera sits at fixed positions around the environment. Every time you die, your character ages by one year, shifting their stats from agility toward strength and magic. By the end of a playthrough, your hero is an old warrior who started as a teenager.
 
@@ -126,9 +134,10 @@ It's an Oculus exclusive, which limits its reach. It requires a gamepad, which f
 ---
 
 ## #8: I Expect You to Die
-**Native VR**
 
 ![I Expect You to Die](/images/games/i-expect-you-to-die-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Schell Games designed the best VR escape room of 2016 and wrapped it in a spy-movie aesthetic where you play an elite secret agent who survives lethal traps through telekinesis and lateral thinking. Each level drops you into a deadly situation — a car filling with poison gas, a submarine filling with water, a plane rigged to explode — and gives you a set of objects to manipulate while the clock ticks down.
 
@@ -141,9 +150,10 @@ I Expect You to Die understands something that many 2016 VR developers missed: s
 ---
 
 ## #7: Thumper
-**Official Hybrid**
 
 ![Thumper](/images/games/thumper-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid</div>
 
 Drool called it "rhythm violence," and that label only makes sense once you've played it. Thumper is a rhythm game where you pilot a chrome beetle down an infinite track, hitting notes, sliding through turns, and slamming into bosses at terrifying speed. In VR, the abstract neon hellscape fills your entire field of view, and the sense of velocity becomes physical — you're not watching a fast thing, you're inside it.
 
@@ -156,9 +166,10 @@ The difficulty is relentless. Thumper is not a casual rhythm game. It demands pr
 ---
 
 ## #6: The Gallery: Episode 1 — Call of the Starseed
-**Native VR**
 
 ![The Gallery](/images/games/the-gallery-ep-1-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Cloudhead Games shipped Call of the Starseed on the same day the HTC Vive launched in April, and it immediately established the template for narrative adventure games in room-scale VR. You play a teenager searching for your missing sister on a mysterious island, solving environmental puzzles and uncovering a story that blends 80s nostalgia with cosmic horror. The Blink locomotion system — a hybrid of teleportation and smooth movement — was one of the first solutions to VR's "how do you walk around" problem that actually felt like a design choice rather than a compromise.
 
@@ -171,9 +182,10 @@ At launch, it was the most polished narrative experience available in VR. The do
 ---
 
 ## #5: Robinson: The Journey
-**Native VR**
 
 ![Robinson: The Journey](/images/games/robinson-the-journey-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Crytek took the visual technology that powered their PC benchmarks and built a dinosaur planet for PlayStation VR. You play Robin, a young boy stranded on a world where prehistoric ecosystems never went extinct, exploring lush jungles and encountering creatures that range from curious to carnivorous. A floating AI companion named HIGS provides guidance and comic relief. A baby T-Rex named Laika provides the emotional core.
 
@@ -186,9 +198,10 @@ The gameplay is lighter than the visuals suggest. Puzzles are simple. Exploratio
 ---
 
 ## #4: Arizona Sunshine
-**Native VR**
 
 ![Arizona Sunshine](/images/games/arizona-sunshine-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Vertigo Games built the first full-length zombie shooter for VR and proved that the medium could sustain a campaign with real structure, progression, and narrative stakes. Arizona Sunshine drops you into the American Southwest after the undead apocalypse, tasking you with surviving horde attacks, scavenging for ammunition, and following a trail of hope toward a rumored safe zone. It's a road movie with zombies and motion controllers.
 
@@ -201,9 +214,10 @@ The campaign runs several hours and supports co-op multiplayer, which transforms
 ---
 
 ## #3: Batman: Arkham VR
-**Native VR**
 
 ![Batman: Arkham VR](/images/games/batman-arkham-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Rocksteady — the studio that defined the modern superhero game with Arkham Asylum and its sequels — pivoted to VR and made something entirely different. Arkham VR isn't an action game. There's no combat. No free-roaming Gotham. Instead, it's a two-hour detective experience that answers a question every Batman fan has asked: what does it actually feel like to be Batman?
 
@@ -216,9 +230,10 @@ The emotional payload comes from the moments between the mechanics. Visiting Way
 ---
 
 ## #2: Rez Infinite
-**Official Hybrid**
 
 ![Rez Infinite](/images/games/rez-infinite-vr-hero.jpg)
+
+<div class="rank-meta">Official Hybrid</div>
 
 Tetsuya Mizuguchi's 2001 masterpiece was already a synesthetic experience — a rail shooter where music, visuals, and haptic feedback merged into something closer to a trance state than a video game. The 2016 remaster added VR support and an entirely new level called Area X that was built from scratch for virtual reality, and the result is the most transcendent VR experience of the year.
 
@@ -231,9 +246,10 @@ Rez Infinite is the argument for VR as an artistic medium, not just a technologi
 ---
 
 ## #1: SUPERHOT VR
-**Native VR**
 
 ![SUPERHOT VR](/images/games/superhot-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 The original SUPERHOT was already one of the most innovative shooters of the decade — time moves only when you move, turning every gunfight into a choreographed puzzle of dodging bullets, disarming enemies, and improvising weapons from whatever debris is at hand. The VR version, rebuilt from the ground up for motion controllers, is something else entirely. It's the game that 2016 will be remembered for.
 
