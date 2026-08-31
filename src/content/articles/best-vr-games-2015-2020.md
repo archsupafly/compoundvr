@@ -89,7 +89,20 @@ Tetris Effect in VR isn't about challenge or competition. It's about transcenden
 
 ---
 
-## #25: WipEout Omega Collection
+## #25: Star Wars: Tales from the Galaxy's Edge
+**Native VR** · *2020*
+
+![Star Wars: Tales from the Galaxy's Edge](/images/games/star-wars-tales-from-the-galaxys-edge-vr-hero.jpg)
+
+ILMxLAB built the Star Wars cantina experience that every fan wanted: you're a hyperspace merchant who crash-lands on Batuu, the same planet from Galaxy's Edge at Disneyland, and stumbles into a conflict with the First Order. The game splits into two experiences — the main story missions where you play as the smuggler, and bonus content where you play as legendary bounty hunter AD-33 (aka Seezelslak) telling tales of classic Star Wars characters.
+
+The VR implementation is polished and accessible. Grabbing objects with short-range telekinesis, reloading blasters by hand, physically ducking behind cover during firefights — it all feels natural. The production values are ILM at its best: the environments are dense with Star Wars detail, the voice acting is solid, and the scale of the sets — a full-size Millennium Falcon hangar, a bustling cantina — makes you feel like you're actually on Batuu. Tales from the Galaxy's Edge is the kind of VR experience that converts non-gamers: it's short enough to finish in one sitting, polished enough to impress, and Star Wars enough to make you smile. The Enhanced Edition for PSVR2 added haptic feedback and improved visuals, but the Quest version remains the definitive way to play.
+
+[Read the full Star Wars: Tales from the Galaxy's Edge VR review](/games/star-wars-tales-from-the-galaxys-edge)
+
+---
+
+## #24: WipEout Omega Collection
 **Official Hybrid** · *2018*
 
 ![WipEout Omega Collection](/images/games/wipeout-omega-collection-vr-hero.jpg)
@@ -99,19 +112,6 @@ The anti-gravity racing game that proved VR could deliver speed. WipEout Omega C
 The VR mode was added as a free update, and it's the definitive way to play. The depth perception makes cornering intuitive. The scale makes the tracks feel real. The sense of speed makes your stomach drop on the first drop. WipEout Omega Collection is the proof that racing games don't need to be simulations to benefit from VR — they just need to be fast enough that your body believes it's moving.
 
 [Read the full WipEout Omega Collection VR review](/games/wipeout-omega-collection)
-
----
-
-## #24: Elite Dangerous
-**Official Hybrid** · *2015*
-
-![Elite Dangerous](/images/games/elite-dangerous-vr-hero.jpg)
-
-The sim racing community was VR's earliest credible audience, and Elite Dangerous was their flagship for space. While other genres were still figuring out whether VR worked at all, space sim pilots were docking capital ships and exploring nebulae in properly integrated cockpit VR. Head tracking for panel checks, depth perception for docking, the genuine sense of scale when a star fills your entire field of view — Elite Dangerous proved that VR wasn't just a novelty for one genre. It was a genuine competitive advantage.
-
-The VR implementation was rough in 2015. Performance demanded serious hardware. The UI wasn't designed for stereoscopic viewing. But the core experience — actually sitting inside a spaceship cockpit with a galaxy around you — was transformative enough that it became one of the most-cited reasons to buy a headset in the DK2 era. Elite Dangerous is the longest-running argument for VR's future in simulation: the experience only gets better as hardware improves.
-
-[Read the full Elite Dangerous VR review](/games/elite-dangerous)
 
 ---
 
