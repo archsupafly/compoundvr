@@ -5,7 +5,7 @@ description: "A GameCube classic gets a second life through emulator VR — atmo
 lastVerified: "2016-07-13"
 vrReleaseDate: 2016-07-13
 featured: false
-routeType: Emulator
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable

@@ -20,7 +20,7 @@ genres:
 technicalTags:
   - Unreal Engine 4
   - UEVR
-  - Framework-Based
+  - Framework Only
   - 6DOF
   - Motion Controls
   - Full Campaign

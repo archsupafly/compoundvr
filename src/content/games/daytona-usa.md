@@ -5,7 +5,7 @@ lastVerified: "2026-01-09"
 flatReleaseDate: "1994-03-31"
 vrReleaseDate: "2026-01-09"
 featured: false
-routeType: Emulator
+routeType: Framework Only
 platforms: ['PCVR', 'Quest']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable

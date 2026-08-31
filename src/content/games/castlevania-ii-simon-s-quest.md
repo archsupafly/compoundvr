@@ -5,7 +5,7 @@ flatReleaseDate: "1987-08-28"
 vrReleaseDate: "2025-06-19"
 lastVerified: "2025-06-19"
 featured: false
-routeType: "Emulator"
+routeType: Framework Only
 platforms:
   - PCVR
   - Quest

@@ -5,7 +5,7 @@ flatReleaseDate: 2021-12-09
 vrReleaseDate: 2021-12-09
 lastVerified: 2021-12-09
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest', 'Rift', 'Rift S', 'PSVR', 'PSVR2', 'Pico']
 recommendation: Recommended with Caveats
 playability: Fully Playable

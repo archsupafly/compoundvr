@@ -4,7 +4,7 @@ description: "A carnival ride through the Until Dawn universe that weaponizes ju
 vrReleaseDate: 2016-10-13
 lastVerified: 2016-10-13
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

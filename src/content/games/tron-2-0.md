@@ -5,7 +5,7 @@ flatReleaseDate: "2003-08-26"
 vrReleaseDate: "2019-12-01"
 lastVerified: "2019-12-01"
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms:
   - PCVR
 recommendation: Recommended with Caveats

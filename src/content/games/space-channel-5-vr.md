@@ -3,7 +3,7 @@ title: "Space Channel 5 VR: Kinda Funky News Flash!"
 description: "A native VR rhythm game that brings Sega's cult classic into virtual reality with full-body motion controls, though its 30-60 minute runtime struggles to justify the asking price."
 lastVerified: 2020-02-25
 featured: false
-routeType: "Official Standalone VR Version"
+routeType: Native VR
 platforms: ['PSVR', 'Quest', 'PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable

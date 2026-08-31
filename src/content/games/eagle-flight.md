@@ -4,7 +4,7 @@ description: "A VR-native flight game where you play as an eagle soaring over a 
 lastVerified: 2016-10-18
 vrReleaseDate: 2016-10-18
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: Recommended
 playability: Fully Playable
@@ -45,7 +45,7 @@ The short version: if you own a VR headset and want to fly like a bird over a be
 
 Eagle Flight is a **native VR title** — designed from zero for VR headsets, not adapted from a flat game.
 
-**Route Type:** Official Standalone VR Version
+**Route Type:** Native VR
 
 Ubisoft developed this specifically for Oculus Rift, HTC Vive, and PlayStation VR. A dedicated VR team within Ubisoft built the entire game around head-tracking flight, stereoscopic depth, and comfort-first design. This wasn't a flat game with VR added later. This was VR from the first design document.
 

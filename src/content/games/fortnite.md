@@ -5,7 +5,7 @@ flatReleaseDate: "2017-07-25"
 vrReleaseDate: "2024-01-15"
 lastVerified: "2024-01-15"
 featured: false
-routeType: Framework-Based
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Partially Playable
@@ -41,7 +41,7 @@ Fortnite has no official VR support. Epic Games CEO Tim Sweeney has said as much
 
 UEVR is a framework, not a Fortnite-specific mod. You download the injector, launch Fortnite, and pray the community profile for that week's update hasn't broken. The mod gives you 6DOF head tracking, renders the game in 3D, and attempts to map motion controller inputs to the game's existing gamepad scheme. What it does not give you is hand presence, room-scale interactions, or a VR-native UI. You're playing flat Fortnite through a headset, full stop.
 
-The setup isn't trivial. You need the base UEVR injector, a community-maintained profile specific to Fortnite's current build, and enough patience to tweak OpenXR vs OpenVR settings depending on your headset. When it works, it works. When Epic pushes a major update, it might not work at all until the profile gets patched. This is the eternal Framework-Based tradeoff: you inherit the entire UEVR ecosystem's strengths and weaknesses.
+The setup isn't trivial. You need the base UEVR injector, a community-maintained profile specific to Fortnite's current build, and enough patience to tweak OpenXR vs OpenVR settings depending on your headset. When it works, it works. When Epic pushes a major update, it might not work at all until the profile gets patched. This is the eternal Framework Only tradeoff: you inherit the entire UEVR ecosystem's strengths and weaknesses.
 
 ## What It Feels Like to Actually Play
 

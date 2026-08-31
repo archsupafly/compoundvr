@@ -4,7 +4,7 @@ description: "A proper native VR port from the actual developers—no mods, no i
 flatReleaseDate: "2011-11-22"
 vrReleaseDate: "2017-11-09"
 lastVerified: "2017-11-09"
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable

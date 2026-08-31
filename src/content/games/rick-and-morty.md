@@ -4,7 +4,7 @@ description: "A native VR comedy adventure that puts you in Rick's garage — fu
 flatReleaseDate: "2017-04-20"
 vrReleaseDate: "2017-04-20"
 lastVerified: "2017-04-20"
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

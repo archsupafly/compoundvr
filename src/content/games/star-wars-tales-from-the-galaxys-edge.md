@@ -5,7 +5,7 @@ flatReleaseDate: 2020-11-19
 vrReleaseDate: 2020-11-19
 lastVerified: 2020-11-19
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms:
   - Quest
   - PSVR2

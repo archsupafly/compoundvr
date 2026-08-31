@@ -3,7 +3,7 @@ title: "Watch Dogs VR"
 description: "Chicago looks incredible in a headset, but the third-person camera and gamepad controls remind you this was never meant for VR."
 lastVerified: "2024-05-07"
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms:
   - PCVR
 recommendation: Recommended with Caveats
@@ -17,7 +17,7 @@ genres:
   - Action-Adventure
   - Open World
 technicalTags:
-  - Injection Driver
+  - Framework Only
   - Luke Ross R.E.A.L.
   - Stereoscopic 3D
   - Head Tracking

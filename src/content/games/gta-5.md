@@ -20,7 +20,7 @@ genres:
   - Shooter
 technicalTags:
   - Full VR Mod
-  - Injection Driver
+  - Framework Only
   - No Motion Controls
   - Head Tracking Only
   - Abandoned Mod

@@ -3,7 +3,7 @@ title: "Sairento VR"
 description: "A cyberpunk ninja action game that turns VR into a parkour playground of wall runs, bullet time, and dual-wielded mayhem."
 lastVerified: 2019-01-24
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

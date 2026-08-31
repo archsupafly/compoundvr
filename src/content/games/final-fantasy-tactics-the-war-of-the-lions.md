@@ -5,7 +5,7 @@ flatReleaseDate: "2007-05-10"
 vrReleaseDate: "2022-09-06"
 lastVerified: "2022-09-06"
 featured: false
-routeType: "Emulator"
+routeType: Framework Only
 platforms:
   - Quest
   - Pico

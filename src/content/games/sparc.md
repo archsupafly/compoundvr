@@ -3,7 +3,7 @@ title: "Sparc VR"
 description: "A native VR competitive sport where your body is the controller — throwing, dodging, and deflecting in fast 1v1 arena combat."
 lastVerified: 2017-08-29
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 vrReleaseDate: 2017-08-29
 platforms: ['PSVR', 'PCVR']
 recommendation: Recommended with Caveats

@@ -4,7 +4,7 @@ description: "A native VR battle royale where climbing, gliding, and building re
 lastVerified: 2020-10-22
 featured: false
 vrReleaseDate: 2020-10-22
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['Quest', 'PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

@@ -4,7 +4,7 @@ description: "A heartwarming diorama puzzle adventure that proves VR doesn't nee
 lastVerified: 2019-11-14
 featured: false
 vrReleaseDate: 2019-11-14
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['Quest', 'Rift', 'PSVR', 'PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

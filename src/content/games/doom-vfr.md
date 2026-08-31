@@ -4,7 +4,7 @@ description: "id Software's standalone VR shooter rebuilds Doom's aggression aro
 lastVerified: 2017-12-01
 featured: false
 vrReleaseDate: 2017-12-01
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR', 'PCVR']
 recommendation: Recommended
 playability: Mostly Playable

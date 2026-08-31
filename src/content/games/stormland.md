@@ -3,7 +3,7 @@ title: "Stormland VR"
 description: "Insomniac's open-world adventure delivers some of the best free-form locomotion in VR, but can't quite build a world worth staying in."
 lastVerified: 2019-11-14
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable

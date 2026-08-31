@@ -4,7 +4,7 @@ description: "A neon-drenched DJ booth where you can't play a wrong note — Sur
 flatReleaseDate: "2018-08-07"
 vrReleaseDate: "2019-06-06"
 lastVerified: "2019-06-06"
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

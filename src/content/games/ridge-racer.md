@@ -3,7 +3,7 @@ title: "Ridge Racer VR"
 description: "The PSP's definitive arcade drifter lives inside PPSSPP VR — stereo 3D, head tracking, and a big virtual screen, but no steering wheel and no cockpit."
 lastVerified: 2024-06-01
 featured: false
-routeType: Emulator
+routeType: Framework Only
 platforms: ['Quest', 'Pico']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable

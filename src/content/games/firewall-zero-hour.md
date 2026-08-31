@@ -3,7 +3,7 @@ title: "Firewall Zero Hour VR"
 description: "A tactical team-based shooter built from the ground up for PSVR and the Aim Controller, delivering round-based tension that flat competitive FPS games struggle to match."
 lastVerified: 2018-08-28
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR']
 recommendation: Recommended
 playability: Fully Playable

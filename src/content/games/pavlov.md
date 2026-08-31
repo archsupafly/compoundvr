@@ -3,7 +3,7 @@ title: "Pavlov VR"
 description: "The VR-native tactical shooter that defined 'Counter-Strike in VR' — exceptional gunplay, a fractured community, and a platform split that determines whether you're walking into a full lobby or a ghost town."
 lastVerified: 2017-02-27
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR2']
 recommendation: Recommended with Caveats
 playability: Fully Playable

@@ -4,7 +4,7 @@ description: "A cult classic anime shooter reborn as a VR title that feels like 
 lastVerified: 2019-03-06
 vrReleaseDate: 2017-12-07
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms:
   - 'PSVR'
   - 'PCVR'

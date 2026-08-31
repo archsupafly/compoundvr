@@ -5,7 +5,7 @@ lastVerified: 2025-06-18
 vrReleaseDate: 2018-05-01
 featured: false
 draft: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR', 'PSVR2']
 recommendation: Recommended
 playability: Fully Playable

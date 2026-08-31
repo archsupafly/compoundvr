@@ -4,7 +4,7 @@ description: "A delisted PS4 horror demo, reborn in VR through a fan remake that
 vrReleaseDate: 2019-01-01
 lastVerified: 2019-01-01
 featured: false
-routeType: Framework-Based
+routeType: Framework Only
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended with Caveats
 playability: Mostly Playable

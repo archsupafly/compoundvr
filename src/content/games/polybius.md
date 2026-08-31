@@ -3,7 +3,7 @@ title: "Polybius VR"
 description: "Jeff Minter's tunnel shooter is a pure VR adrenaline rush — 120fps psychedelic speed that somehow never makes you sick."
 lastVerified: 2017-10-10
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR', 'PCVR']
 recommendation: Recommended
 playability: Fully Playable

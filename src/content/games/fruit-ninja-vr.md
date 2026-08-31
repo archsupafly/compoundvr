@@ -5,7 +5,7 @@ flatReleaseDate: "2010-04-21"
 vrReleaseDate: "2016-07-07"
 lastVerified: "2016-07-07"
 featured: false
-routeType: "Official Standalone VR Version"
+routeType: Native VR
 platforms:
   - PCVR
   - PSVR

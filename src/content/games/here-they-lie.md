@@ -4,7 +4,7 @@ description: "A PSVR launch-era psychological horror game that aims for surreal 
 lastVerified: 2016-10-13
 vrReleaseDate: 2016-10-13
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable

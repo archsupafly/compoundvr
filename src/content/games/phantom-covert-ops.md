@@ -4,7 +4,7 @@ description: "A native seated stealth shooter where you paddle a tactical kayak 
 lastVerified: 2020-06-25
 vrReleaseDate: 2020-06-25
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended with Caveats
 playability: Mostly Playable

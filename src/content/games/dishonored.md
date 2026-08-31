@@ -3,7 +3,7 @@ title: "Dishonored VR"
 description: "One of VorpX's showcase titles. Geometry 3D support and DirectVR scanning make it functional, but this is injection—not transformation. Great game, weak VR implementation, mid-tier experience."
 lastVerified: 2015-05-01
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
@@ -31,7 +31,7 @@ flatReleaseDate: 2012-10-09
 vrReleaseDate: 2015-05-01
 ---
 
-# Dishonored in VR: Standing in Dunwall Through an Injection Driver
+# Dishonored in VR: Standing in Dunwall Through an Framework Only
 
 The whale oil lamps flicker at eye level. Guards mutter just meters away, unaware. You're standing on a rooftop in the middle of a plague-stricken city, and the industrial decay of Dunwall surrounds you in a way a monitor never conveyed.
 
@@ -39,7 +39,7 @@ This is what injection drivers offer. Not native VR. Not a rebuilt experience. A
 
 Dishonored is one of VorpX's showcase titles—an injection experience that delivers genuinely impressive results. But what does that actually mean? And is it worth the time, money, and tolerance for friction?
 
-## What Injection Drivers Actually Do
+## What Framework Onlys Actually Do
 
 VorpX and similar tools (Geo3D, HelixVision, ReShade with SuperDepth3D) work by intercepting a game's rendering pipeline and forcing it to output stereoscopic images. They inject head tracking so you can look around.
 

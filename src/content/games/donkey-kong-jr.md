@@ -5,7 +5,7 @@ flatReleaseDate: "1982-07-10"
 vrReleaseDate: "2019-06-04"
 lastVerified: "2019-06-04"
 featured: false
-routeType: Framework-Based
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

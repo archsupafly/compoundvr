@@ -5,7 +5,7 @@ flatReleaseDate: "2004-10-11"
 vrReleaseDate: "2016-07-13"
 lastVerified: "2016-07-13"
 featured: false
-routeType: Emulator
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable

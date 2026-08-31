@@ -5,7 +5,7 @@ flatReleaseDate: "1982-11-18"
 vrReleaseDate: "2019-06-01"
 lastVerified: "2019-06-01"
 featured: false
-routeType: "Framework-Based"
+routeType: "Framework Only"
 platforms:
   - "PCVR"
 recommendation: "Enthusiasts/Tinkerers Only"

@@ -3,7 +3,7 @@ title: "Rez Infinite VR"
 description: "A transcendent on-rails shooter where music, visuals, and haptics fuse into one of VR's finest native experiences. Excellent implementation of a landmark game."
 lastVerified: 2016-10-13
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

@@ -3,7 +3,7 @@ title: "Vader Immortal: A Star Wars VR Series"
 description: "Face-to-face with Darth Vader, a lightsaber humming in your hand — a cinematic Star Wars narrative built for VR with first-party production values and a sense of presence few titles match. It's short, but it's the best first thing to show someone new to VR."
 lastVerified: 2019-05-21
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['Quest', 'Rift']
 recommendation: Recommended
 playability: Fully Playable

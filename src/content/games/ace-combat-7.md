@@ -19,7 +19,7 @@ genres:
 technicalTags:
   - UEVR
   - Unreal Engine 4
-  - Injection Driver
+  - Framework Only
   - Official PSVR Mode
 experienceTags:
   - Cockpit Flight

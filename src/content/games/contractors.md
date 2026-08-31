@@ -3,7 +3,7 @@ title: "Contractors VR"
 description: "A fast, familiar competitive shooter built from the ground up for VR, with a mod community so prolific it might outlive the official servers."
 lastVerified: 2018-12-14
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest', 'Rift', 'Pico']
 recommendation: Recommended with Caveats
 playability: Fully Playable

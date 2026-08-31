@@ -4,7 +4,7 @@ description: "An uncompromising NES hardcore platformer wrapped in a 3D voxel di
 flatReleaseDate: "2010-02-22"
 vrReleaseDate: "2018-12-24"
 lastVerified: "2018-12-24"
-routeType: "Framework-Based"
+routeType: "Framework Only"
 platforms: ['PCVR']
 recommendation: "Enthusiasts/Tinkerers Only"
 playability: "Fully Playable"

@@ -5,7 +5,7 @@ flatReleaseDate: 2000-10-06
 vrReleaseDate: 2000-10-06
 lastVerified: 2000-10-06
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable
@@ -19,7 +19,7 @@ genres:
   - Platformer
   - Psychological Horror
 technicalTags:
-  - Injection Driver
+  - Framework Only
   - Third-Person Camera
   - Stereoscopic 3D
   - VorpX Profile

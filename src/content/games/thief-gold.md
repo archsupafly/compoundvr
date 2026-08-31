@@ -5,7 +5,7 @@ flatReleaseDate: 1999-10-01
 vrReleaseDate: 2018-04-08
 lastVerified: 2018-04-08
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable
@@ -21,7 +21,7 @@ genres:
 technicalTags:
   - VorpX
   - Z3D
-  - Injection Driver
+  - Framework Only
   - TFix Required
 experienceTags:
   - Atmospheric

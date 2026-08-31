@@ -3,7 +3,7 @@ title: "Red Matter VR"
 description: "A dystopian Cold War puzzle adventure built exclusively for VR, where stunning visual fidelity and tactile object manipulation make a short runtime feel dense."
 lastVerified: 2018-05-24
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

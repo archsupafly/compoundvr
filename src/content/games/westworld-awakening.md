@@ -5,7 +5,7 @@ flatReleaseDate: 2019-08-20
 vrReleaseDate: 2019-08-20
 lastVerified: 2019-08-20
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Rift', 'Rift S', 'Vive', 'Index']
 recommendation: Recommended
 playability: Fully Playable

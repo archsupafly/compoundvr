@@ -3,7 +3,7 @@ title: "Star Wars Jedi: Fallen Order VR"
 description: "One of the best Star Wars games of the past decade gains a new dimension through UEVR — a compelling third-person VR experience that puts you beside a Jedi, not in his boots."
 lastVerified: 2024-02-01
 featured: false
-routeType: Framework-Based
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable
@@ -41,7 +41,7 @@ The idea of wielding a lightsaber in virtual reality has driven VR adoption sinc
 
 ## What This VR Option Actually Is
 
-This is a **Framework-Based** VR implementation via [UEVR](https://flat2vr.com), Praydog's Universal Unreal Engine injection mod that converts Unreal Engine 4 and 5 games into full stereoscopic VR experiences. [Verified] Unlike injection drivers like VorpX that only provide head tracking and stereoscopic 3D, UEVR delivers full 6DOF (six degrees of freedom) tracking, proper world scale, and — in the case of Jedi: Fallen Order — a compelling third-person VR perspective that puts you directly behind Cal Kestis.
+This is a **Framework Only** VR implementation via [UEVR](https://flat2vr.com), Praydog's Universal Unreal Engine injection mod that converts Unreal Engine 4 and 5 games into full stereoscopic VR experiences. [Verified] Unlike injection drivers like VorpX that only provide head tracking and stereoscopic 3D, UEVR delivers full 6DOF (six degrees of freedom) tracking, proper world scale, and — in the case of Jedi: Fallen Order — a compelling third-person VR perspective that puts you directly behind Cal Kestis.
 
 UEVR support for Jedi: Fallen Order is stable and well-documented within the framework community. [Verified] The game runs on Unreal Engine 4, making it compatible with UEVR's injection methods. [Verified] As a framework-based route, it receives ongoing updates and refinements from the UEVR community, though it will always carry the inherent characteristics of third-person VR: you're inhabiting the space alongside your character, not through their eyes.
 

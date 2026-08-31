@@ -3,7 +3,7 @@ title: "Metroid Prime VR"
 description: "A legendary first-person adventure becomes one of the most compelling arguments for emulator VR — if your stomach and your patience can handle the setup."
 lastVerified: 2026-05-15
 featured: false
-routeType: Emulator
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

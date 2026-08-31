@@ -5,7 +5,7 @@ flatReleaseDate: 1986-08-06
 vrReleaseDate: 1986-08-06
 lastVerified: 1986-08-06
 featured: false
-routeType: Framework-Based
+routeType: Framework Only
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

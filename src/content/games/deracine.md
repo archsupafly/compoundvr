@@ -4,7 +4,7 @@ description: "FromSoftware's quiet PSVR mystery trades combat for contemplation,
 lastVerified: 2018-11-06
 vrReleaseDate: 2018-11-06
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

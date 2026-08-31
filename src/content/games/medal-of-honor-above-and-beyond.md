@@ -4,7 +4,7 @@ description: "Respawn's native WWII VR shooter delivers satisfying gunplay, cine
 lastVerified: 2020-12-11
 vrReleaseDate: 2020-12-11
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Mostly Playable

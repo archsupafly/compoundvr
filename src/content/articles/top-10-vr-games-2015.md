@@ -71,7 +71,7 @@ The problem is stability. VR performance is inconsistent even on high-end hardwa
 ---
 
 ## #6: EVE: Valkyrie
-**Standalone VR**
+**Native VR**
 
 ![EVE: Valkyrie](/images/games/eve-valkyrie-vr-hero.jpg)
 
@@ -84,7 +84,7 @@ So why #6 and why D-tier? Because the game underneath the spectacle is thin. The
 ---
 
 ## #5: Keep Talking and Nobody Explodes
-**Standalone VR**
+**Native VR**
 
 ![Keep Talking and Nobody Explodes](/images/games/keep-talking-and-nobody-explodes-vr-hero.jpg)
 

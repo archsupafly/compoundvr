@@ -3,7 +3,7 @@ title: "The Persistence VR"
 description: "A roguelike horror game born in VR that traps you on a procedurally generated spaceship full of mutated crew — tense, atmospheric, and stubbornly gamepad-only."
 lastVerified: "2021-06-04"
 featured: false
-routeType: "Official Standalone VR Version"
+routeType: Native VR
 platforms: ['PSVR', 'PCVR']
 flatReleaseDate: "2020-05-21"
 vrReleaseDate: "2018-07-24"

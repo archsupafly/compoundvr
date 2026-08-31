@@ -3,7 +3,7 @@ title: "Triangle Strategy VR"
 description: "A 50-hour tactical RPG on a standalone headset sounds like a bad idea until you realize the battlefield was always meant to be viewed from above."
 lastVerified: 2024-10-31
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['Quest']
 flatReleaseDate: 2022-03-04
 vrReleaseDate: 2024-10-31

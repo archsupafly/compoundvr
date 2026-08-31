@@ -5,7 +5,7 @@ flatReleaseDate: 2007-11-20
 vrReleaseDate: 2007-11-20
 lastVerified: 2007-11-20
 featured: false
-routeType: "Injection Driver"
+routeType: "Framework Only"
 platforms:
   - PCVR
 recommendation: "Enthusiasts/Tinkerers Only"
@@ -45,7 +45,7 @@ This is Mass Effect through VorpX—an injection driver that forces stereoscopic
 
 ---
 
-## What Injection Drivers Actually Do
+## What Framework Onlys Actually Do
 
 VorpX and similar tools work by intercepting a game's rendering pipeline and forcing it to output stereoscopic images. They inject head tracking so you can look around.
 

@@ -5,7 +5,7 @@ flatReleaseDate: 2020-03-20
 vrReleaseDate: 2020-04-01
 lastVerified: 2021-08-17
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable

@@ -3,7 +3,7 @@ title: "Robo Recall VR"
 description: "Epic Games' arcade shooter remains one of the most satisfyingly physical VR experiences ever built, even if its teleport-only movement shows its age."
 lastVerified: 2019-05-21
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

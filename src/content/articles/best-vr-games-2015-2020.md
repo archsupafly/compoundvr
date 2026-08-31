@@ -38,7 +38,7 @@ The VR implementation has rough edges: the UI wasn't designed for headsets, and 
 ---
 
 ## #29: Westworld Awakening
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Westworld Awakening](/images/games/westworld-awakening-vr-hero.jpg)
 
@@ -51,7 +51,7 @@ You play as a Host who's beginning to remember. The Delos labs are your playgrou
 ---
 
 ## #28: Golem
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Golem](/images/games/golem-vr-hero.jpg)
 
@@ -64,7 +64,7 @@ The combat is slow and deliberate — not the frantic wave-shooter pace that dom
 ---
 
 ## #27: SUPERHOT VR
-**Standalone VR** · *2016*
+**Native VR** · *2016*
 
 ![SUPERHOT VR](/images/games/superhot-vr-hero.jpg)
 
@@ -77,7 +77,7 @@ SUPERHOT VR proved that the best VR games aren't ports. They're reimaginings. Th
 ---
 
 ## #26: Tetris Effect
-**Standalone VR** · *2018*
+**Native VR** · *2018*
 
 ![Tetris Effect](/images/games/tetris-effect-vr-hero.jpg)
 
@@ -129,7 +129,7 @@ The VR mode is limited — a handful of missions, no full campaign — but what'
 ---
 
 ## #22: Medal of Honor: Above and Beyond
-**Standalone VR** · *2020*
+**Native VR** · *2020*
 
 ![Medal of Honor](/images/games/medal-of-honor-above-and-beyond-vr-hero.jpg)
 
@@ -142,7 +142,7 @@ The campaign has pacing problems. The stealth sections are undercooked. The stea
 ---
 
 ## #21: Creed: Rise to Glory
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Creed](/images/games/creed-rise-to-glory-vr-hero.jpg)
 
@@ -194,7 +194,7 @@ The VR implementation has performance demands that match the ambition — you ne
 ---
 
 ## #17: Vader Immortal: A Star Wars VR Series
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Vader Immortal](/images/games/vader-immortal-vr-hero.jpg)
 
@@ -207,7 +207,7 @@ The combat — lightsaber duels and Force-powered puzzles — is satisfying but 
 ---
 
 ## #16: Iron Man VR
-**Standalone VR** · *2020*
+**Native VR** · *2020*
 
 ![Iron Man VR](/images/games/marvels-iron-man-vr-hero.jpg)
 
@@ -220,7 +220,7 @@ The campaign is a competent Iron Man story — corporate espionage, drone warfar
 ---
 
 ## #15: Stormland
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Stormland](/images/games/stormland-vr-hero.jpg)
 
@@ -233,7 +233,7 @@ The combat is solid. The weapons are satisfying. The world is beautiful. But Sto
 ---
 
 ## #14: Pistol Whip
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Pistol Whip](/images/games/pistol-whip-vr-hero.jpg)
 
@@ -246,7 +246,7 @@ Cloudhead Games understood something that most rhythm shooters didn't: the beat 
 ---
 
 ## #13: Farpoint
-**Standalone VR** · *2017*
+**Native VR** · *2017*
 
 ![Farpoint](/images/games/far-point-vr-hero.jpg)
 
@@ -259,7 +259,7 @@ The co-op mode extended the experience, and the wave-based challenge maps kept p
 ---
 
 ## #12: Fallout 4 VR
-**Official Standalone VR** · *2017*
+**Native VR** · *2017*
 
 ![Fallout 4 VR](/images/games/fallout-4-vr-hero.jpg)
 
@@ -272,7 +272,7 @@ The VR implementation is rough. The visuals are dated. The performance demands s
 ---
 
 ## #11: Blood and Truth
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Blood and Truth](/images/games/blood-and-truth-vr-hero.jpg)
 
@@ -285,7 +285,7 @@ The shooting is thin — limited enemy types, simple AI — but the spectacle ca
 ---
 
 ## #10: The Walking Dead: Saints & Sinners
-**Standalone VR** · *2020*
+**Native VR** · *2020*
 
 ![The Walking Dead: Saints & Sinners](/images/games/the-walking-dead-saints-and-sinners-vr-hero.jpg)
 
@@ -311,7 +311,7 @@ The sense of scale is the achievement. Standing on a planet surface and watching
 ---
 
 ## #8: Moss
-**Standalone VR** · *2018*
+**Native VR** · *2018*
 
 ![Moss](/images/games/moss-vr-hero.jpg)
 
@@ -324,7 +324,7 @@ The diorama-like environments, the physical puzzle-solving, and the combat that 
 ---
 
 ## #7: Lone Echo
-**Standalone VR** · *2017*
+**Native VR** · *2017*
 
 ![Lone Echo](/images/games/lone-echo-vr-hero.jpg)
 
@@ -337,7 +337,7 @@ The single-player story that wraps around this locomotion system is genuinely go
 ---
 
 ## #6: Asgard's Wrath
-**Standalone VR** · *2019*
+**Native VR** · *2019*
 
 ![Asgard's Wrath](/images/games/asgards-wrath-vr-hero.jpg)
 
@@ -363,7 +363,7 @@ Resident Evil 7 is the reason the "can VR support real games?" question died. A 
 ---
 
 ## #4: Astro Bot Rescue Mission
-**Standalone VR** · *2018*
+**Native VR** · *2018*
 
 ![Astro Bot Rescue Mission](/images/games/astro-bot-rescue-mission-vr-hero.jpg)
 
@@ -376,7 +376,7 @@ The production values are Sony at its best — lush environments, responsive con
 ---
 
 ## #3: Skyrim VR
-**Official Standalone VR** · *2017*
+**Native VR** · *2017*
 
 ![Skyrim VR](/images/games/skyrim-vr-hero.jpg)
 
@@ -389,7 +389,7 @@ What mattered was standing on the Throat of the World and actually seeing the en
 ---
 
 ## #2: Beat Saber
-**Standalone VR** · *2018*
+**Native VR** · *2018*
 
 ![Beat Saber](/images/games/beat-saber-vr-hero.jpg)
 
@@ -402,7 +402,7 @@ What made Beat Saber special wasn't just accessibility. It was the combination o
 ---
 
 ## #1: Half-Life: Alyx
-**Standalone VR** · *2020*
+**Native VR** · *2020*
 
 ![Half-Life Alyx](/images/games/half-life-alyx-vr-hero.jpg)
 

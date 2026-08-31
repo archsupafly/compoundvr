@@ -5,7 +5,7 @@ flatReleaseDate: "2019-05-28"
 vrReleaseDate: "2019-05-28"
 lastVerified: "2023-11-21"
 featured: false
-routeType: "Official Standalone VR Version"
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest', 'Pico']
 recommendation: "Recommended"
 playability: "Fully Playable"

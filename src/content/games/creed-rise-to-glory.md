@@ -3,7 +3,7 @@ title: "Creed: Rise to Glory VR"
 description: "Survios turns boxing into a full-body VR workout, and the result is one of the most physically demanding games you can strap to your face."
 lastVerified: 2019-05-21
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest']
 recommendation: Recommended with Caveats
 playability: Fully Playable

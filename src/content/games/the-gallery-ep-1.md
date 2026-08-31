@@ -3,7 +3,7 @@ title: "The Gallery - Episode 1: Call of the Starseed VR"
 description: "One of the first real VR adventures, built for the Vive launch in 2016, pioneered teleport locomotion, and still holds up as a short atmospheric puzzle experience — though the series never got its conclusion."
 lastVerified: 2016-04-05
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

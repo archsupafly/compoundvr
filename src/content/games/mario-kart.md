@@ -3,7 +3,7 @@ title: "Mario Kart VR"
 description: "Nintendo's arcade racing classic finds an unexpected second life through Dolphin VR, turning familiar tracks into surprisingly physical playgrounds of speed and scale."
 lastVerified: 2008-04-10
 featured: false
-routeType: Emulator
+routeType: Framework Only
 flatReleaseDate: 2008-04-10
 vrReleaseDate: 2008-04-10
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Windlands VR"
 description: "The 2016 grappling-hook explorer that made swinging through impossible architecture feel exhilarating — if your stomach could handle it."
 lastVerified: 2016-03-28
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

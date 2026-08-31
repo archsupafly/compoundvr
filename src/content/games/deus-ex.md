@@ -5,7 +5,7 @@ flatReleaseDate: 2000-06-23
 vrReleaseDate: 2013-10-22
 lastVerified: 2013-10-22
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable
@@ -21,7 +21,7 @@ genres:
 technicalTags:
   - VorpX
   - Geometry 3D
-  - Injection Driver
+  - Framework Only
 experienceTags:
   - Narrative-Driven
   - Cyberpunk

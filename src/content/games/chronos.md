@@ -3,7 +3,7 @@ title: "Chronos VR"
 description: "A third-person dungeon crawler where every death ages your hero by a year, built natively for VR with a fixed-camera comfort approach that trades motion controls for substance."
 lastVerified: 2016-03-28
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

@@ -20,7 +20,7 @@ This list ranks the twenty most significant VR games of 2019. Not just by qualit
 ---
 
 ## #20: Boneworks
-**Official Standalone VR Version**
+**Native VR**
 
 ![Boneworks](/images/games/boneworks-vr-hero.jpg)
 
@@ -53,7 +53,7 @@ Nobody expected Mario Kart to work in VR. Through Dolphin VR, Mario Kart Wii and
 ---
 
 ## #17: Espire 1 VR Operative
-**Official Standalone VR Version**
+**Native VR**
 
 ![Espire 1 VR Operative](/images/games/espire-1-vr-operative-vr-hero.jpg)
 
@@ -64,7 +64,7 @@ Espire 1 wanted to be VR's Metal Gear Solid, and in its best moments, it gets cl
 ---
 
 ## #16: Audica
-**Official Standalone VR Version**
+**Native VR**
 
 ![Audica](/images/games/audica-vr-hero.jpg)
 
@@ -75,7 +75,7 @@ When the studio behind Guitar Hero and Rock Band turns its attention to VR, the 
 ---
 
 ## #15: Sairento VR
-**Official Standalone VR Version**
+**Native VR**
 
 ![Sairento VR](/images/games/sairento-vr-vr-hero.jpg)
 
@@ -108,7 +108,7 @@ Ace Combat 7's VR mode is frustratingly limited — just three missions and a fr
 ---
 
 ## #12: A Fisherman's Tale
-**Official Standalone VR Version**
+**Native VR**
 
 ![A Fisherman's Tale](/images/games/a-fishermans-tale-vr-hero.jpg)
 
@@ -119,7 +119,7 @@ A Fisherman's Tale is the kind of game that could only exist in VR. You play as 
 ---
 
 ## #11: Until You Fall
-**Official Standalone VR Version**
+**Native VR**
 
 ![Until You Fall](/images/games/until-you-fall-vr-hero.jpg)
 
@@ -130,7 +130,7 @@ Until You Fall is the VR melee combat game that actually makes you earn every hi
 ---
 
 ## #10: Five Nights at Freddy's VR: Help Wanted
-**Official Standalone VR Version**
+**Native VR**
 
 ![Five Nights at Freddy's VR](/images/games/five-nights-at-freddys-help-wanted-vr-hero.jpg)
 
@@ -141,7 +141,7 @@ The FNAF franchise found its true home in VR. What was already terrifying on a m
 ---
 
 ## #9: Ghost Giant
-**Official Standalone VR Version**
+**Native VR**
 
 ![Ghost Giant](/images/games/ghost-giant-vr-hero.jpg)
 
@@ -163,7 +163,7 @@ Justin Roiland brought his Rick and Morty-adjacent chaos to VR, and the result i
 ---
 
 ## #7: Vader Immortal: A Star Wars VR Series
-**Official Standalone VR Version**
+**Native VR**
 
 ![Vader Immortal](/images/games/vader-immortal-vr-hero.jpg)
 
@@ -185,7 +185,7 @@ Metroid Prime was already one of the best first-person games ever made. In VR, i
 ---
 
 ## #5: Stormland
-**Official Standalone VR Version**
+**Native VR**
 
 ![Stormland](/images/games/stormland-vr-hero.jpg)
 
@@ -196,7 +196,7 @@ Insomniac built the VR open world that proved the concept works. Stormland's cli
 ---
 
 ## #4: Blood and Truth
-**Official Standalone VR Version**
+**Native VR**
 
 ![Blood and Truth](/images/games/blood-and-truth-vr-hero.jpg)
 
@@ -218,7 +218,7 @@ The redemption arc continues. No Man's Sky's VR mode, added in the Beyond update
 ---
 
 ## #2: Pistol Whip
-**Official Standalone VR Version**
+**Native VR**
 
 ![Pistol Whip](/images/games/pistol-whip-vr-hero.jpg)
 
@@ -229,7 +229,7 @@ Pistol Whip is the rare VR game that needs no caveats. It's a rhythm-shooter whe
 ---
 
 ## #1: Asgard's Wrath
-**Official Standalone VR Version**
+**Native VR**
 
 ![Asgard's Wrath](/games/asgards-wrath/)
 

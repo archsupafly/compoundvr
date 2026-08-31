@@ -3,7 +3,7 @@ title: "Apex Construct VR"
 description: "A native VR action-adventure that asks whether bow combat and a ruined world are enough to carry a full-length single-player campaign — ambitious, uneven, and unmistakably built for the headset first."
 lastVerified: 2018-03-06
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

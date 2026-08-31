@@ -5,7 +5,7 @@ flatReleaseDate: "2013-12-19"
 vrReleaseDate: "2020-06-15"
 lastVerified: "2020-06-15"
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms:
   - PCVR
   - Quest

@@ -5,7 +5,7 @@ flatReleaseDate: "2019-11-15"
 vrReleaseDate: "2019-12-01"
 lastVerified: "2019-12-01"
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR']
 recommendation: Recommended
 playability: Mostly Playable

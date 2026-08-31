@@ -5,7 +5,7 @@ flatReleaseDate: 2019-03-08
 vrReleaseDate: 2019-03-08
 lastVerified: 2019-03-08
 featured: false
-routeType: Framework-Based
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable

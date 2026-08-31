@@ -4,7 +4,7 @@ description: "A pioneering room-scale dungeon crawler with some of the best mele
 lastVerified: 2019-08-23
 vrReleaseDate: 2016-04-05
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

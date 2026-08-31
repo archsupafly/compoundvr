@@ -5,7 +5,7 @@ flatReleaseDate: 2015-04-27
 vrReleaseDate: 2015-04-27
 lastVerified: 2015-04-27
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: "Enthusiasts/Tinkerers Only"
 playability: Fully Playable

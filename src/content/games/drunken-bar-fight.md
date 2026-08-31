@@ -5,7 +5,7 @@ flatReleaseDate: 2016-11-27
 vrReleaseDate: 2024-12-01
 lastVerified: 2024-12-01
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended with Caveats
 playability: Fully Playable

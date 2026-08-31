@@ -4,7 +4,7 @@ description: "A native VR competitive dueling game where slow-motion projectiles
 lastVerified: 2020-10-08
 featured: false
 vrReleaseDate: 2020-10-08
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['Quest', 'PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable

@@ -4,7 +4,7 @@ description: "A full racing campaign in VR with a severe visual downgrade — st
 flatReleaseDate: 2014-10-07
 lastVerified: 2016-10-13
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

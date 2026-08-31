@@ -3,7 +3,7 @@ title: "Paper Beast VR"
 description: "A surreal ecosystem of papercraft creatures awaits in Eric Chahi's native VR puzzler — beautiful, strange, and over too soon."
 lastVerified: 2020-03-24
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'PSVR2']
 vrReleaseDate: 2020-03-24
 recommendation: Recommended with Caveats

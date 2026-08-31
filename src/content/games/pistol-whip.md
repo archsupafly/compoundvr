@@ -4,7 +4,7 @@ description: "A rhythm-action shooter that makes you feel like the star of your 
 vrReleaseDate: 2019-11-07
 lastVerified: 2019-11-07
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

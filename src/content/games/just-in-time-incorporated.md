@@ -5,7 +5,7 @@ flatReleaseDate: 2017-07-27
 vrReleaseDate: 2017-07-27
 lastVerified: 2017-07-27
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

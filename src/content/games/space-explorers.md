@@ -5,7 +5,7 @@ lastVerified: 2020-10-22
 flatReleaseDate: 2020-10-22
 vrReleaseDate: 2020-10-22
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['Quest', 'Rift']
 recommendation: Recommended with Caveats
 playability: Fully Playable

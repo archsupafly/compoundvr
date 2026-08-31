@@ -20,7 +20,7 @@ genres:
   - "Action"
   - "Open Universe"
 technicalTags:
-  - "Official Standalone VR Version"
+  - "Native VR"
   - "SteamVR"
   - "PSVR"
   - "Custom Engine"

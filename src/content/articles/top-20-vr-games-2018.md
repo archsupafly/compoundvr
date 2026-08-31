@@ -33,7 +33,7 @@ The community did what id wouldn't — bring a full Doom campaign into VR with p
 ---
 
 ## #19: Deracine
-**Official Standalone VR Version**
+**Native VR**
 
 ![Deracine](/images/games/deracine-vr-hero.jpg)
 
@@ -44,7 +44,7 @@ FromSoftware, the studio behind Dark Souls and Bloodborne, made a quiet boarding
 ---
 
 ## #18: Seeking Dawn
-**Official Standalone VR Version**
+**Native VR**
 
 ![Seeking Dawn](/images/games/seeking-dawn-vr-hero.jpg)
 
@@ -55,7 +55,7 @@ Multiverse built one of VR's longest native campaigns — a ten-plus-hour sci-fi
 ---
 
 ## #17: Apex Construct
-**Official Standalone VR Version**
+**Native VR**
 
 ![Apex Construct](/images/games/apex-construct-vr-hero.jpg)
 
@@ -88,7 +88,7 @@ Ubisoft Montpellier built a zero-G arena shooter where you thrusted through orbi
 ---
 
 ## #14: Pixel Ripped 1989
-**Official Standalone VR Version**
+**Native VR**
 
 ![Pixel Ripped 1989](/images/games/pixel-ripped-1989-vr-hero.jpg)
 
@@ -99,7 +99,7 @@ Arvore Interactive built a game about playing games — specifically, about bein
 ---
 
 ## #13: Borderlands 2 VR
-**Official Standalone VR Version**
+**Native VR**
 
 ![Borderlands 2 VR](/images/games/borderlands-2-vr-hero.jpg)
 
@@ -110,7 +110,7 @@ Gearbox shoved an entire looter-shooter RPG into a PSVR headset — every gun, e
 ---
 
 ## #12: Sprint Vector
-**Official Standalone VR Version**
+**Native VR**
 
 ![Sprint Vector](/images/games/sprint-vector-vr-hero.jpg)
 
@@ -143,7 +143,7 @@ SpectreVision and Ubisoft Montreal built a psychological thriller that uses VR n
 ---
 
 ## #9: Creed: Rise to Glory
-**Official Standalone VR Version**
+**Native VR**
 
 ![Creed: Rise to Glory](/images/games/creed-rise-to-glory-vr-hero.jpg)
 
@@ -154,7 +154,7 @@ Survios traded the sprint mechanics of Sprint Vector for boxing gloves and built
 ---
 
 ## #8: Red Matter
-**Official Standalone VR Version**
+**Native VR**
 
 ![Red Matter](/images/games/red-matter-vr-hero.jpg)
 
@@ -165,7 +165,7 @@ Vertical Robot delivered the best-looking VR game of 2018. Red Matter is a puzzl
 ---
 
 ## #7: Blade & Sorcery
-**Official Standalone VR Version**
+**Native VR**
 
 ![Blade and Sorcery](/images/games/blade-and-sorcery-vr-hero.jpg)
 
@@ -176,7 +176,7 @@ Warpfrog built the physics sandbox that VR melee combat had been waiting for. Ev
 ---
 
 ## #6: Budget Cuts
-**Official Standalone VR Version**
+**Native VR**
 
 ![Budget Cuts](/images/games/budget-cuts-vr-hero.jpg)
 
@@ -187,7 +187,7 @@ Neat Corporation built the VR stealth game that the community had been anticipat
 ---
 
 ## #5: In Death
-**Official Standalone VR Version**
+**Native VR**
 
 ![In Death](/images/games/in-death-vr-hero.jpg)
 
@@ -209,7 +209,7 @@ Tetsuya Mizuguchi took the most mechanically perfect puzzle game ever designed a
 ---
 
 ## #3: Firewall Zero Hour
-**Official Standalone VR Version**
+**Native VR**
 
 ![Firewall Zero Hour](/images/games/firewall-zero-hour-vr-hero.jpg)
 
@@ -220,7 +220,7 @@ First Contact Entertainment and Sony built the tactical shooter that proved FPS 
 ---
 
 ## #2: Astro Bot Rescue Mission
-**Official Standalone VR Version**
+**Native VR**
 
 ![Astro Bot](/images/games/astro-bot-rescue-mission-vr-hero.jpg)
 
@@ -231,7 +231,7 @@ Sony Japan Studio built the platformer that VR had been waiting for — and did 
 ---
 
 ## #1: Beat Saber
-**Official Standalone VR Version**
+**Native VR**
 
 ![Beat Saber](/images/games/beat-saber-vr-hero.jpg)
 

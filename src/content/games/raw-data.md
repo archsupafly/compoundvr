@@ -3,7 +3,7 @@ title: "Raw Data VR"
 description: "The 2016 milestone that proved VR could sell — now an abandoned co-op shooter with dead servers and compatibility issues on modern systems."
 lastVerified: 2016-07-15
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: Not Recommended
 playability: Partially Playable

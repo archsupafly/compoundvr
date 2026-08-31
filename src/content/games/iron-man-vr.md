@@ -3,7 +3,7 @@ title: "Marvel's Iron Man VR"
 description: "A full-length native VR campaign that finally lets you feel like Iron Man — thrilling flight, repetitive combat, and two very different versions depending on your headset."
 lastVerified: 2020-07-03
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PSVR', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

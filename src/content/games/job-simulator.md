@@ -3,7 +3,7 @@ title: "Job Simulator VR"
 description: "The VR comedy that proved hand presence could be funny — and nine years later, it’s still the best demo in the store."
 lastVerified: 2024-05-29
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest', 'PSVR2', 'Pico', 'Vive']
 recommendation: Recommended
 playability: Fully Playable

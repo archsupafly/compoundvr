@@ -3,7 +3,7 @@ title: "Contra VR"
 description: "Konami's legendary run-and-gun becomes an intense 3D diorama in 3dSen VR — the spread gun has never felt more powerful, and the challenge has never been more immersive."
 lastVerified: 2018-08-01
 featured: false
-routeType: Emulator
+routeType: Framework Only
 platforms: ['PCVR', 'Quest']
 routes:
   - 3dSen VR

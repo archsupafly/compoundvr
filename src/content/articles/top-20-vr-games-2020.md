@@ -21,7 +21,7 @@ This list ranks the twenty most significant VR games and mods of 2020. Not just 
 ---
 
 ## #20: Crisis VRigade 2
-**Official Standalone VR Version**
+**Native VR**
 
 ![Crisis VRigade 2](/images/games/crisis-vrigade-2-vr-hero.jpg)
 
@@ -32,7 +32,7 @@ Crisis VRigade 2 is the arcade shooter that understands what makes VR gunplay ad
 ---
 
 ## #19: Into the Radius
-**Official Standalone VR Version**
+**Native VR**
 
 ![Into the Radius](/images/games/into-the-radius-vr-hero.jpg)
 
@@ -43,7 +43,7 @@ Into the Radius is the STALKER-inspired survival shooter that VR had been waitin
 ---
 
 ## #18: Down the Rabbit Hole
-**Official Standalone VR Version**
+**Native VR**
 
 ![Down the Rabbit Hole](/images/games/down-the-rabbit-hole-vr-hero.jpg)
 
@@ -54,7 +54,7 @@ Down the Rabbit Hole is a storybook adventure that reimagines Alice in Wonderlan
 ---
 
 ## #17: The Room VR: A Dark Matter
-**Official Standalone VR Version**
+**Native VR**
 
 ![The Room VR: A Dark Matter](/images/games/the-room-vr-a-dark-matter-vr-hero.jpg)
 
@@ -65,7 +65,7 @@ The Room series has always been about tactile, intricate puzzle boxes, and VR is
 ---
 
 ## #16: Paper Beast
-**Official Standalone VR Version**
+**Native VR**
 
 ![Paper Beast](/images/games/paper-beasts-vr-hero.jpg)
 
@@ -76,7 +76,7 @@ Paper Beast is the most artistically ambitious VR game of 2020. From the creator
 ---
 
 ## #15: The Persistence
-**Official Standalone VR Version**
+**Native VR**
 
 ![The Persistence](/images/games/the-persistence-vr-hero.jpg)
 
@@ -87,7 +87,7 @@ The Persistence is a roguelite survival horror that finally found its audience o
 ---
 
 ## #14: The Walking Dead: Onslaught
-**Official Standalone VR Version**
+**Native VR**
 
 ![The Walking Dead: Onslaught](/images/games/the-walking-dead-onslaught-vr-hero.jpg)
 
@@ -98,7 +98,7 @@ The Walking Dead: Onslaught is the other Walking Dead VR game of 2020, and while
 ---
 
 ## #13: Pixel Ripped 1995
-**Official Standalone VR Version**
+**Native VR**
 
 ![Pixel Ripped 1995](/images/games/pixel-ripped-1995-vr-hero.jpg)
 
@@ -109,7 +109,7 @@ Pixel Ripped 1995 is a love letter to the 16-bit era that plays with the boundar
 ---
 
 ## #12: Population: One
-**Official Standalone VR Version**
+**Native VR**
 
 ![Population: One](/images/games/population-one-vr-hero.jpg)
 
@@ -120,7 +120,7 @@ Population: One is the battle royale that proved the genre could work in VR. It 
 ---
 
 ## #11: Phantom: Covert Ops
-**Official Standalone VR Version**
+**Native VR**
 
 ![Phantom: Covert Ops](/images/games/phantom-covert-ops-hero.jpg)
 
@@ -153,7 +153,7 @@ Return to Castle Wolfenstein in VR is the best argument for the flat-to-VR moddi
 ---
 
 ## #8: Medal of Honor: Above and Beyond
-**Official Standalone VR Version**
+**Native VR**
 
 ![Medal of Honor: Above and Beyond](/images/games/medal-of-honor-above-and-beyond-vr-hero.jpg)
 
@@ -164,7 +164,7 @@ Medal of Honor: Above and Beyond is the AAA WWII shooter that VR had been waitin
 ---
 
 ## #7: Star Wars: Tales from the Galaxy's Edge
-**Official Standalone VR Version**
+**Native VR**
 
 ![Star Wars: Tales from the Galaxy's Edge](/images/games/star-wars-tales-from-the-galaxys-edge-vr-hero.jpg)
 
@@ -186,7 +186,7 @@ GTA V in VR is the open-world dream made real. Through the Luke Ross R.E.A.L. mo
 ---
 
 ## #5: Marvel's Iron Man VR
-**Official Standalone VR Version**
+**Native VR**
 
 ![Marvel's Iron Man VR](/images/games/iron-man-vr-vr-hero.jpg)
 
@@ -219,7 +219,7 @@ Dreams VR is the most creative tool in gaming, and in 2020 it added full VR supp
 ---
 
 ## #2: The Walking Dead: Saints & Sinners
-**Official Standalone VR Version**
+**Native VR**
 
 ![The Walking Dead: Saints & Sinners](/images/games/the-walking-dead-saints-and-sinners-vr-hero.jpg)
 
@@ -230,7 +230,7 @@ The Walking Dead: Saints & Sinners is the survival horror game that VR had been 
 ---
 
 ## #1: Half-Life: Alyx
-**Official Standalone VR Version**
+**Native VR**
 
 ![Half-Life: Alyx](/images/games/half-life-alyx-vr-hero.jpg)
 

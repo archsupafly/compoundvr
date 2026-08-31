@@ -21,7 +21,7 @@ genres:
   - Sandbox
 technicalTags:
   - Full VR Mod
-  - Injection Driver
+  - Framework Only
   - DirectX 11
 experienceTags:
   - Dollhouse Scale

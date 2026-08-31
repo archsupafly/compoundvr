@@ -4,7 +4,7 @@ description: "A visceral VR climbing experience from Crytek that translates free
 lastVerified: 2016-04-28
 vrReleaseDate: 2016-04-28
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

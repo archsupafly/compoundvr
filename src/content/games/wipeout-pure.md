@@ -2,7 +2,7 @@
 title: "Wipeout Pure VR"
 description: "A fast PSP anti-gravity racer inside a VR headset, thanks to PPSSPP VR. It runs and it thrills, but it is still emulation, not a native VR port."
 featured: false
-routeType: Emulator
+routeType: Framework Only
 tier: C
 flatReleaseDate: 2005-03-24
 vrReleaseDate: 2022-09-28

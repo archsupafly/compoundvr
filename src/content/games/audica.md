@@ -3,7 +3,7 @@ title: "Audica VR"
 description: "Harmonix brings decades of rhythm-game expertise to VR in a sharp, satisfying shooter where timing is everything and your aim is the instrument."
 lastVerified: 2019-03-07
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

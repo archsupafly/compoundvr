@@ -24,7 +24,7 @@ technicalTags:
   - Emulator
   - VorpX
   - G3D
-  - Injection Driver
+  - Framework Only
   - Original Renderer Required
 experienceTags:
   - Nostalgia-Driven

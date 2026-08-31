@@ -3,7 +3,7 @@ title: "Lone Echo VR"
 description: "A zero-gravity narrative adventure that redefined what VR hands and VR movement could feel like — and still hasn't been matched."
 lastVerified: 2017-07-20
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable

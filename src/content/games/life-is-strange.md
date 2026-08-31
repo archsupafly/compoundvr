@@ -5,7 +5,7 @@ flatReleaseDate: 2015-01-30
 vrReleaseDate: 2015-01-30
 lastVerified: 2015-01-30
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms:
   - PCVR
 recommendation: Enthusiasts/Tinkerers Only

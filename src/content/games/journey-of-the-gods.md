@@ -4,7 +4,7 @@ description: "A native Quest/Rift action-adventure that proves VR doesn't need a
 vrReleaseDate: 2019-05-21
 lastVerified: 2019-05-21
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['Quest', 'Rift', 'Rift S']
 recommendation: Recommended with Caveats
 playability: Fully Playable

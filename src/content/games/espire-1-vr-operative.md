@@ -3,7 +3,7 @@ title: "Espire 1: VR Operative"
 description: "A native VR stealth-action game that lets you physically crouch, climb, and shout 'Freeze!' at guards — ambitious, janky, and impossible to ignore for VR stealth fans."
 lastVerified: 2019-11-12
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest']
 vrReleaseDate: 2019-11-12
 recommendation: Recommended with Caveats

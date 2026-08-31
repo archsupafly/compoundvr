@@ -5,7 +5,7 @@ flatReleaseDate: "1996-12-01"
 vrReleaseDate: "2018-05-29"
 lastVerified: "2018-05-29"
 featured: false
-routeType: Emulator
+routeType: Framework Only
 platforms:
   - PCVR
 recommendation: Not Recommended

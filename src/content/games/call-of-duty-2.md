@@ -5,7 +5,7 @@ flatReleaseDate: "2005-10-25"
 vrReleaseDate: "2021-11-23"
 lastVerified: "2021-11-23"
 featured: false
-routeType: "Injection Driver"
+routeType: "Framework Only"
 platforms:
   - "PCVR"
 recommendation: "Enthusiasts/Tinkerers Only"

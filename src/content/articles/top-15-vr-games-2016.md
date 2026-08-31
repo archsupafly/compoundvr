@@ -21,7 +21,7 @@ This list ranks the fifteen most significant VR games of 2016 — not just by qu
 ---
 
 ## #15: Job Simulator
-**Standalone VR**
+**Native VR**
 
 ![Job Simulator](/images/games/job-simulator-vr-hero.jpg)
 
@@ -36,7 +36,7 @@ The limitation is depth. Once you've exhausted the three job scenarios — offic
 ---
 
 ## #14: Eagle Flight
-**Standalone VR**
+**Native VR**
 
 ![Eagle Flight](/images/games/eagle-flight-vr-hero.jpg)
 
@@ -51,7 +51,7 @@ The problem is content. The single-player campaign is short, the multiplayer pop
 ---
 
 ## #13: Space Pirate Trainer
-**Standalone VR**
+**Native VR**
 
 ![Space Pirate Trainer](/images/games/space-pirate-trainer-vr-hero.jpg)
 
@@ -81,7 +81,7 @@ The compromises are still there. The UI text is too small for comfort in many me
 ---
 
 ## #11: Rec Room
-**Standalone VR**
+**Native VR**
 
 ![Rec Room](/images/games/rec-room-vr-hero.jpg)
 
@@ -96,7 +96,7 @@ Rec Room's real significance isn't any individual game mode. It's the proof that
 ---
 
 ## #10: Raw Data
-**Standalone VR**
+**Native VR**
 
 ![Raw Data](/images/games/raw-data-vr-hero.jpg)
 
@@ -111,7 +111,7 @@ The early access release meant Raw Data was still building its campaign througho
 ---
 
 ## #9: Chronos
-**Standalone VR**
+**Native VR**
 
 ![Chronos](/images/games/chronos-vr-hero.jpg)
 
@@ -126,7 +126,7 @@ It's an Oculus exclusive, which limits its reach. It requires a gamepad, which f
 ---
 
 ## #8: I Expect You to Die
-**Standalone VR**
+**Native VR**
 
 ![I Expect You to Die](/images/games/i-expect-you-to-die-vr-hero.jpg)
 
@@ -156,7 +156,7 @@ The difficulty is relentless. Thumper is not a casual rhythm game. It demands pr
 ---
 
 ## #6: The Gallery: Episode 1 — Call of the Starseed
-**Standalone VR**
+**Native VR**
 
 ![The Gallery](/images/games/the-gallery-ep-1-vr-hero.jpg)
 
@@ -171,7 +171,7 @@ At launch, it was the most polished narrative experience available in VR. The do
 ---
 
 ## #5: Robinson: The Journey
-**Standalone VR**
+**Native VR**
 
 ![Robinson: The Journey](/images/games/robinson-the-journey-vr-hero.jpg)
 
@@ -186,7 +186,7 @@ The gameplay is lighter than the visuals suggest. Puzzles are simple. Exploratio
 ---
 
 ## #4: Arizona Sunshine
-**Standalone VR**
+**Native VR**
 
 ![Arizona Sunshine](/images/games/arizona-sunshine-vr-hero.jpg)
 
@@ -201,7 +201,7 @@ The campaign runs several hours and supports co-op multiplayer, which transforms
 ---
 
 ## #3: Batman: Arkham VR
-**Standalone VR**
+**Native VR**
 
 ![Batman: Arkham VR](/images/games/batman-arkham-vr-hero.jpg)
 
@@ -231,7 +231,7 @@ Rez Infinite is the argument for VR as an artistic medium, not just a technologi
 ---
 
 ## #1: SUPERHOT VR
-**Standalone VR**
+**Native VR**
 
 ![SUPERHOT VR](/images/games/superhot-vr-hero.jpg)
 

@@ -3,7 +3,7 @@ title: "Pixel Ripped 1995 VR"
 description: "A nostalgic action-adventure where you play retro games on a virtual CRT television while your VR mom yells at you to do your homework — one of the most creative and comfortable native VR experiences available."
 lastVerified: 2020-04-23
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 vrReleaseDate: 2020-04-23
 platforms: ['PCVR', 'PSVR', 'Quest']
 recommendation: Recommended

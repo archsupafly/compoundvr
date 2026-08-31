@@ -5,7 +5,7 @@ flatReleaseDate: "2019-04-30"
 vrReleaseDate: "2020-06-01"
 lastVerified: "2020-06-01"
 featured: false
-routeType: Framework-Based
+routeType: Framework Only
 platforms:
   - PCVR
 recommendation: Recommended with Caveats

@@ -4,7 +4,7 @@ description: "A CryEngine dinosaur showcase that makes you feel small — for ab
 lastVerified: 2016-11-22
 vrReleaseDate: 2016-11-22
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: Recommended
 playability: Fully Playable

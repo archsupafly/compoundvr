@@ -3,7 +3,7 @@ title: "Boneworks VR"
 description: "A physics-driven PCVR shooter where your entire body exists in the simulation — and that changes everything."
 lastVerified: 2019-12-10
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

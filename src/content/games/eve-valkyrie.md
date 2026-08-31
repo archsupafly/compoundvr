@@ -4,7 +4,7 @@ description: "One of VR's first major launch titles, now a cautionary tale about
 flatReleaseDate: 2016-03-28
 lastVerified: 2016-03-28
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR']
 recommendation: Not Recommended
 playability: Partially Playable
@@ -41,7 +41,7 @@ Then the servers shut down in August 2022. The game is now functionally dead, ke
 
 ## What This VR Option Actually Is
 
-EVE: Valkyrie is an **Official Standalone VR Version** — a native VR game that later expanded to include non-VR play. It launched as VR-only and remained that way for 16 months until the Warzone update in September 2017 added support for flat-screen play on PC and PlayStation, with cross-play between VR and non-VR players.
+EVE: Valkyrie is a **Native VR** — a native VR game that later expanded to include non-VR play. It launched as VR-only and remained that way for 16 months until the Warzone update in September 2017 added support for flat-screen play on PC and PlayStation, with cross-play between VR and non-VR players.
 
 The key distinction: this was designed for VR first. The cockpit layout, the head-tracking targeting, the spatial audio, the sense of confined space — all built around what a VR headset could do that a monitor couldn't. The flat-screen version was an adaptation, not the other way around.
 

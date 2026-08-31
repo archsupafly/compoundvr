@@ -5,7 +5,7 @@ flatReleaseDate: "2012-10-30"
 vrReleaseDate: "2018-11-09"
 lastVerified: "2018-11-09"
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable
@@ -21,7 +21,7 @@ technicalTags:
   - VorpX
   - Stereoscopic 3D
   - Head Tracking
-  - Injection Driver
+  - Framework Only
 experienceTags:
   - Arcade Racing
   - Police Chase

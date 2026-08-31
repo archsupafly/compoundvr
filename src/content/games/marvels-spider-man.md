@@ -5,7 +5,7 @@ flatReleaseDate: 2018-09-07
 vrReleaseDate: 2018-09-07
 lastVerified: 2018-09-07
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable

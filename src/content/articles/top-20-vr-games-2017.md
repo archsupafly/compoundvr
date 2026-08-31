@@ -22,7 +22,7 @@ This list ranks the twenty most significant VR games of 2017. Not just by qualit
 ---
 
 ## #20: Sparc
-**Official Standalone VR Version**
+**Native VR**
 
 ![Sparc](/images/games/sparc-vr-hero.jpg)
 
@@ -33,7 +33,7 @@ CCP Games built the VR sport that daredevils deserved. Sparc is competitive dodg
 ---
 
 ## #19: GORN
-**Official Standalone VR Version**
+**Native VR**
 
 ![GORN](/images/games/gorn-vr-hero.jpg)
 
@@ -55,7 +55,7 @@ Slightly Mad Studios' sequel fixed the VR implementation problems that plagued t
 ---
 
 ## #17: The Gallery: Episode 2 — Heart of the Emberstone
-**Official Standalone VR Version**
+**Native VR**
 
 ![The Gallery Episode 2](/images/games/the-gallery-ep-2-vr-hero.jpg)
 
@@ -66,7 +66,7 @@ Cloudhead Games delivered the sequel that the VR adventure community had been wa
 ---
 
 ## #16: Star Trek: Bridge Crew
-**Official Standalone VR Version**
+**Native VR**
 
 ![Star Trek Bridge Crew](/images/games/star-trek-bridge-crew-vr-hero.jpg)
 
@@ -77,14 +77,14 @@ Ubisoft Red Storm built the Star Trek fantasy that fans had carried in their hea
 ---
 
 ## #15: Wipeout: Omega Collection (VR Mode)
-**Official Standalone VR Version**
+**Native VR**
 
 Sony's anti-gravity racing series had been perfecting speed for decades before it arrived on PSVR, and the VR mode in the Omega Collection turned out to be its definitive version. Every track, every ship, every pulse of the soundtrack hits differently when you're physically inside the cockpit instead of watching it on a screen. The sense of velocity is staggering — the kind of speed that makes your peripheral vision blur and your hands grip the controller harder than necessary. The comfort options are extensive, which matters because Wipeout at full speed in VR will absolutely make you sick if you're not acclimated. For those who are, it's the purest expression of what VR racing can feel like when the physics allow impossible things.
 
 ---
 
 ## #14: The Persistence
-**Official Standalone VR Version**
+**Native VR**
 
 ![The Persistence](/images/games/the-persistence-vr-hero.jpg)
 
@@ -95,7 +95,7 @@ Firesprite's roguelike horror game set aboard a doomed colony ship remains one o
 ---
 
 ## #13: Wilson's Heart
-**Official Standalone VR Version**
+**Native VR**
 
 ![Wilson's Heart](/images/games/wilsons-heart-vr-hero.jpg)
 
@@ -106,7 +106,7 @@ Twisted Pixel built a prestige VR thriller and hired real actors to prove it. Wi
 ---
 
 ## #12: Archangel: Hellfire
-**Official Standalone VR Version**
+**Native VR**
 
 ![Archangel: Hellfire](/images/games/archangel-hellfire-vr-hero.jpg)
 
@@ -117,7 +117,7 @@ Skydance Interactive's mech shooter took the wave-combat format and strapped it 
 ---
 
 ## #11: L.A. Noire: The VR Case Files
-**Official Standalone VR Version**
+**Native VR**
 
 Rockstar's detective thriller lost half its cases in the VR translation but gained something the flat version never had: your hands. The VR Case Files edition rebuilt six of L.A. Noire's investigations for motion controllers, and the result transformed interrogation from a menu-driven guessing game into something physical. Examining crime scenes meant actually picking up evidence, turning it over, and reading the labels. Searching a suspect's apartment meant opening drawers, flipping through ledgers, and checking behind picture frames. The facial animation system that made L.A. Noire famous took on new weight in VR — when a suspect is lying to your face and you can lean in and study their expression at eye level, the tension is different. The missing cases are a loss, and the locomotion options are limited compared to later VR titles, but the detective fantasy has never been more convincing.
 
@@ -135,7 +135,7 @@ Tequila Works built a murder mystery that you experience by walking through it. 
 ---
 
 ## #9: Robo Recall
-**Official Standalone VR Version**
+**Native VR**
 
 ![Robo Recall](/images/games/robo-recall-vr-hero.jpg)
 
@@ -157,7 +157,7 @@ Creative Assembly never shipped VR support for Alien: Isolation — they left it
 ---
 
 ## #7: Doom VFR
-**Official Standalone VR Version**
+**Native VR**
 
 ![Doom VFR](/images/games/doom-vfr-vr-hero.jpg)
 
@@ -168,7 +168,7 @@ id Software brought the Doom brand to VR and the result was polarizing. Doom VFR
 ---
 
 ## #6: Fallout 4 VR
-**Official Standalone VR Version**
+**Native VR**
 
 Bethesda shipped an entire open-world RPG inside a headset, and it was equal parts impressive and infuriating. Fallout 4 VR gave you the full Commonwealth — every settlement, every dungeon, every radio station — and the ability to walk through it with motion controllers. V.A.T.S. in VR feels like cheating in the best way: time slows, you paint targets on specific body parts by pointing at them, and then you watch the chaos unfold. The weapon crafting and settlement building translated surprisingly well to motion controls. But the port was rough. Performance was demanding even on high-end hardware. The UI was a flat-screen transplant that felt cumbersome in VR. Locomotion options existed but never felt natural. For players willing to tolerate the jank, Fallout 4 VR delivered something no other VR game offered in 2017: a hundred-hour RPG in a headset, warts and all.
 
@@ -186,7 +186,7 @@ Capcom didn't add VR to Resident Evil 7. They designed the entire game around th
 ---
 
 ## #4: Lone Echo
-**Official Standalone VR Version**
+**Native VR**
 
 ![Lone Echo](/images/games/lone-echo-vr-hero.jpg)
 
@@ -197,7 +197,7 @@ Ready at Dawn built the VR game that made zero-gravity feel like the most natura
 ---
 
 ## #3: Moss
-**Official Standalone VR Version**
+**Native VR**
 
 ![Moss](/images/games/moss-vr-hero.jpg)
 
@@ -208,7 +208,7 @@ Polyarc achieved something that dozens of studios attempted and failed: a third-
 ---
 
 ## #2: Farpoint
-**Official Standalone VR Version**
+**Native VR**
 
 ![Farpoint](/images/games/far-point-vr-hero.jpg)
 
@@ -219,7 +219,7 @@ Impulse Gear and Sony built a full-length FPS campaign for PSVR and paired it wi
 ---
 
 ## #1: Skyrim VR
-**Official Standalone VR Version**
+**Native VR**
 
 ![Skyrim VR](/images/games/skyrim-vr-hero.jpg)
 

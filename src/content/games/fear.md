@@ -3,7 +3,7 @@ title: "F.E.A.R. VR"
 description: "One of the better VorpX experiences — corridor design and atmospheric lighting benefit from stereoscopic depth, slow-motion combat feels cinematic. But no motion controls, setup required, and horror intensity is amplified. Worth it if you already own VorpX, not a reason to buy it."
 lastVerified: 2015-05-01
 featured: false
-routeType: Injection Driver
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable

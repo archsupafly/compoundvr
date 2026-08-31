@@ -3,7 +3,7 @@ title: "Blade & Sorcery VR"
 description: "A physics-driven medieval combat sandbox where weapons have real weight and magic obeys your hands — though its Early Access scope is narrow."
 lastVerified: 2018-12-11
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 vrReleaseDate: 2018-12-11
 platforms: ['PCVR']
 recommendation: Recommended with Caveats

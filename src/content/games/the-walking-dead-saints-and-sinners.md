@@ -4,7 +4,7 @@ description: "A native VR survival horror built around weighty physics melee com
 lastVerified: 2020-01-23
 featured: false
 vrReleaseDate: 2020-01-23
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest']
 recommendation: Recommended
 playability: Fully Playable

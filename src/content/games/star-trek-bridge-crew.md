@@ -3,7 +3,7 @@ title: "Star Trek: Bridge Crew VR"
 description: "A native VR crew simulator that turns four friends into a starship bridge crew — one of the most genuine social experiences VR has produced, now stranded by delisting."
 lastVerified: 2019-12-16
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest']
 flatReleaseDate: 2017-05-30
 vrReleaseDate: 2017-05-30

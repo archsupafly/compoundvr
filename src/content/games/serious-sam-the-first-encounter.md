@@ -5,7 +5,7 @@ flatReleaseDate: 2001-03-21
 vrReleaseDate: 2001-03-21
 lastVerified: 2001-03-21
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable

@@ -4,7 +4,7 @@ description: "The asymmetric bomb-defusal party game that turns your friends int
 lastVerified: 2016-10-13
 vrReleaseDate: 2015-10-01
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR']
 recommendation: Recommended
 playability: Fully Playable

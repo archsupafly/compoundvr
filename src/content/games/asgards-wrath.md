@@ -4,7 +4,7 @@ description: "A sprawling Norse action-RPG built from the ground up for VR — o
 lastVerified: 2025-05-02
 vrReleaseDate: 2019-10-10
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable

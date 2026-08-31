@@ -3,7 +3,7 @@ title: "Crisis VRigade 2 VR"
 description: "A brutally difficult native VR arcade shooter that demands you drop to your knees, duck behind virtual cover, and earn every inch of progress through sheer reflex and endurance."
 lastVerified: 2020-06-25
 featured: false
-routeType: Official Standalone VR Version
+routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest']
 recommendation: Recommended with Caveats
 playability: Fully Playable
