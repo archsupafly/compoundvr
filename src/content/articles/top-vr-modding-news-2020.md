@@ -13,7 +13,7 @@ The flat-to-VR scene had spent years proving that one determined modder could tu
 
 [Half-Life: Alyx](/games/half-life-alyx) landed in March as the first new Half-Life game in thirteen years, built from the ground up for VR, and it didn't just deliver the best VR game anyone had ever played. It validated the entire thesis the modding community had been arguing since the DK2 days: that virtual reality wasn't a gimmick or a side experiment — it was the way some games were always meant to be played. Then, two months later, Valve shipped the Workshop tools and turned the community loose.
 
-Meanwhile the standalone revolution hit escape velocity with the [Quest 2](/articles/oculus-quest-review), [Luke Ross](/articles/luke-ross-real-vr-guide) kept expanding the R.E.A.L. framework, [VorpX](/articles/vorpx-injection-driver-guide) rewrote its rendering engine from the ground up, and the native VR mod scenes kept growing into something nobody had predicted. Here are the VR modding stories that mattered in 2020.
+Meanwhile the standalone revolution hit escape velocity with the [Quest 2](/articles/oculus-quest-2-review), [Luke Ross](/articles/luke-ross-real-vr-guide) kept expanding the R.E.A.L. framework, [VorpX](/articles/vorpx-injection-driver-guide) rewrote its rendering engine from the ground up, and the native VR mod scenes kept growing into something nobody had predicted. Here are the VR modding stories that mattered in 2020.
 
 ## 1. Half-Life: Alyx — the Game That Changed the Argument
 
@@ -47,7 +47,7 @@ By the end of 2020, R.E.A.L.'s supported-games list had grown, the framework's r
 
 ## 4. The Quest 2 Made Standalone VR a Mass Market
 
-The [Quest 2](/articles/oculus-quest-review) shipped on October 13, 2020, at $299 — and the math on VR adoption changed overnight.
+The [Quest 2](/articles/oculus-quest-2-review) shipped on October 13, 2020, at $299 — and the math on VR adoption changed overnight.
 
 The original Quest had proved that standalone VR worked. The Quest 2 proved it could scale. Lighter, faster, sharper, and cheaper than its predecessor, it was the first VR headset that felt like a consumer electronics product rather than an enthusiast peripheral. The mandatory Facebook login was a controversy that would simmer for years, but the hardware itself was undeniable: inside-out tracking, no external sensors, no PC required, and a library that bridged standalone and PC VR through Oculus Link.
 
@@ -95,7 +95,7 @@ By December 2020, the flat-to-VR landscape looked like this:
 
 - **[Half-Life: Alyx](/games/half-life-alyx)** proved what AAA VR could be — and the Workshop tools turned it into a community platform
 - **[Luke Ross's R.E.A.L.](/articles/luke-ross-real-vr-guide)** kept expanding, refining the GTA V conversion and establishing the Patreon early-access model
-- **The [Quest 2](/articles/oculus-quest-review)** made standalone VR a mass market and supercharged the sideloading scene
+- **The [Quest 2](/articles/oculus-quest-2-review)** made standalone VR a mass market and supercharged the sideloading scene
 - **[VorpX](/articles/vorpx-injection-driver-guide)** rewrote its engine from scratch, keeping the injection-driver long tail alive
 - **SideQuest** and **Virtual Desktop** built the sideloading infrastructure the community needed
 - **[Pavlov](/games/pavlov)**, **[Beat Saber](/games/beat-saber)**, **[Blade & Sorcery](/games/blade-and-sorcery)**, and **[GORN](/games/gorn)** proved native VR games had their own thriving mod scenes
