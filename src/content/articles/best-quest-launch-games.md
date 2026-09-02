@@ -20,7 +20,7 @@ Here are the 10 games that proved standalone VR wasn't a compromise. Not a stepp
 
 ## #1: Beat Saber
 
-![Beat Saber](/images/games/beat-saber-hero.jpg)
+![Beat Saber](/images/games/beat-saber-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -52,7 +52,7 @@ Superhot VR was proof that the Quest's "good enough" graphics didn't matter when
 
 ## #3: Vader Immortal
 
-![Vader Immortal](/images/games/vader-immortal-hero.jpg)
+![Vader Immortal](/images/games/vader-immortal-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -68,7 +68,7 @@ Vader Immortal was the game that showed what the Quest could be for non-gamers. 
 
 ## #4: Robo Recall: Unplugged
 
-![Robo Recall](/images/games/robo-recall-hero.jpg)
+![Robo Recall](/images/games/robo-recall-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -84,7 +84,7 @@ The graphics were softer, the environments were smaller, and some of the visual 
 
 ## #5: Arizona Sunshine
 
-![Arizona Sunshine](/images/games/arizona-sunshine-hero.jpg)
+![Arizona Sunshine](/images/games/arizona-sunshine-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -100,7 +100,7 @@ Arizona Sunshine mattered because it was a "real game" on a standalone headset. 
 
 ## #6: Creed: Rise to Glory
 
-![Creed: Rise to Glory](/images/games/creed-rise-to-glory-hero.jpg)
+![Creed: Rise to Glory](/images/games/creed-rise-to-glory-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -116,7 +116,7 @@ Creed was the game that made people sweat. Not metaphorically — literally. Ses
 
 ## #7: Journey of the Gods
 
-![Journey of the Gods](/images/games/journey-of-the-gods-hero.jpg)
+![Journey of the Gods](/images/games/journey-of-the-gods-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -132,7 +132,7 @@ Journey of the Gods was important because it was a different kind of VR game. No
 
 ## #8: Rec Room
 
-![Rec Room](/images/games/rec-room-hero.jpg)
+![Rec Room](/images/games/rec-room-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -148,7 +148,7 @@ Rec Room mattered because it was the Quest's first real social experience. VR is
 
 ## #9: Space Pirate Trainer
 
-![Space Pirate Trainer](/images/games/space-pirate-trainer-hero.jpg)
+![Space Pirate Trainer](/images/games/space-pirate-trainer-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -164,7 +164,7 @@ Space Pirate Trainer was important because it was pure VR — no flat-game equiv
 
 ## #10: Apex Construct
 
-![Apex Construct](/images/games/apex-construct-hero.jpg)
+![Apex Construct](/images/games/apex-construct-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
