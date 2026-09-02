@@ -924,6 +924,12 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     padding-top: 0;
   }
 
+  /* Markdown --- renders as <hr>. The h2 border-top is the separator;
+     hide <hr> so there's only one line between entries. */
+  article.prose.listicle hr {
+    display: none;
+  }
+
   /* Floated image column — left aligned, ~1/3 of content width.
      No box-shadow so its outer edge matches the rank-meta box exactly. */
   article.prose.listicle img[src*="/images/games/"] {
