@@ -5,7 +5,7 @@ flatReleaseDate: 2015-02-10
 vrReleaseDate: 2016-10-10
 lastVerified: 2016-10-10
 featured: false
-routeType: Native VR
+routeType: Official Hybrid
 platforms: ['PSVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable
