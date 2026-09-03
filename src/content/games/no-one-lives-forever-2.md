@@ -27,8 +27,8 @@ experienceTags:
   - Story-Driven
   - Atmospheric
   - Cult Classic
-tier: "A"
-verdict: "LukeRoss's R.E.A.L. mod turns one of PC gaming's most charming shooters into a genuine stereoscopic VR experience — full head tracking, real depth, Cate Archer's whole world intact. No motion controls and a fiddly abandonware setup keep it shy of essential, but for the right player this is a spy fantasy the headset was built to deliver."
+tier: "B"
+verdict: "Luke Ross's free mod puts Cate Archer's full campaign inside the headset with real depth and head tracking, and the spy world carries it — but gamepad-only aiming in a first-person shooter keeps this good rather than great. Worth it if you already love NOLF2 and can tolerate sticks in VR."
 heroImage: /images/games/no-one-lives-forever-2-vr-hero.jpg
 sources: "LukeRoss R.E.A.L. mod GitHub repository and README (github.com/LukeRoss00/nolf2-real-mod), UploadVR launch coverage (January 2018), Steam Community VR setup guide, and the Oculus/Meta community discussion thread."
 ---
@@ -47,4 +47,4 @@ The strengths are why this earns its keep. NOLF2 has always been the smart, funn
 
 The weaknesses are real but survivable. No motion controls means your body is a camera, not an agent — you're not physically drawing the blowtorch or tossing the kitten-bomb. Rift and Vive are the only supported headsets; if you're on something else, your mileage drops fast, and Windows Mixed Reality in particular is flagged as unreliable through Revive. And the game itself is abandonware, so acquiring a legitimate copy plus the v1.3 patch is a small archaeological dig before you even open the mod. None of that breaks the experience — it just means this is a project for someone who already wants to be there.
 
-If you loved NOLF2, this is the version you've been missing — Cate Archer in your living room, the whole campaign in depth, free and complete. If you never played it, the VR mod is a better ambassador than a YouTube let's-play but a rougher on-ramp than a modern native port. Either way, for a 2002 shooter that was never supposed to see a headset, landing here is a minor miracle, and a genuinely great one to spend a weekend inside.
+If you loved NOLF2, this is the version you've been missing — Cate Archer in your living room, the whole campaign in depth, free and complete. If you never played it, the VR mod is a better ambassador than a YouTube let's-play but a rougher on-ramp than a modern native port. Either way, for a 2002 shooter that was never supposed to see a headset, landing here is a minor miracle, and a genuinely good one to spend a weekend inside for the right player.
