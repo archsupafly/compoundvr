@@ -9,7 +9,7 @@ routeType: Native VR
 platforms:
   - Quest
   - PSVR2
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
 inputStyle: Full Motion Controls
@@ -31,60 +31,26 @@ experienceTags:
   - Corridor Shooter
   - Short Campaign
   - Strong Comfort Options
-tier: B
-verdict: "A polished, approachable Star Wars VR shooter with excellent comfort options and real fan-service moments, but its short runtime and shallow combat keep it from being essential. Play it on Quest for convenience or on PSVR2 for the best version — if you can. PCVR owners are out of luck entirely."
+tier: A
+verdict: "The best Batuu you can currently stand inside: polished native VR production, generous comfort options, and a genuinely memorable Jedi tale outweigh the short campaign and shallow shooting. For Star Wars fans with a Quest or PSVR2, this is an easy recommendation."
 heroImage: /images/games/star-wars-tales-from-the-galaxys-edge-vr-hero.jpg
 sources: "Meta Quest Store page, PlayStation Store page, Quest Store DB, UploadVR original review and PSVR2 hands-on preview, PlayStation.Blog PSVR2 feature, Road to VR Last Call DLC coverage, Star Wars Support movement/accessibility documentation, GameRant accessibility interview, SteamVR community discussion confirming no PC version, UEVR official site and documentation, vorpX official site, Gildor's UE Viewer asset-extraction thread, The VR Grid and GG.deals Enhanced Edition pricing context."
 ---
 
 # Star Wars: Tales from the Galaxy's Edge VR
 
-The first thing you notice is the cantina. You're standing on Batuu, looking out a window at the Millennium Falcon parked in the exact courtyard you'd walk through at Disneyland's Galaxy's Edge. It's not a reinterpretation — it's a recreation. That's the whole pitch of *Star Wars: Tales from the Galaxy's Edge*: you get to exist inside a place Disney already spent a billion dollars convincing people was real.
+The first thing that hits you is the light. You step off the transport and you're standing in Seezelslak's cantina on Batuu, and through the window the Millennium Falcon is parked in the same courtyard you'd walk through at Disneyland's Galaxy's Edge. It isn't reinterpreted. It's the place.
 
-ILMxLAB built this as a native VR experience from day one, not a flat game with a VR mode bolted on. That matters, because it means the interactions feel designed for hands, not gamepads. Your inventory is a chest pouch. Your multi-tool hangs on your chest. Your blasters snap into hip holsters. When you reach for something, the game expects you to actually reach. The fundamentals are right.
+ILMxLAB built this natively for VR from the start, and you feel it in your body before your brain catches up. Everything you carry lives on your body. Your inventory pouch is on your chest. Your multi-tool hangs from a strap. Your blasters snap into hip holsters. When you need your datapad, you glance at your left wrist. When you want a new gun, you reach down and grab it. The game expects your hands to do the work, not a menu cursor.
 
-But here's the thing: being built for VR doesn't make it ambitious. This is a compact, linear corridor shooter dressed up in Star Wars production value. The campaign runs about three to four hours, plus the *Last Call* expansion that added another chunk of missions. It looks expensive, sounds expensive, and occasionally feels expensive — but the loop is pretty simple. Walk forward, take cover behind the rocks, pop up, shoot bandits, move to the next checkpoint.
+Once the tutorial ends, *Tales from the Galaxy's Edge* settles into a clean, linear corridor shooter. You walk forward, duck behind rock formations, pop up, and shoot bandits until the path opens. The AI is basic — enemies run to cover, stand up, shoot, repeat. Rush them and they sometimes forget how to respond. The weapon system keeps you moving by making guns overheat and expire after a couple of minutes, so you're constantly dropping a dead blaster and grabbing the next one from a crate or a fallen pirate. It solves the ammo problem, but it also strips away the fantasy of charging a blaster or slamming in a power cell. You feel the arcade logic under the Star Wars paint.
 
-## Two Platforms, Two Versions, One Path
+The combat is competent, not deep. The real pleasure is the incidental stuff: prying open panels with the multi-tool's screwdriver and solder modes, scanning cargo, repairing droids, pretending you're a technician who got dragged into a firefight. The physicality of reaching, holstering, and wrist-checking your datapad makes even simple tasks feel like they belong in this universe.
 
-This is the weird part: there is only one way to play *Tales from the Galaxy's Edge* in VR, but it comes in two flavors depending on which headset you own.
+The comfort options are generous enough that you can hand this to a VR newcomer: at first launch it asks seated or standing, teleport or free movement, snap or smooth turning, then lets you fine-tune movement speed, turn strafing, FOV dimmer, even a Southpaw layout. The default pace is gentle enough that motion sickness rarely becomes the story.
 
-The original launched on Meta Quest in November 2020 as a standalone app. No PC. No cables. You buy it from the Quest Store, download it, and play it on the headset. It's still there today, running on Quest 1 through Quest 3S. At around $25 for the base game and another $10 for *Last Call*, it's one of the more accessible Star Wars VR entries. Setup is essentially nothing: put on the headset, open the store, install it.
+The original Quest release from November 2020 is a standalone app — around $25 for the base game, another $10 for *Last Call*, essentially no setup. The PlayStation VR2 Enhanced Edition arrived in February 2023 as a roughly $50 PS5/PSVR2 bundle with richer character models, denser environments, haptic headset rumble, and adaptive triggers on the Sense controllers. In just about every way that matters, the Enhanced Edition is the better version, assuming you already own the hardware. There is no PCVR version, no UEVR profile, no VorpX profile, because there was never a flat-screen release to convert. If you own a Valve Index, Vive, Reverb G2, or Pimax, you cannot play *Tales from the Galaxy's Edge*. That's a real limit, but it doesn't change what's inside the headset for the people who can.
 
-Then in February 2023, ILMxLAB released the Enhanced Edition as a PlayStation VR2 launch title. This is the same core game — same missions, same story, same three-to-four-hour runtime — but rebuilt for PS5 and PSVR2. The character models are significantly more detailed, the environments look richer, and the haptics are genuinely good. The headset rumbles when cargo crashes into the station. The Sense controllers' adaptive triggers add resistance when you pull a blaster trigger. Grabbing items with the short-range telekinesis ability feels less finicky than on Quest, thanks to wider hitboxes.
+The campaign runs about three to four hours, with *Last Call* adding another chunk. It's short, and the corridor-shooter loop wears thin before the credits. But the standout is the Jedi-in-training tale inside the cantina, maybe fifteen minutes long, where you get a lightsaber, force push and pull, and Yoda — voiced by Frank Oz. It is the most memorable thing in the game, and it ends so quickly it feels like a teaser for a full Jedi campaign that doesn't exist. I finished it wanting ILMxLAB to make that game instead of another wave of pirate cover fire.
 
-UploadVR came out of its PSVR2 preview calling the Enhanced Edition potentially "the definitive way to play." I buy that. The PSVR2 version is the better game in basically every measurable way except price and platform lock-in. It costs roughly $50 and bundles the base game plus *Last Call*. But you need a PS5 and a PSVR2. If you already have those, this is an easy call. If you don't, the Quest version is the only other option.
-
-That's it. Those are the only two doors in.
-
-## Why the Modding Conversation Doesn't Apply Here
-
-I want to address this directly because people will search for it: there is no UEVR profile, no VorpX profile, no community Full VR Mod, no Dolphin VR or PPSSPP VR route. Not because the game is unpopular or unsupported, but because there is no flat-screen version of this game to convert. It doesn't exist on Steam. It doesn't exist as a Windows executable. It's a standalone Quest Android app and a PS5/PSVR2 console title.
-
-UEVR works by injecting into Unreal Engine PC games. VorpX works by hooking into DirectX PC titles. Community VR mods start from a flat game. None of that applies when the game was never flat. The few community tools that touch this game are asset-extraction utilities, not gameplay mods. So if you're a PCVR-only owner with a Valve Index, a Vive, a Reverb G2, or a Pimax — you cannot play *Tales from the Galaxy's Edge*. That's the single biggest caveat in this article, and it's not a temporary one. The game has been out since 2020 and still hasn't come to PC.
-
-## What It Actually Feels Like to Play
-
-The shooting is fine. Not great, not bad. You have a small arsenal of blaster types — single-shot, rapid-fire, rifle, shotgun-style — and they all handle with the straightforward point-and-shoot motion-control logic you'd expect. Enemies pop out of cover, you fire, they fall down. The AI is basic. They run to cover, stand up, shoot, repeat. If you rush them, they don't always know what to do.
-
-Where the game gets interesting is in the small details. Your datapad lives on your left wrist. Your multi-tool has an electric pulse, a screwdriver, and a soldering burner. You're not just shooting; you're opening panels, scanning cargo, poking at the environment. The game is at its best when it's letting you pretend to be a droid repair technician who got in over their head, not when it's throwing waves of pirates at you.
-
-The real standout is the Jedi-in-training side story inside Seezelslak's cantina tales. It's maybe fifteen minutes long, but it gives you a lightsaber, force push and pull, and Yoda — voiced by Frank Oz. It's the most memorable thing in the game, and it ends so quickly it feels like a teaser for a larger adventure that doesn't exist. I came away from it wanting a full Jedi campaign in this engine, not more corridor shooting.
-
-## The Comfort Options Are Excellent
-
-This is one of the strongest accessibility suites I've seen in a VR shooter. At first launch you choose seated or standing, teleport or free movement, snap or smooth turning. Then you can dig into settings and tweak movement speed, turn strafing on or off, enable a FOV dimmer to fight motion sickness, even switch to "Southpaw" so your right stick aims and your left stick moves.
-
-UploadVR called it one of the best VR games for sheer breadth of comfort settings, and I agree. This is the kind of game you can hand to a VR newcomer and let them configure it until it feels comfortable. The default combat isn't fast or disorienting enough to cause problems for most people, and the options give you a lot of room to find your tolerance level.
-
-## The Catch Is the Scope
-
-For all the polish, *Tales from the Galaxy's Edge* is small. The base campaign is roughly three to four hours. *Last Call* extends it, but this isn't an open-world Batuu adventure. It's a linear sequence of shooting galleries connected by fan-service moments. The theme-park fidelity is impressive — standing in that cantina genuinely feels like standing in Disney's Galaxy's Edge — but the gameplay doesn't fully earn the setting.
-
-The weapon system also undercuts the fantasy. Guns don't run out of ammo; they just stop working after a couple of minutes, so you're constantly dropping blasters and grabbing new ones. It keeps you moving, but it doesn't feel like Star Wars. Where are the fuel cells? Where's the reloading? It's a mechanical choice that solves a design problem at the cost of immersion.
-
-## The Verdict
-
-*Tales from the Galaxy's Edge* is a good B-tier VR experience: polished, comfortable, and genuinely charming for Star Wars fans, but too short and too shallow to be essential. The Quest version is the easy entry point if you want native, standalone Star Wars VR without buying extra hardware. The PSVR2 Enhanced Edition is the better version if you already own the platform. And if you're on PCVR, this game simply isn't available to you — no mod, injector, or emulator changes that.
-
-If you love the Galaxy's Edge setting or want a low-friction way to shoot blasters in a headset, it's worth your time. Just know you're getting a theme-park ride, not a full RPG.
+For all the polish, this is a theme-park ride, not an open-world Batuu adventure. The setting carries the experience more than the systems do. Standing in that cantina genuinely feels like standing inside Disney's Galaxy's Edge, and for a Star Wars fan with a Quest or PSVR2, that presence is enough to forgive the short runtime, the shallow AI, and the weapon-decay system that breaks the fantasy every time you toss aside a dead blaster. The world is real, the comfort options are generous, and that one Jedi tale makes you remember why you put the headset on. That's an A-tier Star Wars VR experience.
