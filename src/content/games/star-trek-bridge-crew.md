@@ -2,6 +2,9 @@
 title: "Star Trek: Bridge Crew VR"
 description: "A native VR crew simulator that turns four friends into a starship bridge crew — one of the most genuine social experiences VR has produced, now stranded by delisting."
 lastVerified: 2019-12-16
+history:
+  - date: 2019-12-16
+    note: Added Quest port coverage (Next Generation expansion).
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest']
@@ -54,7 +57,3 @@ So who is this for now? If you already own *Star Trek: Bridge Crew*, it is absol
 If you do not already own it, the math changes. Tracking down a working key for a delisted, unsupported multiplayer game is a gamble, and Ubisoft has shown no indication of bringing it back. There is nothing else quite like it in VR — social cockpit sims are rare, and none have nailed the four-player asymmetry this cleanly — but scarcity alone does not justify the hunt unless you are specifically chasing that experience.
 
 *Star Trek: Bridge Crew* is a strange case: an excellent VR game that was well-supported, well-designed, and genuinely loved, then quietly erased from storefronts. The version that exists in people's libraries is still good. The version that exists as a product you can buy is gone. For what it was and what remains, it earns a solid recommendation with one enormous asterisk attached.
-
-## Article History
-
-**2019-12-16** — Added Quest port coverage (Next Generation expansion).

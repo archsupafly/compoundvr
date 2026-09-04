@@ -4,6 +4,9 @@ description: "A no-frills VR boxing sim that will make you sweat, swear, and que
 flatReleaseDate: 2016-07-01
 vrReleaseDate: 2016-07-01
 lastVerified: 2019-10-24
+history:
+  - date: 2019-10-24
+    note: Added Quest port coverage.
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest']
@@ -72,7 +75,3 @@ Small content mods exist for the PC version via BepInEx — adding opponents lik
 ## Bottom line
 
 The Thrill of the Fight isn’t trying to impress you. It’s trying to make you work, and it succeeds. The punches feel honest, the exhaustion is earned, and the value proposition is simple: ten dollars, a cleared living room, and twenty minutes of intensity that beats most gym machines. It’s one of the few VR games I recommend without needing to add “if you like this specific subgenre.” If you own a headset and can swing your arms without hitting a wall, this belongs in your library.
-
-## Article History
-
-**2019-10-24** — Added Quest port coverage.

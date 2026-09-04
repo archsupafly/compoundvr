@@ -4,6 +4,9 @@ description: "A native VR horror anthology that works almost everywhere — here
 flatReleaseDate: "2019-05-28"
 vrReleaseDate: "2019-05-28"
 lastVerified: "2023-11-21"
+history:
+  - date: 2023-11-21
+    note: Added PSVR2 Full Time Edition coverage.
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest', 'Pico']
@@ -77,7 +80,3 @@ If you are researching how to play this game in VR, the answer is: buy the nativ
 ## The Bottom Line
 
 *Five Nights at Freddy's VR: Help Wanted* is the best argument for why horror and VR belong together. It is not the deepest game, and it is not the prettiest on every platform, but it understands exactly what makes VR scary: scale, proximity, and the fact that you cannot look away without physically turning your head. For anyone who owns a VR headset and can handle a jump scare, it is an easy recommendation. Just pick the native version for your platform and don't waste time trying to mod a flat game that already does the job better itself.
-
-## Article History
-
-**2023-11-21** — Added PSVR2 Full Time Edition coverage.

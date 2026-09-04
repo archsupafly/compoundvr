@@ -4,6 +4,9 @@ description: "A full AAA open-world RPG in VR with native motion controls — ro
 flatReleaseDate: 2015-11-10
 vrReleaseDate: 2017-12-04
 lastVerified: 2018-01-31
+history:
+  - date: 2018-01-31
+    note: Added January 2018 patch coverage.
 featured: false
 routeType: Native VR
 platforms: ['PCVR']
@@ -60,7 +63,3 @@ So why does it still land? Because the world is worth inhabiting. Fallout 4's Co
 This is where the vanilla-vs-modded distinction matters. The unmodded release is a foundation: a staggering world wrapped in a rough port, with control friction, visual compromises, and genuine stability risks. The modded release is the structure the community built on top of it — sharpened visuals, stable framerates, fixed interactions, DLC support, and quality-of-life improvements that transform the experience from "ambitious but exhausting" into "one of the best things you can do in a headset." The modded state is not a bonus for enthusiasts. It is how virtually everyone actually plays Fallout 4 VR, and it deserves to be treated as the baseline reality.
 
 For Fallout fans with the hardware and the patience, this is still one of the most compelling reasons to own a PCVR headset. For everyone else, the flat version is right there, cheaper and less likely to make you accidentally set a friendly NPC on fire. But if you're willing to meet it halfway — powerful PC, community fixes, accepted jank — the Commonwealth in VR is vast, immersive, and deeply rewarding. Borderline essential.
-
-## Article History
-
-**2018-01-31** — Added January 2018 patch coverage.

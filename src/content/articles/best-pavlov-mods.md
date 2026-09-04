@@ -3,6 +3,9 @@ title: "Best Pavlov Mods: Maps, Weapons, and the DIY Workshop Culture"
 description: "Pavlov's real game is its Workshop. Beyond the Counter-Strike ports and Trouble in Terrorist Town sit a whole DIY culture of absurd maps — Left 4 Dead, Call of Duty Zombies, WW1 trenches, a Best Buy, a McDonalds, Mario Kart — plus custom weapons like nerf guns and lightsabers. Here's the essential Pavlov modding guide."
 pubDate: 2019-12-15
 lastVerified: 2020-07-01
+history:
+  - date: 2020-07-01
+    note: Added Pavlov Shack vs PCVR mod-pipeline split.
 author: Richard
 category: guide
 heroImage: /images/articles/best-pavlov-mods-hero.jpg
@@ -76,7 +79,3 @@ Beyond TTT there's **Zombies** (the co-op survival that pairs with all those L4D
 If you're playing Pavlov for the base Search & Destroy loop, you're missing the game's actual soul. The Workshop turns Pavlov into a bottomless, personality-driven multiplayer sandbox — remade classics, L4D and COD Zombies survival, historical war maps, and an unhinged pop-culture catalog that drops you into Best Buys and Bikini Bottoms with a weapon in hand.
 
 The mods are why Pavlov is still filling lobbies years after Early Access. It's the VR shooter where the community decided what the game was — and the community decided it was a whole library of games, from serious historical warfare to nerf-gun chaos. Install the Workshop, find a full lobby, and you'll understand why the modding and DIY VR crowd treats Pavlov as the most essential VR shooter on PC.
-
-## Article History
-
-**2020-07-01** — Added Pavlov Shack vs PCVR mod-pipeline split.

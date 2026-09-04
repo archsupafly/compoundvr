@@ -2,6 +2,9 @@
 title: "Metroid Prime VR"
 description: "A legendary first-person adventure becomes one of the most compelling arguments for emulator VR — if your stomach and your patience can handle the setup."
 lastVerified: 2026-05-15
+history:
+  - date: 2026-05-15
+    note: Added Primed mod motion-controls coverage.
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']
@@ -78,7 +81,3 @@ This is for Metroid fans who own a PCVR headset and don't mind technical setup. 
 If you're new to VR, sensitive to smooth locomotion, or expect plug-and-play polish, skip it. Dolphin VR is not a consumer product. There is no support hotline. The fork is stable but quiet, and while it works, it makes no apologies for being a hack.
 
 For everyone else, there's something remarkable about standing inside a twenty-year-old game and discovering it feels like it was always meant to be seen this way. The visor clicks down. The rain streaks across your helmet. You raise your arm cannon toward the sound of something screaming in the ruins, and for a moment, the emulator disappears entirely.
-
-## Article History
-
-**2026-05-15** — Added Primed mod motion-controls coverage.

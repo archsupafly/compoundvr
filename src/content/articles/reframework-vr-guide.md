@@ -3,6 +3,9 @@ title: "REFramework VR: Resident Evil and Beyond in VR"
 description: "Praydog's REFramework turns Capcom's RE Engine into a VR platform. Full stereoscopic 6DOF VR with motion controls for Resident Evil 2, 3, 4, 7, 8, and 9 — plus Devil May Cry 5, Monster Hunter, and every other RE Engine game. Free, open source, and the most polished flat-to-VR mod in existence. Here's how to set it up, what each game plays like, and what to expect."
 pubDate: 2022-06-15
 lastVerified: 2025-03-05
+history:
+  - date: 2025-03-05
+    note: Extended coverage to current builds (Monster Hunter Wilds, Onimusha 2).
 author: Richard
 category: guide
 heroImage: /images/articles/reframework-vr-guide-hero.jpg
@@ -387,7 +390,3 @@ If you have a PCVR headset and a gaming PC, REFramework is not optional. It's es
 - **Community guide (biohazardvr.com):** [biohazardvr.com](https://www.biohazardvr.com/)
 - **RE4VR addon:** [Nexus Mods](https://www.nexusmods.com/residentevil42023/mods/5682)
 - **RE9VR addon:** [Nexus Mods](https://www.nexusmods.com/residentevilrequiem/mods/1017)
-
-## Article History
-
-**2025-03-05** — Extended coverage to current builds (Monster Hunter Wilds, Onimusha 2).

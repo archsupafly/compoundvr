@@ -2,6 +2,9 @@
 title: "Beat Saber VR"
 description: "The rhythm game that sold VR headsets by the million — pure rhythm, pure movement, pure fun."
 lastVerified: 2025-06-18
+history:
+  - date: 2025-06-18
+    note: Documented PlayStation content sunset.
 vrReleaseDate: 2018-05-01
 featured: false
 draft: false
@@ -52,7 +55,3 @@ So who is this really for? Honestly? Everyone who owns a VR headset and hasn't p
 Who should skip it? If you fundamentally hate rhythm games, Beat Saber won't perform alchemy on your tastes. If you want narrative, mechanical depth, or progression systems, this is a dessert, not a meal. And if you have shoulder or mobility limitations, the physical demands are real — though lower difficulties keep the arm movement manageable.
 
 Beat Saber isn't the most ambitious VR game ever made. It's not the prettiest, the deepest, or the most technically impressive. But it's the most *honest* — a game that knows exactly what it wants to be and executes it with near-perfect precision. Two sabers. Blocks. The beat. No setup. No compromise. Just you, the music, and the satisfying crunch of a perfect slash.
-
-## Article History
-
-**2025-06-18** — Documented PlayStation content sunset.

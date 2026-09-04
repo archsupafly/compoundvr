@@ -10,11 +10,6 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await render(article);
 
-// Short date: Sep 26, 1986. UTC so local and CI builds render identically.
-function formatShortDate(date: Date): string {
-  return new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
-}
-
 const pubDateIso = article.data.pubDate.toISOString().slice(0, 10);
 const updatedIso = (article.data.lastVerified ?? article.data.pubDate).toISOString().slice(0, 10);
 const isUpdated = updatedIso !== pubDateIso;
@@ -51,20 +46,6 @@ const jsonLd = JSON.stringify({
     <article class="prose" class:list={[{ listicle: article.data.listicle }]} style="margin-top:2rem;">
       <Content />
     </article>
-
-    {article.data.history && article.data.history.length > 0 && (
-      <details class="history-log" style="margin-top:1rem;">
-        <summary>Article history</summary>
-        <div class="history-log-content" style="margin-top:0.75rem;">
-          <div>Originally published {formatShortDate(article.data.pubDate)}</div>
-          {[...article.data.history]
-            .sort((a, b) => +new Date(b.date) - +new Date(a.date))
-            .map((h) => (
-              <div>{new Date(h.date).toISOString().slice(0, 10)} — {h.note}</div>
-            ))}
-        </div>
-      </details>
-    )
   </section>
 </Layout>
 
@@ -83,39 +64,6 @@ const jsonLd = JSON.stringify({
     display: block;
     aspect-ratio: 16 / 9;
     object-fit: cover;
-  }
-
-  .history-log {
-    border: 1px solid var(--border-default);
-    border-radius: 6px;
-    padding: 0.75rem 1rem;
-    background: var(--surface-secondary);
-  }
-
-  .history-log summary {
-    cursor: pointer;
-    font-size: 0.85rem;
-    color: var(--text-tertiary);
-    font-weight: 500;
-    list-style: none;
-  }
-
-  .history-log summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .history-log summary::before {
-    content: '▸ ';
-  }
-
-  .history-log[open] summary::before {
-    content: '▾ ';
-  }
-
-  .history-log-content {
-    font-size: 0.85rem;
-    color: var(--text-tertiary);
-    line-height: 1.6;
   }
 
 </style>

@@ -4,6 +4,9 @@ description: "The open world that swallowed a decade of flat play doesn't have o
 flatReleaseDate: 2013-09-17
 vrReleaseDate: 2019-10-20
 lastVerified: 2020-12-19
+history:
+  - date: 2020-12-19
+    note: Added Cayo Perico-era compatibility (Release 7).
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']
@@ -77,7 +80,3 @@ But I have to be honest about what you are signing up for. You are installing an
 For most VR owners, the better move is to wait. Wait for Rockstar to finally ship an official VR version — which they will probably do for GTA VI before they ever touch GTA V — or wait for a new community project that does not live under a legal cloud. If you already own GTA V on Legacy PC and you are the kind of person who keeps a folder of old game builds just in case, the R.E.A.L. mod is a weekend project that pays off in unforgettable moments. Everyone else should admire the YouTube footage and keep their expectations in check.
 
 This is not the full Grand Theft Auto V VR experience we were promised. It is a beautiful, broken, legally haunted approximation of one. For some of us, that is still enough.
-
-## Article History
-
-**2020-12-19** — Added Cayo Perico-era compatibility (Release 7).

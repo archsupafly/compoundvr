@@ -3,6 +3,9 @@ title: "VRboy: Virtual Boy on Quest"
 description: "The Virtual Boy was Nintendo's failed 1995 VR console—a red monochrome nightmare that caused headaches and sold fewer than 800,000 units. VRboy is a free, open-source emulator that finally does justice to the hardware's promise: proper stereoscopic VR on Meta Quest headsets."
 pubDate: 2026-02-08
 lastVerified: 2026-02-11
+history:
+  - date: 2026-02-11
+    note: Added v1.0.2 stable coverage (Keitark fork).
 author: Richard
 category: guide
 tags:
@@ -233,7 +236,3 @@ VRboy accomplishes something rare in emulation: it improves on original hardware
 - **Issue Tracker:** https://github.com/Keitark/VRboy/issues
 
 **Last Verified:** March 2026
-
-## Article History
-
-**2026-02-11** — Added v1.0.2 stable coverage (Keitark fork).

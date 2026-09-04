@@ -2,6 +2,9 @@
 title: "Robo Recall VR"
 description: "Epic Games' arcade shooter remains one of the most satisfyingly physical VR experiences ever built, even if its teleport-only movement shows its age."
 lastVerified: 2019-05-21
+history:
+  - date: 2019-05-21
+    note: Added Quest (Unplugged) version coverage.
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest']
@@ -73,7 +76,3 @@ The teleportation system, innovative for its era, is the biggest barrier for mod
 If you own a Meta Quest headset, *Robo Recall: Unplugged* is an easy recommendation — a polished, kinetic shooter that demonstrates what makes VR combat special when it is built for your hands rather than adapted to them. If you are on PCVR with a non-Meta headset, the extra effort to get the original running through Revive or RoboRevive is worthwhile for the sharper visuals and mod support, but only if you are willing to tolerate some platform friction.
 
 This is still one of the best arguments for motion controls in shooters. The guns feel incredible. The throwing feels better. And that moment when you catch a rocket out of the air and hurl it back — that never gets old.
-
-## Article History
-
-**2019-05-21** — Added Quest (Unplugged) version coverage.

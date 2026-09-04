@@ -4,6 +4,9 @@ description: "A gorgeous, physically-driven sci-fi VR shooter that moves like no
 flatReleaseDate: 2022-12-07
 vrReleaseDate: 2022-12-07
 lastVerified: 2024-02-16
+history:
+  - date: 2024-02-16
+    note: Added Arena survival mode coverage.
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'PSVR2', 'Quest', 'Pico', 'Vive']
@@ -63,7 +66,3 @@ What you're buying is a place and a way to move. If you want a VR world that rew
 ## Who this is for
 
 This is for the VR owner who wants to inhabit a beautiful alien planet and physically haul themselves across it — the swimmer, the climber, the explorer. Skip it if you measure shooters by their gunfeel. Hubris is a stunning place to spend six hours; just don't expect the fight to be the reason you stay.
-
-## Article History
-
-**2024-02-16** — Added Arena survival mode coverage.

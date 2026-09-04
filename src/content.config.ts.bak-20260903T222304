@@ -15,10 +15,6 @@ const articles = defineCollection({
     listicle: z.boolean().default(false),
     featured: z.boolean().default(false),
     heroImage: z.string().optional(),
-    history: z.array(z.object({
-      date: z.coerce.date(),
-      note: z.string(),
-    })).default([]),
   }),
 });
 
@@ -68,10 +64,6 @@ const games = defineCollection({
       label: z.string().optional(),
       note: z.string().optional(),
     }).optional(),
-    history: z.array(z.object({
-      date: z.coerce.date(),
-      note: z.string(),
-    })).default([]),
   }),
 });
 

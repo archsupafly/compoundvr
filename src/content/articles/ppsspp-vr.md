@@ -7,6 +7,9 @@ category: guide
 featured: false
 heroImage: /images/articles/ppsspp-vr-hero.jpg
 lastVerified: 2026-05-03
+history:
+  - date: 2026-05-03
+    note: Rebuilt around Vonásek's maintained Quest fork (Quest 2/3/3S/Pro, PICO 4).
 tags: ['emulator', 'psp', 'quest', 'retro']
 ---
 
@@ -73,7 +76,3 @@ It's not for someone seeking a native VR experience. It's not for someone who ex
 PPSSPP VR is a B-tier tool doing a B-tier job, and I mean that with genuine respect. It doesn't promise more than it delivers, and what it delivers — a massive retro library in a comfortable headset format — is legitimately valuable for the right audience. The CarlKenner PC fork is a fascinating historical footnote. The Vonásek Quest fork is what you should actually use.
 
 Just know that "VR" here mostly means "inside a headset," not "transformed by VR." If you're okay with that distinction, there's a lot of great PSP gaming waiting for you. I spent my weekend in *Monster Hunter Freedom Unite* and I don't regret a minute of it. But I spent it looking at a screen, not living inside a world. Go in with that expectation, and you'll get exactly what you paid for.
-
-## Article History
-
-**2026-05-03** — Rebuilt around Vonásek's maintained Quest fork (Quest 2/3/3S/Pro, PICO 4).

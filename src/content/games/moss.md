@@ -2,6 +2,9 @@
 title: "Moss VR"
 description: "A tiny mouse looks up at you, signs 'thank you,' and suddenly you care more about a video game rodent than you expected to."
 lastVerified: 2023-03-09
+history:
+  - date: 2023-03-09
+    note: Added PSVR2 enhanced version coverage.
 featured: false
 routeType: Native VR
 platforms: ['PSVR', 'PCVR', 'Quest', 'PSVR2']
@@ -57,7 +60,3 @@ Who is this for? Anyone who owns a VR headset and wants proof that the medium ca
 Who should skip it? Players who want length above all else, or those looking for intense action or complex systems. Moss is quiet, deliberate, and small in scope. It knows exactly what it wants to be and doesn't pretend to be anything else.
 
 The verdict lands easily. Moss is one of the best VR games ever made — not because it's the biggest or the most technically advanced, but because it understands what VR does that flat screens cannot. It gives you presence without putting you in the protagonist's body. It makes you a witness, a helper, and a friend to a character who feels real enough to miss when the credits roll. The hours are few, but the quality is undeniable. If you have a VR headset and you haven't played this, fix that.
-
-## Article History
-
-**2023-03-09** — Added PSVR2 enhanced version coverage.

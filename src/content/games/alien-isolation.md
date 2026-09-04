@@ -2,6 +2,9 @@
 title: "Alien: Isolation in VR"
 description: "The Horror They Promised, The Horror We Got: Sevastopol in VR. A decade-old E3 demo became a community-made reality that transforms one of the finest survival horror games into essential VR."
 lastVerified: 2025-01-15
+history:
+  - date: 2025-01-15
+    note: Added Grand MotherVR fork coverage.
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']
@@ -154,7 +157,3 @@ Not perfect. Not frictionless. But essential.
 ---
 
 *Last updated: March 2026*
-
-## Article History
-
-**2025-01-15** — Added Grand MotherVR fork coverage.

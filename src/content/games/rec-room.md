@@ -2,6 +2,9 @@
 title: "Rec Room VR"
 description: "The social VR platform that became a unicorn, built a universe, and couldn't make the math work — now shutting down after ten years."
 lastVerified: 2025-08-01
+history:
+  - date: 2025-08-01
+    note: Documented layoffs and sunset announcement.
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'Quest', 'PSVR', 'PSVR2']
@@ -63,7 +66,3 @@ If you never played it, you missed something. Not the best game ever made, not t
 The verdict is complicated. Rec Room the VR experience was excellent. The paintball felt great. The dodgeball felt great. The quests were fun. The community was real. Rec Room the business was unsustainable. The shutdown is final. The Snap acquisition of select assets and talent suggests some of the DNA might resurface in AR glasses somewhere down the line, but Rec Room itself — the rec center, the rooms, the friendships, the content — disappears on June 1.
 
 Tier it as you will. The VR implementation was first-rate. The game was genuinely fun. The recommendation for new players is impossible — the door is already closed. For existing players, it's a farewell tour. For everyone else, it's a lesson in how close VR social gaming came to sticking the landing, and how fragile those successes turned out to be.
-
-## Article History
-
-**2025-08-01** — Documented layoffs and sunset announcement.
