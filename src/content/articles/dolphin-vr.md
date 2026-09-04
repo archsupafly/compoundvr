@@ -1,7 +1,11 @@
 ---
 title: "Dolphin VR: The Emulator That Makes Classics Feel New"
 description: "The GameCube and Wii emulator fork that shoves two decades of Nintendo classics into your headset — with all the beauty and brutality that entails."
-pubDate: 2026-05-09
+pubDate: 2014-11-07
+lastVerified: 2026-07-31
+history:
+  - date: 2026-07-31
+    note: Added DolphinXR 2026 fork coverage (through Redux v0.4).
 author: CompoundVR
 category: opinion
 heroImage: /images/articles/dolphin-vr-hero.jpg
@@ -39,6 +43,16 @@ Performance is the quieter problem. Dolphin itself is demanding — GameCube and
 Getting Dolphin VR running sits somewhere between "moderate hobby project" and "weekend commitment." You need a legal copy of the game, a Wii or GameCube BIOS dump, the correct fork of the emulator, and a PC capable of running both emulation and VR compositing simultaneously. Controller configuration is non-trivial: Wii games expect motion controls that map awkwardly to VR controllers, while GameCube games assume a traditional gamepad layout that doesn't account for head tracking at all.
 
 The community has built profiles and configuration databases, but they are community efforts, not guaranteed solutions. A game that runs flawlessly for one user may crash on launch for another due to shader compilation differences, graphics driver behavior, or the specific headset runtime being used. This is the tradeoff you accept when the entire pipeline is unofficial and volunteer-maintained.
+
+## The 2026 Fork: DolphinXR
+
+For nearly a decade, that was the whole story. The original Dolphin VR builds aged out — maintainer Carl Kenner stepped away from game development entirely, mainline Dolphin marched on without the VR branch, and the old nightlies became abandonware you could still run if you kept an old runtime around. The forum threads asking whether anyone would continue the work went unanswered for years.
+
+Then, in April 2026, a new fork appeared: DolphinXR, built from current Dolphin with VR support designed in rather than grafted on. A preview release landed April 6, followed by v0.2 hotfixes within weeks. v0.3 — billed as "The Metroid Update" — arrived July 2 with major fixes for exactly the game that defines this scene. v0.4, "The Summer Update," followed July 31 with new graphics backends, deeper OpenXR integration, per-game VR profiles, expanded configuration tooling, and — the headline for standalone players — Meta Quest passthrough support.
+
+The technical shape is what the old fork never had: DirectX 11 and Vulkan rendering, full 6DOF tracking, actual VR controller support, and a Shader Hunter system for taming the per-game hacks that used to require hand-edited config files. It is still early software — preview-quality in places, maintained by a small team — but it is the first real movement in GameCube/Wii VR in a decade, and it already covers the fundamentals the original fork spent years approximating.
+
+If you tried Dolphin VR in the DK2 era and bounced off the setup, the 2026 fork is the reason to look again. If you're starting fresh, start here and skip the archaeology — our [Metroid Prime](/games/metroid-prime) page covers what the flagship experience actually feels like in a headset.
 
 ## Why It Matters Beyond the Gimmick
 
