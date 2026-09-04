@@ -1,8 +1,8 @@
 ---
 title: "Steam Link on Quest: The Free Alternative Worth Trying Before You Buy Virtual Desktop"
 description: "Valve's free Steam Link app streams SteamVR games to your Quest wirelessly. Here's when it beats Air Link, where it falls short, and how to decide between free and paid."
-pubDate: 2026-09-03
-lastVerified: 2026-09-03
+pubDate: 2023-11-30
+lastVerified: 2023-11-30
 author: Richard
 category: guide
 heroImage: /images/articles/steam-link-quest-guide-hero.jpg

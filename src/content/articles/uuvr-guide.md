@@ -1,7 +1,7 @@
 ---
 title: "UUVR: Universal VR for Unity Games"
 description: "Raicuparta's UUVR adds stereoscopic 3D and head tracking to Unity games through Rai Pal. It's simpler than UEVR and more limited — but what it does, it does cleanly. Here's what it covers, what it doesn't, and how to get started."
-pubDate: 2026-06-13
+pubDate: 2023-12-07
 lastVerified: 2025-07-03
 author: Richard
 category: guide

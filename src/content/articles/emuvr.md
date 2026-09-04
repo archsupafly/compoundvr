@@ -1,7 +1,7 @@
 ---
 title: "EmuVR: Your Headset Is Now a 90s Bedroom, and It's Free"
 description: "A virtual room where you play retro games on CRT TVs — but the setup is real work, and not every system works."
-pubDate: 2026-05-01
+pubDate: 2019-01-01
 author: Ian
 draft: false
 tags:
@@ -15,7 +15,7 @@ tags:
 category: guide
 featured: false
 heroImage: /images/articles/emuvr-vr-hero.jpg
-lastVerified: 2026-09-03
+lastVerified: 2022-12-24
 ---
 
 The first time you see it, you forget you're wearing a headset. You're standing in a messy bedroom. Posters on the walls. A CRT TV on a dresser. A cardboard box under the bed stuffed with loose cartridges. You walk over, pick up a dusty Super Nintendo cart, blow on it out of muscle memory, and slot it into the console. The power LED clicks on. The TV hums to life. *Super Mario World* flickers onto the screen with real scanlines and that warm CRT glow.

@@ -1,8 +1,8 @@
 ---
 title: "Quest Link: The Complete Guide to Meta's Free PCVR Connection"
 description: "Quest Link (wired) and Air Link (wireless) turn your Quest into a PCVR headset for free. Here's setup, cable truth, requirements, and when to buy Virtual Desktop instead."
-pubDate: 2026-09-03
-lastVerified: 2026-09-03
+pubDate: 2019-11-18
+lastVerified: 2024-03-06
 author: Richard
 category: guide
 heroImage: /images/articles/quest-link-guide-hero.jpg

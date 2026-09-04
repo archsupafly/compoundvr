@@ -1,12 +1,12 @@
 ---
 title: "PPSSPP VR"
 description: "A massive PSP library inside your headset sounds like a dream. Here's what the two competing emulators actually deliver — and which one is worth your time."
-pubDate: 2026-05-03T16:50:00
+pubDate: 2022-01-01
 author: Richard
 category: guide
 featured: false
 heroImage: /images/articles/ppsspp-vr-hero.jpg
-lastVerified: 2026-09-03
+lastVerified: 2026-05-03
 tags: ['emulator', 'psp', 'quest', 'retro']
 ---
 
