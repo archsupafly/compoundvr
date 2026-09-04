@@ -84,3 +84,7 @@ What stings isn't that the game was mediocre. It's that it was *good enough*. Th
 Now it's gone. Not on any storefront. Not available for download. Not running on any server. The only way to have experienced Marvel Powers United VR was to have bought it on the Oculus Store between July 2018 and late 2020, and to have kept the files on your hard drive before Meta told you to delete them. Even then, you'd need a community-built tool that Meta already killed once.
 
 If you're wondering whether this is worth playing — it's not, because you can't. If you're wondering whether it deserved better — it did. Not every dead game is a tragedy. This one is, because the game was fine and the death was a choice.
+
+## Article History
+
+**2021-03-01** — Documented store delisting and server shutdown.

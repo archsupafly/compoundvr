@@ -2,7 +2,7 @@
 title: "Luke Ross's R.E.A.L. VR: 42 Games, Zero Motion Controls, and the Flat-to-VR Ceiling"
 description: "Luke Ross's R.E.A.L. VR framework brings 42 AAA games to VR with stunning polish. But one critical omission reveals the ceiling of per-game injection modding."
 pubDate: 2022-01-15
-lastVerified: 2025-06-01
+lastVerified: 2022-01-15
 author: Ian
 category: comparison
 heroImage: /images/articles/luke-ross-real-vr-guide-hero.jpg

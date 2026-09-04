@@ -3,7 +3,7 @@ title: "Asgard's Wrath 2 VR"
 description: "The most ambitious single-player RPG on standalone VR — 60+ hours of god-scale Norse-and-Egyptian myth with physical first-person combat, from the studio behind the original Asgard's Wrath."
 flatReleaseDate: null
 vrReleaseDate: 2023-12-15
-lastVerified: 2024-05-01
+lastVerified: 2023-12-15
 featured: false
 routeType: Native VR
 platforms: ['Quest']

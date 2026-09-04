@@ -79,3 +79,7 @@ DolphinXR is an AI-assisted fork, which is worth noting — the readme mentions 
 This is for Pokémon fans who want to revisit XD with fresh eyes — literally. It's for emulator enthusiasts who enjoy the process of getting old games running in new ways. It's for VR newcomers who want a gentle entry point into emulator VR, something that won't make them sick on day one. It is not for players who expect motion-controlled Pokémon catching, first-person immersion, or the kind of VR transformation that justifies a headset purchase on its own.
 
 Pokémon XD in VR is a C-tier experience in the absolute sense: the flat version is probably just as good, and the VR adds presence without transformation. But that presence is real, and for a game this specific — this weird, this committed to its own dark little corner of the Pokémon universe — even a modest VR treatment feels like a small gift. If you're already a fan, if you've got a Dolphin setup and an afternoon, it's worth the detour.
+
+## Article History
+
+**2026-07-31** — Updated emulator coverage through July 2026 builds (passthrough, foveated rendering).

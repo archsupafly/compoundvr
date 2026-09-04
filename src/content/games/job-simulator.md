@@ -68,3 +68,7 @@ The flip side is that experienced VR users may find the interaction set thin aft
 **Skip this if:** You're looking for a substantial single-player campaign with progression, challenge, or mechanical depth. You want a VR experience that pushes the hardware or offers long-term engagement for solo play. You've already played it to death as a demo and need something meatier.
 
 *Job Simulator* is not the deepest game in VR. It is not the most ambitious, the most intense, or the most technologically impressive. But it is the most reliably delightful — a nine-year-old comedy sandbox that still outsells titles with ten times its budget because Owlchemy understood something fundamental: in VR, picking up a coffee mug and throwing it at a robot is funnier than any cutscene. The physics were the punchline all along. For what it sets out to do, nothing else comes close.
+
+## Article History
+
+**2024-05-29** — Added Quest/Vision Pro hand-tracking update coverage.

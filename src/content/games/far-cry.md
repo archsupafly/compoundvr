@@ -1,7 +1,7 @@
 ---
 title: "Far Cry VR"
 description: "A free, full roomscale conversion by fholger turns Crytek's 2004 tropical shooter into a genuine VR experience — motion controls, two-handed weapons, manual ladder climbing, and the same dense jungle that still looks impossibly good two decades later."
-lastVerified: 2024-06-01
+lastVerified: 2021-06-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

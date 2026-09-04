@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Flight Simulator VR"
 description: "Flying over a photorealistic Earth in VR is one of gaming's most extraordinary sights — if your hardware can keep up."
-lastVerified: 2025-05-15
+lastVerified: 2026-02-01
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR2']
@@ -77,3 +77,7 @@ Microsoft Flight Simulator VR is for the patient enthusiast who owns the right h
 This is not for the casual VR gamer looking for a pick-up-and-play thrill. The installation alone is substantial, the learning curve is real, and the performance demands will humble hardware you thought was powerful. It is also not for someone expecting a polished, VR-native interface — the menus are still flatscreen UI wrapped around your head, and the reliance on physical peripherals for serious flight is unavoidable.
 
 But if you have ever looked out an airplane window and wished you could reach out and touch the clouds, there is still nothing else like it.
+
+## Article History
+
+**2026-02-01** — Added MSFS 2024 edition and PSVR2 support coverage.

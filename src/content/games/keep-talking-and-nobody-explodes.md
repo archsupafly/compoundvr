@@ -1,7 +1,7 @@
 ---
 title: "Keep Talking and Nobody Explodes VR"
 description: "The asymmetric bomb-defusal party game that turns your friends into panicked experts and your headset into the most stressful social tool you own."
-lastVerified: 2016-10-13
+lastVerified: 2015-10-01
 vrReleaseDate: 2015-10-01
 featured: false
 routeType: Native VR

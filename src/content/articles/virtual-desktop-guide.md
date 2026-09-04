@@ -82,3 +82,7 @@ No gaming PC: skip. Bad Wi-Fi you can't fix (dorm, shared house, router three ro
 ## Why This Guide Exists Here
 
 Most of the experiences this site covers — community VR conversions, framework-injected games, the entire flat-to-VR catalog — are PC-only. A Quest owner without wireless PCVR streaming can't touch them. Virtual Desktop is the bridge this site's readers cross more than any other, which is why it gets the definitive guide treatment and why our game articles will keep pointing here. Learn it once, use it for everything.
+
+## Article History
+
+**2023-11-01** — Added VDXR runtime coverage.

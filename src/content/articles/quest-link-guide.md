@@ -2,7 +2,7 @@
 title: "Quest Link: The Complete Guide to Meta's Free PCVR Connection"
 description: "Quest Link (wired) and Air Link (wireless) turn your Quest into a PCVR headset for free. Here's setup, cable truth, requirements, and when to buy Virtual Desktop instead."
 pubDate: 2019-11-18
-lastVerified: 2024-03-06
+lastVerified: 2021-04-13
 author: Richard
 category: guide
 heroImage: /images/articles/quest-link-guide-hero.jpg
@@ -74,3 +74,7 @@ Most flat-to-VR conversions don't care which streamer you use — they see a PCV
 ## The Bottom Line
 
 Quest Link is the free, official, reliable default — wired for maximum stability, Air Link for freedom when your network earns it. It covers the official library completely and costs nothing. When you outgrow it — mods, tuning, codecs, latency — [Virtual Desktop](/articles/virtual-desktop-guide/) is waiting, and our guide covers that side in full. Learn both, pay once or never, play everything.
+
+## Article History
+
+**2021-04-13** — Added Air Link wireless coverage.

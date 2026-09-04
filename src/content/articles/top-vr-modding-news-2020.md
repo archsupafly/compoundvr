@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2020: The Year Valve Went All In"
 description: "2020 was the year Half-Life: Alyx proved what AAA VR could be, the Workshop tools unleashed a custom-campaign explosion, the Quest 2 made standalone VR a mass market, and Luke Ross kept the flat-to-VR framework train rolling."
 pubDate: 2020-12-20
-lastVerified: 2025-03-10
+lastVerified: 2020-12-20
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2020-hero.jpg

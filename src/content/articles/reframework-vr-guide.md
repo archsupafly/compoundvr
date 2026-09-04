@@ -387,3 +387,7 @@ If you have a PCVR headset and a gaming PC, REFramework is not optional. It's es
 - **Community guide (biohazardvr.com):** [biohazardvr.com](https://www.biohazardvr.com/)
 - **RE4VR addon:** [Nexus Mods](https://www.nexusmods.com/residentevil42023/mods/5682)
 - **RE9VR addon:** [Nexus Mods](https://www.nexusmods.com/residentevilrequiem/mods/1017)
+
+## Article History
+
+**2025-03-05** — Extended coverage to current builds (Monster Hunter Wilds, Onimusha 2).

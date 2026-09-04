@@ -3,7 +3,7 @@ title: "Tiny Tina's Wonderlands VR"
 description: "Gearbox's fantasy-looter shooter, reborn as a room-scale first-person game through the UEVR framework — full motion-control aiming and real depth, with the usual community-mod friction."
 flatReleaseDate: 2022-03-25
 vrReleaseDate: 2024-01-01
-lastVerified: 2024-11-16
+lastVerified: 2024-01-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

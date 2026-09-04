@@ -76,3 +76,7 @@ If I'm being fair — and I try to be — the anime aesthetic itself is at least
 I cannot recommend Gungrave VR to general VR enthusiasts. It fails at basic comfort hygiene, it ignores motion controller support in a genre that desperately needs it, it offers less than two hours of content, and its core gameplay loop is dated and repetitive. The PCVR version does not fix the foundational design errors. The PSVR version does not benefit from the platform's better-supported exclusives. There is no PSVR2 port and no indication one is coming.
 
 The only audience I can imagine tolerating this is completionist Gungrave fans who need to experience every piece of franchise media regardless of quality. For that extremely narrow group: it is technically functional, it is cheap when on sale, and it will not demand complex setup. Everyone else should skip it and play the original PS2 titles instead, or wait for a VR shooter that understands why aiming with your hands feels better than aiming with your forehead.
+
+## Article History
+
+**2019-03-06** — Added PCVR Steam release coverage.

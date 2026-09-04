@@ -66,3 +66,7 @@ So who should step into these realms? If you are new to PCVR and want an accessi
 Who should skip it? Players looking for a deep RPG with character progression, meaningful choices, or a substantial campaign. Anyone requiring smooth locomotion or modern comfort options. Those expecting contemporary visual fidelity or sophisticated AI. And if you are sensitive to value-per-hour calculations, the brevity is a real consideration unless you catch it discounted.
 
 Vanishing Realms is a foundational piece of VR history that remains genuinely fun to play. Its combat is still among the best in the genre, its room-scale integration is still ahead of many newer titles, and its accessibility makes it an ideal first dungeon crawl for VR newcomers. But its short length, dated systems, and lack of modern movement options place it firmly in the "worth experiencing, with eyes open" category rather than the essential shelf. It proved that VR could do melee combat right. The games that followed learned from it. Play it to understand where the medium came from — and to discover that, in the moments when a skeleton swings and you duck, the magic is still there.
+
+## Article History
+
+**2019-08-23** — Added Sundered Rift expansion coverage.

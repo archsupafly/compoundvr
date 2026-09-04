@@ -2,7 +2,7 @@
 title: "The Best VR Games of 2015–2020"
 description: "The definitive ranking of the thirty games that defined consumer VR's first era — from DK2 experiments and cockpit sims to full-length RPGs and physics sandboxes that proved VR was here to stay."
 pubDate: 2021-01-15
-lastVerified: 2026-08-31
+lastVerified: 2021-01-15
 author: Richard
 category: comparison
 listicle: true

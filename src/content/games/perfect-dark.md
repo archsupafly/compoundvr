@@ -3,7 +3,7 @@ title: "Perfect Dark VR"
 description: "The N64 decompilation project gets a full VR port — and after a furious summer of releases, it's shaping into something genuinely worth your time."
 flatReleaseDate: 2000-08-28
 vrReleaseDate: 2026-06-30
-lastVerified: 2026-08-19
+lastVerified: 2026-06-30
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR', 'Quest']

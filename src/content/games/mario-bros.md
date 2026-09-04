@@ -76,3 +76,7 @@ But the magic wears thin quickly because the game underneath wasn't designed for
 This is for retro enthusiasts who already love *Mario Bros.* and want to see it from a new angle. If the idea of watching a voxel diorama of the 1983 classic in your headset sounds worth $25, 3dSen delivers exactly that. If you're looking for a reason to put on a headset, if you want motion-controlled platforming, or if you've never played the original, this is not the place to start.
 
 The original *Mario Bros.* is one of the most important games ever made. In VR, it's a curiosity.
+
+## Article History
+
+**2025-06-19** — Added 1.0 release coverage.

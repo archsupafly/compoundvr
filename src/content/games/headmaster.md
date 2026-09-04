@@ -3,7 +3,7 @@ title: "Headmaster VR: The Soccer-Heading Prison Comedy That Only Works in a Hea
 description: "A darkly comedic VR physics game where you head soccer balls (and far worse) with your actual head — a Portal-meets-Wii-Sports absurdity that's native VR on both PSVR and PC."
 flatReleaseDate: 2016-10-13
 vrReleaseDate: 2016-10-13
-lastVerified: 2020-04-03
+lastVerified: 2016-10-13
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PSVR', 'PCVR']

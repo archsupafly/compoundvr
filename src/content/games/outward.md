@@ -85,3 +85,7 @@ This is still a modest Unity game underneath. The fork improved performance enou
 The A is not charity. Outward VR is now one of the better full 6DOF motion-control mods on PC, and it is one of the only ones that gives you a real open-world RPG — factions, crafting, survival, co-op, long quests, and consequences — in a headset. The maintained fork did the unglamorous work: compatibility fixes, proper hands, held weapons, snap turning, better performance, QoL. The result is a cold, punishing, genuinely interesting RPG that you can physically stand inside and swing through.
 
 The caveats are still real, but they are honest mod caveats, not lies. If you came for a polished action game, this will frustrate you. If you came for a survival RPG that punishes carelessness and rewards patience, put the headset on, bring a torch, and do not miss the boar.
+
+## Article History
+
+**2026-02-15** — Rewrote around the maintained fork, dropped VorpX.

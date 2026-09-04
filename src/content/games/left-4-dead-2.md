@@ -122,3 +122,7 @@ Left 4 Dead 2 in VR has matured. The setup is simple, the aiming is tight, and t
 I would recommend this to anyone who already loves co-op shooters, anyone with friends willing to install a mod together, and anyone with the stomach for fast movement. It is not the polished native VR experience of a purpose-built title, but it is one of the best community VR conversions I have seen for a co-op game. For the right player, this is exactly what you want from VR: the game you already loved, now physically present and more chaotic than ever.
 
 And if you're not on PC or just want Left 4 Dead's zombie survival dropped into a shooter that lives on its Workshop, the community has rebuilt those L4D maps inside [Pavlov's mod scene](/articles/best-pavlov-mods) as well.
+
+## Article History
+
+**2026-05-17** — Added keyou91 fork improvements (ADS support, simplified setup).

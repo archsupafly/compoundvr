@@ -2,7 +2,7 @@
 title: "The Witcher 3: 1st person view and other mods that improve the VR experience"
 description: "Playing The Witcher 3 through VorpX is a start. But with the right flat mods—first-person mode, HD Reworked, lighting overhauls—the Continent in VR becomes something worth revisiting. Here's what to install and what to skip."
 pubDate: 2017-04-01
-lastVerified: 2019-06-01
+lastVerified: 2017-04-01
 author: Richard
 category: guide
 heroImage: /images/articles/witcher-3-vr-mods-guide-hero.jpg

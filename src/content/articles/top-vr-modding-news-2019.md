@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2019: The Year the Solo Modder Took Over"
 description: "2019 was the year one modder reshaped the whole flat-to-VR scene — Luke Ross shipped his R.E.A.L. framework and turned GTA V into a full playable VR game, while No Man's Sky added official VR and the Valve Index raised the hardware bar."
 pubDate: 2019-12-15
-lastVerified: 2025-03-10
+lastVerified: 2019-12-15
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2019-hero.jpg

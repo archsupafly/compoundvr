@@ -2,7 +2,7 @@
 title: "VRGIN: The Unity VR Injection Framework for Technical Users"
 description: "VRGIN is a free, open-source Unity VR injection framework created by Eusth. It enables VR support for Unity games that never had it—but only if you're comfortable with code, builds, and troubleshooting. Here's what you need to know."
 pubDate: 2016-05-19
-lastVerified: 2019-06-24
+lastVerified: 2016-05-19
 author: Ian
 category: guide
 tags:

@@ -233,3 +233,7 @@ VRboy accomplishes something rare in emulation: it improves on original hardware
 - **Issue Tracker:** https://github.com/Keitark/VRboy/issues
 
 **Last Verified:** March 2026
+
+## Article History
+
+**2026-02-11** — Added v1.0.2 stable coverage (Keitark fork).

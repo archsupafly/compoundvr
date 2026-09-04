@@ -310,3 +310,7 @@ The integration with Rai Pal makes it the most accessible flat-to-VR tool availa
 If you want to *play* a game in VR with motion controls and VR-specific interactions, UEVR or a game-specific mod is the right tool. If you want to *see* a game in VR — to stand inside its world and look around with your own eyes — UUVR delivers that experience with minimum friction.
 
 The tool is free, the code is open, and Raicuparta's track record with UEVR suggests the foundation is solid. Start with a game you already own. The worst case is ten minutes of setup for a new perspective on a familiar world.
+
+## Article History
+
+**2025-07-03** — Added v0.4.0 coverage (in-overlay settings, UI repositioning).

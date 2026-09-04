@@ -2,7 +2,7 @@
 title: "UEVR: Play Unreal Engine Games in VR"
 description: "Praydog's UEVR injects full 6DOF VR with stereoscopic rendering, motion controls, and roomscale into nearly any Unreal Engine 4 or 5 game. It's free, it's open source, and it's the single most important tool in the flat-to-VR community. Here's how to get it working, which games to start with, and what to expect."
 pubDate: 2024-01-01
-lastVerified: 2024-11-16
+lastVerified: 2024-01-01
 author: Richard
 category: guide
 heroImage: /images/articles/uevr-guide-hero.jpg

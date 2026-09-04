@@ -154,3 +154,7 @@ Not perfect. Not frictionless. But essential.
 ---
 
 *Last updated: March 2026*
+
+## Article History
+
+**2025-01-15** — Added Grand MotherVR fork coverage.

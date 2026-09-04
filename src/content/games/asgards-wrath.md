@@ -1,7 +1,7 @@
 ---
 title: "Asgard's Wrath VR"
 description: "A sprawling Norse action-RPG built from the ground up for VR — one of the only AAA-budget native VR games ever made, with 30+ hours of god-scale adventure that still stands above the field."
-lastVerified: 2025-05-02
+lastVerified: 2019-10-10
 vrReleaseDate: 2019-10-10
 featured: false
 routeType: Native VR
