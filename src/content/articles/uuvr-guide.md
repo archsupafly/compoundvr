@@ -229,7 +229,7 @@ Use the "Add Game" button or drag the executable onto the Rai Pal window. Not al
 - Try running Rai Pal as administrator if the game runs at elevated privileges
 
 ### Black screen after activation (Quest 3 users)
-This is a known issue tracked in GitHub issue #37. The Mono Modern injection path can produce black screens on Quest 3 via Link/Air Link. Try switching to the IL2CPP injection path if available, or use Virtual Desktop as an alternative connection method.
+This is a known issue tracked in GitHub issue #37. The Mono Modern injection path can produce black screens on Quest 3 via Link/Air Link. Try switching to the IL2CPP injection path if available, or use [Virtual Desktop](/articles/virtual-desktop-guide/) as an alternative connection method.
 
 ### "Unsupported metadata version" error
 Your game uses a Unity version that produces metadata version 31 or higher, which UUVR doesn't support yet. There's no workaround. Check the GitHub issues to see if support for your version is in progress.

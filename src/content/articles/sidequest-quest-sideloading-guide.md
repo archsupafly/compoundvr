@@ -49,7 +49,7 @@ Apps that extend what the Quest can do: custom home environments, file managers,
 
 ### PC VR Streaming and Companion Apps
 
-Virtual Desktop, the wireless PC VR streaming app, gained its largest audience through SideQuest — the enhanced version with better streaming quality was sideload-only for a significant period. Other companion tools that bridge the Quest and PC ecosystems live here too.
+[Virtual Desktop](/articles/virtual-desktop-guide/), the wireless PC VR streaming app, gained its largest audience through SideQuest — the enhanced version with better streaming quality was sideload-only for a significant period. Other companion tools that bridge the Quest and PC ecosystems live here too.
 
 ## How to Get Started
 

@@ -55,7 +55,7 @@ The Quest 2 makes real compromises to hit $299.
 
 ## The Sideloading Revolution
 
-The Quest 2 arrived at the peak of the sideloading ecosystem's growth. SideQuest — the unofficial app store that let users install apps and mods Meta hadn't approved — had been building momentum since the original Quest. The Quest 2's aggressive pricing and expanding install base made sideloading essential. Virtual Desktop, the wireless PC VR streaming app, was crossing hundreds of thousands of downloads. The modding community was porting experiences, building tools, and creating content that Meta's official store didn't carry.
+The Quest 2 arrived at the peak of the sideloading ecosystem's growth. [SideQuest](/articles/sidequest-quest-sideloading-guide/) — the unofficial app store that let users install apps and mods Meta hadn't approved — had been building momentum since the original Quest. The Quest 2's aggressive pricing and expanding install base made sideloading essential. [Virtual Desktop](/articles/virtual-desktop-guide/), the wireless PC VR streaming app, was crossing hundreds of thousands of downloads. The modding community was porting experiences, building tools, and creating content that Meta's official store didn't carry.
 
 The sideloading scene mattered because it proved something important: the Quest platform had demand that outpaced the official supply. Users wanted content that wasn't on the store, and the community was building it. The Quest 2 didn't create this dynamic — the original Quest did — but the Quest 2's install base made it impossible to ignore.
 

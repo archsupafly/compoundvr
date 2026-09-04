@@ -19,7 +19,7 @@ PPSSPP VR isn't one project. It's two forks with the same origin story and wildl
 
 The first one came from CarlKenner — the same person behind Dolphin VR — and landed back in 2015 for the original Oculus Rift. This was early-days VR, back when "presence" was a buzzword and everyone was still figuring out whether VR was a platform or a really expensive tech demo. CarlKenner's version did the hard stuff: true stereoscopic 3D, head tracking, lens pre-warping. It was genuinely pioneering. And then it died. The PC version hasn't seen meaningful updates in nearly a decade. If you go looking for it now, you're doing archaeology.
 
-The version that actually matters in 2026 is Luboš Vonásek's Quest fork. Same developer lineage, same ambition, but built for standalone headsets and actively maintained. You install it through SideQuest, it supports Quest 2/3/3S/Pro and PICO 4, and it gets regular updates. This is the one you're actually going to use.
+The version that actually matters in 2026 is Luboš Vonásek's Quest fork. Same developer lineage, same ambition, but built for standalone headsets and actively maintained. You install it through [SideQuest](/articles/sidequest-quest-sideloading-guide/), it supports Quest 2/3/3S/Pro and PICO 4, and it gets regular updates. This is the one you're actually going to use.
 
 ## Cinema Mode: The Reality Most People Will Live In
 

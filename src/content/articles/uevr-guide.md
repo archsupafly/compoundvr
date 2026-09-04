@@ -50,7 +50,7 @@ This is the critical distinction from injection drivers like VorpX. UEVR isn't a
 
 Before you install anything, make sure you have:
 
-- **A PCVR-capable headset** connected via Link, Air Link, Virtual Desktop, or SteamVR (Quest 2/3/Pro, Valve Index, HTC Vive, Bigscreen Beyond, Pimax, HP Reverb G2, etc.)
+- **A PCVR-capable headset** connected via Link, Air Link, [Virtual Desktop](/articles/virtual-desktop-guide/), or SteamVR (Quest 2/3/Pro, Valve Index, HTC Vive, Bigscreen Beyond, Pimax, HP Reverb G2, etc.)
 - **A gaming PC** that can handle rendering the game twice at headset resolution
 - **.NET 6.0 SDK** installed — UEVR's frontend requires it. [Download from Microsoft](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (x64 installer, top-left of the table)
 - **The target game** running on your PC, launched and waiting at the main menu or in-game

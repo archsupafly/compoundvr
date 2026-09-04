@@ -173,7 +173,7 @@ REFramework defaults to OpenVR (SteamVR). Switching to OpenXR can improve perfor
 - Less expressive controller binding options
 - Not all headsets have a dedicated OpenXR runtime
 
-If you're using a Quest headset with Virtual Desktop or Air Link, try OpenXR with the Oculus runtime first. If you're on a Valve Index or a headset that runs through SteamVR natively, OpenVR may be fine.
+If you're using a Quest headset with [Virtual Desktop](/articles/virtual-desktop-guide/) or Air Link, try OpenXR with the Oculus runtime first. If you're on a Valve Index or a headset that runs through SteamVR natively, OpenVR may be fine.
 
 ## Game-by-Game Guide
 

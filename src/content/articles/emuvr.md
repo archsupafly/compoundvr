@@ -44,7 +44,7 @@ I've seen community reports ranging from "simple once you understand the steps" 
 
 **Performance and Stability**
 
-EmuVR runs on PCVR headsets — Quest via Link or Virtual Desktop, Rift, Vive, Index, Windows Mixed Reality. It does not run standalone on Quest. You need a VR-ready PC at minimum, and you'll want more than minimum if you're running demanding emulators.
+EmuVR runs on PCVR headsets — Quest via Link or [Virtual Desktop](/articles/virtual-desktop-guide/), Rift, Vive, Index, Windows Mixed Reality. It does not run standalone on Quest. You need a VR-ready PC at minimum, and you'll want more than minimum if you're running demanding emulators.
 
 Here's where it gets complicated. Simpler systems — NES, SNES, Genesis — run flawlessly. But PlayStation 2, GameCube, and MAME arcade titles can strain even mid-to-high PCs. Users with RTX 3070s and 3080s report needing to dial back anti-aliasing and tweak streaming settings to avoid choppy audio and lag spikes. Running multiple demanding emulators simultaneously hits a practical wall around ten instances. Some systems that work fine in standalone RetroArch — GameCube is the common example — refuse to boot or display corrupted screens inside EmuVR. The PS2 core is particularly temperamental.
 
