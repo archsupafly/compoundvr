@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Flight Simulator VR"
 description: "Flying over a photorealistic Earth in VR is one of gaming's most extraordinary sights — if your hardware can keep up."
-lastVerified: 2026-02-01
+lastVerified: 2026-04-01
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR2']
@@ -80,4 +80,4 @@ But if you have ever looked out an airplane window and wished you could reach ou
 
 ## Article History
 
-**2026-02-01** — Added MSFS 2024 edition and PSVR2 support coverage.
+**2026-04-01** — Added MSFS 2024 edition and PSVR2 support coverage (Sim Update 5).
