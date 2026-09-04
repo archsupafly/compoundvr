@@ -41,17 +41,23 @@ The pattern is now familiar: Nvidia launches, modders backfill within days, offi
 
 ## What It Means in a Headset
 
-Here's the section nobody else is writing, and the reason this article lives on this site.
+Here's the section nobody else is writing — and it starts with a correction to the obvious assumption, because I got the emphasis wrong on the first pass: DLSS 5 is not a performance tool. It is a visual upgrade that *costs* performance, roughly half of it.
 
-**Upscaling is nearly free GPU headroom, and VR is starving for exactly that.** Modded VR is the most performance-hungry way to play games that exists: [UEVR-injected](/articles/uevr-guide/) titles rendering two high-resolution views, streamed over [Virtual Desktop](/articles/virtual-desktop-guide/) or [Quest Link](/articles/quest-link-guide/) with encoding overhead on top. DLSS Super Resolution hands back 30–50% of the frame budget in exchange for image quality most players can't distinguish from native in motion. For the modded-VR player, that is not a nice-to-have — it is the difference between playable and slideshow in the heaviest scenes. DLSS 4 already proved this in VR last year; DLSS 5's improved reconstruction should extend it.
+First, the baseline, to avoid confusion: DLSS *upscaling* (Super Resolution, generations 2 through 4) already helps VR games exactly the way it helps flat games — render small, reconstruct big, pocket 30–50% of the frame budget. That is established, uncontroversial, and already working in headsets. If you run modded VR, you should already be using it where available.
 
-**Frame generation is a different story — treat it with suspicion in VR.** Synthesized frames add latency between your head movement and the photons, and VR punishes latency harder than any flat-screen scenario. There are already developer-forum threads about frame generation misbehaving in VR runtimes going back to DLSS 3. Our position: use the upscaling, skip the framegen in headsets until someone proves the latency story with measurements, not marketing.
+DLSS 5 is a different animal. It is a neural realism filter laid on top of the rendered image — photoreal lighting and materials synthesized by the model — and the first independent numbers say it costs about half your framerate: 71 to 35 fps on an RTX 5070 Ti in early consumer testing, with Nvidia's own materials acknowledging a ~50% penalty that they expect multi-frame generation to buy back. On a flat screen with MFG recovering the cost, that's a defensible trade. In a headset, the math collapses twice over.
 
-**Skyrim is the proof of concept, not the destination.** [Skyrim](/games/skyrim) in VR with DLSS reconstruction is the demo that makes the case: an old game, a community upscaler, modern neural rendering, all stacking. The same pipeline applies to everything the flat-to-VR scene touches. Watch for UEVR-adjacent guides and per-game upscaler mods to start listing DLSS 5 models within months — the tooling (Swapper, Enabler) already works generically.
+First, frame generation doesn't work in VR — this is settled, not debated. Synthesized frames add latency between head movement and photons, and VR punishes that harder than any flat-screen scenario. VR's actual answers to the same problem are reprojection techniques (ASW, SSW), not framegen. So the mechanism Nvidia uses to refund DLSS 5's cost is unavailable exactly where the cost hurts most.
+
+Second, VR is the most performance-hungry way to play games that exists: [UEVR-injected](/articles/uevr-guide/) titles rendering two high-resolution views, streamed over [Virtual Desktop](/articles/virtual-desktop-guide/) or [Quest Link](/articles/quest-link-guide/) with encoding overhead on top. Halving *that* budget doesn't leave a slideshow — it leaves something unwearable. For the foreseeable future, DLSS 5 is not viable in any real VR title.
+
+The exception proves the rule: ancient, lightweight games. [Skyrim](/games/skyrim) VR runs fast enough on modern hardware that halving a huge budget still clears playable framerates — which is why the proof of concept exists there and not in anything demanding. But note what that stack really is: a 2011 game, plus a community VR conversion, plus a community upscaler mod, plus a leaked neural-rendering library. A mod on top of a mod on top of a mod. Each layer adds fragility, and none of it transfers to games that actually need headroom help.
+
+So the honest VR takeaway is inverted from the hype: keep using DLSS 4.x upscaling (that story is real and current), treat DLSS 5 as a flat-screen visual upgrade and a fascinating proof of concept, and watch two things — whether Nvidia's promised optimizations shrink the penalty, and whether a future lighter model changes the headset math. Neither has happened yet.
 
 ## Who Should Care, and What to Watch
 
-- **RTX 50 owners playing modded VR:** try the upscaler path now (Skyrim Upscaler lineage, Swapper for supported titles). Free performance is free performance.
+- **RTX 50 owners:** the DLSS 5 story is about visuals, not speed — try it in flat Skyrim if you're curious about the lighting rewrite, but don't expect a VR performance tool. For headset headroom, DLSS 4.x upscaling remains the answer.
 - **RTX 40 and older:** you're locked out of DLSS 5 proper, but the DLSS 4.x swap guides still work and still help. The controversy is about you; the practical advice hasn't changed.
 - **Everyone else:** watch driver maturity and the mod-support list. Week-one neural rendering in a fifteen-year-old game is a stunt that proves the pipeline; month-six will tell us whether it's a staple.
 
