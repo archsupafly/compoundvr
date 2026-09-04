@@ -6,6 +6,7 @@ author: Richard
 category: guide
 featured: false
 heroImage: /images/articles/ppsspp-vr-hero.jpg
+lastVerified: 2026-09-03
 tags: ['emulator', 'psp', 'quest', 'retro']
 ---
 
