@@ -3,7 +3,7 @@ title: "Persona 3 Portable VR"
 description: "The only way to play Persona 3 Portable in a headset is through a PSP emulator on a standalone headset — and it's basically a big virtual screen, not a true VR version."
 flatReleaseDate: "2009-11-01"
 vrReleaseDate: "2022-07-31"
-lastVerified: "2023-01-18"
+lastVerified: 2022-07-31
 featured: false
 routeType: Multi-Route Coverage
 platforms:

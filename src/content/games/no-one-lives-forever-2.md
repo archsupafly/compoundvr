@@ -3,7 +3,7 @@ title: "No One Lives Forever 2 in VR: Cate Archer Was Born for This"
 description: "A free community mod drops Monolith's 2002 spy shooter into proper stereoscopic VR — and suddenly that smug, stylish Cold War secret agent fantasy fits the headset perfectly."
 flatReleaseDate: "2002-10-01"
 vrReleaseDate: "2018-01-21"
-lastVerified: "2018-02-04"
+lastVerified: 2018-01-21
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Mass Effect 3 in VR: The Whole Trilogy, Finally Inside Your Headset"
 description: "BioWare's 2012 finale is now a full stereoscopic VR playthrough thanks to a community mod for the Legendary Edition — the Normandy, the Citadel, and the final war, head-tracked and in real depth."
 flatReleaseDate: "2012-03-06"
 vrReleaseDate: "2026-08-21"
-lastVerified: "2026-08-23"
+lastVerified: 2026-08-21
 featured: false
 routeType: "Multi-Route Coverage"
 platforms: ['PCVR']

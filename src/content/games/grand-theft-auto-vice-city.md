@@ -3,7 +3,7 @@ title: "Grand Theft Auto: Vice City VR"
 description: "A full 6DOF VR conversion of Rockstar's 1986 Miami classic finally puts you on the streets of Vice City with your own hands — driving, shooting, and causing chaos from inside the headset."
 flatReleaseDate: "2002-10-29"
 vrReleaseDate: "2026-07-22"
-lastVerified: "2026-08-22"
+lastVerified: 2026-07-22
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']
