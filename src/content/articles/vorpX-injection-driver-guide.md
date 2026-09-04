@@ -5,6 +5,7 @@ pubDate: 2013-09-30
 lastVerified: 2026-01-13
 author: Ian
 category: guide
+heroImage: /images/articles/vorpX-injection-driver-guide-hero.jpg
 tags:
   - vorpX
   - injection-driver
