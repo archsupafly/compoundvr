@@ -170,7 +170,7 @@ Read our full coverage at [Jurassic World Aftermath](/games/jurassic-park-afterm
 
 ## The Link Bonus: Two PC VR Heavyweights
 
-The Quest 2's killer trick is that it doesn't need a PC — but when you plug in a USB-C cable, Oculus Link turns it into a PC VR headset. Two of the season's biggest titles live on that side of the fence:
+The Quest 2's killer trick is that it doesn't need a PC — but when you plug in a USB-C cable, [Oculus Link](/articles/quest-link-guide/) turns it into a PC VR headset. Two of the season's biggest titles live on that side of the fence:
 
 **Star Wars: Squadrons** (October 2, PC VR) — EA's cockpit dogfighter is gorgeous in VR, every gauge and explosion filling your peripheral vision. On Quest 2 it plays through Oculus Link, no Rift required.
 

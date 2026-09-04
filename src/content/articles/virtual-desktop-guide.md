@@ -44,13 +44,13 @@ If you're missing the PC or the network, stop here. Virtual Desktop is not for y
 
 Three ways to get PCVR onto a Quest wirelessly. Here's how they compare and what I'd actually pick.
 
-**Meta's Air Link** is free and built into the Quest. It works fine for the official library, and for a lot of people it's enough. But it lags Virtual Desktop on latency tuning, codec options, and update cadence — Meta ships features on Meta's schedule, and advanced options are thin.
+**Meta's [Air Link](/articles/quest-link-guide/)** is free and built into the Quest. It works fine for the official library, and for a lot of people it's enough. But it lags Virtual Desktop on latency tuning, codec options, and update cadence — Meta ships features on Meta's schedule, and advanced options are thin.
 
 **Valve's Steam Link** is also free and dead simple if everything you play lives on Steam. The catch is the word "everything" — it only does Steam. Oculus Rift titles, modded games launched outside Steam, anything exotic: not covered.
 
 **Virtual Desktop** costs money and earns it: the lowest practical latency, the widest codec support (H.264, H.265, AV1), per-game settings, the VDXR runtime option that bypasses SteamVR overhead entirely, and a dev who ships improvements constantly. For modded PCVR — [Luke Ross conversions](/articles/luke-ross-real-vr-guide) like [GTA V](/games/gta-5), UEVR-injected games, anything launched outside Steam's front door — it's not close. Virtual Desktop is the answer.
 
-The verdict: if all you play is Beat Saber from Steam, Steam Link is fine and free. If you live in Meta's store, try Air Link first since it's free. If you play modded PCVR, or you want the best image quality and lowest latency available, buy Virtual Desktop. For this site's readers — people putting flat games into headsets — it's the default recommendation, and it isn't a difficult call.
+The verdict: if all you play is Beat Saber from Steam, Steam Link is fine and free. If you live in Meta's store, try [Air Link](/articles/quest-link-guide/) first since it's free. If you play modded PCVR, or you want the best image quality and lowest latency available, buy Virtual Desktop. For this site's readers — people putting flat games into headsets — it's the default recommendation, and it isn't a difficult call.
 
 ## The Settings That Actually Matter
 

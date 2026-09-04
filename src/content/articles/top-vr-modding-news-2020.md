@@ -47,7 +47,7 @@ And that was the whole catalog. By the end of 2020, R.E.A.L. supported exactly t
 
 The [Quest 2](/articles/oculus-quest-2-review) shipped on October 13, 2020, at $299 — and the math on VR adoption changed overnight.
 
-The original Quest had proved that standalone VR worked. The Quest 2 proved it could scale. Lighter, faster, sharper, and cheaper than its predecessor, it was the first VR headset that felt like a consumer electronics product rather than an enthusiast peripheral. The mandatory Facebook login was a controversy that would simmer for years, but the hardware itself was undeniable: inside-out tracking, no external sensors, no PC required, and a library that bridged standalone and PC VR through Oculus Link.
+The original Quest had proved that standalone VR worked. The Quest 2 proved it could scale. Lighter, faster, sharper, and cheaper than its predecessor, it was the first VR headset that felt like a consumer electronics product rather than an enthusiast peripheral. The mandatory Facebook login was a controversy that would simmer for years, but the hardware itself was undeniable: inside-out tracking, no external sensors, no PC required, and a library that bridged standalone and PC VR through [Oculus Link](/articles/quest-link-guide/).
 
 For the modding scene, the Quest 2 mattered in two ways. First, it exploded the install base. Millions of new headsets meant millions of new potential users for VR content of every kind — native, modded, sideloaded, official. The audience that had been too small to justify big investment suddenly wasn't.
 
