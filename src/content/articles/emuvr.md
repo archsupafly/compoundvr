@@ -15,7 +15,7 @@ tags:
 category: guide
 featured: false
 heroImage: /images/articles/emuvr-vr-hero.jpg
-sources: "Research conducted via emuvr.net official website and wiki, YouTube VR gameplay footage (Paradise's Decay, Nathie, Beardo Benjo), EmuVR Discord community knowledge, Reddit community reports (r/Emu_VR, r/virtualreality), and Flat2VR Discord. No direct testing performed."
+lastVerified: 2026-09-03
 ---
 
 The first time you see it, you forget you're wearing a headset. You're standing in a messy bedroom. Posters on the walls. A CRT TV on a dresser. A cardboard box under the bed stuffed with loose cartridges. You walk over, pick up a dusty Super Nintendo cart, blow on it out of muscle memory, and slot it into the console. The power LED clicks on. The TV hums to life. *Super Mario World* flickers onto the screen with real scanlines and that warm CRT glow.
