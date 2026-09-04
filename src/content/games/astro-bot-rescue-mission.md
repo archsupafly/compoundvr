@@ -1,7 +1,7 @@
 ---
 title: "Astro Bot Rescue Mission VR"
 description: "A third-person platformer built entirely around your physical presence in the room — the game that proved VR platforming wasn't just possible, but essential."
-lastVerified: 2018-10-15
+lastVerified: 2018-10-02
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

@@ -58,3 +58,7 @@ Stability is acceptable but not pristine. The base game is a 2011 RPG running on
 So who is this for? If you own a gaming PC, a VR headset, and any affection for open-world RPGs, the modded version of Skyrim VR is close to essential. It is not the easiest setup. It is not the most polished experience. But it is the deepest, most absorbing RPG world you can currently inhabit in virtual reality, and the gap between it and everything else in the genre is substantial. If you are on PSVR or unwilling to mod, the vanilla version is still a massive RPG in a headset—worth playing if you love the world and have no other option, but not the experience that earns the S-tier label.
 
 The honest truth is that Skyrim VR, properly modded, is the game I point to when someone asks why they should bother with PC VR at all. Not because it is flawless. Because it is the one that keeps you inside long enough to forget you have a cable tangled around your ankles.
+
+## Article History
+
+**2018-04-02** — Added PCVR (SteamVR) port coverage.

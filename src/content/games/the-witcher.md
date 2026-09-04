@@ -89,3 +89,7 @@ The Witcher in VR is a fun piece of fan tourism for the first game's prologue an
 **Who this is for:** Hardcore Witcher fans who want a low-effort VR stroll through Kaer Morhen.
 
 **Who should skip it:** Anyone looking for a complete, polished, or motion-controlled Witcher campaign.
+
+## Article History
+
+**2022-07-11** — Added 2.0 release coverage (full prologue, combat, five maps).

@@ -53,3 +53,7 @@ The comfort profile is generally manageable in IVA because the cockpit gives you
 So who is this for? If you already love Kerbal Space Program, already know your way around CKAN, and own a decent gaming PC with a PCVR headset, KerbalVR is essential. It transforms the game from a brilliant simulation into something you physically inhabit. The moments it creates — a perfect docking alignment viewed from the crew cabin, a solar eclipse through the cupola window, the silent drift of EVA with nothing but your own breathing — are unmatched in VR.
 
 If you have never played KSP, do not start here. The learning curve is already a cliff, and adding VR complexity, performance troubleshooting, and mod dependency management on top of it is a recipe for frustration. If you are looking for a polished, pick-up-and-play space experience, this is not it. But if you are the kind of person who spends three hours getting a single-stage-to-orbit design right and wants to sit inside it while it works, KerbalVR is the only option that matters.
+
+## Article History
+
+**2025-02-08** — Updated for actively maintained fork (early-2025 state).

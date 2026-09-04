@@ -363,6 +363,10 @@ But it's not native VR. It's not motion controls. It's not comfort options or VR
 
 **Skip VorpX if:** You want motion controls, you expect plug-and-play, your target game has a native VR option, or you're hoping for a refund if it doesn't work.
 
+## Article History
+
+**2021-04-20** — Added OpenXR runtime support coverage (21.2.0).
+
 The $40 is fair for what VorpX provides—if you'll use it. For a single game, check community forums first to confirm compatibility and user experiences. For a library of games with no other VR path, VorpX can deliver value that compounds across dozens of titles.
 
 ## Article History
