@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import CardGrid from '../components/CardGrid.astro';
 import ArticleGrid from '../components/ArticleGrid.astro';
 import FeaturedHero from '../components/FeaturedHero.astro';
+import StatsBar from '../components/StatsBar.astro';
 import { getCollection } from 'astro:content';
 
 // Sort games by last verified date (newest first) for freshness
@@ -14,6 +15,13 @@ const allGames = (await getCollection('games')).sort((a, b) => {
 
 // Games for the 2-column grid (up to 12)
 const displayGames = allGames.slice(0, 12);
+
+// Homepage coverage counters (mutually exclusive game buckets sum to total)
+const nativeCount = allGames.filter((g) => g.data.routeType === 'Native VR').length;
+const hybridCount = allGames.filter((g) => g.data.routeType === 'Official Hybrid').length;
+const moddedCount = allGames.filter((g) =>
+  ['Full VR Mod', 'Framework Only', 'Multi-Route Coverage'].includes(g.data.routeType)
+).length;
 
 // Articles for the sidebar column (up to 4, exclude featured ones already in carousel)
 const featuredSlugs = ['flatout-4-vr', 'microsoft-flight-simulator', 'dolphin-vr', 'triangle-strategy', 'outward'];
@@ -64,6 +72,14 @@ const featuredItems = featuredSlugs
       setup reality checks, and trustworthy verdicts on whether playing in VR is actually worth your time.
     </p>
   </section>
+
+  <StatsBar
+    totalGames={allGames.length}
+    nativeCount={nativeCount}
+    hybridCount={hybridCount}
+    moddedCount={moddedCount}
+    articleCount={allArticles.length}
+  />
 
   {featuredItems.length > 0 && (
     <section class="section homepage-featured container">

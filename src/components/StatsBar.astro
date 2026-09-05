@@ -1,0 +1,109 @@
+---
+interface Props {
+  totalGames: number;
+  nativeCount: number;
+  hybridCount: number;
+  moddedCount: number;
+  articleCount: number;
+}
+
+const { totalGames, nativeCount, hybridCount, moddedCount, articleCount } = Astro.props;
+
+const stats = [
+  { value: totalGames, label: 'Games Covered' },
+  { value: nativeCount, label: 'Native VR' },
+  { value: hybridCount, label: 'Official Hybrid' },
+  { value: moddedCount, label: 'VR Modded' },
+  { value: articleCount, label: 'Guides & Articles' },
+];
+---
+
+<section class="stats-bar" aria-label="Site coverage statistics">
+  <dl>
+    {stats.map((s) => (
+      <div class="stats-bar__cell">
+        <dt>{s.label}</dt>
+        <dd data-count={s.value}>{s.value.toLocaleString()}</dd>
+      </div>
+    ))}
+  </dl>
+</section>
+
+<script>
+  // Progressive-enhancement count-up on scroll into view.
+  // Numbers are server-rendered, so SEO/no-JS still sees real counts.
+  const cells = document.querySelectorAll('.stats-bar dd[data-count]');
+  const animate = (el: Element) => {
+    const target = Number((el as HTMLElement).dataset.count || '0');
+    const duration = 900;
+    const start = performance.now();
+    const tick = (now: number) => {
+      const p = Math.min((now - start) / duration, 1);
+      const eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = Math.round(target * eased).toLocaleString();
+      if (p < 1) requestAnimationFrame(tick);
+    };
+    requestAnimationFrame(tick);
+  };
+  const io = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((e) => {
+        if (e.isIntersecting) {
+          animate(e.target);
+          io.unobserve(e.target);
+        }
+      });
+    },
+    { threshold: 0.4 }
+  );
+  cells.forEach((c) => io.observe(c));
+</script>
+
+<style>
+  .stats-bar {
+    margin: 1.5rem 0 0;
+    border-top: 1px solid var(--border, #2a2a2e);
+    border-bottom: 1px solid var(--border, #2a2a2e);
+    background: var(--surface, #141417);
+  }
+  .stats-bar dl {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 0;
+    padding: 0;
+  }
+  .stats-bar__cell {
+    padding: 1.1rem 0.5rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 0.25rem;
+  }
+  .stats-bar__cell + .stats-bar__cell {
+    border-left: 1px solid var(--border, #2a2a2e);
+  }
+  .stats-bar dd {
+    margin: 0;
+    font-size: 1.9rem;
+    font-weight: 800;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .stats-bar dt {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    opacity: 0.7;
+  }
+  @media (max-width: 640px) {
+    .stats-bar {
+      overflow-x: auto;
+    }
+    .stats-bar dl {
+      grid-template-columns: repeat(5, minmax(130px, 1fr));
+    }
+    .stats-bar dd {
+      font-size: 1.5rem;
+    }
+  }
+</style>
