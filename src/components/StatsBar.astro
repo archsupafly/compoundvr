@@ -98,21 +98,24 @@ const stats = [
     color: var(--text-tertiary, #6b6b7b);
   }
   @media (max-width: 640px) {
+    .stats-bar {
+      margin: 1rem auto 2rem;
+    }
     .stats-bar dl {
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(5, 1fr);
     }
-    .stats-bar__cell:nth-child(4),
-    .stats-bar__cell:nth-child(5) {
-      border-top: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.06));
-    }
-    .stats-bar__cell:nth-child(4) {
-      border-left: none;
+    .stats-bar__cell {
+      padding: 0.75rem 0.15rem;
+      min-width: 0;
     }
     .stats-bar dd {
-      font-size: 1.4rem;
+      font-size: 1.05rem;
     }
     .stats-bar dt {
-      font-size: 0.65rem;
+      font-size: 0.55rem;
+      letter-spacing: 0.04em;
+      line-height: 1.35;
+      overflow-wrap: break-word;
     }
   }
 </style>
