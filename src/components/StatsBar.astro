@@ -18,7 +18,7 @@ const stats = [
 ];
 ---
 
-<section class="stats-bar" aria-label="Site coverage statistics">
+<section class="stats-bar container" aria-label="Site coverage statistics">
   <dl>
     {stats.map((s) => (
       <div class="stats-bar__cell">
@@ -61,16 +61,17 @@ const stats = [
 
 <style>
   .stats-bar {
-    margin: 1.5rem 0 0;
-    border-top: 1px solid var(--border, #2a2a2e);
-    border-bottom: 1px solid var(--border, #2a2a2e);
-    background: var(--surface, #141417);
+    margin: 1.5rem auto 2.5rem;
   }
   .stats-bar dl {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     margin: 0;
     padding: 0;
+    background: var(--surface-primary, #fff);
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.1));
+    border-radius: 12px;
+    overflow: hidden;
   }
   .stats-bar__cell {
     padding: 1.1rem 0.5rem;
@@ -80,30 +81,38 @@ const stats = [
     gap: 0.25rem;
   }
   .stats-bar__cell + .stats-bar__cell {
-    border-left: 1px solid var(--border, #2a2a2e);
+    border-left: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.06));
   }
   .stats-bar dd {
     margin: 0;
     font-size: 1.9rem;
     font-weight: 800;
     line-height: 1;
+    color: var(--text-primary, #1a1a2e);
     font-variant-numeric: tabular-nums;
   }
   .stats-bar dt {
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    opacity: 0.7;
+    color: var(--text-tertiary, #6b6b7b);
   }
   @media (max-width: 640px) {
-    .stats-bar {
-      overflow-x: auto;
-    }
     .stats-bar dl {
-      grid-template-columns: repeat(5, minmax(130px, 1fr));
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .stats-bar__cell:nth-child(4),
+    .stats-bar__cell:nth-child(5) {
+      border-top: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.06));
+    }
+    .stats-bar__cell:nth-child(4) {
+      border-left: none;
     }
     .stats-bar dd {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
+    }
+    .stats-bar dt {
+      font-size: 0.65rem;
     }
   }
 </style>
