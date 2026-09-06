@@ -3,7 +3,10 @@ title: "Song in the Smoke VR: Survival With Real Dirt Under Your Fingernails"
 description: "17-BIT built a prehistoric survival game for the headset first — and the tactile crafting, tracking, and campfire tension make the VR the whole point, not a port."
 flatReleaseDate: 2021-10-07
 vrReleaseDate: 2021-10-07
-lastVerified: 2021-10-07
+lastVerified: 2023-02-22
+history:
+  - date: 2023-02-22
+    note: "Rekindled enhanced version released for PSVR2 (headset haptics, Sense trigger effects, eye-tracked rendering); free upgrade for PSVR1 digital owners."
 featured: false
 routeType: Native VR
 platforms: ['Quest', 'PSVR', 'PSVR2', 'PCVR', 'Rift']
