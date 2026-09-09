@@ -2,8 +2,8 @@
 title: "Castlevania II: Simon's Quest VR"
 description: "3dSen VR turns this polarizing 1987 Metroidvania into a playable voxel diorama — charming, comfortable, and still basically the same flat game on a fancy screen."
 flatReleaseDate: "1987-08-28"
-vrReleaseDate: "2025-06-19"
-lastVerified: "2025-06-19"
+vrReleaseDate: 2019-01-01
+lastVerified: 2019-01-01
 featured: false
 routeType: Framework Only
 platforms:

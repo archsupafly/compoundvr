@@ -2,8 +2,8 @@
 title: "Balloon Fight VR"
 description: "A 40-year-old NES arcade game reborn as a 3D voxel diorama — charming, stable, and unexpectedly immersive, if you can justify the emulator price."
 flatReleaseDate: "1985-01-22"
-vrReleaseDate: "2025-06-19"
-lastVerified: "2025-06-19"
+vrReleaseDate: 2019-01-01
+lastVerified: 2019-01-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']
