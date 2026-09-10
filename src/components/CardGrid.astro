@@ -17,6 +17,8 @@ interface GameCard {
   // Optional client-side filter keys (games index only).
   filterRoute?: string;
   filterPerf?: string;
+  filterGenres?: string;
+  filterTech?: string;
 }
 
 const { items, columns = 3, showImages = true, showTier = true, showRouteType = true, showPlatforms = true } = Astro.props as { 
@@ -71,7 +73,10 @@ const recClass: Record<string, string> = {
       data-sort-released={game.sortReleased}
       data-sort-title={game.sortTier === undefined ? undefined : game.title.toLowerCase()}
       data-route={game.filterRoute}
-      data-perf={game.filterPerf}>
+      data-perf={game.filterPerf}
+      data-genres={game.filterGenres}
+      data-tech={game.filterTech}
+      data-platforms={game.filterRoute === undefined ? undefined : (game.platforms || []).join('|')}>
       {showImages && (
         <div class="game-card__image-container">
           {game.heroImage ? (

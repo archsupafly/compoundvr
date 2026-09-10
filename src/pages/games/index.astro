@@ -22,7 +22,20 @@ const games = (await getCollection('games')).sort((a, b) => {
     <p class="lead">Each page is built to answer whether playing in VR is viable, what the setup burden is, and who should actually bother.</p>
   </section>
   <section class="section container">
-    <div class="games-toolbar">
+    <div class="games-toolbar games-toolbar--sort">
+      <label class="games-sort-label" for="games-sort">Sort by</label>
+      <select id="games-sort" class="games-sort-select">
+        <option value="tier-desc" selected>Tier: Best first</option>
+        <option value="tier-asc">Tier: Worst first</option>
+        <option value="updated">Recently updated</option>
+        <option value="released-desc">Game release: Newest</option>
+        <option value="released-asc">Game release: Oldest</option>
+        <option value="title-asc">Title A–Z</option>
+        <option value="title-desc">Title Z–A</option>
+      </select>
+      <span class="games-count" id="games-count"></span>
+    </div>
+    <div class="games-toolbar games-toolbar--filters">
       <div class="games-tiers" id="games-tiers" role="group" aria-label="Filter by tier">
         <span class="games-sort-label">Tier</span>
         {['S', 'A', 'B', 'C', 'D', 'F'].map((t) => (
@@ -41,21 +54,49 @@ const games = (await getCollection('games')).sort((a, b) => {
       <label class="games-sort-label" for="games-perf">PC load</label>
       <select id="games-perf" class="games-sort-select">
         <option value="any" selected>Any PC</option>
-        <option value="potato">Potato-friendly</option>
-        <option value="highend">High-end only</option>
+        <option value="Efficient">Efficient (potato)</option>
+        <option value="Moderate Demand">Moderate demand</option>
+        <option value="Heavy Demand">Heavy demand</option>
+        <option value="Inconsistent / Unpredictable">Inconsistent</option>
       </select>
-      <label class="games-sort-label" for="games-sort">Sort by</label>
-      <select id="games-sort" class="games-sort-select">
-        <option value="tier-desc" selected>Tier: Best first</option>
-        <option value="tier-asc">Tier: Worst first</option>
-        <option value="updated">Recently updated</option>
-        <option value="released-desc">Game release: Newest</option>
-        <option value="released-asc">Game release: Oldest</option>
-        <option value="title-asc">Title A–Z</option>
-        <option value="title-desc">Title Z–A</option>
+      <label class="games-sort-label" for="games-genre">Genre</label>
+      <select id="games-genre" class="games-sort-select">
+        <option value="any" selected>All genres</option>
+        <option>Action</option>
+        <option>Adventure</option>
+        <option>Action-Adventure</option>
+        <option>First-Person Shooter</option>
+        <option>FPS</option>
+        <option>Action RPG</option>
+        <option>RPG</option>
+        <option>Horror</option>
+        <option>Survival Horror</option>
+        <option>Puzzle</option>
+        <option>Platformer</option>
+        <option>Racing</option>
+        <option>Sports</option>
+        <option>Open World</option>
+        <option>Simulation</option>
+      </select>
+      <label class="games-sort-label" for="games-tech">Tech</label>
+      <select id="games-tech" class="games-sort-select">
+        <option value="any" selected>Any tech</option>
+        <option value="uevr">UEVR</option>
+        <option value="vorpx">VorpX</option>
+        <option value="emulator">Emulator</option>
+        <option value="motion">Motion controls</option>
+        <option value="lukeross">Luke Ross mod</option>
+      </select>
+      <label class="games-sort-label" for="games-platform">Platform</label>
+      <select id="games-platform" class="games-sort-select">
+        <option value="any" selected>All platforms</option>
+        <option>PCVR</option>
+        <option>Quest</option>
+        <option>PSVR</option>
+        <option>PSVR2</option>
+        <option>Pico</option>
       </select>
       <button type="button" id="games-reset" class="games-reset" hidden>Reset</button>
-      <span class="games-count" id="games-count"></span>
     </div>
     <CardGrid items={games.map((game) => ({
       href: `/games/${game.id}/`,
@@ -72,6 +113,8 @@ const games = (await getCollection('games')).sort((a, b) => {
       sortReleased: epoch(game.data.flatReleaseDate ?? game.data.vrReleaseDate),
       filterRoute: game.data.routeType,
       filterPerf: game.data.performance,
+      filterGenres: (game.data.genres || []).join('|'),
+      filterTech: (game.data.technicalTags || []).join('|'),
     }))} columns={3} />
   </section>
 </Layout>
@@ -164,29 +207,39 @@ const games = (await getCollection('games')).sort((a, b) => {
     };
     var pathSel = document.getElementById('games-path');
     var perfSel = document.getElementById('games-perf');
+    var genreSel = document.getElementById('games-genre');
+    var techSel = document.getElementById('games-tech');
+    var platSel = document.getElementById('games-platform');
     var tiersBox = document.getElementById('games-tiers');
     var resetBtn = document.getElementById('games-reset');
     var activeTiers = { 'S': true, 'A': true, 'B': true, 'C': true, 'D': true, 'F': true };
-    var POTATO = { 'Efficient': true, 'Moderate Demand': true };
-    function perfGroup(p) {
-      if (p === 'any') return null;
-      return p === 'potato' ? POTATO : null; // highend = everything not potato
-    }
     var RANK_TIER = ['S', 'A', 'B', 'C', 'D', 'F'];
+    function tags(c, k) { return (c.getAttribute(k) || '').split('|'); }
+    function techMatch(list, key) {
+      var low = list.map(function (t) { return t.toLowerCase(); });
+      var has = function (s) { return low.indexOf(s) !== -1; };
+      var any = function (re) { return low.some(function (t) { return re.test(t); }); };
+      if (key === 'uevr') return has('uevr') || has('uevr compatible');
+      if (key === 'vorpx') return any(/vorpx/) || has('directvr') || has('direct vr');
+      if (key === 'emulator') return any(/emulat/) || any(/dolphin/) || any(/ppsspp/) || any(/3dsen/) || any(/retroarch/) || any(/citra/) || any(/dolphin vr/);
+      if (key === 'motion') return has('motion controls') || has('motion controllers') || has('motion controller support');
+      if (key === 'lukeross') return any(/luke ross/);
+      return false;
+    }
     function visible(c) {
       var tier = RANK_TIER[num(c, 'data-sort-tier')] || '';
       if (!activeTiers[tier]) return false;
       if (pathSel && pathSel.value !== 'any' && c.getAttribute('data-route') !== pathSel.value) return false;
-      if (perfSel && perfSel.value !== 'any') {
-        var isPotato = !!POTATO[c.getAttribute('data-perf') || ''];
-        if (perfSel.value === 'potato' && !isPotato) return false;
-        if (perfSel.value === 'highend' && isPotato) return false;
-      }
+      if (perfSel && perfSel.value !== 'any' && c.getAttribute('data-perf') !== perfSel.value) return false;
+      if (genreSel && genreSel.value !== 'any' && tags(c, 'data-genres').indexOf(genreSel.value) === -1) return false;
+      if (techSel && techSel.value !== 'any' && !techMatch(tags(c, 'data-tech'), techSel.value)) return false;
+      if (platSel && platSel.value !== 'any' && tags(c, 'data-platforms').indexOf(platSel.value) === -1) return false;
       return true;
     }
     function isDefault() {
       var allTiers = ['S', 'A', 'B', 'C', 'D', 'F'].every(function (t) { return activeTiers[t]; });
-      return allTiers && (!pathSel || pathSel.value === 'any') && (!perfSel || perfSel.value === 'any') && select.value === 'tier-desc';
+      var sels = [pathSel, perfSel, genreSel, techSel, platSel];
+      return allTiers && sels.every(function (s) { return !s || s.value === 'any'; }) && select.value === 'tier-desc';
     }
     function apply() {
       var cmp = comparators[select.value] || comparators['tier-desc'];
@@ -199,8 +252,9 @@ const games = (await getCollection('games')).sort((a, b) => {
       if (resetBtn) resetBtn.hidden = isDefault();
     }
     select.addEventListener('change', apply);
-    if (pathSel) pathSel.addEventListener('change', apply);
-    if (perfSel) perfSel.addEventListener('change', apply);
+    [pathSel, perfSel, genreSel, techSel, platSel].forEach(function (s) {
+      if (s) s.addEventListener('change', apply);
+    });
     if (tiersBox) tiersBox.addEventListener('click', function (e) {
       var btn = e.target.closest ? e.target.closest('[data-tier]') : null;
       if (!btn) return;
@@ -212,8 +266,9 @@ const games = (await getCollection('games')).sort((a, b) => {
     if (resetBtn) resetBtn.addEventListener('click', function () {
       Object.keys(activeTiers).forEach(function (t) { activeTiers[t] = true; });
       if (tiersBox) tiersBox.querySelectorAll('[data-tier]').forEach(function (b) { b.setAttribute('aria-pressed', 'true'); });
-      if (pathSel) pathSel.value = 'any';
-      if (perfSel) perfSel.value = 'any';
+      [pathSel, perfSel, genreSel, techSel, platSel].forEach(function (s) {
+        if (s) s.value = 'any';
+      });
       select.value = 'tier-desc';
       apply();
     });
