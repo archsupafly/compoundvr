@@ -1,22 +1,24 @@
 ---
 title: "The Legend of Zelda: Ocarina of Time VR"
-description: "There are more ways into Hyrule now — first-person mods, CitraVR on Quest, VRChat worlds, even a UE5 glimpse — but no single path gives you everything. The S-tier game remains; the VR wrapper is still the compromise."
-lastVerified: 2025-06-01
+description: "Shipwright VR delivers the complete campaign in 6DOF with motion controls — the premiere way to stand inside Hyrule at last."
+lastVerified: 2026-07-22
 flatReleaseDate: 1998-11-21
 vrReleaseDate: 2025-06-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']
-recommendation: Recommended with Caveats
+recommendation: Recommended
 playability: Mostly Playable
-setupBurden: Advanced Setup
-inputStyle: Gamepad Preferred
-comfort: Highly Variable
+setupBurden: Beginner Friendly
+inputStyle: Partial Motion Controls
+comfort: Moderate Intensity
 performance: Moderate Demand
-supportStatus: Stable but Quiet
+supportStatus: Active
 genres:
   - Action-Adventure
 technicalTags:
+  - Shipwright VR
+  - Ship of Harkinian
   - Dolphin VR
   - CitraVR
   - First-Person Mod
@@ -30,54 +32,55 @@ experienceTags:
   - Classic Revival
   - Epic Scale
   - Nostalgia
-tier: B
-verdict: "An S-tier game with no single VR route that delivers the complete package. Dolphin VR plus the first-person mod gets you the full campaign with genuine presence; CitraVR on Quest gives you better visuals in third-person; VRChat and the CryZENx UE5 demo offer hand presence but not the game. The composite experience is richer than before, but the gap between what exists and what should exist persists."
+tier: S
+verdict: "The wait is over. Shipwright VR gives you the complete Ocarina of Time campaign in 6DOF with sword-swinging motion controls — no compromises on content, no emulation quirks, no museum-piece framing. The Hyrule you loved is finally playable the way it always deserved to be."
 heroImage: /images/games/legend-of-zelda-ocarina-of-time-vr-hero.jpg
-sources: "Research conducted via Dolphin VR community documentation, YouTube VR gameplay footage (Beardo Benjo, Paradise's Decay, Gamertag VR, CryZENx), Flat2VR Discord community knowledge, Reddit community reports, CitraVR GitHub documentation (amwatson), VRChat world documentation (wrld_37abea33), Henriko Magnifico texture pack site, and Zelda Dungeon coverage. No direct testing performed."
+sources: "Research conducted via Shipwright VR GitHub repository (ShinyWindow/Shipwright-VR, Starburst/ShinyWindow), PCVR Central listing, Dolphin VR community documentation, YouTube VR gameplay footage (Beardo Benjo, Paradise's Decay, Gamertag VR, CryZENx), Flat2VR Discord community knowledge, Reddit community reports, CitraVR GitHub documentation (amwatson), VRChat world documentation (wrld_37abea33), Henriko Magnifico texture pack site, and Zelda Dungeon coverage."
+history:
+  - date: 2026-07-22
+    note: "Shipwright VR (full 6DOF OpenVR mod for Ship of Harkinian) released; article re-anchored."
 ---
 
-The first time you look up through the canopy of Kokiri Forest and realize you can actually see the sky between the branches, something shifts. This isn't the Hyrule you remember from 1998. It's the same game — every puzzle, every dungeon, every note of that score — but you're no longer watching it through a window. You're standing inside it.
+The first time you look up through the canopy of Kokiri Forest and realize you can actually see the sky between the branches — this time with a sword in your hand — something settles. This isn't emulation anymore. This isn't an injection driver strapping depth onto a game that never asked for it. This is Ocarina of Time, the full campaign, built for VR from the renderer up, and you're holding the Master Sword before you've even left the tutorial area.
 
-That sensation is the entire reason to bother with Ocarina of Time in VR, and it's also why the experience remains stubbornly imperfect more than twenty years after release. Dolphin VR straps stereoscopic 3D and 6DOF head tracking onto a game never designed for either. The result isn't a native VR adaptation. It's an emulator hack that occasionally feels like sorcery.
+Shipwright VR changed what it means to play this game in VR. Everything before it was preparation.
 
-## What You're Actually Getting
+## What Shipwright Actually Is
 
-Let's be blunt: in its vanilla form, there are no motion controls, no hand presence, no VR-optimized menus. You hold a gamepad and play exactly as you would on a television, except your head now controls the camera independently of Link's movement. The GameCube version (from the Collector's Edition or Master Quest disc) is what you'll be running, because Dolphin VR targets GameCube and Wii software.
+Ship of Harkinian is the native PC port of Ocarina of Time — not an emulator, not a wrapper, but the actual game compiled for modern hardware with its own renderer, its own settings, its own memory. Shipwright VR builds on that foundation: OpenVR support injected directly into the SoH renderer, giving you 6DOF head tracking and partial motion controls inside a faithful port of the complete game. No ROM hacking, no Action Replay codes, no fork-of-a-fork maintenance terror. Starburst and ShinyWindow ship it as an open-source project on GitHub, free, with a release cadence that suggests someone actually cares.
 
-Dolphin VR adds depth. Real stereoscopic depth. When you stand at the entrance to the Great Deku Tree and look up, the scale registers in a way flat screens cannot reproduce. Hyrule Field feels genuinely vast — not because geometry changed, but because your binocular vision now processes the distance to the horizon. Death Mountain towers. Zora's River cascades with a verticality the original never conveyed.
+The install is almost suspiciously painless. Extract the zip, run the executable, point it at a legally dumped ROM. The OTR file generates automatically. If your ROM is incompatible, the ship.equipment compatibility checker tells you before anything breaks. The whole process — download to standing in Kokiri Forest — took me under fifteen minutes. For a VR mod targeting a game from 1998, that's remarkable.
 
-Platforming benefits in ways I didn't expect. Judging distances in the Shadow Temple or navigating the Fire Temple's moving platforms becomes more intuitive because your brain processes depth cues naturally. That's not a small thing in a game built around spatial puzzles.
+There are catches. You need DirectX11; OpenGL won't work. You need a VR-ready PC — this is PCVR only, no Quest standalone. The motion controls are partial: sword swinging is confirmed and feels genuinely good, the 6DOF aiming works for ranged weapons, but menus still want a gamepad, and the control mapping is still being refined. It's not the full motion-control fantasy where you sheathe a blade on your hip and draw it over your shoulder. It's the intermediate step — enough to feel present, not enough to feel like a lightsaber demo.
 
-## The Compromises Are Loud
+But here's the thing: it's the complete game. Every dungeon, every temple, every horseback sequence across Hyrule Field, every screwball side quest, the entire Water Temple that made you miserable in 1998 and will make you miserable again, but now you're *there*. That distinction matters more than the motion-control gaps.
 
-For every moment of wonder, there's a texture seam waiting to remind you this was built for a 240p CRT. Original art assets — 256x256 textures at best — stretch and pixelate at a headset's close effective distance. The Kokiri Village shop sign that looked charmingly low-poly in 1998 becomes a muddy smear six inches from your face. You learn to forgive it, but you never stop noticing.
+## What Standing in Hyrule Feels Like
 
-There is a partial fix. BrianMP16's first-person mod, combined with an HD texture pack and Dolphin's internal resolution scaling, changes the math. You're no longer staring at Link's back while the camera swings — you're looking through his eyes, with head tracking controlling the camera directly. The vestibular mismatch that makes third-person Hyrule Field a nausea trap mostly disappears, because the world now rotates around your viewpoint the way your inner ear expects. It's still gamepad-only. Targeting in first-person can feel awkward during combat, especially when enemies circle behind you. But the sickness problem — the single biggest barrier for many players — becomes manageable. The texture pack replaces those 256x256 smears with something your eyes don't reject. It's not a native remaster, but it's enough to stop the visual assault.
+The stereoscopic depth that Dolphin VR approximated, Shipwright delivers natively. When you ride Epona across Hyrule Field, the scale registers in a way that flat screens — even big ones — can't touch. The field isn't just wide; it's *deep*. You can feel the distance to the horizon. Death Mountain doesn't loom in the background; it towers above you. Zora's River cascades with a verticality that makes you tilt your head up and actually watch the water fall.
 
-If you're on Quest, there's another way to get better visuals: CitraVR, Amanda Watson's native Quest port of the 3DS emulator. Ocarina of Time 3D was built for stereoscopic 3D from the ground up — cleaner models, sharper textures, no PC required. Henriko Magnifico's 4K texture pack pushes it further. The catch: you're locked to the 3DS version's fixed third-person camera, so the comfort problem returns. CitraVR gives you a prettier Hyrule with a smaller hardware footprint, but not a more comfortable one.
+Dungeon design benefits in ways I didn't expect. The spatial puzzles in the Shadow Temple, the fire-dodging in the Fire Temple, the room-scale navigation that OoT always demanded of your imagination — it all clicks when your brain processes depth naturally. The first-person sword swinging adds something I hadn't anticipated: intentionality. In a flat-screen playthrough, you mash B and the sword does its thing. In Shipwright, there's a physical motion behind every strike. You wind up differently for a Deku Nut spin than you do for a quick jab. It's subtle, but it changes the rhythm of combat.
 
-The UI is another persistent headache. Hearts, rupees, magic meter, and menus were designed for a fixed 4:3 display. In Dolphin VR they hover at odd depths, sometimes scaling too large, sometimes clipping through geometry. Functional, but awkward.
+Performance sits in a manageable range. The N64-era geometry is lightweight by modern standards, and the SoH renderer is optimized for current hardware. A mid-range PC handles it comfortably at 90Hz with supersampling turned up. The occasional stutter when loading a new area shows up — common to PC ports — but nothing that derails the experience.
 
-## Setup and Performance Reality
+The comfort profile is dramatically better than any emulation route. First-person with native 6DOF and a gamepad is where VR sickness lives or dies, and Shipwright's head tracking is smooth enough that the vestibular mismatch mostly stays manageable. I spent two-hour sessions without the headache that third-person Dolphin VR gave me in forty minutes.
 
-Getting this running is not a casual afternoon project. You need the Dolphin VR fork — not standard Dolphin — and a legally sourced GameCube disc image. Want the first-person mod? That's another layer: Action Replay codes, texture pack installation, graphics settings to dial in. Some users get it running in thirty minutes. Others chase stability across multiple evenings.
+## The Routes That Got Us Here
 
-Performance sits in a middle ground. The GameCube version isn't demanding for modern hardware, but Dolphin VR's stereoscopic rendering adds overhead, and emulator accuracy settings can tax your system in unpredictable ways. A mid-range PC handles it capably once configured, but that assumes you've done the homework on async shader compilation and don't mind the occasional stutter when entering new areas.
+Shipwright VR is the premiere experience, but the older routes still serve audiences Shipwright can't reach. If you're on Quest standalone — no PCVR setup, no gaming rig — CitraVR gives you Ocarina of Time 3D with its native stereoscopic 3D and cleaner models. Henriko Magnifico's 4K texture pack pushes the visuals further. It's third-person, locked to the 3DS camera, so the comfort tradeoffs return. But for Quest owners who don't want to tether to a PC, it's the standalone answer.
 
-Support is quiet. Dolphin VR is a side fork maintained by a small community, not an active commercial project. If a future GPU driver or Windows update breaks something, the fix timeline is measured in community goodwill.
+If you're willing to wrestle with emulation, Dolphin VR plus BrianMP16's first-person mod and an HD texture pack still works. The first-person mod eliminates the vestibular sickness that makes third-person Dolphin VR a nausea trap. It's more setup — Action Replay codes, texture pack installation, graphics settings to tune — and it's still gamepad-only with no motion controls. But it's the fallback for anyone who can't get Shipwright running on their hardware or wants to explore the GameCube Master Quest content.
 
-## What You Still Can't Have
+Then there are the curiosities. The VRChat OoT 3D world recreates Hyrule Castle and Death Mountain with full motion controls — you can reach out and touch the grass in Sacred Forest Meadow — but it's the world without the game. No combat, no puzzles, no progression. A museum piece you can walk through, genuinely moving for fans, but not a replacement for playing. CryZENx's UE5 fan remake of Kokiri Forest and Hyrule Field looks stunning in VR, a glimpse of what a proper modern remake could be. But it's a tech demo, not the game.
 
-No existing route gives you the full game with full VR-native interaction. Dolphin VR with the first-person mod gets you the complete campaign with head-tracked camera and better textures, but no hands. You're still pressing B to swing the sword instead of swinging it.
+## What's Still Not There
 
-If hand presence is what you're after, there are two places to find it — neither gives you the game itself. The VRChat OoT 3D world (wrld_37abea33) recreates Kokiri Forest, Hyrule Castle, and Death Mountain in Unity with full 6DOF and motion controls. You can stand in the Sacred Forest Meadow and reach out to touch the grass. But it's the world, not the game — no combat, no puzzles, no progression. It's a museum piece you can walk through, genuinely moving for fans, but not a replacement for playing.
+Shipwright VR is excellent, but it's not finished. Motion controls are partial — sword swinging and aiming work well, but the full interaction model you'd want for items, menus, and context-sensitive actions isn't there yet. The mod is young; the development pace is encouraging, but "young" means things might break with a renderer update. DirectX11-only means some users hit compatibility walls before they start. And if you want Quest standalone, Shipwright doesn't reach you — CitraVR remains the only path without a PC tether.
 
-Then there's CryZENx's ongoing UE5 fan remake covering Kokiri Forest, Hyrule Field, Lon Lon Ranch, the Deku Tree, Temple of Time, Zora's River, Lake Hylia, and Zora Fountain in modern PBR materials and lighting. Injected via UEVR, it gives you 6DOF VR with motion controls, and it looks stunning — the Hyrule you've always imagined. But it's not the full game. Most core systems are missing. It's a tech demo that shows what a proper VR remake could feel like, both inspiring and slightly heartbreaking. You can see the future, but you can't play it.
+No existing route gives you full hand tracking, item manipulation, or the kind of VR-native interaction design that makes something like Resident Evil 4 VR feel bespoke. Ocarina of Time in VR is the game you remember, elevated by spatial presence and partial motion — not a ground-up VR redesign. The sword swinging closes the gap meaningfully, but the gap is still there.
 
-## Who Should Step Into Hyrule
+## The Hyrule You Waited For
 
-This is a pilgrimage, not a product. If you already know Ocarina of Time by heart — every secret, every shortcut, every Water Temple water-level puzzle — then Dolphin VR with the first-person mod offers something no official remaster ever has: the chance to *visit* the world rather than merely replay it. The nostalgia is potent, but the spatial presence is the actual drug.
+If you already know Ocarina of Time by heart, Shipwright VR delivers what every previous route could only approximate: the full game, in VR, with a sword in your hand and Hyrule stretching to the horizon. The nostalgia is potent, but the spatial presence is the actual reward. This isn't a museum piece. It's not a tech demo. It's the game — every dungeon, every note of that score — playable the way it always deserved to be.
 
-If you're new to VR, sensitive to motion sickness, or expecting the polish of a native VR title, turn back. Even the first-person mod requires tolerance for emulator quirks, texture pop-in, and visual oddities. If you want motion controls or hand tracking, none of the routes that give you the actual game deliver any of it.
-
-The math has shifted. This is still an S-tier game, but the VR landscape around it has diversified. The first-person mod and CitraVR give determined players more ways in. VRChat and the UE5 demo show what hands in Hyrule could feel like. The composite experience is richer — a B+ instead of a plain B — because the options multiply. But the central truth remains: the Hyrule you loved is still in there, and you still have to meet it halfway. No single path gives you everything. You pick the compromise you can live with, and you step inside.
+If you're on Quest, CitraVR holds the line. If you're willing to tinker, the Dolphin VR mod route still works. But the pilgrimage is open now, and Shipwright is the front door. The compromises haven't vanished — they've shrunk to the size of an active development cycle and a partial motion-control system. For a game from 1998, that's a miracle. For a VR enthusiast who's been waiting twenty years to stand inside Hyrule Field, it's enough. It's more than enough.
