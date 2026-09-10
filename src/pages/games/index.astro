@@ -7,8 +7,16 @@ import { getCollection } from 'astro:content';
 // tiebreak by recency (lastVerified newest first).
 const tierOrder = { 'S': 0, 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'F': 5 };
 const tierRank = (t?: string) => tierOrder[t as keyof typeof tierOrder] ?? 2;
-const epoch = (d?: Date) => (d ? d.valueOf() : 0);
-const games = (await getCollection('games')).sort((a, b) => {
+const validDate = (d?: Date) => (d && !isNaN(d.valueOf()) ? d : undefined);
+const epoch = (d?: Date) => validDate(d)?.valueOf() ?? 0;
+// Release = flat date, falling back to VR date when flat is missing/invalid
+// (5 VR-native titles carry flatReleaseDate: "null", which coerces Invalid).
+const releaseOf = (g: any) => validDate(g.data.flatReleaseDate) ?? validDate(g.data.vrReleaseDate);
+const allGames = await getCollection('games');
+const relYears = allGames.map((g) => releaseOf(g)?.getUTCFullYear()).filter((y): y is number => y !== undefined);
+const minYear = Math.min(...relYears);
+const maxYear = Math.max(...relYears);
+const games = allGames.sort((a, b) => {
   const dt = tierRank(a.data.tier) - tierRank(b.data.tier);
   if (dt !== 0) return dt;
   return epoch(b.data.lastVerified) - epoch(a.data.lastVerified);
@@ -97,6 +105,12 @@ const games = (await getCollection('games')).sort((a, b) => {
           <button type="button" class={`tier-chip tier--${t.toLowerCase()}`} data-tier={t} aria-pressed="true">{t}</button>
         ))}
       </div>
+      <span class="games-year" id="games-year" role="group" aria-label="Filter by release year">
+        <span class="games-sort-label">Year</span>
+        <input type="number" id="games-year-from" class="games-year-input" min={minYear} max={maxYear} placeholder={String(minYear)} aria-label="Released from year" />
+        <span class="games-year-sep">–</span>
+        <input type="number" id="games-year-to" class="games-year-input" min={minYear} max={maxYear} placeholder={String(maxYear)} aria-label="Released to year" />
+      </span>
       <button type="button" id="games-reset" class="games-reset" hidden>Reset</button>
     </div>
     <CardGrid items={games.map((game) => ({
@@ -111,7 +125,7 @@ const games = (await getCollection('games')).sort((a, b) => {
       setupBurden: game.data.setupBurden,
       sortTier: tierRank(game.data.tier),
       sortUpdated: epoch(game.data.lastVerified),
-      sortReleased: epoch(game.data.flatReleaseDate ?? game.data.vrReleaseDate),
+      sortReleased: epoch(releaseOf(game)),
       filterRoute: game.data.routeType,
       filterPerf: game.data.performance,
       filterGenres: (game.data.genres || []).join('|'),
@@ -197,6 +211,23 @@ const games = (await getCollection('games')).sort((a, b) => {
     border-radius: 12px;
     padding: 1rem 1.25rem;
   }
+  .games-year {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .games-year-input {
+    font-size: 0.9rem;
+    width: 4.5rem;
+    padding: 0.5rem 0.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
+    background: var(--surface-primary, #ffffff);
+    color: var(--text-primary, #0b1020);
+  }
+  .games-year-sep {
+    color: var(--text-tertiary, #8b92b8);
+  }
   .games-reset {
     font-size: 0.85rem;
     padding: 0.5rem 0.75rem;
@@ -235,6 +266,18 @@ const games = (await getCollection('games')).sort((a, b) => {
     var platSel = document.getElementById('games-platform');
     var tiersBox = document.getElementById('games-tiers');
     var resetBtn = document.getElementById('games-reset');
+    var yearFrom = document.getElementById('games-year-from');
+    var yearTo = document.getElementById('games-year-to');
+    function yearOf(c) {
+      var ts = num(c, 'data-sort-released');
+      if (!ts) return NaN;
+      return new Date(ts).getUTCFullYear();
+    }
+    function yearActive() {
+      var f = yearFrom && yearFrom.value !== '';
+      var t = yearTo && yearTo.value !== '';
+      return f || t;
+    }
     var filterToggle = document.getElementById('games-filter-toggle');
     var filtersBox = document.getElementById('games-filters-box');
     var activeTiers = { 'S': true, 'A': true, 'B': true, 'C': true, 'D': true, 'F': true };
@@ -259,6 +302,14 @@ const games = (await getCollection('games')).sort((a, b) => {
       if (genreSel && genreSel.value !== 'any' && tags(c, 'data-genres').indexOf(genreSel.value) === -1) return false;
       if (techSel && techSel.value !== 'any' && !techMatch(tags(c, 'data-tech'), techSel.value)) return false;
       if (platSel && platSel.value !== 'any' && tags(c, 'data-platforms').indexOf(platSel.value) === -1) return false;
+      if (yearActive()) {
+        var y = yearOf(c);
+        var f = yearFrom ? parseInt(yearFrom.value, 10) : NaN;
+        var t = yearTo ? parseInt(yearTo.value, 10) : NaN;
+        if (isNaN(y)) return false;
+        if (!isNaN(f) && y < f) return false;
+        if (!isNaN(t) && y > t) return false;
+      }
       return true;
     }
     function activeFilterCount() {
@@ -268,12 +319,15 @@ const games = (await getCollection('games')).sort((a, b) => {
       [pathSel, perfSel, genreSel, techSel, platSel].forEach(function (s) {
         if (s && s.value !== 'any') n++;
       });
+      if (yearActive()) n++;
       return n;
     }
     function isDefault() {
       var sels = [pathSel, perfSel, genreSel, techSel, platSel];
       var allTiers = ['S', 'A', 'B', 'C', 'D', 'F'].every(function (t) { return activeTiers[t]; });
-      return allTiers && sels.every(function (s) { return !s || s.value === 'any'; }) && select.value === 'tier-desc';
+      var yearsClear = !yearFrom || yearFrom.value === '';
+      yearsClear = yearsClear && (!yearTo || yearTo.value === '');
+      return allTiers && sels.every(function (s) { return !s || s.value === 'any'; }) && yearsClear && select.value === 'tier-desc';
     }
     function renderToggle() {
       if (!filterToggle) return;
@@ -297,6 +351,9 @@ const games = (await getCollection('games')).sort((a, b) => {
     [pathSel, perfSel, genreSel, techSel, platSel].forEach(function (s) {
       if (s) s.addEventListener('change', apply);
     });
+    [yearFrom, yearTo].forEach(function (s) {
+      if (s) s.addEventListener('input', apply);
+    });
     if (tiersBox) tiersBox.addEventListener('click', function (e) {
       var btn = e.target.closest ? e.target.closest('[data-tier]') : null;
       if (!btn) return;
@@ -315,6 +372,8 @@ const games = (await getCollection('games')).sort((a, b) => {
       [pathSel, perfSel, genreSel, techSel, platSel].forEach(function (s) {
         if (s) s.value = 'any';
       });
+      if (yearFrom) yearFrom.value = '';
+      if (yearTo) yearTo.value = '';
       select.value = 'tier-desc';
       apply();
     });
