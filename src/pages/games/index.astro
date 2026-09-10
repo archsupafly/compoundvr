@@ -23,6 +23,27 @@ const games = (await getCollection('games')).sort((a, b) => {
   </section>
   <section class="section container">
     <div class="games-toolbar">
+      <div class="games-tiers" id="games-tiers" role="group" aria-label="Filter by tier">
+        <span class="games-sort-label">Tier</span>
+        {['S', 'A', 'B', 'C', 'D', 'F'].map((t) => (
+          <button type="button" class={`tier-chip tier--${t.toLowerCase()}`} data-tier={t} aria-pressed="true">{t}</button>
+        ))}
+      </div>
+      <label class="games-sort-label" for="games-path">VR path</label>
+      <select id="games-path" class="games-sort-select">
+        <option value="any" selected>All paths</option>
+        <option value="Native VR">Native VR</option>
+        <option value="Official Hybrid">Official VR mode</option>
+        <option value="Full VR Mod">Full VR mod</option>
+        <option value="Framework Only">VR framework / injector</option>
+        <option value="Multi-Route Coverage">Multiple VR options</option>
+      </select>
+      <label class="games-sort-label" for="games-perf">PC load</label>
+      <select id="games-perf" class="games-sort-select">
+        <option value="any" selected>Any PC</option>
+        <option value="potato">Potato-friendly</option>
+        <option value="highend">High-end only</option>
+      </select>
       <label class="games-sort-label" for="games-sort">Sort by</label>
       <select id="games-sort" class="games-sort-select">
         <option value="tier-desc" selected>Tier: Best first</option>
@@ -33,6 +54,7 @@ const games = (await getCollection('games')).sort((a, b) => {
         <option value="title-asc">Title A–Z</option>
         <option value="title-desc">Title Z–A</option>
       </select>
+      <button type="button" id="games-reset" class="games-reset" hidden>Reset</button>
       <span class="games-count" id="games-count"></span>
     </div>
     <CardGrid items={games.map((game) => ({
@@ -48,6 +70,8 @@ const games = (await getCollection('games')).sort((a, b) => {
       sortTier: tierRank(game.data.tier),
       sortUpdated: epoch(game.data.lastVerified),
       sortReleased: epoch(game.data.flatReleaseDate ?? game.data.vrReleaseDate),
+      filterRoute: game.data.routeType,
+      filterPerf: game.data.performance,
     }))} columns={3} />
   </section>
 </Layout>
@@ -79,6 +103,43 @@ const games = (await getCollection('games')).sort((a, b) => {
     color: var(--text-tertiary, #8b92b8);
     margin-left: auto;
   }
+  .games-tiers {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .tier-chip {
+    font-family: var(--font-mono, 'JetBrains Mono', monospace);
+    font-size: 0.8rem;
+    font-weight: 700;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    background: var(--surface-primary, #ffffff);
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
+    color: var(--text-tertiary, #8b92b8);
+    opacity: 0.45;
+    transition: opacity 0.15s ease;
+  }
+  .tier-chip[aria-pressed="true"] {
+    opacity: 1;
+  }
+  .tier-chip.tier--s[aria-pressed="true"] { color: #f0c674; border-color: rgba(240, 198, 116, 0.4); }
+  .tier-chip.tier--a[aria-pressed="true"] { color: #22c55e; border-color: rgba(34, 197, 94, 0.4); }
+  .tier-chip.tier--b[aria-pressed="true"] { color: #0891b2; border-color: rgba(110, 231, 255, 0.4); }
+  .tier-chip.tier--c[aria-pressed="true"] { color: #f59e0b; border-color: rgba(245, 158, 11, 0.4); }
+  .tier-chip.tier--d[aria-pressed="true"] { color: #f97316; border-color: rgba(249, 115, 22, 0.4); }
+  .tier-chip.tier--f[aria-pressed="true"] { color: #ef4444; border-color: rgba(239, 68, 68, 0.4); }
+  .games-reset {
+    font-size: 0.85rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
+    background: transparent;
+    color: var(--text-secondary, #6b7280);
+    cursor: pointer;
+  }
 </style>
 
 <script>
@@ -101,13 +162,61 @@ const games = (await getCollection('games')).sort((a, b) => {
       'title-asc': function (a, b) { return str(a, 'data-sort-title') < str(b, 'data-sort-title') ? -1 : 1; },
       'title-desc': function (a, b) { return str(a, 'data-sort-title') > str(b, 'data-sort-title') ? -1 : 1; },
     };
-    function renderCount() {
-      if (count) count.textContent = cards.length + (cards.length === 1 ? ' game' : ' games');
+    var pathSel = document.getElementById('games-path');
+    var perfSel = document.getElementById('games-perf');
+    var tiersBox = document.getElementById('games-tiers');
+    var resetBtn = document.getElementById('games-reset');
+    var activeTiers = { 'S': true, 'A': true, 'B': true, 'C': true, 'D': true, 'F': true };
+    var POTATO = { 'Efficient': true, 'Moderate Demand': true };
+    function perfGroup(p) {
+      if (p === 'any') return null;
+      return p === 'potato' ? POTATO : null; // highend = everything not potato
     }
-    select.addEventListener('change', function () {
+    var RANK_TIER = ['S', 'A', 'B', 'C', 'D', 'F'];
+    function visible(c) {
+      var tier = RANK_TIER[num(c, 'data-sort-tier')] || '';
+      if (!activeTiers[tier]) return false;
+      if (pathSel && pathSel.value !== 'any' && c.getAttribute('data-route') !== pathSel.value) return false;
+      if (perfSel && perfSel.value !== 'any') {
+        var isPotato = !!POTATO[c.getAttribute('data-perf') || ''];
+        if (perfSel.value === 'potato' && !isPotato) return false;
+        if (perfSel.value === 'highend' && isPotato) return false;
+      }
+      return true;
+    }
+    function isDefault() {
+      var allTiers = ['S', 'A', 'B', 'C', 'D', 'F'].every(function (t) { return activeTiers[t]; });
+      return allTiers && (!pathSel || pathSel.value === 'any') && (!perfSel || perfSel.value === 'any') && select.value === 'tier-desc';
+    }
+    function apply() {
       var cmp = comparators[select.value] || comparators['tier-desc'];
-      cards.slice().sort(cmp).forEach(function (c) { grid.appendChild(c); });
+      var shown = 0;
+      cards.slice().sort(cmp).forEach(function (c) {
+        if (visible(c)) { c.style.display = ''; grid.appendChild(c); shown++; }
+        else { c.style.display = 'none'; }
+      });
+      if (count) count.textContent = shown + ' of ' + cards.length + ' games';
+      if (resetBtn) resetBtn.hidden = isDefault();
+    }
+    select.addEventListener('change', apply);
+    if (pathSel) pathSel.addEventListener('change', apply);
+    if (perfSel) perfSel.addEventListener('change', apply);
+    if (tiersBox) tiersBox.addEventListener('click', function (e) {
+      var btn = e.target.closest ? e.target.closest('[data-tier]') : null;
+      if (!btn) return;
+      var t = btn.getAttribute('data-tier');
+      activeTiers[t] = !activeTiers[t];
+      btn.setAttribute('aria-pressed', activeTiers[t] ? 'true' : 'false');
+      apply();
     });
-    renderCount();
+    if (resetBtn) resetBtn.addEventListener('click', function () {
+      Object.keys(activeTiers).forEach(function (t) { activeTiers[t] = true; });
+      if (tiersBox) tiersBox.querySelectorAll('[data-tier]').forEach(function (b) { b.setAttribute('aria-pressed', 'true'); });
+      if (pathSel) pathSel.value = 'any';
+      if (perfSel) perfSel.value = 'any';
+      select.value = 'tier-desc';
+      apply();
+    });
+    apply();
   })();
 </script>
