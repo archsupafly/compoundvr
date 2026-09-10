@@ -33,9 +33,10 @@ const games = (await getCollection('games')).sort((a, b) => {
         <option value="title-asc">Title A–Z</option>
         <option value="title-desc">Title Z–A</option>
       </select>
+      <button type="button" id="games-filter-toggle" class="games-filter-toggle" aria-expanded="false" aria-controls="games-filters-box">Show filters</button>
       <span class="games-count" id="games-count"></span>
     </div>
-    <div class="games-toolbar games-toolbar--filters">
+    <div class="games-toolbar games-toolbar--filters" id="games-filters-box" hidden>
       <div class="games-tiers" id="games-tiers" role="group" aria-label="Filter by tier">
         <span class="games-sort-label">Tier</span>
         {['S', 'A', 'B', 'C', 'D', 'F'].map((t) => (
@@ -174,6 +175,25 @@ const games = (await getCollection('games')).sort((a, b) => {
   .tier-chip.tier--c[aria-pressed="true"] { color: #f59e0b; border-color: rgba(245, 158, 11, 0.4); }
   .tier-chip.tier--d[aria-pressed="true"] { color: #f97316; border-color: rgba(249, 115, 22, 0.4); }
   .tier-chip.tier--f[aria-pressed="true"] { color: #ef4444; border-color: rgba(239, 68, 68, 0.4); }
+  .games-filter-toggle {
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
+    background: var(--surface-primary, #ffffff);
+    color: var(--text-primary, #0b1020);
+    cursor: pointer;
+  }
+  .games-filter-toggle:hover {
+    border-color: var(--accent-cyan, #6ee7ff);
+  }
+  .games-toolbar--filters {
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
+    background: var(--surface-secondary, rgba(0, 0, 0, 0.02));
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+  }
   .games-reset {
     font-size: 0.85rem;
     padding: 0.5rem 0.75rem;
@@ -212,6 +232,8 @@ const games = (await getCollection('games')).sort((a, b) => {
     var platSel = document.getElementById('games-platform');
     var tiersBox = document.getElementById('games-tiers');
     var resetBtn = document.getElementById('games-reset');
+    var filterToggle = document.getElementById('games-filter-toggle');
+    var filtersBox = document.getElementById('games-filters-box');
     var activeTiers = { 'S': true, 'A': true, 'B': true, 'C': true, 'D': true, 'F': true };
     var RANK_TIER = ['S', 'A', 'B', 'C', 'D', 'F'];
     function tags(c, k) { return (c.getAttribute(k) || '').split('|'); }
@@ -236,10 +258,26 @@ const games = (await getCollection('games')).sort((a, b) => {
       if (platSel && platSel.value !== 'any' && tags(c, 'data-platforms').indexOf(platSel.value) === -1) return false;
       return true;
     }
-    function isDefault() {
+    function activeFilterCount() {
+      var n = 0;
       var allTiers = ['S', 'A', 'B', 'C', 'D', 'F'].every(function (t) { return activeTiers[t]; });
+      if (!allTiers) n++;
+      [pathSel, perfSel, genreSel, techSel, platSel].forEach(function (s) {
+        if (s && s.value !== 'any') n++;
+      });
+      return n;
+    }
+    function isDefault() {
       var sels = [pathSel, perfSel, genreSel, techSel, platSel];
+      var allTiers = ['S', 'A', 'B', 'C', 'D', 'F'].every(function (t) { return activeTiers[t]; });
       return allTiers && sels.every(function (s) { return !s || s.value === 'any'; }) && select.value === 'tier-desc';
+    }
+    function renderToggle() {
+      if (!filterToggle) return;
+      var open = filtersBox && !filtersBox.hidden;
+      var n = activeFilterCount();
+      filterToggle.textContent = (open ? 'Hide filters' : 'Show filters') + (n > 0 ? ' (' + n + ')' : '');
+      filterToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
     }
     function apply() {
       var cmp = comparators[select.value] || comparators['tier-desc'];
@@ -250,6 +288,7 @@ const games = (await getCollection('games')).sort((a, b) => {
       });
       if (count) count.textContent = shown + ' of ' + cards.length + ' games';
       if (resetBtn) resetBtn.hidden = isDefault();
+      renderToggle();
     }
     select.addEventListener('change', apply);
     [pathSel, perfSel, genreSel, techSel, platSel].forEach(function (s) {
@@ -262,6 +301,10 @@ const games = (await getCollection('games')).sort((a, b) => {
       activeTiers[t] = !activeTiers[t];
       btn.setAttribute('aria-pressed', activeTiers[t] ? 'true' : 'false');
       apply();
+    });
+    if (filterToggle && filtersBox) filterToggle.addEventListener('click', function () {
+      filtersBox.hidden = !filtersBox.hidden;
+      renderToggle();
     });
     if (resetBtn) resetBtn.addEventListener('click', function () {
       Object.keys(activeTiers).forEach(function (t) { activeTiers[t] = true; });
