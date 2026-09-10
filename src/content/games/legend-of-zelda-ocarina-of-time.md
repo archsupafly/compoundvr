@@ -10,7 +10,7 @@ platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Mostly Playable
 setupBurden: Beginner Friendly
-inputStyle: Partial Motion Controls
+inputStyle: Mixed Input
 comfort: Moderate Intensity
 performance: Moderate Demand
 supportStatus: Active
@@ -47,11 +47,11 @@ Shipwright VR changed what it means to play this game in VR. Everything before i
 
 ## What Shipwright Actually Is
 
-Ship of Harkinian is the native PC port of Ocarina of Time — not an emulator, not a wrapper, but the actual game compiled for modern hardware with its own renderer, its own settings, its own memory. Shipwright VR builds on that foundation: OpenVR support injected directly into the SoH renderer, giving you 6DOF head tracking and partial motion controls inside a faithful port of the complete game. No ROM hacking, no Action Replay codes, no fork-of-a-fork maintenance terror. Starburst and ShinyWindow ship it as an open-source project on GitHub, free, with a release cadence that suggests someone actually cares.
+Ship of Harkinian is the native PC port of Ocarina of Time — not an emulator, not a wrapper, but the actual game compiled for modern hardware with its own renderer, its own settings, its own memory. Shipwright VR builds on that foundation: OpenVR support injected directly into the SoH renderer, giving you 6DOF head tracking and motion controls inside a faithful port of the complete game. No ROM hacking, no Action Replay codes, no fork-of-a-fork maintenance terror. Starburst and ShinyWindow ship it as an open-source project on GitHub, free, with a release cadence that suggests someone actually cares.
 
 The install is almost suspiciously painless. Extract the zip, run the executable, point it at a legally dumped ROM. The OTR file generates automatically. If your ROM is incompatible, the ship.equipment compatibility checker tells you before anything breaks. The whole process — download to standing in Kokiri Forest — took me under fifteen minutes. For a VR mod targeting a game from 1998, that's remarkable.
 
-There are catches. You need DirectX11; OpenGL won't work. You need a VR-ready PC — this is PCVR only, no Quest standalone. The motion controls are partial: sword swinging is confirmed and feels genuinely good, the 6DOF aiming works for ranged weapons, but menus still want a gamepad, and the control mapping is still being refined. It's not the full motion-control fantasy where you sheathe a blade on your hip and draw it over your shoulder. It's the intermediate step — enough to feel present, not enough to feel like a lightsaber demo.
+There are catches. You need DirectX11; OpenGL won't work. You need a VR-ready PC — this is PCVR only, no Quest standalone. Motion controls cover sword swinging — confirmed and genuinely good — plus 6DOF aiming for ranged weapons. Menus still want a gamepad, and the control mapping is still being refined. It's not the full motion-control fantasy where you sheathe a blade on your hip and draw it over your shoulder. It's the intermediate step — enough to feel present, not enough to feel like a lightsaber demo.
 
 But here's the thing: it's the complete game. Every dungeon, every temple, every horseback sequence across Hyrule Field, every screwball side quest, the entire Water Temple that made you miserable in 1998 and will make you miserable again, but now you're *there*. That distinction matters more than the motion-control gaps.
 
@@ -75,12 +75,12 @@ Then there are the curiosities. The VRChat OoT 3D world recreates Hyrule Castle 
 
 ## What's Still Not There
 
-Shipwright VR is excellent, but it's not finished. Motion controls are partial — sword swinging and aiming work well, but the full interaction model you'd want for items, menus, and context-sensitive actions isn't there yet. The mod is young; the development pace is encouraging, but "young" means things might break with a renderer update. DirectX11-only means some users hit compatibility walls before they start. And if you want Quest standalone, Shipwright doesn't reach you — CitraVR remains the only path without a PC tether.
+Shipwright VR is excellent, but it's not finished. Combat motion controls work well, but the full interaction model you'd want for items, menus, and context-sensitive actions isn't there yet. The mod is young; the development pace is encouraging, but "young" means things might break with a renderer update. DirectX11-only means some users hit compatibility walls before they start. And if you want Quest standalone, Shipwright doesn't reach you — CitraVR remains the only path without a PC tether.
 
-No existing route gives you full hand tracking, item manipulation, or the kind of VR-native interaction design that makes something like Resident Evil 4 VR feel bespoke. Ocarina of Time in VR is the game you remember, elevated by spatial presence and partial motion — not a ground-up VR redesign. The sword swinging closes the gap meaningfully, but the gap is still there.
+No existing route gives you full hand tracking, item manipulation, or the kind of VR-native interaction design that makes something like Resident Evil 4 VR feel bespoke. Ocarina of Time in VR is the game you remember, elevated by spatial presence and motion-controlled combat — not a ground-up VR redesign. The sword swinging closes the gap meaningfully, but the gap is still there.
 
 ## The Hyrule You Waited For
 
 If you already know Ocarina of Time by heart, Shipwright VR delivers what every previous route could only approximate: the full game, in VR, with a sword in your hand and Hyrule stretching to the horizon. The nostalgia is potent, but the spatial presence is the actual reward. This isn't a museum piece. It's not a tech demo. It's the game — every dungeon, every note of that score — playable the way it always deserved to be.
 
-If you're on Quest, CitraVR holds the line. If you're willing to tinker, the Dolphin VR mod route still works. But the pilgrimage is open now, and Shipwright is the front door. The compromises haven't vanished — they've shrunk to the size of an active development cycle and a partial motion-control system. For a game from 1998, that's a miracle. For a VR enthusiast who's been waiting twenty years to stand inside Hyrule Field, it's enough. It's more than enough.
+If you're on Quest, CitraVR holds the line. If you're willing to tinker, the Dolphin VR mod route still works. But the pilgrimage is open now, and Shipwright is the front door. The compromises haven't vanished — they've shrunk to the size of an active development cycle and a still-maturing control map. For a game from 1998, that's a miracle. For a VR enthusiast who's been waiting twenty years to stand inside Hyrule Field, it's enough. It's more than enough.
