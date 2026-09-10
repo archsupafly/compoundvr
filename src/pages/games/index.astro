@@ -37,12 +37,6 @@ const games = (await getCollection('games')).sort((a, b) => {
       <span class="games-count" id="games-count"></span>
     </div>
     <div class="games-toolbar games-toolbar--filters" id="games-filters-box" hidden>
-      <div class="games-tiers" id="games-tiers" role="group" aria-label="Filter by tier">
-        <span class="games-sort-label">Tier</span>
-        {['S', 'A', 'B', 'C', 'D', 'F'].map((t) => (
-          <button type="button" class={`tier-chip tier--${t.toLowerCase()}`} data-tier={t} aria-pressed="true">{t}</button>
-        ))}
-      </div>
       <label class="games-sort-label" for="games-path">VR path</label>
       <select id="games-path" class="games-sort-select">
         <option value="any" selected>All paths</option>
@@ -97,6 +91,12 @@ const games = (await getCollection('games')).sort((a, b) => {
         <option>PSVR2</option>
         <option>Pico</option>
       </select>
+      <div class="games-tiers" id="games-tiers" role="group" aria-label="Filter by tier">
+        <span class="games-sort-label">Tier</span>
+        {['S', 'A', 'B', 'C', 'D', 'F'].map((t) => (
+          <button type="button" class={`tier-chip tier--${t.toLowerCase()}`} data-tier={t} aria-pressed="true">{t}</button>
+        ))}
+      </div>
       <button type="button" id="games-reset" class="games-reset" hidden>Reset</button>
     </div>
     <CardGrid items={games.map((game) => ({
@@ -187,6 +187,9 @@ const games = (await getCollection('games')).sort((a, b) => {
   }
   .games-filter-toggle:hover {
     border-color: var(--accent-cyan, #6ee7ff);
+  }
+  .games-toolbar--filters[hidden] {
+    display: none;
   }
   .games-toolbar--filters {
     border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
