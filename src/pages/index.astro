@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import CardGrid from '../components/CardGrid.astro';
+import StatsBar from '../components/StatsBar.astro';
 import ArticleGrid from '../components/ArticleGrid.astro';
 import FeaturedHero from '../components/FeaturedHero.astro';
 import { getCollection } from 'astro:content';
@@ -68,28 +69,25 @@ const featuredItems = featuredSlugs
       <div class="hero-copy">
         <h1>Your guide to the best mods, hybrid, and native VR games</h1>
         <p class="lead">
-          CompoundVR is a decision database with editorial judgment layered on top — canonical game pages,
-          setup reality checks, and trustworthy verdicts on whether playing in VR is actually worth your time.
+          Find out which flat games are actually worth playing in VR. We test every mod, port, and
+          workaround — from UEVR to VorpX to native releases — and give you honest setup guides
+          and verdicts for PCVR and Quest.
         </p>
         <div class="hero-buttons">
           <a class="hero-btn hero-btn--primary" href="/games/">Browse all games</a>
           <a class="hero-btn hero-btn--secondary" href="/articles/">View articles</a>
         </div>
       </div>
-      <dl class="hero-stats" aria-label="Site coverage statistics">
-        <div class="hero-stats__total">
-          <dd>{allGames.length}</dd>
-          <dt>Games covered</dt>
-        </div>
-        <div class="hero-stats__row">
-          <div><dd>{nativeCount}</dd><dt>Native VR</dt></div>
-          <div><dd>{hybridCount}</dd><dt>Official hybrid</dt></div>
-          <div><dd>{moddedCount}</dd><dt>VR modded</dt></div>
-          <div><dd>{allArticles.length}</dd><dt>Guides &amp; articles</dt></div>
-        </div>
-      </dl>
     </div>
   </section>
+
+  <StatsBar
+    totalGames={allGames.length}
+    nativeCount={nativeCount}
+    hybridCount={hybridCount}
+    moddedCount={moddedCount}
+    articleCount={allArticles.length}
+  />
 
   {featuredItems.length > 0 && (
     <section class="section homepage-featured container">
@@ -152,7 +150,7 @@ const featuredItems = featuredSlugs
   .homepage-hero .lead {
     margin-left: auto;
     margin-right: auto;
-    max-width: 640px;
+    max-width: 960px;
   }
   .hero-buttons {
     display: flex;
@@ -181,47 +179,6 @@ const featuredItems = featuredSlugs
     background: var(--surface-primary, #ffffff);
     color: var(--text-primary, #0b1020);
     border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
-  }
-  .hero-stats {
-    margin: 0;
-    width: 100%;
-    max-width: 720px;
-    text-align: center;
-    background: var(--surface-secondary, rgba(0, 0, 0, 0.02));
-    border: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.08));
-    border-radius: 12px;
-    padding: 1.5rem;
-  }
-  .hero-stats__total dd {
-    font-size: 2.75rem;
-    font-weight: 700;
-    margin: 0;
-    color: var(--text-primary, #0b1020);
-    line-height: 1;
-  }
-  .hero-stats__total dt {
-    font-size: 0.85rem;
-    color: var(--text-secondary, #6b7280);
-    margin-top: 0.25rem;
-  }
-  .hero-stats__row {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 0.5rem;
-    margin-top: 1.25rem;
-    padding-top: 1.25rem;
-    border-top: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.08));
-  }
-  .hero-stats__row dd {
-    font-size: 1.25rem;
-    font-weight: 700;
-    margin: 0;
-    color: var(--text-primary, #0b1020);
-  }
-  .hero-stats__row dt {
-    font-size: 0.7rem;
-    color: var(--text-tertiary, #8b92b8);
-    margin-top: 0.15rem;
   }
 
   .homepage-featured {
