@@ -13,8 +13,8 @@ const allGames = (await getCollection('games')).sort((a, b) => {
   return dateB - dateA;
 });
 
-// Games for the 2-column grid (up to 12)
-const displayGames = allGames.slice(0, 12);
+// Games for the 2-column grid (up to 10)
+const displayGames = allGames.slice(0, 10);
 
 // Homepage coverage counters (mutually exclusive game buckets sum to total)
 const nativeCount = allGames.filter((g) => g.data.routeType === 'Native VR').length;
@@ -23,12 +23,12 @@ const moddedCount = allGames.filter((g) =>
   ['Full VR Mod', 'Framework Only', 'Multi-Route Coverage'].includes(g.data.routeType)
 ).length;
 
-// Articles for the sidebar column (up to 4, exclude featured ones already in carousel)
+// Articles for the sidebar column (up to 10, exclude featured ones already in carousel)
 const featuredSlugs = ['flatout-4-vr', 'microsoft-flight-simulator', 'dolphin-vr', 'triangle-strategy', 'outward'];
 const allArticles = (await getCollection('articles')).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const sidebarArticles = allArticles
   .filter(a => !featuredSlugs.includes(a.id))
-  .slice(0, 4);
+  .slice(0, 10);
 
 // Featured items: games + articles in editorial order
 const gamesMap = Object.fromEntries(allGames.map(g => [g.id, g]));
@@ -89,47 +89,35 @@ const featuredItems = featuredSlugs
 
   <section class="section container">
     <div class="home-grid">
-      <h2>Games</h2>
-      <h2>Articles</h2>
-      <div class="home-grid__games">
-        <CardGrid items={displayGames.map((game) => ({
-          href: `/games/${game.id}/`,
-          title: game.data.title,
-          description: game.data.verdict,
-          heroImage: game.data.heroImage,
-          tier: game.data.tier,
-          routeType: game.data.routeType,
-          platforms: game.data.platforms,
-          recommendation: game.data.recommendation,
-          setupBurden: game.data.setupBurden,
-        }))} columns={2} />
+      <div class="home-grid__col">
+        <h2>Games</h2>
+        <div class="home-grid__games">
+          <CardGrid items={displayGames.map((game) => ({
+            href: `/games/${game.id}/`,
+            title: game.data.title,
+            description: game.data.verdict,
+            heroImage: game.data.heroImage,
+            tier: game.data.tier,
+            routeType: game.data.routeType,
+            platforms: game.data.platforms,
+            recommendation: game.data.recommendation,
+            setupBurden: game.data.setupBurden,
+          }))} columns={2} />
+        </div>
+        <a class="see-more" href="/games/">See more games →</a>
       </div>
-      <div class="home-grid__articles">
-        <ArticleGrid items={sidebarArticles.map((article) => ({
-          href: `/articles/${article.id}/`,
-          title: article.data.title,
-          description: article.data.description,
-          heroImage: article.data.heroImage,
-          meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
-        }))} columns={1} layout="horizontal" />
-      </div>
-    </div>
-  </section>
-
-  <section class="section container">
-    <h2>Editorial system</h2>
-    <div class="grid two">
-      <div class="card">
-        <h3>Canonical game pages first</h3>
-        <p class="lead" style="font-size:1rem;max-width:none;">
-          The primary unit is the evergreen game page. Articles, guides, and comparisons support that structure instead of replacing it.
-        </p>
-      </div>
-      <div class="card">
-        <h3>Autonomous publishing ready</h3>
-        <p class="lead" style="font-size:1rem;max-width:none;">
-          Richard can publish by creating Markdown files in structured content collections. No database or heavy CMS required.
-        </p>
+      <div class="home-grid__col">
+        <h2>Articles</h2>
+        <div class="home-grid__articles">
+          <ArticleGrid items={sidebarArticles.map((article) => ({
+            href: `/articles/${article.id}/`,
+            title: article.data.title,
+            description: article.data.description,
+            heroImage: article.data.heroImage,
+            meta: `${article.data.category} · ${article.data.pubDate.toISOString().slice(0, 10)}`,
+          }))} columns={1} layout="horizontal" />
+        </div>
+        <a class="see-more" href="/articles/">See more articles →</a>
       </div>
     </div>
   </section>
@@ -159,7 +147,22 @@ const featuredItems = featuredSlugs
   }
 
   .home-grid h2 {
-    margin: 0;
+    margin: 0 0 1rem;
+  }
+  .home-grid__col {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .see-more {
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: 600;
+    color: var(--accent-cyan, #0891b2);
+    text-decoration: none;
+  }
+  .see-more:hover {
+    text-decoration: underline;
   }
 
 
