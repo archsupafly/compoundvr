@@ -16,7 +16,7 @@ performance: Heavy Demand
 supportStatus: Active
 genres:
   - Action RPG
-  - Souls-like
+  - Soulslike
 technicalTags:
   - UEVR
   - Unreal Engine 4

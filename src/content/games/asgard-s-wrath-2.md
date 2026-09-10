@@ -15,7 +15,7 @@ comfort: Moderate Intensity
 performance: Moderate Demand
 supportStatus: Abandoned
 genres:
-  - Action-RPG
+  - Action RPG
   - Adventure
 technicalTags:
   - VR Only

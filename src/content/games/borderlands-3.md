@@ -16,7 +16,7 @@ performance: Heavy Demand
 supportStatus: Active
 genres:
   - First-Person Shooter
-  - Looter-Shooter
+  - Looter Shooter
   - Action RPG
 technicalTags:
   - UEVR

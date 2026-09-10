@@ -54,13 +54,14 @@ const games = allGames.sort((a, b) => {
         <option value="Framework Only">VR framework / injector</option>
         <option value="Multi-Route Coverage">Multiple VR options</option>
       </select>
-      <label class="games-sort-label" for="games-perf">PC load</label>
-      <select id="games-perf" class="games-sort-select">
-        <option value="any" selected>Any PC</option>
-        <option value="Efficient">Efficient (potato)</option>
-        <option value="Moderate Demand">Moderate demand</option>
-        <option value="Heavy Demand">Heavy demand</option>
-        <option value="Inconsistent / Unpredictable">Inconsistent</option>
+      <label class="games-sort-label" for="games-platform">Platform</label>
+      <select id="games-platform" class="games-sort-select">
+        <option value="any" selected>All platforms</option>
+        <option>PCVR</option>
+        <option>Quest</option>
+        <option>PSVR</option>
+        <option>PSVR2</option>
+        <option>Pico</option>
       </select>
       <label class="games-sort-label" for="games-genre">Genre</label>
       <select id="games-genre" class="games-sort-select">
@@ -81,6 +82,14 @@ const games = allGames.sort((a, b) => {
         <option>Open World</option>
         <option>Simulation</option>
       </select>
+      <label class="games-sort-label" for="games-perf">PC load</label>
+      <select id="games-perf" class="games-sort-select">
+        <option value="any" selected>Any PC</option>
+        <option value="Efficient">Efficient (potato)</option>
+        <option value="Moderate Demand">Moderate demand</option>
+        <option value="Heavy Demand">Heavy demand</option>
+        <option value="Inconsistent / Unpredictable">Inconsistent</option>
+      </select>
       <label class="games-sort-label" for="games-tech">Tech</label>
       <select id="games-tech" class="games-sort-select">
         <option value="any" selected>Any tech</option>
@@ -89,15 +98,6 @@ const games = allGames.sort((a, b) => {
         <option value="emulator">Emulator</option>
         <option value="motion">Motion controls</option>
         <option value="lukeross">Luke Ross mod</option>
-      </select>
-      <label class="games-sort-label" for="games-platform">Platform</label>
-      <select id="games-platform" class="games-sort-select">
-        <option value="any" selected>All platforms</option>
-        <option>PCVR</option>
-        <option>Quest</option>
-        <option>PSVR</option>
-        <option>PSVR2</option>
-        <option>Pico</option>
       </select>
       <div class="games-tiers" id="games-tiers" role="group" aria-label="Filter by tier">
         <span class="games-sort-label">Tier</span>

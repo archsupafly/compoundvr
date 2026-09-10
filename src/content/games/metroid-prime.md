@@ -17,7 +17,7 @@ performance: Moderate Demand
 supportStatus: Stable but Quiet
 genres:
   - First-Person Shooter
-  - Action Adventure
+  - Action-Adventure
   - Exploration
 technicalTags:
   - Emulator

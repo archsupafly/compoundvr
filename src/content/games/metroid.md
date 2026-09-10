@@ -15,7 +15,7 @@ comfort: Comfortable
 performance: Efficient
 supportStatus: Active
 genres:
-  - Action Adventure
+  - Action-Adventure
   - Metroidvania
   - Classic
 technicalTags:

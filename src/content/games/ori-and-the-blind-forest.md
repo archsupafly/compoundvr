@@ -16,7 +16,7 @@ performance: Efficient
 supportStatus: Stable but Quiet
 genres:
   - Metroidvania
-  - Action-Platformer
+  - Action Platformer
 technicalTags:
   - Injection Driver
   - VorpX
