@@ -9,6 +9,11 @@ interface GameCard {
   platforms?: string[];
   recommendation: string;
   setupBurden: string;
+  // Optional client-side sort keys (games index only). When sortTier is
+  // present the card renders data-sort-* attributes for the sort dropdown.
+  sortTier?: number;
+  sortUpdated?: number;
+  sortReleased?: number;
 }
 
 const { items, columns = 3, showImages = true, showTier = true, showRouteType = true, showPlatforms = true } = Astro.props as { 
@@ -57,7 +62,11 @@ const recClass: Record<string, string> = {
 
 <div class={`game-grid game-grid--${columns}`}>
   {items.map((game) => (
-    <a class="game-card" href={game.href}>
+    <a class="game-card" href={game.href}
+      data-sort-tier={game.sortTier}
+      data-sort-updated={game.sortUpdated}
+      data-sort-released={game.sortReleased}
+      data-sort-title={game.sortTier === undefined ? undefined : game.title.toLowerCase()}>
       {showImages && (
         <div class="game-card__image-container">
           {game.heroImage ? (

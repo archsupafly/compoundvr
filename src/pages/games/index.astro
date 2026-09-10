@@ -3,12 +3,15 @@ import Layout from '../../layouts/Layout.astro';
 import CardGrid from '../../components/CardGrid.astro';
 import { getCollection } from 'astro:content';
 
-// Sort by tier (S > A > B > C > D > F) for ranking visibility
+// Sort by tier (S > A > B > C > D > F) for ranking visibility,
+// tiebreak by recency (lastVerified newest first).
 const tierOrder = { 'S': 0, 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'F': 5 };
+const tierRank = (t?: string) => tierOrder[t as keyof typeof tierOrder] ?? 2;
+const epoch = (d?: Date) => (d ? d.valueOf() : 0);
 const games = (await getCollection('games')).sort((a, b) => {
-  const tierA = a.data.tier || 'B';
-  const tierB = b.data.tier || 'B';
-  return (tierOrder[tierA] ?? 2) - (tierOrder[tierB] ?? 2);
+  const dt = tierRank(a.data.tier) - tierRank(b.data.tier);
+  if (dt !== 0) return dt;
+  return epoch(b.data.lastVerified) - epoch(a.data.lastVerified);
 });
 ---
 
@@ -19,6 +22,19 @@ const games = (await getCollection('games')).sort((a, b) => {
     <p class="lead">Each page is built to answer whether playing in VR is viable, what the setup burden is, and who should actually bother.</p>
   </section>
   <section class="section container">
+    <div class="games-toolbar">
+      <label class="games-sort-label" for="games-sort">Sort by</label>
+      <select id="games-sort" class="games-sort-select">
+        <option value="tier-desc" selected>Tier: Best first</option>
+        <option value="tier-asc">Tier: Worst first</option>
+        <option value="updated">Recently updated</option>
+        <option value="released-desc">Game release: Newest</option>
+        <option value="released-asc">Game release: Oldest</option>
+        <option value="title-asc">Title A–Z</option>
+        <option value="title-desc">Title Z–A</option>
+      </select>
+      <span class="games-count" id="games-count"></span>
+    </div>
     <CardGrid items={games.map((game) => ({
       href: `/games/${game.id}/`,
       title: game.data.title,
@@ -29,6 +45,69 @@ const games = (await getCollection('games')).sort((a, b) => {
       platforms: game.data.platforms,
       recommendation: game.data.recommendation,
       setupBurden: game.data.setupBurden,
+      sortTier: tierRank(game.data.tier),
+      sortUpdated: epoch(game.data.lastVerified),
+      sortReleased: epoch(game.data.flatReleaseDate ?? game.data.vrReleaseDate),
     }))} columns={3} />
   </section>
 </Layout>
+
+<style>
+  .games-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .games-sort-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-secondary, #6b7280);
+  }
+  .games-sort-select {
+    font-size: 0.9rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-default, rgba(0, 0, 0, 0.12));
+    background: var(--surface-primary, #ffffff);
+    color: var(--text-primary, #0b1020);
+    cursor: pointer;
+  }
+  .games-count {
+    font-size: 0.85rem;
+    color: var(--text-tertiary, #8b92b8);
+    margin-left: auto;
+  }
+</style>
+
+<script>
+  (function () {
+    var select = document.getElementById('games-sort');
+    var count = document.getElementById('games-count');
+    var grid = select ? select.closest('section').querySelector('.game-grid') : null;
+    if (!select || !grid) return;
+    var cards = Array.prototype.slice.call(grid.querySelectorAll('.game-card'));
+    // Only cards carrying sort keys participate (homepage grid has none).
+    cards = cards.filter(function (c) { return c.hasAttribute('data-sort-tier'); });
+    function num(c, k) { return parseInt(c.getAttribute(k) || '0', 10); }
+    function str(c, k) { return c.getAttribute(k) || ''; }
+    var comparators = {
+      'tier-desc': function (a, b) { return num(a, 'data-sort-tier') - num(b, 'data-sort-tier') || num(b, 'data-sort-updated') - num(a, 'data-sort-updated'); },
+      'tier-asc': function (a, b) { return num(b, 'data-sort-tier') - num(a, 'data-sort-tier') || num(b, 'data-sort-updated') - num(a, 'data-sort-updated'); },
+      'updated': function (a, b) { return num(b, 'data-sort-updated') - num(a, 'data-sort-updated'); },
+      'released-desc': function (a, b) { return num(b, 'data-sort-released') - num(a, 'data-sort-released'); },
+      'released-asc': function (a, b) { return num(a, 'data-sort-released') - num(b, 'data-sort-released'); },
+      'title-asc': function (a, b) { return str(a, 'data-sort-title') < str(b, 'data-sort-title') ? -1 : 1; },
+      'title-desc': function (a, b) { return str(a, 'data-sort-title') > str(b, 'data-sort-title') ? -1 : 1; },
+    };
+    function renderCount() {
+      if (count) count.textContent = cards.length + (cards.length === 1 ? ' game' : ' games');
+    }
+    select.addEventListener('change', function () {
+      var cmp = comparators[select.value] || comparators['tier-desc'];
+      cards.slice().sort(cmp).forEach(function (c) { grid.appendChild(c); });
+    });
+    renderCount();
+  })();
+</script>
