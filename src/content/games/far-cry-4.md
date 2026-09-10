@@ -10,7 +10,7 @@ platforms: ['PCVR']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable
 setupBurden: Advanced Setup
-inputStyle: Mixed Input
+inputStyle: "Gamepad Preferred"
 comfort: Intense
 performance: Heavy Demand
 supportStatus: Stable but Quiet

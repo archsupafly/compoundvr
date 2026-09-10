@@ -10,7 +10,7 @@ vrReleaseDate: 2015-05-15
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Advanced Setup
-inputStyle: Mixed Input
+inputStyle: "Gamepad Preferred"
 comfort: Highly Variable
 performance: Heavy Demand
 supportStatus: Active

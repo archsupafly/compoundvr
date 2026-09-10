@@ -10,7 +10,7 @@ platforms: ['Quest', 'PCVR', 'Rift', 'Vive', 'PSVR2']
 recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
-inputStyle: Partial Motion Controls
+inputStyle: "Gamepad Preferred"
 comfort: Comfortable
 performance: Efficient
 supportStatus: Stable but Quiet

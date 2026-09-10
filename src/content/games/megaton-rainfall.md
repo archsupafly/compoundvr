@@ -12,7 +12,7 @@ platforms:
 recommendation: "Recommended with Caveats"
 playability: "Fully Playable"
 setupBurden: "Beginner Friendly"
-inputStyle: "Partial Motion Controls"
+inputStyle: "Full Motion Controls"
 comfort: "Intense"
 performance: "Moderate Demand"
 supportStatus: "Stable but Quiet"

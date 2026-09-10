@@ -10,7 +10,7 @@ platforms: ['PCVR', 'Rift', 'Rift S', 'Index', 'Vive', 'Windows Mixed Reality']
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Moderate Setup
-inputStyle: Mixed Input
+inputStyle: "Gamepad Preferred"
 comfort: Moderate Intensity
 performance: Heavy Demand
 supportStatus: Stable but Quiet

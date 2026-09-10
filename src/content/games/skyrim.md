@@ -13,7 +13,7 @@ platforms: ['PCVR', 'PSVR']
 recommendation: Recommended
 playability: Fully Playable
 setupBurden: Moderate Setup
-inputStyle: Mixed Input
+inputStyle: Full Motion Controls
 comfort: Moderate Intensity
 performance: Moderate Demand
 supportStatus: Stable but Quiet

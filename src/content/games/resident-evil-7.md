@@ -8,7 +8,7 @@ platforms: ['PSVR', 'PCVR']
 recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
-inputStyle: Mixed Input
+inputStyle: "Gamepad Preferred"
 comfort: Intense
 performance: Moderate Demand
 supportStatus: Active

@@ -8,7 +8,7 @@ platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest']
 recommendation: Recommended
 playability: Fully Playable
 setupBurden: Beginner Friendly
-inputStyle: Mixed Input
+inputStyle: Full Motion Controls
 comfort: Moderate Intensity
 performance: Efficient
 supportStatus: Stable but Quiet

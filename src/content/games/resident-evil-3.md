@@ -10,7 +10,7 @@ platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Mostly Playable
 setupBurden: Moderate Setup
-inputStyle: Mixed Input
+inputStyle: Full Motion Controls
 comfort: Intense
 performance: Heavy Demand
 supportStatus: Active

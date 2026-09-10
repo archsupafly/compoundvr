@@ -39,7 +39,8 @@ const games = defineCollection({
     ]),
     playability: z.enum(['Fully Playable', 'Mostly Playable', 'Partially Playable', 'Experimental', 'Broken']),
     setupBurden: z.enum(['Beginner Friendly', 'Moderate Setup', 'Advanced Setup', 'Expert Only']),
-    inputStyle: z.enum(['Full Motion Controls', 'Partial Motion Controls', 'Gamepad Preferred', 'KBM Required', 'Mixed Input']),
+    // 2026-09-10 founder rule: swing/shoot with controllers = Full; gamepad-bound = Gamepad Preferred. No in-between values.
+    inputStyle: z.enum(['Full Motion Controls', 'Gamepad Preferred', 'KBM Required']),
     comfort: z.enum(['Comfortable', 'Moderate Intensity', 'Intense', 'Highly Variable']),
     performance: z.enum(['Efficient', 'Moderate Demand', 'Heavy Demand', 'Inconsistent / Unpredictable']),
     supportStatus: z.enum(['Active', 'Recently Updated', 'Stable but Quiet', 'Uncertain', 'Abandoned', 'Broken by Update']),

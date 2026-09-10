@@ -14,7 +14,7 @@ platforms:
 recommendation: "Recommended with Caveats"
 playability: "Mostly Playable"
 setupBurden: "Advanced Setup"
-inputStyle: "Mixed Input"
+inputStyle: "Gamepad Preferred"
 comfort: "Moderate Intensity"
 performance: "Heavy Demand"
 supportStatus: "Active"

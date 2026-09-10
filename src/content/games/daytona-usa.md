@@ -10,7 +10,7 @@ platforms: ['PCVR', 'Quest']
 recommendation: Enthusiasts/Tinkerers Only
 playability: Mostly Playable
 setupBurden: Beginner Friendly
-inputStyle: Mixed Input
+inputStyle: "Gamepad Preferred"
 comfort: Moderate Intensity
 performance: Efficient
 supportStatus: Active

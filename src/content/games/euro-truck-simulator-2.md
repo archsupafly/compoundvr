@@ -8,7 +8,7 @@ platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Moderate Setup
-inputStyle: Mixed Input
+inputStyle: "Gamepad Preferred"
 comfort: Comfortable
 performance: Heavy Demand
 supportStatus: Active

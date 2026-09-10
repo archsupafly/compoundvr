@@ -10,7 +10,7 @@ platforms: ['PSVR', 'Quest']
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Beginner Friendly
-inputStyle: Partial Motion Controls
+inputStyle: "Gamepad Preferred"
 comfort: Comfortable
 performance: Moderate Demand
 supportStatus: Stable but Quiet

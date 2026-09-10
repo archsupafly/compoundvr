@@ -10,7 +10,7 @@ platforms: ['PCVR', 'Quest']
 recommendation: "Enthusiasts/Tinkerers Only"
 playability: "Fully Playable"
 setupBurden: "Beginner Friendly"
-inputStyle: "Partial Motion Controls"
+inputStyle: "Full Motion Controls"
 comfort: Comfortable
 performance: Efficient
 supportStatus: "Stable but Quiet"

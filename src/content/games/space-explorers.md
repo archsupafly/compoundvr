@@ -10,7 +10,7 @@ platforms: ['Quest', 'Rift']
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Beginner Friendly
-inputStyle: Mixed Input
+inputStyle: "Gamepad Preferred"
 comfort: Comfortable
 performance: Moderate Demand
 supportStatus: Active

@@ -10,7 +10,7 @@ platforms: ['PSVR']
 recommendation: "Recommended with Caveats"
 playability: "Fully Playable"
 setupBurden: "Beginner Friendly"
-inputStyle: "Mixed Input"
+inputStyle: "Full Motion Controls"
 comfort: "Moderate Intensity"
 performance: "Efficient"
 supportStatus: "Stable but Quiet"
