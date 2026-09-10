@@ -10,7 +10,7 @@ platforms: ['PCVR', 'Quest']
 recommendation: Recommended
 playability: Mostly Playable
 setupBurden: Beginner Friendly
-inputStyle: Mixed Input
+inputStyle: Full Motion Controls
 comfort: Moderate Intensity
 performance: Moderate Demand
 supportStatus: Active
@@ -51,7 +51,7 @@ Ship of Harkinian is the native PC port of Ocarina of Time — not an emulator, 
 
 The install is almost suspiciously painless. Extract the zip, run the executable, point it at a legally dumped ROM. The OTR file generates automatically. If your ROM is incompatible, the ship.equipment compatibility checker tells you before anything breaks. The whole process — download to standing in Kokiri Forest — took me under fifteen minutes. For a VR mod targeting a game from 1998, that's remarkable.
 
-There are catches. You need DirectX11; OpenGL won't work. You need a VR-ready PC — this is PCVR only, no Quest standalone. Motion controls cover sword swinging — confirmed and genuinely good — plus 6DOF aiming for ranged weapons. Menus still want a gamepad, and the control mapping is still being refined. It's not the full motion-control fantasy where you sheathe a blade on your hip and draw it over your shoulder. It's the intermediate step — enough to feel present, not enough to feel like a lightsaber demo.
+There are catches. You need DirectX11; OpenGL won't work. You need a VR-ready PC — this is PCVR only, no Quest standalone. Motion controls cover sword swinging — confirmed and genuinely good — plus 6DOF aiming for ranged weapons. Menus still want a gamepad, and the control mapping is still being refined. It's not the Alyx-level fantasy where you sheathe a blade on your hip and draw it over your shoulder — but swinging, aiming, and striking are all motion-driven, which is the part that matters when a Skulltula drops behind you.
 
 But here's the thing: it's the complete game. Every dungeon, every temple, every horseback sequence across Hyrule Field, every screwball side quest, the entire Water Temple that made you miserable in 1998 and will make you miserable again, but now you're *there*. That distinction matters more than the motion-control gaps.
 
