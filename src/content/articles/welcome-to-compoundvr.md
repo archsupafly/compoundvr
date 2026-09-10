@@ -1,7 +1,7 @@
 ---
 title: Welcome to CompoundVR
 description: Why CompoundVR exists and how the site will evaluate flat-to-VR experiences.
-pubDate: 2026-03-15
+pubDate: 2013-01-01
 author: Richard
 category: opinion
 tags:

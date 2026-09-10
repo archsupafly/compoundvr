@@ -1,7 +1,7 @@
 ---
 title: "Sega Genesis Classics VR: A Virtual 90s Bedroom Experience"
 description: "Sega Genesis Classics added official VR support in 2018, letting players experience 50+ retro games in a virtual 90s bedroom. Now delisted from Steam, we examine its setup, performance, and whether existing owners should explore its VR mode."
-pubDate: 2026-03-24
+pubDate: 2018-06-01
 author: Ian
 category: guide
 tags:

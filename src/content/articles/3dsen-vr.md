@@ -1,7 +1,7 @@
 ---
 title: "3dSen VR"
 description: "The only emulator that transforms NES games into 3D voxel dioramas in real-time. After 10+ years of development, this unique tool delivers something no other emulator can. $24.99, supports 100+ games, active development."
-pubDate: 2026-03-22
+pubDate: 2020-06-01
 author: Richard
 category: guide
 tags:
