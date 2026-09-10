@@ -138,20 +138,20 @@ const featuredItems = featuredSlugs
     padding: 0.5rem 0 0.5rem;
   }
   .hero-grid {
-    display: grid;
-    grid-template-columns: 1.4fr 1fr;
-    gap: 2.5rem;
+    display: flex;
+    flex-direction: column;
     align-items: center;
+    gap: 1.75rem;
   }
   .hero-copy {
-    text-align: left;
+    text-align: center;
   }
   .homepage-hero h1 {
     margin-bottom: 0.75rem;
   }
   .homepage-hero .lead {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
     max-width: 640px;
   }
   .hero-buttons {
@@ -159,6 +159,7 @@ const featuredItems = featuredSlugs
     gap: 0.75rem;
     margin-top: 1.25rem;
     flex-wrap: wrap;
+    justify-content: center;
   }
   .hero-btn {
     display: inline-block;
@@ -183,6 +184,8 @@ const featuredItems = featuredSlugs
   }
   .hero-stats {
     margin: 0;
+    width: 100%;
+    max-width: 720px;
     text-align: center;
     background: var(--surface-secondary, rgba(0, 0, 0, 0.02));
     border: 1px solid var(--border-subtle, rgba(0, 0, 0, 0.08));
@@ -220,21 +223,7 @@ const featuredItems = featuredSlugs
     color: var(--text-tertiary, #8b92b8);
     margin-top: 0.15rem;
   }
-  @media (max-width: 900px) {
-    .hero-grid {
-      grid-template-columns: 1fr;
-    }
-    .hero-copy {
-      text-align: center;
-    }
-    .homepage-hero .lead {
-      margin-left: auto;
-      margin-right: auto;
-    }
-    .hero-buttons {
-      justify-content: center;
-    }
-  }
+
   .homepage-featured {
     padding: 0 0 2rem;
   }
