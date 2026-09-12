@@ -271,12 +271,14 @@ These games didn't crack the top 20, but they're worth your time.
 
 **The Witcher (VR Mod)** — A fan-made recreation of Kaer Morhen in VR. It's a walking sim rather than the full game, but it's an atmospheric taste of the Witcher world in a headset.
 
+**[Quake (VR Mod)](/games/quake)** — Vittorio Romeo's QuakeVR dropped publicly in March 2020: room-scale movement, hand interactions, and melee rebuilt into the 1996 godfather of shooters. The most ambitious flat-to-VR conversion of the year.
 **[Myst](/games/myst)** — The classic puzzle adventure got a proper VR remake in 2020, letting you explore the iconic island in full 3D. A faithful, beautiful update of a timeless game.
 
 **Eleven Table Tennis** — The most realistic sports sim in VR. The physics are uncanny, and it's one of the best ways to play table tennis without a table.
 
 **[Jurassic World Aftermath](/games/jurassic-park-aftermath)** — A Quest-exclusive stealth survival game that puts you in a dinosaur-infested facility. Short and linear, but the dinosaur horror is genuinely tense.
 
+**[Subnautica: Below Zero](/games/subnautica-below-zero)** — Unknown Worlds' icy follow-up spent 2020 in early access, and the community SubmersedVR mod brought the frozen alien ocean into the headset. Cave-diving terror below an ice shelf is even better in VR.
 **[Vertigo Remastered](/games/vertigo-remastered)** — Zombie Inc's full remaster of the 2016 cult VR shooter — the co-op campaign, expanded levels, and updated visuals that made Vertigo a proper modern release rather than a launch-era curiosity.
 
 ---
