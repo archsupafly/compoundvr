@@ -3,7 +3,7 @@ title: "Subnautica in VR"
 description: "The definitive VR experience for Subnautica requires the SubmersedVR mod—adding full motion controls, hand-tracked interaction, and proper VR-native design to an abandoned official implementation."
 lastVerified: 2022-06-01
 featured: false
-routeType: "Full VR Mod"
+routeType: "Multi-Route Coverage"
 platforms: ['PCVR']
 recommendation: Recommended
 playability: Fully Playable
@@ -29,7 +29,14 @@ tier: A
 verdict: "SubmersedVR transforms Subnautica into a genuine VR masterpiece, but requires technical setup, VR legs, and tolerance for occasional jank. Skip the abandoned official implementation entirely."
 heroImage: /images/games/subnautica-vr-hero.jpg
 flatReleaseDate: 2018-01-23
-vrReleaseDate: 2022-06-01
+vrReleaseDate: 2015-01-01
+history:
+  - date: 2015-01-01
+    note: "Official Oculus Rift DK2 support present in Subnautica's early-access builds from the start (Steam Early Access December 2014/January 2015); Unknown Worlds published an official DK2 setup guide."
+  - date: 2016-01-01
+    note: "'Crash Site' update: usable in-headset menus — the peak of the abandoned official VR implementation."
+  - date: 2022-06-01
+    note: "SubmersedVR community mod; the definitive route today."
 ---
 
 # Subnautica VR Review

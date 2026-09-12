@@ -2,8 +2,13 @@
 title: "Dying Light VR"
 description: "A great open-world zombie game with two half-finished ways to experience it in VR: a hidden, abandoned Oculus mode and a VorpX injection profile."
 flatReleaseDate: 2015-01-26
-vrReleaseDate: 2021-01-01
-lastVerified: 2021-01-01
+vrReleaseDate: 2015-01-26
+history:
+  - date: 2015-01-26
+    note: "Launched January 26, 2015 with a hidden config-flag Oculus Rift mode (head tracking + stereoscopic 3D, no motion controls) — Polygon previewed it in VR that week."
+  - date: 2021-01-01
+    note: "vorpX profile for Dying Light 1 released; UEVR work followed later — the best modern VR route on PCVR."
+
 featured: false
 routeType: Multi-Route Coverage
 platforms:
@@ -35,6 +40,7 @@ verdict: "Dying Light's VR is a cautionary tale: a great open-world game dragged
 heroImage: /images/games/dying-light-vr-hero.jpg
 sources: "Wikipedia, Steam store page, MobyGames release data, Ars Technica 'Virtual letdown' VR review, Polygon Oculus Rift preview, GameWatcher and PCGamesN/Techland VR support announcements, Digital Spy VR support report, Steam community discussions on official VR and motion controls, 3DMGAME config guide, vorpX forum threads for Dying Light 1 and Dying Light 2021 profiles, vorpX Auto Edgepeek and no-sound issue threads, UEVR official site and documentation, Giant Bomb Chrome Engine 6 reference, Nexus Mods and GitHub community mod listings, LibreVR/Revive issue tracker."
 ---
+lastVerified: 2021-01-01
 
 # Dying Light VR
 
