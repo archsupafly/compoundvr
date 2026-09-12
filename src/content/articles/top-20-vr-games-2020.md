@@ -275,7 +275,7 @@ These games didn't crack the top 20, but they're worth your time.
 
 **Eleven Table Tennis** — The most realistic sports sim in VR. The physics are uncanny, and it's one of the best ways to play table tennis without a table.
 
-**Jurassic World Aftermath** — A Quest-exclusive stealth survival game that puts you in a dinosaur-infested facility. Short and linear, but the dinosaur horror is genuinely tense.
+**[Jurassic World Aftermath](/games/jurassic-park-aftermath)** — A Quest-exclusive stealth survival game that puts you in a dinosaur-infested facility. Short and linear, but the dinosaur horror is genuinely tense.
 
 **[Vertigo Remastered](/games/vertigo-remastered)** — Zombie Inc's full remaster of the 2016 cult VR shooter — the co-op campaign, expanded levels, and updated visuals that made Vertigo a proper modern release rather than a launch-era curiosity.
 
