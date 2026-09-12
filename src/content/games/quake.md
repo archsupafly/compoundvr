@@ -1,7 +1,7 @@
 ---
 title: "Quake VR"
 description: "The 1996 FPS godfather rebuilt with hand tracking, physical weapons, and room-scale movement that makes it feel like it was always meant for VR."
-lastVerified: 2021-03-15
+lastVerified: 2020-03-07
 featured: false
 routeType: "Full VR Mod"
 platforms: ['PCVR', 'Quest']
@@ -26,7 +26,10 @@ score: 85
 verdict: "Quake VR earns its A-tier through genuine VR-native systems that go far beyond 'playable in VR.' Physical weapon handling—dual-wielding, throwing, holster-based reloading with wrist-flick shotgun pumps—creates hand presence that most flat-to-VR conversions skip. Full room-scale movement including physical jumping, finger tracking on Index, and melee combat with headbutts and environmental interactions demonstrate a depth of implementation rarely seen in hobbyist mods. The rebalanced hitboxes, positional damage, and dedicated VR tutorial map show polish that respects the source while adapting it. What keeps it from S-tier is accessibility: Quake's breakneck speed and bunny-hopping DNA create an intense VR experience that will flat-out reject players without strong VR legs. Compare to Doom VR (B-tier): while both offer full campaigns and motion controls, Quake VR's weapon systems, room-scale integration, and physical interaction density are significantly more sophisticated. Doom VR is 'Quake in VR'; this is 'Quake rebuilt for VR.'"
 heroImage: /images/games/quake-vr-hero.jpg
 flatReleaseDate: 1996-06-22
-vrReleaseDate: 2021-03-15
+vrReleaseDate: 2020-03-07
+history:
+  - date: 2020-03-07
+    note: "Vittorio Romeo publicly released QuakeVR (v0.0.3) — room-scale movement, hand interactions, and melee in the 1996 original."
 ---
 
 # Quake VR
