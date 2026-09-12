@@ -59,7 +59,7 @@ Down the Rabbit Hole is a storybook adventure that reimagines Alice in Wonderlan
 
 ## #17: The Room VR: A Dark Matter
 
-![The Room VR: A Dark Matter](/images/games/the-room-vr-a-dark-matter-vr-hero.jpg)
+![The Room VR: A Dark Matter](/images/games/the-room-vr-a-dark-matter-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -203,7 +203,7 @@ GTA V in VR is the open-world dream made real. Through the Luke Ross R.E.A.L. mo
 
 ## #5: Marvel's Iron Man VR
 
-![Marvel's Iron Man VR](/images/games/iron-man-vr-vr-hero.jpg)
+![Marvel's Iron Man VR](/images/games/iron-man-vr-hero.jpg)
 
 <div class="rank-meta">Native VR</div>
 
@@ -267,15 +267,17 @@ These games didn't crack the top 20, but they're worth your time.
 
 **Phasmophobia** — The co-op ghost-hunting phenomenon that took the internet by storm in 2020. It's rough around the edges, but the multiplayer horror is genuinely terrifying and endlessly replayable.
 
-**Walkabout Mini Golf** — The most relaxing game in VR. Beautiful courses, satisfying physics, and a social experience that's perfect for a casual session.
+**[Walkabout Mini Golf](/games/walkabout-mini-golf)** — The most relaxing game in VR. Beautiful courses, satisfying physics, and a social experience that's perfect for a casual session.
 
 **The Witcher (VR Mod)** — A fan-made recreation of Kaer Morhen in VR. It's a walking sim rather than the full game, but it's an atmospheric taste of the Witcher world in a headset.
 
-**Myst** — The classic puzzle adventure got a proper VR remake in 2020, letting you explore the iconic island in full 3D. A faithful, beautiful update of a timeless game.
+**[Myst](/games/myst)** — The classic puzzle adventure got a proper VR remake in 2020, letting you explore the iconic island in full 3D. A faithful, beautiful update of a timeless game.
 
 **Eleven Table Tennis** — The most realistic sports sim in VR. The physics are uncanny, and it's one of the best ways to play table tennis without a table.
 
 **Jurassic World Aftermath** — A Quest-exclusive stealth survival game that puts you in a dinosaur-infested facility. Short and linear, but the dinosaur horror is genuinely tense.
+
+**[Vertigo Remastered](/games/vertigo-remastered)** — Zombie Inc's full remaster of the 2016 cult VR shooter — the co-op campaign, expanded levels, and updated visuals that made Vertigo a proper modern release rather than a launch-era curiosity.
 
 ---
 
