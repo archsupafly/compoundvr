@@ -24,8 +24,8 @@ experienceTags:
   - Parkour
   - Sword Combat
   - Historical Settings
-tier: A
-verdict: "Nexus is the Assassin's Creed VR fans waited a decade for — a complete, hand-tracked campaign that makes the parkour and the blade feel physical. It's Quest-only and standalone-limited, but for anyone with the headset it's an easy recommendation."
+tier: S
+verdict: "Nexus is the Assassin's Creed VR fans waited a decade for — a complete, hand-tracked campaign that makes the parkour and the blade feel physical. Twenty hours across Ezio, Kassandra, and Connor, Quest-only, and the best reason to own the headset since it launched."
 heroImage: /images/games/assassins-creed-nexus-vr-hero.jpg
 sources: "Ubisoft official pages and Accessibility & Comfort Feature Manual, Meta Quest store listing, and launch-era reviews from UploadVR, TechRadar, Android Central, IGN, Shacknews, and GamingTrend."
 ---
