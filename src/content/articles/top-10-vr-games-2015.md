@@ -173,6 +173,10 @@ The B-tier rating reflects the compromises: the VR UI isn't fully designed for h
 
 **Windlands** makes swinging through a world feel genuinely exhilarating — the core mechanic is ahead of its time, but motion sickness and limited content hold it back. [Read the full Windlands VR review](/games/windlands)
 
+**Dying Light** shipped in January 2015 with a hidden config-flag Oculus Rift mode — head tracking and stereoscopic terror in Harran, with no motion controls and no comfort options. Unfinished, yes, but it was one of the only AAA open-world games letting you look over an infected city through a headset in 2015. [Read the full Dying Light VR review](/games/dying-light)
+
+**Subnautica** had official Oculus Rift DK2 support from its early-access days — diving an alien ocean with a headset before it even had a 1.0. Experimental and abandoned in favor of flat-screen, but unforgettable for early adopters. [Read the full Subnautica VR review](/games/subnautica)
+
 ---
 
 *Every game on this list has a full individual review with detailed VR analysis — click through for the complete breakdown.*
