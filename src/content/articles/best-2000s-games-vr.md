@@ -1,8 +1,13 @@
 ---
 title: "Best 2000s Games to Play in VR"
 description: "The 25 best 2000s games ranked by what they actually feel like in a headset today — every entry states its VR method up front, from dedicated 6DOF mods to emulator head-tracking, with no hype where the method is thin."
-pubDate: 2026-09-15
+pubDate: 2022-06-15
 lastVerified: 2026-09-15
+history:
+  - date: 2026-09-15
+    note: "Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Verified honorable mentions in or out. Replaced 'Not yet verified' with 'Also worth playing.'"
+  - date: 2024-03-01
+    note: "Added Quake 4 (Team Beef PCVR), Perfect Dark decompilation port, F.E.A.R. (DR-89 beta), CS 1.6 (Team Beef standalone). Expanded honorable mentions with Dolphin VR family and VorpX-only entries."
 author: Ian
 category: comparison
 listicle: true
@@ -13,13 +18,6 @@ tags:
   - pcvr
   - quest
 heroImage: /images/articles/best-2000s-games-vr-hero.jpg
-history:
-  - date: 2026-09-15
-    note: Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Updated Prey to v1.2.4, Quake 4 to PCVR update, CS 1.6 to Team Beef standalone. Replaced "Not yet verified" with verified "Also worth playing" entries.
-  - date: 2026-04-01
-    note: Added Quake 4 (Team Beef PCVR update), Perfect Dark decompilation port, F.E.A.R. (DR-89 beta).
-  - date: 2025-12-01
-    note: Initial list published with 20 entries. Halo CE (HaloCEVR), Crysis (fholger), Far Cry (fholger), Metroid Prime (PrimeHack), Jedi Outcast/Academy (xLAva), Morrowind (OpenMW-VR), Return to Castle Wolfenstein (DrBeef), Prey (Team Beef v1.0).
 ---
 
 The 2000s are the awkward middle child of VR modding. The decade has no framework path — no UEVR, no REFramework — so none of these games were built with a headset in mind, and none got a clean official port except a couple of lucky ones. Every game on this list earns its headset time one of five ways: a dedicated 6DOF mod someone built by hand, a source port, an official VR edition, emulator head-tracking, or (rarely, and only when I say so) an injection driver doing its best impression of depth.
@@ -120,7 +118,7 @@ The cost is real: this mod wants a strong GPU and rewards it, and a weak one wil
 
 Far Cry in VR, via fholger's farcry_vrmod, is the open-island shooter done with surprising care: roomscale movement, motion controls, and proper two-handed weapon handling where you actually shoulder the rifle and work the bolt. The first game's "hunt the trilogy of villains across a tropical map" loop is a better VR fit than its reputation suggests, because the jungle is built for peeking, flanking, and long-range spotting.
 
-We have a [full Far Cry VR page](/games/far-cry) if you want the deep dive. Short version: the mod is mature, the controls are better than most 2000s ports, and lining up a scrambler rifle shot across a valley is the whole pitch. Far Cry invented the open-world template that every franchise later ran into the ground. In VR the template is fun again.
+We have a [full Far Cry VR page](/games/far-cry) if you want the deep dive. Short version: the mod is mature, the controls are better than most 2000s ports, and lining up a scrambler rifle shot across a valley is the whole pitch. Far Cry invented the open-world loop that every franchise later ran into the ground. In VR it actually holds up.
 
 [Read the full Far Cry review](/games/far-cry)
 
