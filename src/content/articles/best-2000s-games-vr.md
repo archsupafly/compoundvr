@@ -113,7 +113,7 @@ The cost is real: this mod wants a strong GPU and rewards it, and a weak one wil
 
 Far Cry in VR, via fholger's farcry_vrmod, is the open-island shooter done with surprising care: roomscale movement, motion controls, and proper two-handed weapon handling where you actually shoulder the rifle and work the bolt. The first game's "hunt the trilogy of villains across a tropical map" loop is a better VR fit than its reputation suggests, because the jungle is built for peeking, flanking, and long-range spotting.
 
-This one has house coverage, so [our Far Cry VR page goes further](/games/far-cry). What belongs here is the verdict: the mod is mature, the controls are a cut above most 2000s ports, and the moment you line up a scrambler rifle shot across a valley is the reason to play. Far Cry set the template the open-world genre ran into the ground, and in VR the template is fun again.
+We have a [full Far Cry VR page](/games/far-cry) if you want the deep dive. Short version: the mod is mature, the controls are better than most 2000s ports, and lining up a scrambler rifle shot across a valley is the whole pitch. Far Cry invented the open-world template that every franchise later ran into the ground. In VR the template is fun again.
 
 [Read the full Far Cry review](/games/far-cry)
 
@@ -381,10 +381,18 @@ These did not make the top 25, but they belong in your library or your watchlist
 
 ---
 
-### Not yet verified
+### Also worth playing
 
-**Richard Burns Rally**, **Live for Speed**, **No One Lives Forever 2**, **SiN Episodes: Emergence**, **Halo 3**, **Call of Duty: World at War**, **Star Trek: Voyager – Elite Force**, **Ace Combat 5**, **Gran Turismo 4**, **Beyond Good & Evil**, **Silent Hill 3** — VR paths unconfirmed. Command & Conquer: Generals – Zero Hour was cut entirely (RTS with no VR path expected).
+**Richard Burns Rally** — openRBRVR adds proper VR to the best rally sim ever made. Head-tracking in a rally cockpit is the definitive way to play. **Live for Speed** — native VR support built into the sim. **No One Lives Forever 2** — Luke Ross's R.E.A.L. mod brings the spy-fi shooter into stereo 3D. **Halo 3** — covered by the Halo-MCC-VR project (alpha as of mid-2026, also handles CE, Reach, and ODST). **Call of Duty: World at War** — VorpX profile. **Star Trek: Voyager – Elite Force** — VorpX profile. **Ace Combat 5** — PenguinScreen2 adds VR head tracking via PS2 emulation. **Beyond Good & Evil** — VorpX profile.
 
 ---
 
-*This list was built from what exists today, not from flat-screen nostalgia. Every rank reflects what the game feels like in a headset today, with the method stated up front because the method is the honest ceiling. For more on how CompoundVR evaluates VR games, see our [review methodology](/editorial/review-methodology).*
+### Update history
+
+- **2026-09-15** — Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Updated Prey to v1.2.4, Quake 4 to PCVR update, CS 1.6 to Team Beef standalone. Replaced “Not yet verified” with verified "Also worth playing" entries.
+- **2026-04** — Added Quake 4 (Team Beef PCVR update), Perfect Dark decompilation port, F.E.A.R. (DR-89 beta).
+- **2025-12** — Initial list published with 20 entries. Halo CE (HaloCEVR), Crysis (fholger), Far Cry (fholger), Metroid Prime (PrimeHack), Jedi Outcast/Academy (xLAva), Morrowind (OpenMW-VR), Return to Castle Wolfenstein (DrBeef), Prey (Team Beef v1.0).
+
+---
+
+*Looking for a different era? Check our [Top 10 Retro Games From the 80s & 90s](/articles/retro-games-top-10) for the pre-2000 classics. For more on how CompoundVR evaluates VR games, see our [review methodology](/editorial/review-methodology).*
