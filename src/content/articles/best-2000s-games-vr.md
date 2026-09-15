@@ -410,7 +410,7 @@ These did not make the top 25, but they belong in your library or your watchlist
 
 ### Also worth playing
 
-**Richard Burns Rally** — openRBRVR adds proper VR to the best rally sim ever made. Head-tracking in a rally cockpit is the definitive way to play. **Live for Speed** — native VR support built into the sim. **No One Lives Forever 2** — Luke Ross's R.E.A.L. mod brings the spy-fi shooter into stereo 3D. **Halo 3** — covered by the Halo-MCC-VR project (alpha as of mid-2026, also handles CE, Reach, and ODST). **Call of Duty: World at War** — VorpX profile. **Star Trek: Voyager – Elite Force** — VorpX profile. **Ace Combat 5** — PenguinScreen2 adds VR head tracking via PS2 emulation. **Beyond Good & Evil** — VorpX profile.
+**Richard Burns Rally** — openRBRVR adds proper VR to the best rally sim ever made. Head-tracking in a rally cockpit is the definitive way to play. **Live for Speed** — native VR support built into the sim. **No One Lives Forever 2** — Luke Ross's R.E.A.L. mod brings the spy-fi shooter into stereo 3D. **Halo 3** — covered by the Halo-MCC-VR project (alpha as of mid-2026, also handles CE, Reach, and ODST). **Call of Duty: World at War** — WorldWarVR, a standalone OpenXR mod with 6DOF head tracking and motion-controller aiming. Zombies is the supported mode; campaign and multiplayer are experimental, so track it as a fast-moving beta rather than a finished port. **Star Trek: Voyager – Elite Force** — VorpX profile. **Ace Combat 5** — PenguinScreen2 adds VR head tracking via PS2 emulation. **Beyond Good & Evil** — VorpX profile.
 
 ---
 

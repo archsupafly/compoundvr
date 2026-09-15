@@ -5,7 +5,11 @@ import { getCollection } from 'astro:content';
 
 const articles = (await getCollection('articles'))
   .filter((article) => !article.data.draft)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  .sort((a, b) => {
+    const dateA = a.data.lastVerified?.valueOf() || a.data.pubDate.valueOf();
+    const dateB = b.data.lastVerified?.valueOf() || b.data.pubDate.valueOf();
+    return dateB - dateA;
+  });
 ---
 
 <Layout title="Articles — CompoundVR" description="Editorial coverage, guides, and comparisons from CompoundVR.">
