@@ -1,6 +1,6 @@
 ---
 title: "Best 2000s Games to Play in VR"
-description: "The 25 best 2000s games ranked by what they actually feel like in a headset today — every entry states its VR route up front, from dedicated 6DOF mods to emulator head-tracking, with no hype where the route is thin."
+description: "The 25 best 2000s games ranked by what they actually feel like in a headset today — every entry states its VR method up front, from dedicated 6DOF mods to emulator head-tracking, with no hype where the method is thin."
 pubDate: 2026-09-15
 lastVerified: 2026-09-15
 author: Ian
@@ -15,13 +15,9 @@ tags:
 heroImage: /images/articles/best-2000s-games-vr-hero.jpg
 ---
 
-<!-- FLAG FOR RICHARD: pubDate/lastVerified anchored to 2026-09-15 (fresh-verification date of this curation). This is a multi-subject roundup with no single subject release date, so the schema's "subject-era anchor" rule is ambiguous here. Confirm the anchor or supply a preferred date. -->
+The 2000s are the awkward middle child of VR modding. The decade has no framework path — no UEVR, no REFramework — so none of these games were built with a headset in mind, and none got a clean official port except a couple of lucky ones. Every game on this list earns its headset time one of five ways: a dedicated 6DOF mod someone built by hand, a source port, an official VR edition, emulator head-tracking, or (rarely, and only when I say so) an injection driver doing its best impression of depth.
 
-<!-- FLAG FOR RICHARD (open unknowns from research file): (1) Portal #14 — research file lists a pending Jeremy decision, but the brief overrides and says DRAFT NORMALLY with the verified two-step route; done as instructed. (2) Control-depth unverified at snippet level for HaloCEVR (#5), Crysis (#6), L4D2VR (#15), Jedi Outcast (#16) — wrote experiential prose without overclaiming depth. (3) UNVERIFIED HM entries below are name-checks only with ZERO route claims. (4) Live for Speed VR status unconfirmed — name-check only. (5) HM list is CLOSED; any missing names from the workshop original (#12910) must come from Jeremy. -->
-
-The 2000s are the awkward middle child of VR modding. The decade has no framework route — no UEVR, no REFramework — so none of these games were built with a headset in mind, and none got a clean official port except a couple of lucky ones. Every game on this list earns its headset time one of five ways: a dedicated 6DOF mod someone built by hand, a source port, an official VR edition, emulator head-tracking, or (rarely, and only when I say so) an injection driver doing its best impression of depth.
-
-I ranked these by what they actually feel like in a headset today, not by flat-screen reputation. The route is stated in the first two sentences of every entry, because the route is the honest ceiling. Where the route is thin, I say so in the same breath instead of dressing it up. A VorpX profile is not a 6DOF mod, and a head-tracked-only port is not a motion-control game, no matter where it lands on the list.
+I ranked these by what they actually feel like in a headset today, not by flat-screen reputation. The method is stated in the first two sentences of every entry, because the method is the honest ceiling. Where the method is thin, I say so in the same breath instead of dressing it up. A VorpX profile is not a 6DOF mod, and a head-tracked-only port is not a motion-control game, no matter where it lands on the list.
 
 ---
 
@@ -29,7 +25,7 @@ I ranked these by what they actually feel like in a headset today, not by flat-s
 
 ![Half-Life 2](/images/games/half-life-2-vr-hero.jpg)
 
-<div class="rank-meta">HL2VR mod — PCVR, 6DOF + motion controls</div>
+<div class="rank-meta">2004 · VR Mod</div>
 
 Half-Life 2 is the easiest number one here, because the HL2VR mod treats the game like it was always meant for a headset. You move through City 17 in full 6DOF, the gravity gun lives in your actual hands, and the physics puzzles that defined the flat game finally have weight you can feel. The pacing that made the original sing — the slow dread of Ravenholm, the set-piece chaos of the Citadel — lands harder when you are standing in it.
 
@@ -43,11 +39,11 @@ The mod covers the episodes too, so this is the complete Gordon Freeman arc in V
 
 ![Resident Evil 4](/images/games/resident-evil-4-vr-hero.jpg)
 
-<div class="rank-meta">Official Quest port by Armature — Quest 2</div>
+<div class="rank-meta">2005 · Official Port</div>
 
 Resident Evil 4 is the one entry with a real, shipped, first-party VR edition, and it is a Quest-exclusive official port built by Armature Studio. That matters: this is not a community mod holding itself together with goodwill, it is a studio release with the aiming, the knife, and the inventory all rebuilt around headset control. The rural-Spanish tension of the original — a stealth-action game wearing a zombie costume — plays beautifully when you physically swing the knife and line up headshots.
 
-The catch is right there in the route: Quest 2 only. No PCVR version, no PSVR edition, no path to a sharper image than the standalone hardware allows. For Quest owners it is essential. For everyone else it is the one game on this list you cannot reach without the right headset.
+The catch is right there in the delivery: Quest 2 only. No PCVR version, no PSVR edition, no path to a sharper image than the standalone hardware allows. For Quest owners it is essential. For everyone else it is the one game on this list you cannot reach without the right headset.
 
 [Read the full Resident Evil 4 review](/games/resident-evil-4)
 
@@ -57,7 +53,7 @@ The catch is right there in the route: Quest 2 only. No PCVR version, no PSVR ed
 
 ![Doom 3](/images/games/doom-3-bfg-vr-hero.jpg)
 
-<div class="rank-meta">Doom 3 BFG VR mod — PCVR (Fully Possessed / fholger lineage)</div>
+<div class="rank-meta">2004 · VR Mod</div>
 
 Doom 3 is a horror game in a way the franchise forgot afterward, and the BFG VR mod — from the Fully Possessed and fholger lineage behind the modern id VR treatment — puts you inside that claustrophobic Mars base with a flashlight in one hand and a shotgun in the other. The dark-corridor panic works exactly as intended when the demon is in your space. The mod is mature, the controls are solid, and the tension of the original's flickering industrial halls survives the jump to VR intact.
 
@@ -71,7 +67,7 @@ What you get is a polished, room-scale take on a game that was always about prox
 
 ![BioShock](/images/games/bioshock-vr-hero.jpg)
 
-<div class="rank-meta">bioshock-trilogy-vr (VR-Stereo-Hub) — PCVR, native stereo + 6DOF + motion controls</div>
+<div class="rank-meta">2007 · VR Mod</div>
 
 BioShock is the newest arrival on this list, so be clear up front: the bioshock-trilogy-vr mod from VR-Stereo-Hub is a 2026 build, not a decade-old institution. What it already does is remarkable — native stereo with 6DOF and motion controls, plasmids in one hand and a wrench or pistol in the other, Rapture's art-deco decay wrapping around you. The plunge into the ocean and the first glimpse of the city are genuinely transporting.
 
@@ -85,7 +81,7 @@ Treat it as a young mod with a huge ceiling. The core loop works, the atmosphere
 
 ![Halo: Combat Evolved](/images/games/halo-combat-evolved-vr-hero.jpg)
 
-<div class="rank-meta">HaloCEVR by LivingFray — PCVR</div>
+<div class="rank-meta">2001 · VR Mod</div>
 
 Halo: Combat Evolved in VR via HaloCEVR by LivingFray is the game that finally lets you stand on the ring and feel the scale the original hinted at. The Warthog drives like a Warthog, the Covenant fire comes from actual directions, and the silent-cinema opening of the Pillar of Autumn reads as the spectacle it wanted to be. This is a hand-built PCVR mod, and the sense of place is the whole reason to be here.
 
@@ -99,7 +95,7 @@ Two honest notes. First, you need the PC version and a willingness to follow set
 
 ![Crysis](/images/games/crysis-vr-hero.jpg)
 
-<div class="rank-meta">crysis_vrmod by fholger — PCVR</div>
+<div class="rank-meta">2007 · VR Mod</div>
 
 Crysis in VR, through fholger's crysis_vrmod, is the prettiest jungle on this list and the most demanding on your hardware. The same author behind the Far Cry VR treatment built this one, and the island's foliage, light, and draw distance finally have the headroom to impress the way the 2007 marketing promised. Stalking CELL troopers through the trees in 6DOF is the Crysis fantasy delivered.
 
@@ -113,11 +109,13 @@ The cost is real: this mod wants a strong GPU and rewards it, and a weak one wil
 
 ![Far Cry](/images/games/far-cry-vr-hero.jpg)
 
-<div class="rank-meta">farcry_vrmod by fholger — PCVR, roomscale, motion controls, two-handed weapons</div>
+<div class="rank-meta">2004 · VR Mod</div>
 
 Far Cry in VR, via fholger's farcry_vrmod, is the open-island shooter done with surprising care: roomscale movement, motion controls, and proper two-handed weapon handling where you actually shoulder the rifle and work the bolt. The first game's "hunt the trilogy of villains across a tropical map" loop is a better VR fit than its reputation suggests, because the jungle is built for peeking, flanking, and long-range spotting.
 
 This one has house coverage, so [our Far Cry VR page goes further](/games/far-cry). What belongs here is the verdict: the mod is mature, the controls are a cut above most 2000s ports, and the moment you line up a scrambler rifle shot across a valley is the reason to play. Far Cry set the template the open-world genre ran into the ground, and in VR the template is fun again.
+
+[Read the full Far Cry review](/games/far-cry)
 
 ---
 
@@ -125,7 +123,7 @@ This one has house coverage, so [our Far Cry VR page goes further](/games/far-cr
 
 ![Metroid Prime](/images/games/metroid-prime-vr-hero.jpg)
 
-<div class="rank-meta">PrimeHack + Dolphin — 6DOF-ish, motion controls</div>
+<div class="rank-meta">2002 · Emulator</div>
 
 Metroid Prime via PrimeHack layered on Dolphin is the 2000s game that was always halfway to VR and finally gets there. PrimeHack maps the lock-on, the beam switching, and the morph-ball to modern inputs, and Dolphin's head-tracking pulls the first-person exploration into your space. Scanning a room, backing away from a Pirate, and unraveling the ruined-planet mystery feels native to the headset in a way few emulated games manage.
 
@@ -139,7 +137,7 @@ Call the 6DOF "ish" on purpose: this is emulator head-tracking doing the heavy l
 
 ![Perfect Dark](/images/games/perfect-dark-vr-hero.jpg)
 
-<div class="rank-meta">N64-decomp VR port — PCVR + Quest standalone (BETA)</div>
+<div class="rank-meta">2000 · Decompilation Port</div>
 
 Perfect Dark in VR is a decompilation port of the N64 original, running on PCVR and as a Quest standalone build — and the status you need first is that it is a BETA. The bones are there: the gadget-heavy shooting, the stealth Rare built before everyone else caught up, and a headset version of a game that aged better than its console siblings. The data-chunk gunplay and the enemy AI puzzles finally have room to breathe.
 
@@ -153,7 +151,7 @@ But beta means beta. Expect missing features, rough edges, and the instability y
 
 ![F.E.A.R.](/images/games/fear-hero.jpg)
 
-<div class="rank-meta">fear-vr by DR-89 — OpenXR, native stereo, public beta</div>
+<div class="rank-meta">2005 · VR Mod</div>
 
 F.E.A.R. in VR through DR-89's fear-vr is a public beta on OpenXR with native stereo, and the pitch is irresistible: the best slow-mo horror-shooter of the decade, finally in your face. The opening office-building creep, the sudden Alma turns, and the kinetic bullet-time gunfights are exactly the proximity horror VR was built for. A GOG copy is the community-recommended path to get it running.
 
@@ -165,7 +163,7 @@ Two honest caveats sit next to the praise. One, it is a beta — solid stereo an
 
 ## #11: Prey
 
-<div class="rank-meta">PreyVR by Team Beef — Quest 2 / Pico 4 (v1.2.4, Mar 2026)</div>
+<div class="rank-meta">2006 · VR Port</div>
 
 Prey in VR via Team Beef's PreyVR is a standalone Quest 2 and Pico 4 port, updated to v1.2.4 in March 2026, bringing the 2006 portal-gun shooter to a headset with two-hand aiming and a weapon wheel that makes sense in 3D. The game's gravity-defying spaces — walking up walls, flipping the floor under you — are the spatial trick VR was made to sell, and Prey has them in spades.
 
@@ -177,7 +175,7 @@ This is a port of the original, not a remake, so the textures are what they are,
 
 ![Grand Theft Auto: Vice City](/images/games/grand-theft-auto-vice-city-vr-hero.jpg)
 
-<div class="rank-meta">vice-city-vr — Quest, hand tracking (v0.4.0, Aug 2026)</div>
+<div class="rank-meta">2002 · VR Mod</div>
 
 Grand Theft Auto: Vice City in VR is the freshest arrival on this list, not an institution: vice-city-vr landed in July 2026 and reached v0.4.0 in August, bringing hand tracking and a Quest build to the neon soap-opera sandbox. The appeal is immediate — standing on a sun-bleached Miami street in 1986, thumbing a ride, watching the pastel skyline wrap around you is the retro-dream VR promised.
 
@@ -191,7 +189,7 @@ Frame it as a promising arrival, not a finished classic. A mod this new is still
 
 ![Mass Effect](/images/games/mass-effect-vr-hero.jpg)
 
-<div class="rank-meta">Halcyon trilogy VR mod — Legendary Edition, head-tracked real stereo, NO motion controls</div>
+<div class="rank-meta">2007 · VR Mod</div>
 
 Mass Effect in VR comes through the Halcyon trilogy mod for the Legendary Edition, and the limit is first: head-tracked real stereo only, no motion controls. You look around the Normandy and the Citadel in genuine 3D, but you are not reaching for your pistol or working the omni-tool by hand. Ranked thirteenth on feel, it earns the spot through presence and scale, not hand-tracked gunplay.
 
@@ -205,7 +203,7 @@ That honesty matters because the game is a powerhouse of atmosphere — the firs
 
 ![Portal](/images/games/portal-vr-hero.jpg)
 
-<div class="rank-meta">Two-step community workaround — Portal 1 content on Portal 2 engine + Gistix portal2vr 6DOF mod</div>
+<div class="rank-meta">2007 · VR Mod</div>
 
 Portal in VR is a two-step community workaround, not a native Portal 1 mod, and you should know the shape first: you own both games, mount the Portal 1 campaign into the Portal 2 engine, then play it through Gistix's portal2vr 6DOF mod. The reward is the full 2007 puzzle box in a headset, portals you place and walk through, the dry comedy in first person. The mod carries real community weight, with hundreds of stars and coverage since 2023.
 
@@ -219,7 +217,7 @@ The catches are part of the deal. The ModDB tutorial that walks you through the 
 
 ![Left 4 Dead 2](/images/games/left-4-dead-2-vr-hero.jpg)
 
-<div class="rank-meta">l4d2vr by sd805 — PCVR</div>
+<div class="rank-meta">2009 · VR Mod</div>
 
 Left 4 Dead 2 in VR via sd805's l4d2vr is the 2000s co-op shooter that was always one headset away from perfect, and the mod puts you in the middle of the horde with both hands on the shotgun. The Valve pacing — the calm before a Witch, the scream of a Tank, the relief of a safe room — reads entirely differently when the infected are around you. The Screaming Oak level alone justifies the install.
 
@@ -233,7 +231,7 @@ One honest gap: the depth of the motion-control aiming and melee handling I coul
 
 ![Star Wars Jedi Knight II: Jedi Outcast](/images/games/jedi-knight-2-vr-hero.png)
 
-<div class="rank-meta">xLAva VR mod — PCVR</div>
+<div class="rank-meta">2002 · VR Mod</div>
 
 Jedi Outcast in VR via the xLAva VR mod is the entry carried entirely by one promise: lightsaber combat with motion controls. The moment you draw the blade and actually swing it — parrying a stormtrooper, carving through a Dark Jedi, feeling the hum in your hands — the game's whole identity clicks into place. Kyle Katarn's arc from gunfighter to Jedi was always about that transition, and VR makes the saber the star it should be.
 
@@ -247,11 +245,11 @@ The rest is a solid 2002 shooter around the saber work. The blaster sections are
 
 ![Star Wars Jedi Knight: Jedi Academy](/images/games/jedi-academy-vr-hero.jpg)
 
-<div class="rank-meta">JKXR (DrBeef Quest port) + xLAva VR mod; VorpX as fallback</div>
+<div class="rank-meta">2003 · VR Port</div>
 
 Jedi Academy in VR leads with JKXR, DrBeef's Quest port, with the xLAva VR mod as the PCVR path and a VorpX profile in reserve as fallback. The draw is the same as its predecessor and a little broader: you build your own Jedi, wield a lightsaber with motion controls, and carve through a campaign that hands you more freedom than Outcast did. The dual-saber and staff-saber options are pure VR joy.
 
-Lead with JKXR and you get a standalone Quest experience that needs no tethered PC. The xLAva route is there for PCVR players who want the desktop mod's maturity. VorpX is the last resort — injection, not native, and you feel the difference. The force powers and saber work are the reason to be here; the shooting is filler between duels. For lightsaber fans on Quest, this is the cleaner install of the two Jedi games.
+Lead with JKXR and you get a standalone Quest experience that needs no tethered PC. The xLAva path is there for PCVR players who want the desktop mod's maturity. VorpX is the last resort — injection, not native, and you feel the difference. The force powers and saber work are the reason to be here; the shooting is filler between duels. For lightsaber fans on Quest, this is the cleaner install of the two Jedi games.
 
 [Read the full Star Wars Jedi Knight: Jedi Academy review](/games/jedi-academy)
 
@@ -259,7 +257,7 @@ Lead with JKXR and you get a standalone Quest experience that needs no tethered 
 
 ## #18: Call of Duty 4: Modern Warfare
 
-<div class="rank-meta">VorpX profile ONLY — injection driver</div>
+<div class="rank-meta">2007 · VorpX</div>
 
 Call of Duty 4 in VR runs on a VorpX profile and nothing else, and I will not dress that up. Injection is the honest ceiling: VorpX renders the game in stereo and tracks your head, but no 6DOF, no motion controls, and the sense of presence is partial at best. The famous "All Ghillied Up" sneak and the airport-level spectacle are still CoD 4, viewed through a headset rather than lived in one.
 
@@ -271,7 +269,7 @@ Rank it by what injection delivers, not by the legacy. The campaign is a pacing 
 
 ![The Elder Scrolls III: Morrowind](/images/games/morrowind-vr-hero.jpg)
 
-<div class="rank-meta">OpenMW-VR — PCVR, 6DOF</div>
+<div class="rank-meta">2002 · VR Mod</div>
 
 Morrowind in VR through OpenMW-VR is the deep-RPG entry that actually respects the headset, because OpenMW-VR is a true 6DOF rebuild, not an injection afterthought. Vvardenfell's weird, flat-shaded alien coast becomes a place you stand in, and the game's famous freedom — talk to anyone, join any faction, get hopelessly lost in a cave — finally has the spatial weight the writing always implied. The world is the oldest and strangest in the series, and VR suits its oddness.
 
@@ -283,7 +281,7 @@ The maturity of OpenMW-VR is why this ranks above the injection-only shooters ne
 
 ## #20: Quake 4
 
-<div class="rank-meta">Team Beef port — Quest early access 2025, PCVR update Apr 2026</div>
+<div class="rank-meta">2005 · VR Port</div>
 
 Quake 4 in VR comes from Team Beef, the same crew behind several Quest ports here, with a Quest early-access build from 2025 and a PCVR update in April 2026. The appeal is the Strogg campaign as a room-scale shooter: the metal-and-flesh horror of the opening hospital sequence, the nailgun in your actual hand, and the id combat rhythm that holds up because it was always about proximity and timing.
 
@@ -293,11 +291,11 @@ This is a port of the 2005 game, so the narrative ambition — the part where Qu
 
 ## #21: Battlefield 1942
 
-<div class="rank-meta">VorpX profile ONLY — injection driver</div>
+<div class="rank-meta">2002 · VorpX</div>
 
 Battlefield 1942 in VR is a VorpX profile and nothing more, with two caveats stacked. First, injection means head-tracked stereo only — no 6DOF, no motion controls, no hands on the gun. Second, 1942 is multiplayer-only in practice, so you rely on a community two decades thinned. The map-scale warfare, the wake of a carrier, the parachute drop onto Wake Island, all viewed through a headset rather than fought inside one.
 
-Rank it honestly: the route caps what this can be, and empty servers cap it further. If you find a game, a head-tracked Battle of Britain is a nice novelty. If you cannot, the VorpX profile is a curiosity you boot once. This is the clearest case where the route, not the game, sets the ceiling — and the ceiling is low.
+Rank it honestly: the delivery caps what this can be, and empty servers cap it further. If you find a game, a head-tracked Battle of Britain is a nice novelty. If you cannot, the VorpX profile is a curiosity you boot once. This is the clearest case where the delivery method, not the game, sets the ceiling — and the ceiling is low.
 
 ---
 
@@ -305,7 +303,7 @@ Rank it honestly: the route caps what this can be, and empty servers cap it furt
 
 ![Return to Castle Wolfenstein](/images/games/return-to-castle-wolfenstein-vr-hero.jpg)
 
-<div class="rank-meta">RTCWQuest by DrBeef — Quest via SideQuest, engine port</div>
+<div class="rank-meta">2001 · VR Port</div>
 
 Return to Castle Wolfenstein in VR comes through RTCWQuest by DrBeef, a proper engine port for Quest distributed via SideQuest, and it is the occult-Nazi-horror shooter the decade deserved in a headset. The opening prison escape, the zombie catacombs, and the knife-edge between occult pulp and straight WWII combat are a better fit for VR than the flat game's rep suggests, because the scares are about proximity and the corridors are built for it.
 
@@ -317,7 +315,7 @@ One practical note: you need an owned copy, and while a demo is bundled, the ful
 
 ## #23: Counter-Strike 1.6
 
-<div class="rank-meta">CSVR by Team Beef — Quest / Pico 4 standalone (Jan 2026)</div>
+<div class="rank-meta">2000 · VR Port</div>
 
 Counter-Strike 1.6 in VR arrives through Team Beef's CSVR, a standalone Quest and Pico 4 build released in January 2026, and it is the competitive-shooter fix the decade's purists waited for. Dust2 in your living room, the AWP actually shouldered, the quiet of a bomb plant you can hear coming from a real direction — the tactical loop that defined competitive FPS survives the jump because the loop was always about space and sound.
 
@@ -327,7 +325,7 @@ The honest caveat is the genre's: 1.6 is multiplayer-only, so the experience liv
 
 ## #24: Red Faction
 
-<div class="rank-meta">Alpine Faction VR alpha 0.1 — OpenXR, HIGHLY EXPERIMENTAL (Aug 2026)</div>
+<div class="rank-meta">2001 · VR Mod</div>
 
 Red Faction in VR is an alpha — Alpine Faction VR, OpenXR, version 0.1 from August 2026 — and that word leads, so I put it first: this is highly experimental pre-release software, not a finished port, and you should install it with exactly that expectation. The promise is what made Red Faction special — Geo-Mod destruction, blowing holes through walls instead of finding doors, finally in a headset.
 
@@ -339,7 +337,7 @@ An alpha tempers it hard. Expect missing content, instability, and a fraction of
 
 ![The Legend of Zelda: Twilight Princess](/images/games/the-legend-of-zelda-twilight-princess-vr-hero.jpg)
 
-<div class="rank-meta">Dolphin VR — GameCube build recommended over Wii</div>
+<div class="rank-meta">2006 · Emulator</div>
 
 Twilight Princess in VR via Dolphin VR is the Zelda entry carried by atmosphere and undercut by hardware-era limits, and the version choice comes first: run the GameCube build, not the Wii one, because GameCube tracks your head better while the Wii motion controls have no clean VR analog. The twilight-covered Hyrule, the wolf transformation, the slower darker Zelda tone are a strong fit for VR presence.
 
@@ -357,7 +355,7 @@ These did not make the top 25, but they belong in your library or your watchlist
 
 **Metroid Prime 2 & 3** — PrimeHack's trilogy support carries the sequels into the same head-tracked treatment as #8. Echoes and Corruption are rougher emulation targets than the first, but the control scheme that works for Prime works for them.
 
-**Serious Sam: First & Second Encounter** — The cleanest entries on this whole list by route: official Serious Sam VR ports exist, built as real VR editions rather than community mods. If you want 2000s shooting with none of the setup burden, this is the easy win. [Read the full Serious Sam review](/games/serious-sam-the-first-encounter)
+**Serious Sam: First & Second Encounter** — The cleanest entries on this whole list by delivery: official Serious Sam VR ports exist, built as real VR editions rather than community mods. If you want 2000s shooting with none of the setup burden, this is the easy win. [Read the full Serious Sam review](/games/serious-sam-the-first-encounter)
 
 **Garry's Mod** — The GMod VR mod exists and lets you step inside the sandbox, which is chaos in the best way when the physics toys are in your hands. Mature enough to be worth a look, rougher than a native build. [Read the full Garry's Mod review](/games/garry-s-mod-vr)
 
@@ -367,7 +365,7 @@ These did not make the top 25, but they belong in your library or your watchlist
 
 **Dead Space (2008)** — The chortdev trilogy VR mod is in progress as of mid-2026, early and incomplete, so treat it as a project to track rather than a game to play tonight. The original's "cut off the limbs" horror is a perfect VR premise; the mod is not there yet. [Read the full Dead Space review](/games/dead-space)
 
-**The Elder Scrolls IV: Oblivion (2006)** — Be precise here: the VR route is UEVR running on the Oblivion Remastered from 2025, built in Unreal Engine 5, not the 2006 original. The 2006 game does not run in VR. If you want Cyrodiil in a headset, you buy and mod the Remastered, and the result is a modern-looking province worth the setup. [Read the full Oblivion review](/games/the-elder-scrolls-iv-oblivion)
+**The Elder Scrolls IV: Oblivion (2006)** — Be precise here: the VR path is UEVR running on the Oblivion Remastered from 2025, built in Unreal Engine 5, not the 2006 original. The 2006 game does not run in VR. If you want Cyrodiil in a headset, you buy and mod the Remastered, and the result is a modern-looking province worth the setup. [Read the full Oblivion review](/games/the-elder-scrolls-iv-oblivion)
 
 **Eternal Darkness: Sanity's Requiem** — Dolphin VR, the GameCube psychological horror that messes with your head in ways VR amplifies. The sanity effects — screen tearing, fake controller disconnects, the game pretending to delete your save — are genuinely unsettling when you are inside them. [Read the full Eternal Darkness review](/games/eternal-darkness-sanity-s-requiem)
 
@@ -383,12 +381,10 @@ These did not make the top 25, but they belong in your library or your watchlist
 
 ---
 
-### Not yet verified — name-checks only
+### Not yet verified
 
-The following titles were on the original workshop list but their VR routes are unconfirmed, so I am not making any route claims here. They are placeholders for Richard to verify or cut: **Richard Burns Rally**, **Live for Speed**, **No One Lives Forever 2**, **SiN Episodes: Emergence**, **Halo 3**, **Call of Duty: World at War**, **Star Trek: Voyager – Elite Force**, **Ace Combat 5**, **Gran Turismo 4**, **Beyond Good & Evil**, **Silent Hill 3**. (Command & Conquer: Generals – Zero Hour was cut entirely — a real-time strategy game with no VR route expected.)
-
-<!-- FLAG FOR RICHARD: the eleven name-checks above are UNVERIFIED per the brief — ZERO route claims made, as required. Confirm routes or drop them before publish. Live for Speed VR status specifically unconfirmed at gate. -->
+**Richard Burns Rally**, **Live for Speed**, **No One Lives Forever 2**, **SiN Episodes: Emergence**, **Halo 3**, **Call of Duty: World at War**, **Star Trek: Voyager – Elite Force**, **Ace Combat 5**, **Gran Turismo 4**, **Beyond Good & Evil**, **Silent Hill 3** — VR paths unconfirmed. Command & Conquer: Generals – Zero Hour was cut entirely (RTS with no VR path expected).
 
 ---
 
-*This list was built from the routes as they stand, not from flat-screen nostalgia. Every rank reflects what the game feels like in a headset today, with the route stated up front because the route is the honest ceiling. For more on how CompoundVR evaluates VR games, see our [review methodology](/editorial/review-methodology).*
+*This list was built from what exists today, not from flat-screen nostalgia. Every rank reflects what the game feels like in a headset today, with the method stated up front because the method is the honest ceiling. For more on how CompoundVR evaluates VR games, see our [review methodology](/editorial/review-methodology).*
