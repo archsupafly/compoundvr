@@ -20,9 +20,7 @@ tags:
 heroImage: /images/articles/best-2000s-games-vr-hero.jpg
 ---
 
-The 2000s are the awkward middle child of VR modding. The decade has no framework path — no UEVR, no REFramework — so none of these games were built with a headset in mind, and none got a clean official port except a couple of lucky ones. Every game on this list earns its headset time one of five ways: a dedicated 6DOF mod someone built by hand, a source port, an official VR edition, emulator head-tracking, or (rarely, and only when I say so) an injection driver doing its best impression of depth.
-
-I ranked these by what they actually feel like in a headset today, not by flat-screen reputation. The method is stated in the first two sentences of every entry, because the method is the honest ceiling. Where the method is thin, I say so in the same breath instead of dressing it up. A VorpX profile is not a 6DOF mod, and a head-tracked-only port is not a motion-control game, no matter where it lands on the list.
+The 2000s are quietly one of the best decades for VR modding — the games are old enough that most PCs (and even Quest headsets) can run the full mods without compromise, but new enough that the level design, gunplay, and pacing hold up. Every entry on this list earns its headset time through a dedicated mod, a source port, an official VR edition, emulator head-tracking, or the occasional injection driver. The method is stated up front for every game because it matters: a VorpX profile is not a 6DOF mod, and a head-tracked-only port is not a motion-control game.
 
 ---
 
