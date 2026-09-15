@@ -13,6 +13,13 @@ tags:
   - pcvr
   - quest
 heroImage: /images/articles/best-2000s-games-vr-hero.jpg
+history:
+  - date: 2026-09-15
+    note: Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Updated Prey to v1.2.4, Quake 4 to PCVR update, CS 1.6 to Team Beef standalone. Replaced "Not yet verified" with verified "Also worth playing" entries.
+  - date: 2026-04-01
+    note: Added Quake 4 (Team Beef PCVR update), Perfect Dark decompilation port, F.E.A.R. (DR-89 beta).
+  - date: 2025-12-01
+    note: Initial list published with 20 entries. Halo CE (HaloCEVR), Crysis (fholger), Far Cry (fholger), Metroid Prime (PrimeHack), Jedi Outcast/Academy (xLAva), Morrowind (OpenMW-VR), Return to Castle Wolfenstein (DrBeef), Prey (Team Beef v1.0).
 ---
 
 The 2000s are the awkward middle child of VR modding. The decade has no framework path — no UEVR, no REFramework — so none of these games were built with a headset in mind, and none got a clean official port except a couple of lucky ones. Every game on this list earns its headset time one of five ways: a dedicated 6DOF mod someone built by hand, a source port, an official VR edition, emulator head-tracking, or (rarely, and only when I say so) an injection driver doing its best impression of depth.
@@ -384,14 +391,6 @@ These did not make the top 25, but they belong in your library or your watchlist
 ### Also worth playing
 
 **Richard Burns Rally** — openRBRVR adds proper VR to the best rally sim ever made. Head-tracking in a rally cockpit is the definitive way to play. **Live for Speed** — native VR support built into the sim. **No One Lives Forever 2** — Luke Ross's R.E.A.L. mod brings the spy-fi shooter into stereo 3D. **Halo 3** — covered by the Halo-MCC-VR project (alpha as of mid-2026, also handles CE, Reach, and ODST). **Call of Duty: World at War** — VorpX profile. **Star Trek: Voyager – Elite Force** — VorpX profile. **Ace Combat 5** — PenguinScreen2 adds VR head tracking via PS2 emulation. **Beyond Good & Evil** — VorpX profile.
-
----
-
-### Update history
-
-- **2026-09-15** — Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Updated Prey to v1.2.4, Quake 4 to PCVR update, CS 1.6 to Team Beef standalone. Replaced “Not yet verified” with verified "Also worth playing" entries.
-- **2026-04** — Added Quake 4 (Team Beef PCVR update), Perfect Dark decompilation port, F.E.A.R. (DR-89 beta).
-- **2025-12** — Initial list published with 20 entries. Halo CE (HaloCEVR), Crysis (fholger), Far Cry (fholger), Metroid Prime (PrimeHack), Jedi Outcast/Academy (xLAva), Morrowind (OpenMW-VR), Return to Castle Wolfenstein (DrBeef), Prey (Team Beef v1.0).
 
 ---
 
