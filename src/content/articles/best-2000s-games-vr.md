@@ -2,10 +2,10 @@
 title: "Best 2000s Games to Play in VR"
 description: "The 25 best 2000s games ranked by what they actually feel like in a headset today — every entry states its VR method up front, from dedicated 6DOF mods to emulator head-tracking, with no hype where the method is thin."
 pubDate: 2022-06-15
-lastVerified: 2026-09-15
+lastVerified: 2026-08-19
 history:
-  - date: 2026-09-15
-    note: "Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Verified honorable mentions in or out. Replaced 'Not yet verified' with 'Also worth playing.'"
+  - date: 2026-08-19
+    note: "Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Rewrote CoD4 (KisakCOD VR 6DOF) and Battlefield 1942 (BFVR) entries around new full VR mods. Linked Prey 2006, Quake 4, Red Faction, and Counter-Strike to full reviews with images. Verified honorable mentions in or out. Replaced 'Not yet verified' with 'Also worth playing.'"
   - date: 2024-03-01
     note: "Added Quake 4 (Team Beef PCVR), Perfect Dark decompilation port, F.E.A.R. (DR-89 beta), CS 1.6 (Team Beef standalone). Expanded honorable mentions with Dolphin VR family and VorpX-only entries."
 author: Ian
@@ -166,11 +166,15 @@ Two honest caveats sit next to the praise. One, it is a beta — solid stereo an
 
 ## #11: Prey
 
+![Prey (2006)](/images/games/prey-2006-vr-hero.jpg)
+
 <div class="rank-meta">2006 · VR Port</div>
 
 Prey in VR via Team Beef's PreyVR is a standalone Quest 2 and Pico 4 port, updated to v1.2.4 in March 2026, bringing the 2006 portal-gun shooter to a headset with two-hand aiming and a weapon wheel that makes sense in 3D. The game's gravity-defying spaces — walking up walls, flipping the floor under you — are the spatial trick VR was made to sell, and Prey has them in spades.
 
 This is a port of the original, not a remake, so the textures are what they are, but the level design holds up when you crane your neck at a ceiling that became a floor. Team Beef's port stability shows here. If you missed Prey the first time, this is the version that justifies the detour, and the mind-bending architecture is the whole point.
+
+[Read the full Prey (2006) review](/games/prey-2006)
 
 ---
 
@@ -260,11 +264,15 @@ Lead with JKXR and you get a standalone Quest experience that needs no tethered 
 
 ## #18: Call of Duty 4: Modern Warfare
 
-<div class="rank-meta">2007 · VorpX</div>
+![Call of Duty 4: Modern Warfare](/images/games/call-of-duty-4-modern-warfare-vr-hero.jpg)
 
-Call of Duty 4 in VR runs on a VorpX profile and nothing else, and I will not dress that up. Injection is the honest ceiling: VorpX renders the game in stereo and tracks your head, but no 6DOF, no motion controls, and the sense of presence is partial at best. The famous "All Ghillied Up" sneak and the airport-level spectacle are still CoD 4, viewed through a headset rather than lived in one.
+<div class="rank-meta">2007 · VR Mod</div>
 
-Rank it by what injection delivers, not by the legacy. The campaign is a pacing masterpiece, and seeing it bigger beats a monitor — but "better than a monitor" is the whole pitch, modest. If you want modern-war VR with your hands on the gun, this is not it. If you want the 2007 campaign with more presence and can accept the limits, the profile does its job.
+Call of Duty 4 in VR finally has a real path: KisakCOD VR, a 2026 OpenXR conversion of the original PC release, puts the campaign in a headset with 6DOF head tracking and motion-controller weapon aiming. "All Ghillied Up" with your hands on the rifle is the CoD 4 fantasy delivered straight — the pacing masterpiece plays the same, but you are inside the ghillie suit now instead of watching it.
+
+The honest frame is age: this is a 2026 beta on a 2007 game, so expect the rough edges and update cadence of young community software, not a finished product. A VorpX profile exists as a legacy fallback, but it is injection viewed through a headset, not lived in — the mod is the reason this entry is here. If you want modern-war VR with your hands on the gun, this is now it.
+
+[Read the full Call of Duty 4: Modern Warfare review](/games/call-of-duty-4-modern-warfare)
 
 ---
 
@@ -284,21 +292,29 @@ The maturity of OpenMW-VR is why this ranks above the injection-only shooters ne
 
 ## #20: Quake 4
 
+![Quake 4](/images/games/quake-4-vr-hero.jpg)
+
 <div class="rank-meta">2005 · VR Port</div>
 
 Quake 4 in VR comes from Team Beef, the same crew behind several Quest ports here, with a Quest early-access build from 2025 and a PCVR update in April 2026. The appeal is the Strogg campaign as a room-scale shooter: the metal-and-flesh horror of the opening hospital sequence, the nailgun in your actual hand, and the id combat rhythm that holds up because it was always about proximity and timing.
 
 This is a port of the 2005 game, so the narrative ambition — the part where Quake tries to be a story — is as clumsy as ever, but the shooting is the point and the shooting is good. Team Beef's stability shows in the build. The PCVR update broadened where you can play it. If Doom 3's horror is not your mood, Quake 4's louder uglier war is the alternative that works.
 
+[Read the full Quake 4 review](/games/quake-4)
+
 ---
 
 ## #21: Battlefield 1942
 
-<div class="rank-meta">2002 · VorpX</div>
+![Battlefield 1942](/images/games/battlefield-1942-vr-hero.jpg)
 
-Battlefield 1942 in VR is a VorpX profile and nothing more, with two caveats stacked. First, injection means head-tracked stereo only — no 6DOF, no motion controls, no hands on the gun. Second, 1942 is multiplayer-only in practice, so you rely on a community two decades thinned. The map-scale warfare, the wake of a carrier, the parachute drop onto Wake Island, all viewed through a headset rather than fought inside one.
+<div class="rank-meta">2002 · VR Mod</div>
 
-Rank it honestly: the delivery caps what this can be, and empty servers cap it further. If you find a game, a head-tracked Battle of Britain is a nice novelty. If you cannot, the VorpX profile is a curiosity you boot once. This is the clearest case where the delivery method, not the game, sets the ceiling — and the ceiling is low.
+Battlefield 1942 in VR has a new answer: BFVR, an August 2026 full VR mod that puts the map-scale warfare in a headset with real head tracking and motion controls — the carrier wake, the parachute drop onto Wake Island, fought inside rather than viewed through a screen. For a game this old to get a from-scratch VR treatment this late is the surprise; the scale that defined 1942 finally has the presence it always implied.
+
+Two honest caps remain. One, the mod is weeks old, so treat it as a fast-moving project with young-software edges. Two, 1942 lives on multiplayer, and you still rely on a community two decades thinned — the mod gives you the game, it cannot give you 2002's server population. A VorpX profile exists as fallback, but it is the old ceiling: head-tracked stereo only. BFVR is the entry point now.
+
+[Read the full Battlefield 1942 review](/games/battlefield-1942)
 
 ---
 
@@ -318,21 +334,29 @@ One practical note: you need an owned copy, and while a demo is bundled, the ful
 
 ## #23: Counter-Strike 1.6
 
+![Counter-Strike 1.6](/images/games/half-life-counterstrike-vr-hero.jpg)
+
 <div class="rank-meta">2000 · VR Port</div>
 
 Counter-Strike 1.6 in VR arrives through Team Beef's CSVR, a standalone Quest and Pico 4 build released in January 2026, and it is the competitive-shooter fix the decade's purists waited for. Dust2 in your living room, the AWP actually shouldered, the quiet of a bomb plant you can hear coming from a real direction — the tactical loop that defined competitive FPS survives the jump because the loop was always about space and sound.
 
 The honest caveat is the genre's: 1.6 is multiplayer-only, so the experience lives or dies on who you can find to play. The port gives you the game; it cannot give you 2003's server population. For Quest owners with a crew, this is a nostalgia hit done right. For lone installs, it is a workshop you visit when friends are on. Rank it by the play you can get.
 
+[Read the full Counter-Strike review](/games/half-life-counterstrike)
+
 ---
 
 ## #24: Red Faction
+
+![Red Faction](/images/games/red-faction-vr-hero.jpg)
 
 <div class="rank-meta">2001 · VR Mod</div>
 
 Red Faction in VR is an alpha — Alpine Faction VR, OpenXR, version 0.1 from August 2026 — and that word leads, so I put it first: this is highly experimental pre-release software, not a finished port, and you should install it with exactly that expectation. The promise is what made Red Faction special — Geo-Mod destruction, blowing holes through walls instead of finding doors, finally in a headset.
 
 An alpha tempers it hard. Expect missing content, instability, and a fraction of the final intent. The destruction fantasy is the reason to watch this project, and early builds suggest interesting bones, but "interesting bones" is the honest ceiling today. If you loved the flat game and want to watch a mod grow from nothing, this is one to track. If you want a 2000s game to play tonight, it is not there yet.
+
+[Read the full Red Faction review](/games/red-faction)
 
 ---
 
