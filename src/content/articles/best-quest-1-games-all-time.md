@@ -13,11 +13,11 @@ heroImage: /images/articles/best-quest-1-games-all-time-hero.jpg
 tags: ['oculus-quest', 'quest-1', 'best-of', 'standalone-vr', 'ranking', '2019', '2020', '2021', '2022', 'guide']
 ---
 
-The original Oculus Quest launched on May 21, 2019 with 53 games — a lineup that included Beat Saber, Superhot VR, and a lot of confidence that standalone VR could work. Two years later, Meta had shipped the Quest 2 and moved on. But the Quest 1 didn't die when its successor arrived. It kept getting games. Developers kept supporting it. And by the time support started thinning out in late 2022, the little headset that could had built a library that punched way above its weight class.
+The Quest 1 was a $399 brick with a Snapdragon 835, a 72Hz OLED, and 1440×1600 per eye. It shipped in May 2019 with 53 games and an audience that wasn't sure standalone VR was more than a gimmick. Eighteen months later Meta shipped the Quest 2 and moved on. The Quest 1 kept getting games anyway.
 
-This is the full story of that library. Twenty games that justified the hardware — the store exclusives that sold headsets, the sideloaded ports that proved the community could do what Meta wouldn't, and the cross-platform titles that ran just fine on the Snapdragon 835 with its 72Hz OLED and 1440×1600 per eye. No PC required. No wires. Just the headset and your hands.
+By the time support started thinning in late 2022, the library had grown to include survival horror, rhythm games, puzzle boxes, MMOs, and a sideloading scene that brought Doom, Half-Life, and Wolfenstein to a headset that fit in a backpack. None of it required a PC. None of it required a wire. You just put it on and played.
 
-The Quest 1 was never going to match the Quest 2's resolution, refresh rate, or Snapdragon XR2 muscle. But it had something the Quest 2 never quite captured: the sense that you were holding the future in your hands for the first time. Every game on this list earned its place by proving that future was real.
+This is the 20 games that earned their place. Not every good Quest game — just the ones that justified the hardware. The store exclusives that sold headsets, the sideloaded ports that proved the community could do what Meta wouldn't, and the cross-platform titles that ran fine on hardware everyone said was too weak.
 
 ---
 
