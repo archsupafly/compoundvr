@@ -1,8 +1,8 @@
 ---
 title: "WinLaterXR: PC Games on Quest and Pico, No Gaming PC Required"
 description: "WinLaterXR runs real Windows x86/x64 games on standalone Quest and Pico headsets using Wine, Box86/Box64, and Mesa drivers. Here's what it is, how the translation stack works, what actually runs, and whether the setup is worth it."
-pubDate: 2026-09-17
-lastVerified: 2026-09-17
+pubDate: 2026-07-01
+lastVerified: 2026-07-01
 author: Ian
 category: guide
 heroImage: /images/articles/winlaterxr-guide-hero.jpg
