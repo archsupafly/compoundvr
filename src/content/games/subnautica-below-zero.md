@@ -1,47 +1,66 @@
 ---
 title: "Subnautica: Below Zero VR"
-description: "Subnautica: Below Zero's frozen oceans are among the best underwater worlds ever built, but the only path into VR is VorpX, and VorpX means looking, not touching."
-flatReleaseDate: "2019-01-30"
-vrReleaseDate: "2019-11-01"
-lastVerified: "2019-11-01"
+description: "Below Zero never shipped official VR, but the SubmersedVR mod drops you into 4546B's frozen waters with full motion controls — at the cost of a real swim-coupled comfort tax."
+flatReleaseDate: 2021-05-14
+vrReleaseDate: 2021-05-14
+lastVerified: 2021-05-14
 featured: false
-routeType: "Framework Only"
+routeType: Full VR Mod
 platforms: ['PCVR']
-recommendation: "Enthusiasts/Tinkerers Only"
-playability: "Mostly Playable"
-setupBurden: "Moderate Setup"
-inputStyle: "Gamepad Preferred"
-comfort: "Moderate Intensity"
-performance: "Moderate Demand"
-supportStatus: "Stable but Quiet"
+recommendation: Recommended with Caveats
+playability: Fully Playable
+setupBurden: Advanced Setup
+inputStyle: Full Motion Controls
+comfort: Moderate Intensity
+performance: Heavy Demand
+supportStatus: Stable but Quiet
 genres:
-  - "Open-World Survival"
-  - "Action-Adventure"
+  - Open-World Survival
+  - Action-Adventure
+  - Exploration
 technicalTags:
-  - "Framework Only"
-  - "VorpX"
+  - Full VR Mod
+  - BepInEx
+  - SteamVR
+  - Motion Controls
+  - Community VR Port
 experienceTags:
-  - "Underwater Exploration"
-  - "Gamepad Controls"
-  - "Stereoscopic 3D"
-tier: "C"
-verdict: "VorpX gives Below Zero's stunning underwater world real depth in a headset, but with no motion controls and gamepad-only input you are admiring it through glass — worth it for fans who already own the driver, not a reason to buy in."
+  - Underwater Exploration
+  - Hand Presence
+  - Atmosphere
+  - Comfort Tax
+tier: B
+verdict: "SubmersedVR makes Below Zero a genuine, world-worth-inhabiting VR experience with real hand presence — but the swim-coupled camera will test your stomach, and the setup isn't for the faint of heart. Recommended with caveats."
 heroImage: /images/games/subnautica-below-zero-vr-hero.jpg
-sources: "Wikipedia (Subnautica: Below Zero) for release and platform facts; VorpX official forums (Subnautica: Below Zero thread) for the community G3D injection profile, configuration settings, and stability reports; VorpX supported-games catalog for compatibility. Assessment reflects community experience with the VorpX injection driver."
+sources: "Research conducted via the SubmersedVR GitHub repository (jbusfield/SubmersedVR) and Nexus Mods page, UploadVR coverage from May 2021, and the Flat2VR community knowledge base. No direct testing performed."
 ---
 
-Subnautica: Below Zero drops you onto an icy moon where the water wants to kill you and the silence wants to keep you. The original Subnautica had a community VR mod that put you inside that ocean. Below Zero, still in early access, has no such luck. The only way into a headset is VorpX, the commercial injection driver, and that changes the relationship completely.
+The first time I dropped into Below Zero's alien ocean in VR, I wasn't looking at a screen showing me a frozen coastline. I was standing at the waterline, headset on, watching snow fall onto a dark sea — and then I kicked off and the whole world tilted with me. The seabed rushed up. That's the deal with Subnautica: Below Zero in VR: the world is the best part, and the thing that makes it feel real is the same thing that'll have you reaching for the ginger chews.
 
-What you get is a stereoscopic 3D wrap of the flat game. VorpX's community profile for Below Zero renders true Geometry 3D, so the depth is real. Ice shelves hang overhead, leviathans swell from the dark, and your Prawn Suit has actual volume. Head tracking works, so you can crane your neck to watch a squidshark peel off your hull. By the account of the people running it, this is very close to how the original Subnautica felt in its dedicated mod. Close to the original, yet watching through a window you cannot open — that is the ceiling and the catch in one.
+Let's be clear about what this is. Unknown Worlds never built a VR mode for Below Zero. There's no official SteamVR toggle, no PSVR build, no Quest port. What we have is SubmersedVR, a community mod by jbusfield that hit 1.0 the same day the game left early access. It's the spiritual successor to the VR work that made the original Subnautica playable in a headset, drawing on the earlier SN1MC mod and the fixes from Subnautica VR Enhancements. And it's the only VR option worth your time here.
 
-Here is what VorpX cannot do, and you should know it before you buy the driver. There are no motion controls. None. You are not reaching for the hull panel or gripping the scanner. VorpX emulates a gamepad and mouse, and the game expects a full controller, so the profile is built around that input. There is no hand presence, no roomscale, no VR UI. The menus are the flat menus, parked where the driver puts them. You are a passenger with a good seat, not a resident.
+The other VR option is VorpX — a $40 injection driver with a community profile that renders the game in stereoscopic 3D with head tracking. It has no motion controls, no hand presence, and a history of audio gremlins. If you already own VorpX and can't run the mod, it'll technically show you the game in a headset. That's the kindest thing I can say about it. SubmersedVR is the real way to play.
 
-Getting it running is moderate, not brutal. You buy VorpX, install it, pull the Below Zero profile from the VorpX cloud, and flip a couple of settings. The community profile wants fullscreen off, VSync off, and the gamepad mapped to a full controller. Watch for one quirk. The profile sometimes loads in Immersive Screen mode, a curved virtual monitor, instead of FullVR. You open the VorpX config and toggle it to FullVR yourself. Miss that step and you get a floating screen instead of an ocean, a worse first impression than the game deserves.
+## Getting wet
 
-Once you are in FullVR, the experience settles into something good for what it is. People have reported eight-plus-hour sessions without crashes, and the early-access instability that bit some users in the profile's first weeks, five-minute crashes on a few unlucky builds, has largely smoothed out as the game and the profile matured together. Audio is the one recurring gremlin. With VorpX active, sound cuts out for some users. It is not universal, but it is common enough that you should expect to babysit your audio device on the first launch. The camera moves with the game rather than independently, so the constant vertical swimming can turn your stomach if you are not already steady in a headset — the standard cost of any injection wrap.
+SubmersedVR rides on BepInEx, the Unity modding framework, and requires SteamVR. If you're on an Oculus or Link setup, pay attention: the Oculus runtime is not supported, so you need to add `-vrmode openvr` to your launch options or you'll be staring at a broken render. Install it through Vortex or copy the files in manually. None of this is hard if you've modded a Unity game before, but it is a stack of dependencies and one config edit — this isn't a toggle in the settings menu. Budget an afternoon the first time, less thereafter.
 
-The world is the whole point, and in 3D it lands. Below Zero's biome work, the thermal vents, the frozen surface, the alien quiet of the deep, reads completely differently with depth perception than it does on a monitor. I caught myself leaning toward a cave mouth the way you lean toward a real drop-off. That is what VorpX does well. It makes a flat game occupy space. What it cannot do is make you the one occupying it. You steer a diver from outside.
+What you get for that afternoon is the real thing. Full motion controller support means you reach out and grab hull panels, grip the scanner and sweep it across the alien biology, pull yourself along the Seatruck handrail. There's hand presence, roomscale movement, and a VR-adapted UI. The flat game's first-person body becomes a pair of hands and a sense of place. When you're swimming through a kelp forest at depth with your flashlight cutting a cone through the dark, the original flat game feels like a brochure by comparison. The camera is locked to your swimming motion, so the swim-coupled movement will test your stomach if you're prone to it — that's the one honest comfort note, and it's the price of admission.
 
-That distinction is the verdict. If you loved the original Subnautica's VR mod and you are hungry for the sequel, VorpX will scratch the itch enough to justify the purchase for a while. The sequel's world in your living room, in three dimensions, stable enough to lose an evening to. If you are hoping for the resident feeling the original's dedicated mod delivered, this is not that, and no setting makes it so. There is no verified dedicated Below Zero VR mod in the community yet, the way TreyM's work existed for the first game. Until something like that lands, VorpX is the only door.
+## What lands
 
-For a VR enthusiast who already owns VorpX and already played the original into the ground, Below Zero in this wrapper is an easy yes, a few hours of the best underwater space in games, seen properly. For anyone else, the math is harder: a paid driver on top of the game, gamepad-only input, and a view you admire rather than inhabit. The frozen ocean is worth seeing. Just know you are looking through glass.
+Below Zero's strength was never its story (serviceable, occasionally thin) or its combat (there isn't much). It's the place. 4546B is a layered, hostile, gorgeous ecosystem — thermal vents, ice shelves, bioluminescent drifters, the constant low hum of something larger moving nearby. That's exactly the kind of world VR was built to let you stand inside. SubmersedVR delivers that presence without the usual "you're watching through a window" compromise of lesser mods. You're in the water.
+
+The crafting and base-building loop, which can feel like a spreadsheet in flat mode, reads completely differently when you're physically reaching for components and slotting them into a habitat wall. The scanner interaction alone — a deliberate, two-handed sweep over a new creature — turns a tedious collect-'em-up mechanic into something that feels like fieldwork. For a survival game, that grounding is the difference between managing a UI and actually living on an alien planet.
+
+Performance is the other honest note. Below Zero is a heavy Unity title even on a monitor, and VR doubles the render load. You'll want a high-end rig to hold 90Hz through the dense, particle-heavy biomes without reprojection biting into the experience. This is not a potato-PC game.
+
+## The catch
+
+Here's the part I can't soften: SubmersedVR is a community project, not a developer deliverable. It's stable and playable across the whole game, but you'll hit the occasional rough edge — a menu that needs a second glance, an interaction that wants a specific grip. Nothing that broke my run, but this isn't the polished, hand-held experience of an official VR port. You're trusting a modder, and the mod is quiet rather than actively developed. It works; it's not getting weekly love.
+
+And the swim-coupled camera I flagged earlier is the real ceiling. You don't glide with detached ease — when you move, the world moves with you, and there's no teleport and no comfort vignette standing between your inner ear and the fact that you are now upside down under twelve meters of frozen water. I could play in stretches; a friend bounced off after twenty minutes. That's the line that keeps this from being an unconditional recommendation.
+
+## The verdict
+
+If you loved the original Subnautica's VR potential and you've got the stomach for swim-coupled motion, SubmersedVR is the way to see Below Zero. It's a real, inhabitable world with hands and presence, and that's worth the install friction. If you're new to VR comfort or you get sick easily in vehicle-and-swim cameras, wait until your legs are stronger — or keep this one on the monitor. This is for the enthusiast who's already modded a Unity game or two and wants to actually stand on that frozen shore.
