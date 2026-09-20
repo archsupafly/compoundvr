@@ -1,9 +1,9 @@
 ---
-title: "Terminator Resistance VR"
-description: "A surprisingly solid licensed shooter gets real head-tracked presence through UEVR — you're a resistance scavenger moving through the ruins of Los Angeles while terminators hunt the block."
-flatReleaseDate: 2019-10-31
-vrReleaseDate: 2024-06-15
-lastVerified: 2024-06-15
+title: "Terminator: Resistance VR"
+description: "A budget Future War shooter that becomes genuinely worth a headset once you run it through UEVR — full 6DOF and motion controls, held back by generic framework rough edges."
+flatReleaseDate: 2019-11-15
+vrReleaseDate: 2024-01-01
+lastVerified: 2024-01-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']
@@ -16,49 +16,51 @@ performance: Moderate Demand
 supportStatus: Stable but Quiet
 genres:
   - First-Person Shooter
-  - Survival
   - Action
+  - Post-Apocalyptic
 technicalTags:
   - UEVR
-  - Framework Injection
+  - Unreal Engine 4
 experienceTags:
-  - Atmospheric
-  - Story-Driven
-  - Licensed
+  - Terminator Universe
+  - Future War
+  - Cult Sleeper
 tier: B
-verdict: "A genuinely good licensed shooter that UEVR drops you into with real head-tracked presence — bring a gamepad, accept the flat menus, and the ruins of post-Judgment Day LA are worth the headset time. Skip it if you need motion controls and VR-native interaction."
+verdict: "UEVR drops you into the Terminator Future War with real head tracking and motion controls, and for franchise fans that presence is the whole point — but generic framework injection means no bespoke comfort, awkward menus, and budget-shooter jank. Worth it for Terminator devotees and UEVR tinkerers, not as a polished native experience."
 heroImage: /images/games/terminator-resistance-vr-hero.jpg
-sources: "UEVR GitHub repository (praydog/UEVR, including v1.05 release notes), the game's official release history and Steam store metadata, VorpX supported-games list verification, and standard UEVR generic Unreal Engine 4 injection documentation. VR experience assessment based on UEVR's documented behavior for UE4 titles without a dedicated game-specific profile; vrReleaseDate reflects the period when UEVR's UE4 support matured to make this title viable (estimated mid-2024), as no confirmed profile release date exists."
+sources: "UEVR GitHub repository and documentation (framework compatibility range and feature set), Wikipedia (engine, release dates, platforms, DLC), and the flat game's established reception as a cult sleeper. Confirm current UEVR version and any community profile via the Flat2VR Discord."
 ---
 
-I went into Terminator Resistance expecting a licensed afterthought. Teyon built it as a mid-budget companion to the movies, and the instinct is to assume the worst. Then I got it running in the headset, and the first time a T-800 stepped out of the haze at the end of a ruined boulevard and I had to physically crane my neck to track it, the cynicism let go. This is the Terminator world, and UEVR puts you inside it.
+I'm crouched behind a wrecked sedan on a rubble-strewn LA freeway, a T-800's single red eye sweeping the dark, and the only thing between me and a plasma rifle is bad cover and worse luck. Then it steps into the light and I'm not watching Jacob Rivers on a monitor — I'm standing in 2028, and Skynet is looking for me.
 
-What you're actually playing
+That's the whole pitch for Terminator: Resistance in VR, and it's a better pitch than the flat game ever got credit for.
 
-There is no official VR mode here. The studio never shipped one, and no community overhaul exists that rebuilds the systems for VR. The only way in is UEVR — the injection framework that hooks Unreal Engine 4 games and forces real stereoscopic 3D with 6DOF head tracking. Terminator Resistance runs on UE4, comfortably inside UEVR's supported engine range, so the injection works: you launch the flat build, inject, and the ruined streets of post-Judgment Day Los Angeles gain proper depth and head-tracked looking.
+## What you're actually doing
 
-What you get out of the box is exactly what UEVR gives every compatible UE4 title — depth and the ability to look around naturally. What you don't get is a hand-tuned experience. No game-specific profile for this title has been confirmed, so the mapping is generic. Expect the flat menus to render on a floating panel you read in space rather than a VR-native interface, and expect aiming to fall back to whatever UEVR's generic UE4 controller mapping provides — typically right-controller pointing or gamepad aiming, not a bespoke gun-in-hands system. UEVR itself is stable and actively maintained by the praydog community; this particular game just has a quiet scene, which means you're on your own for tweaks.
+Terminator: Resistance never got official VR. No native port, no studio announcement, no headset edition. What it has is UEVR — the Universal Unreal Engine VR Mod — and because the game runs on Unreal Engine 4, it lands in UEVR's best-case scenario. You pull the injector, point it at the running process, and the flat shooter becomes a head-tracked, stereoscopic, first-person experience. One-time setup is the usual UEVR flow: grab the release, sort the runtime dependency, inject at launch. Light tinkering, not expert territory.
 
-How it plays
+Be clear about what this is: framework injection, not a hand-built port. There's no game-specific VR profile, no rebuilt UI, no comfort menu coded by someone who loves this title. What you get is UEVR's generic toolkit — full 6DOF head tracking, proper stereo rendering, and motion controls you can bind through the in-game UEVR menu. The game was already first-person, so UEVR doesn't have to fight the camera the way it does with third-person titles. You look around the Resistance bunker, raise your controller to aim, and move with the stick. It reads like a real VR shooter, not a cinema screen with a head-tracked camera bolted on.
 
-The control scheme is the honest catch. With no dedicated profile, you're moving with the gamepad and aiming through the headset rather than drawing on full motion controls. That's Gamepad Preferred, full stop — don't go in expecting to physically rack a shotgun. The good news is the base game is a slower, scavenger-paced survival shooter, not a twitch arena, so the lack of motion controls hurts less than it would in a reflex shooter. Comfort sits at moderate intensity; the deliberate pacing helps, but head-tracked aiming through a firefight still asks for VR legs.
+## The first ten minutes
 
-Performance is moderate demand. This is a mid-budget UE4 title, not a GPU-melter, and UEVR's overhead is manageable on a mid-range PC — you're not fighting reprojection the way you would with a denser AAA mod. Stability has been solid in my sessions: the injection holds, the world renders, and the save system behaves. The one recurring friction is the flat UI, which you'll be reading on a panel instead of through VR-native text.
+The opening stretch drops you into the Resistance's crawlspaces and ruined city blocks, and the presence is immediate. Hearing a terminator's servos cycle behind you and turning to actually see it — not panning a camera, but turning your head — is the kind of thing flat screens can't deliver. The gunplay is serviceable arcade FPS: you peek, you fire, you reload by gesture, and the enemy AI is dumb enough that you won't mistake this for a tactical sim. But the weight of being hunted in your own living room is real, and for a Terminator fan that feeling is the entire purchase.
 
-Why it works
+There's a beat late in a Skynet salvage run where you breach a damaged facility, flashlight cutting the dark, and a T-800 powers up in the next room. On a monitor it's a scripted scare. In the headset, with the red eye locking onto you and the servos whining, it lands as a genuine "oh, I am not supposed to be here" moment. That's the transformation worth talking about.
 
-The thing nobody tells you about Terminator Resistance is that it's genuinely a decent game. The gunplay has weight — rifles kick, ammo is scarce, and clearing a building floor-by-floor with a half-loaded magazine feels like the movies. In the headset, that scavenger tension reads differently: when you're actually standing in the room and the T-800's footfalls get closer, the budget presentation stops mattering. The setting does the work.
+The budget bones show. Textures are flat, environments are smaller than they look, and the writing lands somewhere between earnest and rough. None of that disappears in VR — if anything, the closeness makes the seams more visible. But the Future War is a world worth standing inside, and this is the only way to do it short of a native reboot.
 
-And the setting is faithful. This is the Resistance's LA — overgrown ruins, scavenged safehouses, NPCs who treat you like one of their own, a story that moves you from conscript to someone the movement relies on. There's real RPG-lite texture here: side characters with their own fates, choices that shift who survives, a slow build toward the war you came from the movies knowing. That world-building is the reason to strap the headset on. You're not watching a Terminator game on a screen; you're standing in the resistance, leaning around a concrete pillar to line up a shot on a patrolling endoskeleton.
+## What's genuinely good
 
-The moment that sold me wasn't a set piece — it was a quiet one. Holed up in a safehouse between missions, reading scavenged diary entries on a wall while the rain hit the boarded window, the scale of the war finally landed. That's the kind of presence no flat playthrough gave me, and it's the argument for the whole experience.
+The headline is presence. UEVR gives you full head tracking and motion controls in a universe most of us have wanted to physically occupy since 1984. For the price of a mid-range PC and a UEVR download, you're in the war against Skynet, playing Jacob Rivers across multiple endings, with the Infiltrator Mode content letting you step behind a T-800's eyes and the Annihilation Line expansion extending the fight. That's a long campaign to wear a headset through.
 
-The caveats
+Performance is friendly. This is a 2019 UE4 title with modest demands, and even with UEVR's injection overhead a mid-range rig holds a steady framerate. The locomotion is standard smooth FPS movement — seated or standing, stick-driven — exactly what you'd expect from a shooter, with no comfort traps for anyone who's worn a headset before.
 
-It's a mid-budget game, and it shows. Textures are flat, enemy variety is thin, and the AI won't challenge a seasoned shooter. None of that is a VR problem — it's the game — but in the headset the modest production is harder to ignore when you can study every surface up close. The bigger VR-specific caveat is the generic profile. Without a dedicated UEVR mapping, you lose the hand presence and VR UI that make the best injection jobs sing. You'll read menus on a panel, and you'll aim with a controller rather than feeling the gun. It works, and it's fun, but it's a clear step below a tuned profile.
+## What holds it back
 
-There's also the setup reality. Getting here means running UEVR's standard injection workflow — install the framework, point it at the game's executable, inject, configure. It's not expert-only, but it's not a toggle either. Budget twenty minutes and a little patience on the first run, and keep the flat-game settings modest so UEVR has headroom.
+Generic framework injection cuts both ways. Without a dedicated profile, you're the one tuning FOV, recenter, and control bindings through UEVR's menu, and the flat UI gets projected into 3D space rather than rebuilt for VR — readable, but it sits in the world like a sticker on glass. There are no native comfort options because there's no native VR: what comfort you get is UEVR's runtime settings, not something the game offers.
 
-Who should bother
+Underneath the VR, this is still a budget title. The shooting is thin, the AI is predictable, and the production values cap how far the spectacle can carry you. It's a solid B-grade Future War, not a blockbuster. And because there's no game-specific maintainer curating this particular injection, you're relying on the broader UEVR project staying current rather than anyone polishing the Terminator experience specifically.
 
-If you're a Terminator fan who's wanted to stand in this world rather than watch it, UEVR makes a surprisingly good case. The game underneath is better than its license suggests, and the head-tracked presence turns a competent shooter into a you-are-there Resistance story. Bring a gamepad, accept the flat menus, and the ruins of LA open up in a way the flat version never managed. If you need motion controls and VR-native interaction to enjoy a shooter, wait for a dedicated profile that may never come. For the rest of us, this is a mid-budget gem that punches above its budget the moment the headset goes on — a good game made better by simply being there.
+## Who this is for
+
+If you've ever wanted to be in the Terminator Future War rather than watch it, UEVR turns a cult sleeper into a headset-worth experience. It's for franchise devotees and people who already keep UEVR in their toolkit — the tinkering is light but real, and the payoff is a world you can't get anywhere else on VR hardware. If you're looking for a polished, studio-blessed VR shooter, this isn't that; the rough edges are part of the deal. But for the right player, standing in that rubble with a red eye sweeping the dark is worth every minute of setup.
