@@ -42,7 +42,7 @@ I strapped into the headset expecting another early-access tech demo with delusi
 
 Gunman Contracts - Stand Alone isn't a mod, an injection profile, or a flat game with a VR toggle bolted on after launch. It was built from the ground up in Unreal Engine for both VR and non-VR at the same time, and the VR side is real OpenXR with full tracked controller support. You launch it on Steam with a headset connected and VR mode switches on by itself — no config files, no third-party framework, no "hope the profile actually works this time" gamble. Standing or sitting, your call.
 
-The developer, ANB_Seth, cut his teeth on two popular Half-Life: Alyx workshop mods under the same name. Those are separate products now — historical roots, not the game you're buying. The standalone is the real deal: native, supported, and tracked-controller all the way down. There's no VorpX-shaped consolation prize here because there doesn't need to be.
+The developer, ANB_Seth, cut his teeth on two popular Half-Life: Alyx workshop mods under the same name. Those are separate products now — historical roots, not the game you're buying. The standalone is the real deal: native, supported, and tracked-controller all the way down.
 
 ## How the night goes
 
