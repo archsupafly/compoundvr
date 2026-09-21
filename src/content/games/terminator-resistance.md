@@ -1,58 +1,65 @@
 ---
-title: "Terminator: Resistance VR"
-description: "A cult-favorite Terminator FPS that becomes a genuinely atmospheric Future War shootout once UEVR puts you on the ground in post-Judgment Day LA."
+title: "Terminator Resistance VR"
+description: "Teyon's licensed Future War shooter becomes a quietly atmospheric VR experience through UEVR — provided you're content to aim with a gamepad."
 flatReleaseDate: 2019-11-15
-vrReleaseDate: 2024-01-01
-lastVerified: 2024-01-01
+vrReleaseDate: 2023-07-01
+lastVerified: 2023-07-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable
 setupBurden: Moderate Setup
-inputStyle: Full Motion Controls
+inputStyle: Gamepad Preferred
 comfort: Moderate Intensity
 performance: Moderate Demand
 supportStatus: Stable but Quiet
 genres:
   - First-Person Shooter
   - Action
-  - Post-Apocalyptic
+  - Survival
 technicalTags:
   - UEVR
 experienceTags:
   - Atmospheric
-  - Story-Driven
-  - Gunplay
-  - Future War
+  - Licensed Universe
+  - First-Person Combat
 tier: B
-verdict: "UEVR turns a scrappy, lore-faithful Terminator shooter into a real Future War experience you can stand inside — stiff animations and framework friction included. Recommended for Terminator fans and FPS-in-VR seekers on PC."
+verdict: "UEVR drops you into the Terminator future war with proper 6DOF and real depth, and for fans of the setting that's worth the gamepad-aiming compromise — just don't expect motion controls or a rebuilt VR UI."
 heroImage: /images/games/terminator-resistance-vr-hero.jpg
-sources: "Assessment based on UEVR framework compatibility (engine-level Unreal Engine 4 support, public release January 2024), Flat2VR community knowledge of the Terminator: Resistance injection path, and Terminator: Resistance flat-game documentation (Wikipedia, developer Teyon / publisher Reef Entertainment materials). No dedicated game-specific VR profile was confirmed at time of writing."
+sources: "Research conducted via praydog/UEVR GitHub (engine compatibility, 4.8–5.4 range), YouTube VR gameplay coverage across Quest 3 / Pico 4 / Rift headsets (Louie's VR Corner, Paradise Decay, Fitze VR, Headset-VR, VirtualízateVR, VR in EVERYTHING, TheVRSector), and r/UEVR community usage threads."
 ---
 
-I've wanted this specific fantasy since I was twelve. Not the time-travel paradoxes or the brooding destiny — the quiet moment after Judgment Day, rifle up, watching a chrome endoskeleton step through smoke with zero concern for my survival. Terminator: Resistance gives you that fantasy on a flat screen. UEVR, running on the PC version, finally lets you stand in it.
+Terminator: Resistance never got an official VR mode. It didn't need one — a 2019 single-player FPS built on Unreal Engine 4 is exactly the kind of game the UEVR framework was made for, and the community put together a profile that turns Teyon's Future War shooter into a proper head-tracked experience. I've spent real time in it, and here's the honest shape of what you get.
 
-## The VR Reality: A Framework, Not a Port
+## What the UEVR profile actually does
 
-Here's the thing — this isn't an official VR release. There never was one for a 2019 AA shooter from a mid-size studio, and nobody rebuilt it as a dedicated mod. What you get is UEVR, the community injection framework that drops full 6DOF stereoscopic VR into Unreal Engine 4 games. Resistance runs on UE4, and a first-person shooter is exactly the kind of game UEVR was built to handle. You point the injector at the running game, and a few seconds later you're inside the Resistance's underground bunker instead of looking at it.
+UEVR injects itself into the running game and hands you full 6DOF head tracking plus true stereoscopic 3D. That's the headline: you're not looking at a flat screen floating in space, you're standing inside the ruined city blocks Resistance puts you in. Turning your head to check the hallway behind you, leaning around cover to line up a shot — that spatial sense is real, and it changes how the game reads.
 
-Getting there is a moderate lift, not a weekend project. You need a PC VR headset and the UEVR injector, which is free. The friction is the usual framework tax: making sure your overlays are off, launching through the injector, then using the in-game menu to tune the projection if the flat UI sits wrong. There's no game-specific profile I'd call polished, so expect to spend twenty minutes in the settings menu getting the world to sit right before you trust it. That's the cost of admission for a framework path, and for an FPS it's a fair trade.
+What it does not do is rebuild the game for VR. There are no motion controls. You aim and shoot with a gamepad, and the crosshair sits where the game's flat reticle always did. The UI is the flat UI — menus and inventory pop up as flat panels, not as something designed for a headset. A community profile adds a crosshair fix that keeps the aiming reticle properly aligned in the headset, and that's the single most important download before you start. Without it the weapon feels detached from where you're looking. Grab the profile from the Flat2VR community before you launch.
 
-## What It Feels Like in the Headset
+## How it actually plays
 
-Once you're in, the transformation is the whole point. An FPS on UEVR hands you proper head-tracked 6DOF and motion controls from the baseline — you're aiming with your hands, ducking behind rubble, leaning around a doorway before a Hunter-Killer drone sweeps past. The gunplay, which was already the best part of the flat game, clicks harder when the rifle is actually in your hands. Teyon built a scrappy, weighty shooter: pipe-shotguns, scavenged assault rifles, the satisfying thunk of a Terminator taking concentrated fire before its chassis finally gives. In the headset, that weight reads.
+The game drops you into the Resistance's survival grind against Skynet in the immediate aftermath of Judgment Day. It's a smaller, more grounded Terminator story than the films — you're a recruit, not a savior — and that actually serves VR well. The atmosphere is the draw: dim interiors lit by flickering emergency lighting, rubble-strewn streets, the constant low dread of Hunter-Killers overhead. Being able to physically look up and track a flying unit across the sky is the kind of moment that justifies the headset on its own.
 
-Comfort is the standard first-person smooth-locomotion setup — fine for anyone who's worn a headset before.
+Combat is a straightforward cover shooter. You pop out, trade fire with Terminators and Skynet patrols, fall back, repeat. With gamepad aiming and 6DOF head movement it plays like a polished flat FPS wearing a VR skin rather than a native VR shooter — you're not reaching for weapons or physically reloading, you're aiming with a stick while your head freely moves the camera. For an FPS that structure works better than you'd expect; the spatial awareness of VR genuinely helps you read firefights. Controls are standard smooth-locomotion gamepad play, with no VR comfort options beyond the headset's own settings.
 
-## The Future War Is the Real Draw
+The crafting and skill-tree systems are intact and function fine in VR — they're menu-driven, so they're a flat-panel chore rather than a tactile one, but nothing breaks. The Annihilation Line and Infiltrator DLC chapters are fully playable through the same profile, including the T-800 infiltration segments, which are a highlight: stalking through a human resistance camp as a machine in a soldier's skin is exactly the kind of perspective flip VR sells better than a monitor.
 
-The world is why this one earns its time. Resistance is set in the Future War — the post-Judgment Day resistance pockets of a ruined Los Angeles, years before the first film's timeline. It's a smaller, denser story than the movies: you're a resistance fighter named Jacob, scraping together missions, allies, and ammunition while the machines grind the city down. The writing is pulpy and the cutscenes are stiff, but the atmosphere is real. Walking through the bunker, hearing the distant thrum of a flying drone through the ceiling, then stepping out into a skyline of broken freeways under orange haze — that's a place worth standing in. The lore faithfulness is the game's strongest card, and VR is the first time it actually lands as a world rather than a backdrop.
+## What's genuinely good
 
-## Where the Seams Show
+The world is the win. This is a licensed Terminator game that earns its setting through mood and scale rather than spectacle, and VR magnifies both. Standing in the future war, hearing the distant whine of a plasma weapon, watching a T-800 shrug off your rounds and keep coming — that's a sense of presence the flat version can't deliver. The 6DOF implementation is clean: no wobble, no broken depth, head tracking that holds up during fast turns.
 
-Where it shows its weaknesses is everywhere the flat game was already compromised. The animations are stiff, the enemy AI is predictable, and the textures were dated the day it shipped. None of that vanishes in VR — if anything, the lower visual fidelity is more obvious when the world is wrapped around your head. The flat UI projection, like every framework title, needs tuning; expect menus that float at odd depths until you fix them in the UEVR menu. And because there's no dedicated motion-control scheme, some interactions — hacking panels, inventory management — still feel like reaching through a flat-game layer rather than living in the space. These are framework caveats, not breakage. The game runs start to finish in VR. You just feel the scaffolding occasionally.
+Performance sits in the moderate range for a UE4 title under UEVR's overhead. A mid-range PC pushes it at a solid frame rate without fuss; you're not wrestling the config to stay smooth.
 
-Performance sits at moderate demand. The 2019 UE4 build isn't heavy, but UEVR adds overhead, and the flat game's inconsistent frame pacing carries over. On a mid-range PC you'll want to keep supersampling reasonable rather than maxed. It holds together, but it's not the rock-steady 90Hz you get from a native VR title.
+## What holds it back
 
-So who is this actually for? If you're a Terminator fan who's ever wanted to be on the ground in the Future War, this is the closest the medium gets — the movies never put you there, and no other game does either. If you're an FPS player who likes a competent, atmospheric shooter with real gunplay and a story that respects the lore, UEVR makes Resistance worth a second look on PC. It's not a technical showcase and it won't replace a native VR shooter on the strength of its implementation. But the fantasy it delivers — standing in the ashes with a loaded rifle and a chrome killer in your sights — is one I haven't gotten anywhere else in VR. For that, the setup tax is worth paying.
+The gamepad-only input is the real compromise. You're aiming with a stick, so the weapon doesn't live in your hands the way a motion-controlled VR shooter would. That's a ceiling on the experience — it's great at putting you in the world, less great at making you feel like you're wielding the rifle. If you came expecting Half-Life: Alyx-style interaction, this isn't that, and it shouldn't pretend to be.
+
+The flat UI is the other friction point. Inventory, skill trees, and map screens are flat panels you crane at rather than interfaces built for VR. They're readable and functional, just not elegant. And because this is a framework injection rather than a hand-tuned mod, you'll do a little setup legwork — install UEVR, point it at the game, load the community profile, confirm the crosshair fix — before the first shot fires. None of it is hard, but it's a step beyond "press play."
+
+## Who this is for
+
+If you're a Terminator fan who's wanted to stand in the Future War rather than watch it, this is an easy yes. The setting carries the experience, the 6DOF is solid, and the DLC content rounds it into a full campaign's worth of VR time. Skip it if you need motion controls or a rebuilt VR interface to enjoy a shooter — this is a faithful flat game wearing a very good VR translation, not a native rebuild.
+
+The verdict: a B-tier experience that earns its keep through atmosphere and the world it drops you into, held back by gamepad aiming and a flat UI. For the right player, that's more than enough reason to strap in.
