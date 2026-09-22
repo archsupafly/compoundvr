@@ -79,13 +79,17 @@ The multiplayer crew races are where it shines. Competing against other longship
 
 ## #6: Against
 
-**Against (2021)**
+![Against](/images/games/against-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Against cosplays as a noir action comic. You fight through hand-drawn cityscapes, punching, shooting, and dodging in time with the beat. The art style hooks you first — black-and-white panels with red splashes of violence, like Sin City drawn by someone who owns a Quest. Underneath the visuals, the gameplay is a hybrid of boxing, shooting, and rhythm timing that keeps you moving forward.
 
 It's not as mechanically deep as Beat Saber or Pistol Whip, and the campaign is short, but the style carries it. I would show Against to someone who cares more about vibe than leaderboards.
 
 The replay value comes from chasing better scores, not from a mountain of content.
+
+[Read the full Against review](/games/against)
 
 ---
 
