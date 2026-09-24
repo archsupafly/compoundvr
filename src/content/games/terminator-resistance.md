@@ -27,7 +27,7 @@ experienceTags:
   - Atmospheric Future-War
   - 6DOF Presence
   - Injection Framework
-tier: B
+tier: A
 verdict: "A verified 6DOF way to inhabit the Terminator world — real presence and motion-control shooting, with flat menus and injection roughness showing. Fans and atmospheric-shooter lovers should put the headset on; native-VR purists will feel the gap."
 heroImage: /images/games/terminator-resistance-vr-hero.jpg
 sources: "Assessment built from UEVR framework documentation (GitHub README: 6DOF, stereoscopic 3D, optional motion controls, OpenVR/OpenXR support for UE4 4.8–5.4), Wikipedia (engine, release dates, platforms), independent VR playthrough footage across Paradise Decay PLUS DLC, Headset-VR (crosshair mod footage), Fitze VR, Louie's VR Corner, VHS Productions, TheVRSector, and VR in EVERYTHING showing 6DOF UEVR play on Quest 3, Pico 4, and Rift, a r/UEVR tuning thread confirming active profile use, and a VirtualízateVR setup guide distributing a working UEVR profile for this title. No direct testing performed."
