@@ -1,6 +1,6 @@
 ---
 title: "Top VR Modding News of 2022: The Year Modding Went Pro"
-description: "2022 was the year flat-to-VR modding stopped being a hobby — praydog's REFramework put four Resident Evils in headsets in January, Luke Ross shipped four AAA conversions and made $20,000 a month doing it, Half-Life 2 VR finally launched, and the scene got a headquarters."
+description: "Flat-to-VR modding stopped being a hobby in 2022 — praydog dropped REFramework on New Year's Day, Luke Ross made $20,000 a month and got DMCA'd by Take-Two within the same week, an eight-year Half-Life 2 mod launched free on Steam, and the scattered scene got a name, a headquarters, and a monthly press column."
 pubDate: 2022-12-15
 lastVerified: 2022-12-15
 author: Richard
@@ -9,17 +9,19 @@ heroImage: /images/articles/top-vr-modding-news-2022-hero.jpg
 tags: ['2022', 'vr-modding', 'reframework', 'half-life-2', 'luke-ross', 'real-vr', 'uevr', 'flat2vr', 'team-beef', 'deep-rock-galactic', 'neon-white', 'psvr2', 'quest-pro', 'flat-to-vr']
 ---
 
-2021 ended with the mods setting the agenda. 2022 was the year the agenda got executed — and the industry noticed.
+The first flat-to-VR story of 2022 landed on January 1, when praydog published the first VR-capable REFramework build and put four Resident Evil games into headsets before most people had finished their holiday leftovers. That single release set the rhythm for the entire year: one person, one framework, AAA games running in VR before the studios that owned them had a chance to object.
 
-This was the year a single programmer's framework put four AAA horror games into headsets in January. The year one modder shipped four of the biggest games on the planet to VR, made twenty grand a month doing it, and got DMCA'd by Take-Two within the same week. The year an eight-year community project finally launched on Steam, the year Unreal Engine VR got announced, and the year the scattered mod scenes got a name, a headquarters, and a monthly press beat.
+By December, the scene looked nothing like a hobby. Luke Ross shipped four of the biggest games on the planet — Cyberpunk 2077, Elden Ring, Dark Souls: Remastered, Final Fantasy VII Remake Intergrade — through his Patreon-backed R.E.A.L. framework. A July profile in The Verge reported he was making $20,000 a month. Six days after publication, Take-Two DMCA'd his Grand Theft Auto V and Red Dead Redemption 2 mods. Real money, real lawyers, real consequences.
 
-The mods didn't just matter in 2022. They went pro.
+[Half-Life 2 VR](https://compoundvr.com/games/half-life-2/) — the community project that had been in development for nearly eight years — finally launched its public beta on Steam on September 16, free, with full motion controls. The same month, praydog revealed UEVR, a universal Unreal Engine VR injector, and Flat2VR went public as the scene's central hub, with RoadToVR launching its first "VR Modding Monthly" column to track it. Ghost Ship Games worked with a modder to add VR support plugins to Deep Rock Galactic. Team Beef put Jedi Knight II on a $300 standalone headset.
+
+By December, flat-to-VR modding was paying rent, drawing legal attention, shipping on Steam, and organizing itself like an industry. 2021's edition argued the mods set the agenda. 2022 sent the invoice.
 
 Here are the flat-to-VR modding stories that mattered in 2022.
 
 ## 1. REFramework Drops in January — Four Resident Evils in VR
 
-The year opened with a shock. On January 1, 2022, praydog published the first VR-capable build of [REFramework](https://compoundvr.com/articles/reframework-vr-guide/) — his mod loader and scripting platform for Capcom's RE Engine — and suddenly Resident Evil 2, Resident Evil 3, Resident Evil 7, and Resident Evil Village were all playable in PCVR. Full stereoscopic 6DOF, with motion-controller aiming arriving within months (v1.2 landed in May with full 6DOF motion controls and OpenXR).
+The year opened with a shock. On January 1, 2022, praydog published the first VR-capable build of [REFramework](https://compoundvr.com/articles/reframework-vr-guide/) — his mod loader and scripting platform for Capcom's RE Engine — and suddenly [Resident Evil 2](https://compoundvr.com/games/resident-evil-2-2019/), [Resident Evil 3](https://compoundvr.com/games/resident-evil-3/), [Resident Evil 7](https://compoundvr.com/games/resident-evil-7/), and Resident Evil Village were all playable in PCVR. Full stereoscopic 6DOF, with motion-controller aiming arriving within months (v1.2 landed in May with full 6DOF motion controls and OpenXR).
 
 This was the first time modern AAA horror was fully playable in a headset, and it set the tone for everything that followed. The press cycle ran for a week straight — Wccftech, TechSpot, DSOGaming all covered it in the first days of January. The message was unmistakable: 2022 was going to be the year of the AAA conversion, and it started on day one.
 
@@ -27,7 +29,7 @@ REFramework kept growing all year (RE4 and the rest would follow), but January w
 
 ## 2. Luke Ross Ships Four AAA Games — Then the Money and the Lawyers Arrive
 
-No single person defined 2022 modding like Luke Ross. His Patreon-only R.E.A.L. framework converted four of the biggest games in the world to VR in a single year: Cyberpunk 2077 in February, Elden Ring in May (three months after launch), Dark Souls: Remastered in June, and Final Fantasy VII Remake Intergrade in late August. Our [Luke Ross R.E.A.L. VR guide](https://compoundvr.com/articles/luke-ross-real-vr-guide/) covers the full catalog. One guy out-shipped the entire VR industry's AAA output.
+No single person defined 2022 modding like Luke Ross. His Patreon-only R.E.A.L. framework converted four of the biggest games in the world to VR in a single year: Cyberpunk 2077 in February, Elden Ring in May (three months after launch), [Dark Souls: Remastered](https://compoundvr.com/games/dark-souls/) in June, and Final Fantasy VII Remake Intergrade in late August. Our [Luke Ross R.E.A.L. VR guide](https://compoundvr.com/articles/luke-ross-real-vr-guide/) covers the full catalog. One guy out-shipped the entire VR industry's AAA output.
 
 Then July happened. On July 1, The Verge published Adi Robertson's profile — "Meet the modder making $20,000 a month bringing the biggest games to VR" — reporting Ross earned $20k+ a month from Patreon backers, roughly $150,000 total at the time. (MIXED had run the $10,000-a-month version of the story in April. The income doubled in three months.) It was the first mainstream validation that flat-to-VR modding was a real business, not a hobby.
 
@@ -77,7 +79,7 @@ Every scene in this article passed through that door within a year.
 
 ## 8. Team Beef Takes Jedi Knight to Quest
 
-While the PC modders chased AAA, Team Beef owned the other end of the spectrum. In the September–October window, Jedi Knight II: Jedi Outcast entered Patreon early access for Quest 2 (October 10), with Jedi Academy announced as the next port weeks earlier. Decades-old classics, running natively on a standalone headset, swinging a lightsaber with motion controls.
+While the PC modders chased AAA, Team Beef owned the other end of the spectrum. In the September–October window, [Jedi Knight II: Jedi Outcast](https://compoundvr.com/games/jedi-knight-2/) entered Patreon early access for Quest 2 (October 10), with [Jedi Academy](https://compoundvr.com/games/jedi-academy/) announced as the next port weeks earlier. Decades-old classics, running natively on a standalone headset, swinging a lightsaber with motion controls.
 
 It's the Quest side of the 2022 story, and it matters for reach: flat-to-VR wasn't just for expensive PCVR rigs. A $300 standalone headset could put you inside Kyle Katarn's boots. (The full free Outcast release followed in April 2023 — outside this year's scope, but proof the model worked.)
 
@@ -95,9 +97,9 @@ None of these are modding stories directly. All of them are the ground the moddi
 
 ## Honorable Mentions
 
-**Half-Life: Alyx: Levitation + the Alyx mod scene.** November's Levitation campaign was the biggest Alyx mod to date, atop a growing scene of custom campaigns and Gunman Contracts-era experiments. Scope note: these are mods *for* a VR game, not flat-to-VR — which is why they're here and not numbered. The distinction matters, and the scene deserves the nod.
+**Half-Life: Alyx: Levitation + the Alyx mod scene.** November's Levitation campaign was the biggest [Half-Life: Alyx](https://compoundvr.com/games/half-life-alyx/) mod to date, atop a growing scene of custom campaigns and Gunman Contracts-era experiments. Scope note: these are mods *for* a VR game, not flat-to-VR — which is why they're here and not numbered. The distinction matters, and the scene deserves the nod.
 
-**NomaiVR's quiet upkeep year.** No 2022 launch, no milestone — the Outer Wilds conversion shipped in 2020. But Raicuparta's team kept the gold-standard Unity conversion alive all year, including Game Pass support in January and compatibility patches through October. The best flat-to-VR experience many players know needed no 2022 release. It just kept working.
+**NomaiVR's quiet upkeep year.** No 2022 launch, no milestone — the [Outer Wilds](https://compoundvr.com/games/outer-wilds/) conversion shipped in 2020. But Raicuparta's team kept the gold-standard Unity conversion alive all year, including Game Pass support in January and compatibility patches through October. The best flat-to-VR experience many players know needed no 2022 release. It just kept working.
 
 ## The Year Modding Went Pro
 
