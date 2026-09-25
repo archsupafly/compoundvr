@@ -56,7 +56,7 @@ For the 2018 library on its own merits, the 2080 is fine. It clears every game h
 
 Buy it if you are building fresh at this budget. Do not expect it to trade blows with anything above it.
 
-The 2070 is the one card in this stack with no VR test suite behind it — no outlet, no YouTuber, no forum thread with per-game numbers for the non-Super 2070. So here is the derivation, math visible. Digital Foundry's flat data (FFXV benchmark, 1440p): 29.31 FPS against the GTX 1080's 25.94 (+13%) and the 2080's 33.74 (−13%), with launch-review consensus at 12–17% over the 1080. VR is a raster workload at these resolutions, so the margin carries: 1080-class headroom plus a notch, a rung below the 2080, two below the 1080 Ti where the Ti leads.
+The 2070 skipped the VR test suites, so this section is built from the flat data. Digital Foundry's numbers (FFXV benchmark, 1440p): 29.31 FPS against the GTX 1080's 25.94 (+13%) and the 2080's 33.74 (−13%), with launch-review consensus at 12–17% over the 1080. VR is a raster workload at these resolutions, so the margin carries: 1080-class headroom plus a notch, a rung below the 2080, two below the 1080 Ti where the Ti leads.
 
 At 100% supersampling, that means 90 Hz across nearly the whole 2018 library, Creation Engine ports included with settings discipline. The lightweight catalog has room to spare. What you do not get is the Ti's supersampling buffer — past 100%, the 2070 runs out before the 2080 does. The 8 GB of VRAM is comfortable everywhere; compute, not memory, is the ceiling.
 
