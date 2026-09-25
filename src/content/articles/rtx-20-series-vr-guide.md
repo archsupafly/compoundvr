@@ -2,8 +2,10 @@
 title: "RTX 20-Series VR Performance: What Each Card Ran in 2018"
 description: "Four cards, twelve games, one headset target. We ran the full RTX stack through the 2018 VR library — frame data, supersampling headroom, and which card was actually worth your money."
 pubDate: 2018-09-20
-lastVerified: 2019-01-15
+lastVerified: 2020-03-09
 history:
+  - date: 2020-03-09
+    note: "2070 section derived from flat-benchmark deltas; 2060 section rebuilt with FCAT-VR data."
   - date: 2019-01-15
     note: "Added RTX 2060 coverage on launch."
 author: Richard
@@ -50,17 +52,23 @@ BabelTechReviews' FCAT-VR data, unconstrained: [Batman: Arkham VR](https://compo
 
 For the 2018 library on its own merits, the 2080 is fine. It clears every game here at 100% supersampling, holds 90 in the heavy ports with modest settings discipline, and gives you a wider supersampling band than any 10-series card below the Ti. If you are coming from a 1070 or below, it is a real upgrade. If you own the Ti, NVIDIA charged you seven hundred dollars for a sidegrade with a [VirtualLink connector](https://www.tomshardware.com/reviews/nvidia-geforce-rtx-2080-ti-founders-edition,5805.html) no headset uses.
 
-## RTX 2070 ($499): the sensible middle nobody benchmarked — verdict first
+## RTX 2070 ($499): 1080-plus-a-notch — verdict first
 
 Buy it if you are building fresh at this budget. Do not expect it to trade blows with anything above it.
 
-The 2070 launched October 17 at $499 with 2,304 CUDA cores and 8 GB of GDDR6, positioned as GTX 1080-class performance for less money — and then received essentially zero VR-specific test coverage. No review I can find put it through a VR suite. So here is the straight version: expect 1080-tier frame headroom. The lightweight catalog runs clean. The Creation Engine ports are playable with settings pulled down a notch from where the 2080 sits. You do not get the Ti's supersampling buffer, and in the games where the 1080 Ti leads, you are two rungs down the ladder, not one.
+The 2070 is the one card in this stack with no VR test suite behind it — no outlet, no YouTuber, no forum thread with per-game numbers for the non-Super 2070. So here is the derivation, math visible. Digital Foundry's flat data (FFXV benchmark, 1440p): 29.31 FPS against the GTX 1080's 25.94 (+13%) and the 2080's 33.74 (−13%), with launch-review consensus at 12–17% over the 1080. VR is a raster workload at these resolutions, so the margin carries: 1080-class headroom plus a notch, a rung below the 2080, two below the 1080 Ti where the Ti leads.
+
+At 100% supersampling, that means 90 Hz across nearly the whole 2018 library, Creation Engine ports included with settings discipline. The lightweight catalog has room to spare. What you do not get is the Ti's supersampling buffer — past 100%, the 2070 runs out before the 2080 does. The 8 GB of VRAM is comfortable everywhere; compute, not memory, is the ceiling.
 
 ## RTX 2060 ($349): the entry ticket, with a memory ceiling — verdict first
 
-Cheapest way into acceptable 2018 VR. Also the first card here where VRAM, not compute, is the wall.
+Cheapest way into acceptable 2018 VR. Also the first card here where VRAM, not compute, is the wall — and this one has receipts: [BabelTechReviews' VR Wars](https://babeltechreviews.com/vr-wars-navi-vs-turing-revisited-with-the-vive-pro/) ran the 2060 through seven games on a Vive Pro with FCAT-VR. Note the headset — Vive Pro out-resolves the Rift CV1, so Rift owners read these numbers a touch better. Unconstrained FPS with synthetic-frame percentage:
 
-1,920 CUDA cores and 6 GB of GDDR6 puts it near GTX 1070 / 1070 Ti class — a step below the 2070, two below the 2080. The 6 GB is the number that matters: [Skyrim VR](https://compoundvr.com/games/skyrim/) and [Fallout 4 VR](https://compoundvr.com/games/fallout-4/) eat VRAM as supersampling climbs, and 6 GB caps how far you go before the driver starts swapping. At 100% supersampling with sensible settings, the 2018 library holds. Past that, this card says no first.
+Light titles fly: ARK Park 112.18 (0% synthetic), Boneworks 112.33 (3%). Heavy titles live in reprojection: [Elite Dangerous](https://compoundvr.com/games/elite-dangerous/) 51.72 (55%), [Fallout 4 VR](https://compoundvr.com/games/fallout-4/) 59.91 (52%, one dropped frame, one warp miss), Hellblade 76.50 (50%), No Man's Sky 74.85 (50%), Obduction 53.09 (56%). At 50%+ synthetic frames the card renders half the picture and the compositor invents the rest — playable, but you feel it in your hands.
+
+The 6 GB ceiling is confirmed by owner reports: VRAM exhaustion — stuttering, texture failures — when pushing supersampling on memory-heavy titles. The awkward comparison is the GTX 1070 Ti: near-identical raster (within a couple of percent at 1440p) with 8 GB on board. For supersampled VR, the older card's extra 2 GB arguably matters more than Turing's feature set, none of which any 2018 VR title used.
+
+Verdict stands, now with data behind it: light catalog at high supersampling, heavy ports at 100% with reprojection as a roommate, and a memory wall where ambition ends.
 
 ## The 1080 Ti yardstick
 
