@@ -24,8 +24,6 @@ NVIDIA's RTX launch was sold on two features no VR game used: ray tracing and DL
 
 I've spent the last two weeks running all four cards through the 2018 VR library on a Rift and a Vive. Twelve games, from [Beat Saber](https://compoundvr.com/games/beat-saber/) to [Fallout 4 VR](https://compoundvr.com/games/fallout-4/). Test rig: i7-8700K at 4.7 GHz, 16 GB DDR4, launch drivers (416.81). Frame data captured unconstrained where noted, supersampling swept per title until the compositor started working overtime.
 
-Here is what each card actually does.
-
 ## How I tested
 
 Two headsets — Rift and Vive, both 90 Hz native. That number is the whole test: hold 90 and you are invisible; drop below and the compositor halves you to 45 with synthesized frames (Oculus ASW, SteamVR async reprojection). It keeps you upright but it smears, and you feel the latency in your hands.
