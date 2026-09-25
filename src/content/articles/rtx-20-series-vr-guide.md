@@ -46,7 +46,7 @@ One caveat from the test bench: even a Threadripper system showed bottlenecking 
 
 ## RTX 2080 ($699): loses to last year's card — verdict first
 
-Do not upgrade from a GTX 1080 Ti to this card for VR. That is the entire section, but here is the proof.
+Do not upgrade from a GTX 1080 Ti to this card for VR.
 
 BabelTechReviews' FCAT-VR data, unconstrained: [Batman: Arkham VR](https://compoundvr.com/games/batman-arkham-vr/) runs 193.3 FPS on the 1080 Ti and 183.3 FPS on the 2080. The newer $699 card loses to the older one. Driver maturity gets part of the blame, and neither card drops frames or triggers ASW in that title — but a loss is a loss, and it rhymes with everything else I measured: on paper the 2080 edges the 1080 Ti in flat gaming, in VR it is a lateral move wearing a new badge.
 
@@ -62,17 +62,17 @@ At 100% supersampling, that means 90 Hz across nearly the whole 2018 library, Cr
 
 ## RTX 2060 ($349): the entry ticket, with a memory ceiling — verdict first
 
-Cheapest way into acceptable 2018 VR. Also the first card here where VRAM, not compute, is the wall — and this one has receipts: [BabelTechReviews' VR Wars](https://babeltechreviews.com/vr-wars-navi-vs-turing-revisited-with-the-vive-pro/) ran the 2060 through seven games on a Vive Pro with FCAT-VR. Note the headset — Vive Pro out-resolves the Rift CV1, so Rift owners read these numbers a touch better. Unconstrained FPS with synthetic-frame percentage:
+Cheapest way into acceptable 2018 VR. Also the first card here where VRAM, not compute, is the wall. [BabelTechReviews' VR Wars](https://babeltechreviews.com/vr-wars-navi-vs-turing-revisited-with-the-vive-pro/) ran the 2060 through seven games on a Vive Pro with FCAT-VR. Note the headset — Vive Pro out-resolves the Rift CV1, so Rift owners read these numbers a touch better. Unconstrained FPS with synthetic-frame percentage:
 
 Light titles fly: ARK Park 112.18 (0% synthetic), Boneworks 112.33 (3%). Heavy titles live in reprojection: [Elite Dangerous](https://compoundvr.com/games/elite-dangerous/) 51.72 (55%), [Fallout 4 VR](https://compoundvr.com/games/fallout-4/) 59.91 (52%, one dropped frame, one warp miss), Hellblade 76.50 (50%), No Man's Sky 74.85 (50%), Obduction 53.09 (56%). At 50%+ synthetic frames the card renders half the picture and the compositor invents the rest — playable, but you feel it in your hands.
 
 Push supersampling on memory-heavy titles and the 6 GB ceiling arrives as stuttering and texture failures. The awkward comparison is the GTX 1070 Ti: near-identical raster (within a couple of percent at 1440p) with 8 GB on board. For supersampled VR, the older card's extra 2 GB arguably matters more than Turing's feature set, none of which any 2018 VR title used.
 
-Verdict stands, now with data behind it: light catalog at high supersampling, heavy ports at 100% with reprojection as a roommate, and a memory wall where ambition ends.
+The verdict: light titles take high supersampling without complaint, heavy ports hold 100% with steady reprojection, and 6 GB is a hard memory wall.
 
 ## The 1080 Ti yardstick
 
-Two measured data points, both already cited above because they are the only ones that exist: the 1080 Ti beats the 2080 in Batman VR (193.3 vs 183.3 FPS), and the 2080 Ti beats the 1080 Ti by ~60% in VRMark Blue Room. That is the complete direct-comparison record, and it says everything: the 2080 was not a VR upgrade over the Ti, and only the 2080 Ti moved the needle — for a thousand dollars.
+Two data points settle it: the 1080 Ti beats the 2080 in Batman VR (193.3 vs 183.3 FPS), and the 2080 Ti beats the 1080 Ti by ~60% in VRMark Blue Room. The 2080 was not a VR upgrade over the Ti, and only the 2080 Ti moved the needle — for a thousand dollars.
 
 ## Ray tracing and DLSS: dead silicon for VR
 
