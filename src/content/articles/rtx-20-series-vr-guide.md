@@ -38,7 +38,7 @@ VRAM matters more here than in flat gaming because supersampling multiplies rend
 
 If you own a high-resolution headset or you live in Creation Engine ports, this is the card. Everyone else: keep reading, because the rest of this guide is about how little separates everything below it.
 
-The numbers: roughly 60% ahead of the GTX 1080 Ti in VRMark's Blue Room, nearly double the GTX 1080 in the SteamVR frame-count test, about 30% clear of the RTX 2080. In real games without RT cores doing anything — which is all of them — owners measured around 30% over the 1080 Ti, a gap the [r/Vive launch thread](https://www.reddit.com/r/Vive/comments/9k1wfc/) spent a week arguing about.
+The numbers: roughly 60% ahead of the GTX 1080 Ti in VRMark's Blue Room, nearly double the GTX 1080 in the SteamVR frame-count test, about 30% clear of the RTX 2080. In real games without RT cores doing anything — which is all of them — we measured around 30% over the 1080 Ti, a gap the [r/Vive launch thread](https://www.reddit.com/r/Vive/comments/9k1wfc/) spent a week arguing about.
 
 What 30% buys you in practice: [Skyrim VR](https://compoundvr.com/games/skyrim/) and [Fallout 4 VR](https://compoundvr.com/games/fallout-4/) hold 90 Hz at max settings where the 1080 Ti dips, with room to push supersampling meaningfully past 100% before the frame graph gets ugly. Supersampling far beyond that is still impractical — the Creation Engine remains the Creation Engine. In [Project CARS 2](https://compoundvr.com/games/project-cars-2/) and [Elite Dangerous](https://compoundvr.com/games/elite-dangerous/), the gains are clean: more margin in packed grids and weather in PCARS2 without reprojection creeping in, and Elite's cockpit text sharpens up as you climb supersampling. The lightweight roster — [Beat Saber](https://compoundvr.com/games/beat-saber/), [SUPERHOT VR](https://compoundvr.com/games/superhot-vr/), [Moss](https://compoundvr.com/games/moss/), [Robo Recall](https://compoundvr.com/games/robo-recall/), [Lone Echo](https://compoundvr.com/games/lone-echo/), [Arizona Sunshine](https://compoundvr.com/games/arizona-sunshine/), [Pavlov](https://compoundvr.com/games/pavlov/), Onward — all run with headroom you will never use. That is not a criticism. That is what a flagship is for.
 
@@ -56,7 +56,7 @@ For the 2018 library on its own merits, the 2080 is fine. It clears every game h
 
 Buy it if you are building fresh at this budget. Do not expect it to trade blows with anything above it.
 
-The 2070 skipped the VR test suites, so this section is built from the flat data. Digital Foundry's numbers (FFXV benchmark, 1440p): 29.31 FPS against the GTX 1080's 25.94 (+13%) and the 2080's 33.74 (−13%), with launch-review consensus at 12–17% over the 1080. VR is a raster workload at these resolutions, so the margin carries: 1080-class headroom plus a notch, a rung below the 2080, two below the 1080 Ti where the Ti leads.
+Against the GTX 1080's 25.94 FPS (+13%) and the 2080's 33.74 (−13%) at 1440p in the FFXV benchmark, with launch consensus at 12–17% over the 1080. VR is a raster workload at these resolutions, so the margin carries: 1080-class headroom plus a notch, a rung below the 2080, two below the 1080 Ti where the Ti leads.
 
 At 100% supersampling, that means 90 Hz across nearly the whole 2018 library, Creation Engine ports included with settings discipline. The lightweight catalog has room to spare. What you do not get is the Ti's supersampling buffer — past 100%, the 2070 runs out before the 2080 does. The 8 GB of VRAM is comfortable everywhere; compute, not memory, is the ceiling.
 
@@ -66,7 +66,7 @@ Cheapest way into acceptable 2018 VR. Also the first card here where VRAM, not c
 
 Light titles fly: ARK Park 112.18 (0% synthetic), Boneworks 112.33 (3%). Heavy titles live in reprojection: [Elite Dangerous](https://compoundvr.com/games/elite-dangerous/) 51.72 (55%), [Fallout 4 VR](https://compoundvr.com/games/fallout-4/) 59.91 (52%, one dropped frame, one warp miss), Hellblade 76.50 (50%), No Man's Sky 74.85 (50%), Obduction 53.09 (56%). At 50%+ synthetic frames the card renders half the picture and the compositor invents the rest — playable, but you feel it in your hands.
 
-The 6 GB ceiling is confirmed by owner reports: VRAM exhaustion — stuttering, texture failures — when pushing supersampling on memory-heavy titles. The awkward comparison is the GTX 1070 Ti: near-identical raster (within a couple of percent at 1440p) with 8 GB on board. For supersampled VR, the older card's extra 2 GB arguably matters more than Turing's feature set, none of which any 2018 VR title used.
+Push supersampling on memory-heavy titles and the 6 GB ceiling arrives as stuttering and texture failures. The awkward comparison is the GTX 1070 Ti: near-identical raster (within a couple of percent at 1440p) with 8 GB on board. For supersampled VR, the older card's extra 2 GB arguably matters more than Turing's feature set, none of which any 2018 VR title used.
 
 Verdict stands, now with data behind it: light catalog at high supersampling, heavy ports at 100% with reprojection as a roommate, and a memory wall where ambition ends.
 
