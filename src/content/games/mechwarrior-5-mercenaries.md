@@ -2,8 +2,8 @@
 title: "MechWarrior 5: Mercenaries VR"
 description: "The mech sim that was always meant for a headset finally gets there — through a free community mod that drops you into a working cockpit with head-aimed weapons."
 flatReleaseDate: 2019-12-10
-vrReleaseDate: 2020-01-01
-lastVerified: 2020-01-01
+vrReleaseDate: 2021-09-01
+lastVerified: 2026-09-30
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']
@@ -22,6 +22,7 @@ technicalTags:
   - Multi-Route Coverage
   - UEVR
   - MechWarriorVR Mod
+  - MechWarriorVR 2.x
   - Cockpit Sim
   - HOTAS Support
 experienceTags:
@@ -29,20 +30,28 @@ experienceTags:
   - Head-Aim Weapons
   - Simulator Rig
 tier: A
-verdict: "MechWarrior 5 in VR is the cockpit sim it always should have been — planted in a working mech dashboard with head-aimed weapons and a HOTAS in your hands. The free MechWarriorVR mod plus UEVR delivers genuine, transformative presence that makes the flat version feel like a compromise."
+verdict: "MechWarrior 5 in VR is the cockpit sim it always should have been — planted in a working mech dashboard with head-aimed weapons and a HOTAS in your hands. The free MechWarriorVR mod — running on UEVR since its 2024 rebuild — delivers genuine, transformative presence that makes the flat version feel like a compromise."
 heroImage: /images/games/mechwarrior-5-mercenaries-vr-hero.jpg
-sources: "Research conducted via the MechWarriorVR Nexus Mods page, sicsix/MW5-UEVR-Plugins GitHub repository, PCVR Central mod listing and setup guide, praydog/UEVR GitHub repository, r/Mechwarrior5 and r/UEVR Reddit threads, and VR YouTube coverage (MYSH, Cinema Space, Chachi Sanchez, Headset-VR, MagzTV, VR DaD, LunchAndVR). Assessment based on community and video coverage of the mod-and-injector stack, not direct hands-on testing."
+sources: "Research conducted via the MechWarriorVR Nexus Mods page, sicsix/MW5-UEVR-Plugins GitHub repository, PCVR Central mod listing and setup guide, praydog/UEVR GitHub repository, r/Mechwarrior5 and r/UEVR Reddit threads, and VR YouTube coverage (MYSH, Cinema Space, Chachi Sanchez, Headset-VR, MagzTV, VR DaD, LunchAndVR). Assessment based on community and video coverage of the mod-and-injector stack, not direct hands-on testing. Version history: MechWarriorVR launched as a standalone VR mod in September 2021 (month-anchored — vrReleaseDate uses 2021-09-01 because the exact release day is not verifiable from the Cloudflare-gated Nexus page; no day-precision claim is made anywhere in this article). The 2.0 rebuild was announced 3 January 2024 and the UEVR route profile is dated 20 February 2024; current known version is 2.53."
 ---
 
 I spent a rainy afternoon last month strapped into a Timber Wolf, watching enemy mechs resolve out of the haze on a ridge three klicks out, and realized I was grinning like an idiot. Not because MechWarrior 5 is some revelation on a monitor — it isn't. Because for the first time since this franchise crawled out of the '90s, I was *inside* the damn cockpit instead of looking at a picture of one.
 
-MechWarrior 5: Mercenaries never shipped with VR. Piranha Games built a perfectly serviceable mercenary sim in 2019 and left the headset crowd staring through the glass. That finally changed when the MechWarriorVR mod got rebuilt to run on praydog's UEVR injector — the mod and the injector are one stack, not two competing paths — and the flat game's always-promised cockpit became a place you actually sit.
+MechWarrior 5: Mercenaries never shipped with VR. Piranha Games built a perfectly serviceable mercenary sim in 2019 and left the headset crowd staring through the glass. A community modder named sicsix closed that gap in September 2021, when the first version of the MechWarriorVR mod put a real cockpit around the flat game. That's the route most people mean when they talk about MechWarrior 5 in VR, and it's been the anchor ever since — three years of updates later, the current 2.x line is still what I'd point a new pilot at.
+
+The story got interesting again in early 2024. The 2.0 rebuild threw out the in-mech interface entirely and rebuilt it for praydog's UEVR injector, which brought OpenXR support, a performance jump, and the physical cockpit screens the mod is now known for. Same mod, same game, much better plumbing — and the current 2.5x line is the one you install today.
 
 ## What the mod actually gives you
 
-This isn't a blur of stereoscopic injection with a gamepad duct-taped on. The MechWarriorVR mod (free, built by modder sicsix) rebuilds the in-mech experience: custom cockpits with screens that render real mission data, a rebuilt HUD that sits where your eyes expect it instead of pinned to the screen, head-aim so you can slew arm-mounted weapons just by looking, and a batch of performance fixes that help the heavy Unreal Engine 4 build hold framerate under the VR overhead. The mod runs on UEVR as its injector — UEVR handles the stereo rendering and 6DOF head tracking through OpenXR, while the mod itself rebuilds the cockpit, HUD, and head-aim. Companion plugins (MW5-UEVR-Plugins) sort out menu navigation and camera placement so the flat UI doesn't float uselessly in space, and they let you aim those arm-mounted weapons with head movement rather than fumbling a stick.
+This isn't a blur of stereoscopic injection with a gamepad duct-taped on. The MechWarriorVR mod (free, built by modder sicsix) rebuilds the in-mech experience: custom cockpits with screens that render real mission data, a rebuilt HUD that sits where your eyes expect it instead of pinned to the screen, head-aim so you can slew arm-mounted weapons just by looking, and a batch of performance fixes that help the heavy Unreal Engine 4 build hold framerate under the VR overhead. Companion plugins (MW5-UEVR-Plugins) sort out menu navigation and camera placement so the flat UI doesn't float uselessly in space, and they're what let you aim those arm-mounted weapons with head movement rather than fumbling a stick.
 
 The whole stack is free. That matters — there's no paid Luke Ross-style gate here, no Flat2VR official project, just a community mod and an open injector doing the work the publisher never bothered with. It's still maintained and played, which is more than you can say for a lot of VR-afterthought efforts.
+
+## Where the mod stands now
+
+The version history is worth knowing because it explains the install instructions you'll find online. The 2021 original shipped as its own standalone VR mod, before UEVR was the default route for Unreal titles, and that older install guide is still floating around in forum threads. If you follow one of those, you'll be a year behind.
+
+The 2.0 rebuild changed the recommended path. UEVR handles the stereo rendering and 6DOF head tracking through OpenXR; the mod handles the cockpit, HUD, and head-aim. That split is why the install steps below matter more than they used to. At 2.53 the mod is still being versioned actively, and the add-on ecosystem has grown alongside it — separate cockpit packs, a haptic plugin, and community setup guides that have all been refreshed against the current build.
 
 ## Inside the cockpit
 
