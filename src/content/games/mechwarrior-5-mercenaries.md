@@ -2,8 +2,8 @@
 title: "MechWarrior 5: Mercenaries VR"
 description: "The mech sim that was always meant for a headset finally gets there — through a free community mod that drops you into a working cockpit with head-aimed weapons."
 flatReleaseDate: 2019-12-10
-vrReleaseDate: 2024-02-20
-lastVerified: 2024-02-20
+vrReleaseDate: 2020-01-01
+lastVerified: 2020-01-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']
