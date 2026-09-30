@@ -85,6 +85,8 @@ The flat-to-VR headlines dominated 2020, but the native VR games were running th
 
 And [GORN](/games/gorn) — the gladiator arena that had hit 1.0 in 2019 — kept its MemeLoader mod scene churning out absurd custom weapons and arenas. No official mod support, same as always. The community built its own loader and kept the party going.
 
+[GTFO](/games/gtfo) got the community mod treatment in February 2020, when DSprtn's BepInEx plugin bolted full roomscale VR onto 10 Chambers' co-op horror shooter — 6DOF, motion controls, two-handed aiming, and four-player raids with mixed VR/flat lobbies. It was the flat-to-VR mod of the year: a transformative conversion that turned one of the tensest co-op shooters on PC into one of the best co-op VR experiences available.
+
 ## The Year the Argument Was Settled
 
 Here's what happened in 2020: the question of whether VR was a legitimate gaming platform got answered. Not by the modders — they'd answered it years ago. By Valve, with a flagship franchise entry built exclusively for headsets. By the Workshop tools that turned a single game into a modding platform. By the Quest 2, which put VR in millions of living rooms at a price point that made the "too expensive" argument obsolete.
