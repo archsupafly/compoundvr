@@ -6,7 +6,7 @@ lastVerified: 2021-12-20
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2021-hero.jpg
-tags: ['2021','vr-modding','luke-ross','real-vr','quest-2','air-link','psvr2','meta','team-beef','valheim','risk-of-rain-2']
+tags: ['2021','vr-modding','luke-ross','real-vr','quest-2','air-link','psvr2','meta','team-beef','valheim','risk-of-rain-2','mechwarrior-5']
 ---
 
 The flat-to-VR scene entered 2021 riding the momentum of Valve's Half-Life: Alyx and the Quest 2's mass-market breakthrough. By December, the landscape had shifted under its own weight. Modders weren't just converting games anymore. They were setting the pace. Luke Ross turned his Patreon into a full-time operation. Team Beef proved that free community ports could beat official releases. A survival game that had only existed for nine months got a VR mod before most studios finished their holiday patches. And Meta rebranded, killed the Rift line, and announced a headset nobody could buy yet.
@@ -49,7 +49,13 @@ The VRMod scene for Risk of Rain 2 was a niche within a niche. The official VR s
 
 It was a different kind of modding story, not a flat game being dragged into VR but a VR-supporting game being improved by the people who played it. The community fork proved that official VR support doesn't close the book on modding. It opens a new chapter.
 
-## 5. App Lab Launches — Sideload Gets a Badge
+## 5. MechWarrior 5: Mercenaries — A Mech Sim Finally Gets Its Cockpit
+
+In September 2021, modder sicsix released MechWarriorVR, a VR conversion for Piranha Games' [MechWarrior 5: Mercenaries](/games/mechwarrior-5-mercenaries) — a 2019 mercenary sim that shipped without any VR support and left the cockpit the franchise's fans had been promised since the '90s unmade. The mod did what a cockpit conversion is supposed to: custom cockpits with built-in physical screens rendering real mission data, a brand-new HUD, head-aim for the arm-mounted weapons, headtracking, and a batch of performance fixes for a heavy Unreal Engine 4 build.
+
+What made it more than a curiosity was what it wasn't wrapped in. No publisher support, no framework licence, no Patreon tier, no roadmap — one modder rebuilding the in-mech interface from the ground up, and then keeping at it. The UEVR port followed in 2024, a numbered 2.00 rewrite shipped in January 2026, and by March 2026 the mod was on version 2.52. Five years of continuous community maintenance on a game its publisher had walked away from is the part worth remembering.
+
+## 6. App Lab Launches — Sideload Gets a Badge
 
 In February, Facebook launched App Lab, a distribution channel for Quest apps that didn't pass the formal Quest Store review process. It wasn't sideloading, exactly. It was more like a curated side door: developers could list apps through a direct URL, bypass the store's curation, but still reach Quest users without requiring them to connect their headset to a computer.
 
@@ -57,7 +63,7 @@ For the modding and indie VR scene, App Lab was significant. The sideloading eco
 
 App Lab didn't replace sideloading. The two channels served different audiences and different content. But it validated the pipeline that SideQuest had proven: there was a demand for Quest content outside Meta's formal curation, and Meta's answer was to build a separate track rather than shut it down.
 
-## 6. Air Link + 120Hz — Wireless PCVR Becomes a Toggle
+## 7. Air Link + 120Hz — Wireless PCVR Becomes a Toggle
 
 April brought two changes that completed the Quest 2's transformation from "standalone headset that can also do PCVR" to "the only VR headset most people need."
 
@@ -67,7 +73,7 @@ Second, 120Hz support landed. The Quest 2's display could already run at 90Hz, a
 
 The standalone headset stopped apologizing for being standalone. It could do everything now: native Quest games, wireless PC VR, wired PC VR, 120Hz. The "just get a Rift S" advice was dead.
 
-## 7. Meta Rebrand + Connect — Promises Evaporate
+## 8. Meta Rebrand + Connect — Promises Evaporate
 
 In October, Facebook rebranded to Meta. Mark Zuckerberg announced it at Connect, the company's annual developer conference, alongside a parade of VR and AR hardware and software announcements. The biggest was a partnership with Rockstar Games to bring Grand Theft Auto: San Andreas to Quest as a native VR title, and a preview of Project Cambria, the next-gen headset that would eventually ship as the Quest Pro.
 
@@ -75,7 +81,7 @@ The rebrand reset the conversation. Facebook's years-long identity crisis, the c
 
 The reality was more prosaic. The Rift line was dead. The Quest 2 was selling well but still limited by its mobile processor. The metaverse was a keynote concept, not a product. And the GTA San Andreas VR announcement, the kind of headline that could have been 2022's biggest VR moment, would sit in development silence for years. Meta's 2021 was announcement-heavy and delivery-light, a pattern that would define the company's VR strategy for the next several years.
 
-## 8. PSVR2 Announced — Commitment Matters
+## 9. PSVR2 Announced — Commitment Matters
 
 In February, Sony confirmed PlayStation VR2, the successor to the original PSVR, which had been the best-selling VR headset of 2016-2019 but had gone quiet as Quest consumed the market. The announcement included specs: OLED displays, eye tracking, haptic feedback in the headset, and a new controller design with adaptive triggers.
 
@@ -83,7 +89,7 @@ The announcement mattered because it ended a question that had hung over the VR 
 
 PSVR2 answered that. Sony was committing to a second generation with a spec sheet that targeted enthusiast PC VR quality at console prices. The actual headset was still a year away from launch (it would ship in February 2023), but the commitment changed how the industry talked about VR's future. It wasn't just Meta's game anymore.
 
-## 9. Rift Sunset Coda
+## 10. Rift Sunset Coda
 
 Oculus killed the Rift in 2021. The Rift S, the last PC-only headset the company would ever make, was discontinued in April. No replacement. No successor. The Rift line, which had launched the modern VR era with the CV1 in 2016, was finished.
 
