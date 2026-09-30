@@ -267,6 +267,8 @@ These games didn't crack the top 20, but they're worth your time.
 
 **Ancient Dungeon** — A VR dungeon crawler with procedurally generated levels and physical melee combat. Available on Quest App Lab and PCVR.
 
+**MechWarrior 5: Mercenaries** — sicsix's free MechWarriorVR mod put a real cockpit on a 2019 mech sim in September 2021, with working in-cockpit screens, a rebuilt HUD, and head-aim for the arm-mounted weapons. PCVR, gamepad or HOTAS.
+
 **Eye of the Temple** — A first-person puzzle-adventure built for room-scale VR. You step onto physical platforms to traverse a temple. Quest and PCVR.
 
 **Zombieland Headshot Fever** — An arcade zombie shooter based on the Zombieland franchise. PSVR and Quest.
