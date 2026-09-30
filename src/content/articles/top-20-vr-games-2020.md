@@ -45,15 +45,15 @@ Into the Radius is the STALKER-inspired survival shooter that VR had been waitin
 
 ---
 
-## #18: Down the Rabbit Hole
+## #18: GTFO (Mod)
 
-![Down the Rabbit Hole](/images/games/down-the-rabbit-hole-vr-hero.jpg)
+![GTFO](/images/games/gtfo-vr-hero.jpg)
 
-<div class="rank-meta">Native VR</div>
+<div class="rank-meta">Full VR Mod</div>
 
-Down the Rabbit Hole is a storybook adventure that reimagines Alice in Wonderland as a VR puzzle game. You guide a young girl named Alice through a beautifully rendered, diorama-style Wonderland, solving environmental puzzles and uncovering a gentle, melancholy story. The art direction is the star — every scene looks like a hand-crafted pop-up book, and the sense of scale as you peer into miniature worlds is delightful. The puzzles are accessible rather than brain-bending, and the runtime is short, but the charm and craft are undeniable. It's a reminder that VR doesn't need combat or spectacle to be compelling — sometimes a well-told story in a beautiful world is enough.
+GTFO in VR is the co-op horror shooter that community modding was built for. DSprtn's BepInEx plugin bolts full roomscale VR onto 10 Chambers' pitch-black tactical shooter — 6DOF, motion controls, two-handed aiming, melee, crouch, and haptics. You're not watching a horror movie; you're in the freezer with it. The mod supports full four-player raids, including mixed lobbies where your friends stay on monitors and you're the only one in the headset. The price is real: performance tuning, a fiddly BepInEx install, and a game that will absolutely punish you. But for co-op horror in VR, nothing else comes close.
 
-[Read the full Down the Rabbit Hole review](/games/down-the-rabbit-hole)
+[Read the full GTFO review](/games/gtfo)
 
 ---
 
@@ -280,6 +280,8 @@ These games didn't crack the top 20, but they're worth your time.
 
 **[Subnautica: Below Zero](/games/subnautica-below-zero)** — Unknown Worlds' icy follow-up spent 2020 in early access, and the community SubmersedVR mod brought the frozen alien ocean into the headset. Cave-diving terror below an ice shelf is even better in VR.
 **[Vertigo Remastered](/games/vertigo-remastered)** — Zombie Inc's full remaster of the 2016 cult VR shooter — the co-op campaign, expanded levels, and updated visuals that made Vertigo a proper modern release rather than a launch-era curiosity.
+
+**[Down the Rabbit Hole](/games/down-the-rabbit-hole)** — A storybook VR reimagining of Alice in Wonderland with diorama-style worlds and gentle, melancholy puzzles. Beautifully crafted, if short.
 
 ---
 
