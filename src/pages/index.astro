@@ -6,7 +6,7 @@ import ArticleGrid from '../components/ArticleGrid.astro';
 import FeaturedHero from '../components/FeaturedHero.astro';
 import { getCollection } from 'astro:content';
 
-// Sort games by last verified date (newest first) for freshness
+// Sort games by last updated date (newest first) for freshness
 const allGames = (await getCollection('games')).sort((a, b) => {
   const dateA = a.data.lastUpdated?.valueOf() || 0;
   const dateB = b.data.lastUpdated?.valueOf() || 0;
