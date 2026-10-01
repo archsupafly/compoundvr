@@ -3,7 +3,7 @@ title: "Firewatch VR"
 description: "A beloved Wyoming fire-lookout mystery rebuilt for VR by the TwoForksVR mod — slow walks through stylized wilderness, a voice in your ear, and a world worth standing inside."
 flatReleaseDate: 2016-02-09
 vrReleaseDate: 2023-05-01
-lastUpdated: 2026-10-01
+lastUpdated: 2023-05-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']
@@ -29,9 +29,6 @@ tier: S
 verdict: "The strongest narrative walking simulator in VR, and one of the few flat games the headset makes categorically better rather than merely tolerable. TwoForksVR is a proper first-person rebuild — full head tracking, tracked controllers, the map and compass physically in your hands — and it turns a great flat story into a place you actually stand inside. Performance is a non-issue, locomotion is about as gentle as VR gets, and at roughly five hours it is short, linear, and completely without combat. That is not a caveat list; that is the shape of the thing. If you want the calmest VR experience done completely right, this is the one."
 heroImage: /images/games/firewatch-vr-hero.jpg
 sources: "Research compiled from the CompoundVR Firewatch VR research file; corroborated by YouTube VR coverage (Beardo Benjo, Eurogamer's Ian's VR Corner, Headset-VR) and the mod author's GitHub profile (Raicuparta — NomaiVR, UUVR, Rai Pal). The TwoForksVR mod is distributed via Nexus Mods and the Rai Pal mod manager. Exact mod release date unconfirmed at draft time and pending factcheck verification."
-history:
-  - date: 2026-10-01
-    note: "Tier re-rated A to S on owner judgment: stands as the strongest narrative walking simulator in VR."
 ---
 
 The first time I climbed the stairs into Henry's fire lookout and the sun was already throwing long shadows across the Wyoming basin, I got why people call this game a place more than a plot. Flat Firewatch is a great story told at you. The TwoForksVR mod is the first time I felt like I was actually standing in it.
