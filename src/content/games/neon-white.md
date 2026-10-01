@@ -3,7 +3,7 @@ title: "Neon White VR"
 description: "Raicuparta's HeavenVR mod turns Neon White's breakneck speedrunning shooter into a full motion-control VR experience that's dangerously easy to lose an afternoon to."
 flatReleaseDate: 2022-06-16
 vrReleaseDate: 2022-09-15
-lastVerified: 2022-09-15
+lastUpdated: 2022-09-15
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

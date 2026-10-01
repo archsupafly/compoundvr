@@ -1,7 +1,7 @@
 ---
 title: "Real VR Fishing"
 description: "A surprisingly complete native VR fishing simulator that turned my living room into a lakeside retreat — though your platform choice matters more than you'd think."
-lastVerified: 2019-09-12
+lastUpdated: 2019-09-12
 flatReleaseDate: 2019-09-12
 vrReleaseDate: 2019-09-12
 featured: false

@@ -1,7 +1,7 @@
 ---
 title: "Watch Dogs VR"
 description: "Chicago looks incredible in a headset, but the third-person camera and gamepad controls remind you this was never meant for VR."
-lastVerified: "2024-05-07"
+lastUpdated: "2024-05-07"
 featured: false
 routeType: Framework Only
 platforms:

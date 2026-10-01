@@ -2,7 +2,7 @@
 title: "SideQuest: The Complete Guide to Quest Sideloading and VR's Underground App Store"
 description: "SideQuest is the unofficial app store that turned every Quest headset into an open platform. Here's what it is, why it matters, what you can do with it, and how it connects to the VR modding ecosystem."
 pubDate: 2020-10-28
-lastVerified: 2020-10-28
+lastUpdated: 2020-10-28
 author: Richard
 category: guide
 heroImage: /images/articles/sidequest-quest-sideloading-guide-hero.jpg

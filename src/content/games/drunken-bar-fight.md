@@ -3,7 +3,7 @@ title: "Drunkn Bar Fight VR"
 description: "A physics playground disguised as a bar brawler that nails the chaos but wears out its welcome faster than last call."
 flatReleaseDate: 2016-11-27
 vrReleaseDate: 2024-12-01
-lastVerified: 2024-12-01
+lastUpdated: 2024-12-01
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest']

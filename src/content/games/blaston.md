@@ -1,7 +1,7 @@
 ---
 title: "Blaston VR"
 description: "A native VR competitive dueling game where slow-motion projectiles turn PvP gunfights into full-body puzzles of positioning, timing, and spatial awareness."
-lastVerified: 2020-10-08
+lastUpdated: 2020-10-08
 featured: false
 vrReleaseDate: 2020-10-08
 routeType: Native VR

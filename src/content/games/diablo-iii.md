@@ -3,7 +3,7 @@ title: "Diablo III VR"
 description: "The only way to play Diablo III in a headset is VorpX, and it’s a big-screen novelty—not a reason to dust off your headset."
 flatReleaseDate: 2012-05-15
 vrReleaseDate: 2016-01-01
-lastVerified: 2016-01-01
+lastUpdated: 2016-01-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

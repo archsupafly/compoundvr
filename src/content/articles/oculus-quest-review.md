@@ -2,7 +2,7 @@
 title: "Oculus Quest Review: The All-In-One Headset That Changed Everything"
 description: "The Oculus Quest is the first VR headset that needs no PC, no base stations, and no room setup — just a box, your hands, and your living room. We spent launch week inside it. Here's what the $399 buys, what it gives up, and why it's the most important VR hardware of 2019."
 pubDate: 2019-05-21
-lastVerified: 2019-05-21
+lastUpdated: 2019-05-21
 author: Richard
 category: opinion
 heroImage: /images/articles/oculus-quest-review-hero.jpg

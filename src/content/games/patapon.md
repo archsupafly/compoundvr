@@ -3,7 +3,7 @@ title: "Patapon VR"
 description: "Patapon never got an official VR port, but the PSP classic is genuinely playable inside a headset today — if you sideload PPSSPP VR on a Quest or Pico and treat it as a virtual-screen remaster."
 flatReleaseDate: 2007-12-20
 vrReleaseDate: 2022-08-24
-lastVerified: 2022-08-24
+lastUpdated: 2022-08-24
 featured: false
 routeType: Multi-Route Coverage
 platforms:

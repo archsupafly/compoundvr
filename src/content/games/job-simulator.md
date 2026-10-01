@@ -1,7 +1,7 @@
 ---
 title: "Job Simulator VR"
 description: "The VR comedy that proved hand presence could be funny — and nine years later, it’s still the best demo in the store."
-lastVerified: 2024-05-29
+lastUpdated: 2024-05-29
 history:
   - date: 2024-05-29
     note: Added Quest/Vision Pro hand-tracking update coverage.

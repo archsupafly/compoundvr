@@ -1,7 +1,7 @@
 ---
 title: "Phantom: Covert Ops VR"
 description: "A native seated stealth shooter where you paddle a tactical kayak through hostile wetlands, armed to the teeth and trying not to laugh at the guards."
-lastVerified: 2020-06-25
+lastUpdated: 2020-06-25
 vrReleaseDate: 2020-06-25
 featured: false
 routeType: Native VR

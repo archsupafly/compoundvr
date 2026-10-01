@@ -3,7 +3,7 @@ title: "Vectorman 2 VR"
 description: "A ’90s platformer classic wrapped in a nostalgia-drenched virtual bedroom — but the VR is window dressing, and the window is closing."
 flatReleaseDate: "1996-12-01"
 vrReleaseDate: "2018-05-29"
-lastVerified: "2018-05-29"
+lastUpdated: "2018-05-29"
 featured: false
 routeType: Framework Only
 platforms:

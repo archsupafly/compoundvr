@@ -3,7 +3,7 @@ title: "Super Stardust Ultra VR in VR: The Arcade Shooter That Finally Earns Its
 description: "A PSVR launch-title cockpit shooter built around a spherical planet — you turn your head to aim and clear waves of asteroids off a world that curves below you. The headset makes the scale real."
 flatReleaseDate: 2015-02-10
 vrReleaseDate: 2016-10-10
-lastVerified: 2016-10-10
+lastUpdated: 2016-10-10
 featured: false
 routeType: Official Hybrid
 platforms: ['PSVR']

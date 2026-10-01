@@ -3,7 +3,7 @@ title: "Alvo in VR: The Cross-Platform Shooter That Actually Nailed the Gunplay"
 description: "A VR-native competitive shooter with cross-platform play across PSVR, PSVR2, Quest, Pico, and PCVR — proper motion-control gunplay, but a player population that lives or dies by the servers."
 flatReleaseDate: 2021-04-13
 vrReleaseDate: 2024-02-12
-lastVerified: 2024-02-12
+lastUpdated: 2024-02-12
 featured: false
 routeType: Native VR
 platforms: ['PSVR', 'PSVR2', 'Quest', 'Pico', 'PCVR']

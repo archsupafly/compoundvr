@@ -3,7 +3,7 @@ title: "Gunman Contracts VR"
 description: "A contract-based VR action shooter built from the ground up for OpenXR, where you customize a private arsenal and take it into tight, bloody hit jobs."
 flatReleaseDate: 2026-09-10
 vrReleaseDate: 2026-09-10
-lastVerified: 2026-09-10
+lastUpdated: 2026-09-10
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

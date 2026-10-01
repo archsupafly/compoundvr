@@ -1,7 +1,7 @@
 ---
 title: "Tetris Effect: Connected VR"
 description: "The definitive VR puzzle experience. Music-reactive gameplay and synesthetic visuals reach their full potential when you're surrounded by them. VR is unmatched for Journey mode, though competitive players may prefer flat screens."
-lastVerified: 2018-11-09
+lastUpdated: 2018-11-09
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR', 'PSVR2']

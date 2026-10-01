@@ -3,7 +3,7 @@ title: "The Thrill of the Fight VR"
 description: "A no-frills VR boxing sim that will make you sweat, swear, and question why every other VR fitness game wastes your time."
 flatReleaseDate: 2016-07-01
 vrReleaseDate: 2016-07-01
-lastVerified: 2019-10-24
+lastUpdated: 2019-10-24
 history:
   - date: 2019-10-24
     note: Added Quest port coverage.

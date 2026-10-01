@@ -3,7 +3,7 @@ title: "Hogwarts Legacy VR"
 description: "Hogwarts Legacy in VR is the wizarding world I always wanted — a flagship UEVR showcase that puts you inside the castle with a wand in your hand, if your rig can handle it."
 flatReleaseDate: 2023-02-10
 vrReleaseDate: 2024-01-08
-lastVerified: 2024-01-08
+lastUpdated: 2024-01-08
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

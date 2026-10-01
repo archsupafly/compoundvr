@@ -3,7 +3,7 @@ title: "Grand Theft Auto V VR"
 description: "The open world that swallowed a decade of flat play doesn't have official VR, but a defunct community mod and a stubborn injection driver still let you stand inside Los Santos."
 flatReleaseDate: 2013-09-17
 vrReleaseDate: 2019-10-20
-lastVerified: 2020-12-19
+lastUpdated: 2020-12-19
 history:
   - date: 2020-12-19
     note: Added Cayo Perico-era compatibility (Release 7).

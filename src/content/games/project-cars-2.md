@@ -1,7 +1,7 @@
 ---
 title: "Project CARS 2 VR"
 description: "A flat racing sim that finally takes VR seriously — better performance, cleaner cockpits, and the best weather system in the genre, held back only by stubborn flat-screen menus."
-lastVerified: 2017-09-22
+lastUpdated: 2017-09-22
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Resident Evil Zero VR"
 description: "The only way to play Resident Evil Zero in a headset is through a GameCube emulator — and it is a weird, limited curiosity, not a proper VR survival horror experience."
 flatReleaseDate: "2002-11-12"
 vrReleaseDate: "2016-07-13"
-lastVerified: "2016-07-13"
+lastUpdated: "2016-07-13"
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

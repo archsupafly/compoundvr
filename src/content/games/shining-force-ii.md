@@ -1,7 +1,7 @@
 ---
 title: "Shining Force II VR"
 description: "A legendary tactical RPG wrapped in a nostalgic VR bedroom — but the VR is wallpaper, not gameplay."
-lastVerified: "2018-05-01"
+lastUpdated: "2018-05-01"
 flatReleaseDate: "1993-10-01"
 vrReleaseDate: "2018-05-01"
 featured: false

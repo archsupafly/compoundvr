@@ -3,7 +3,7 @@ title: "Final Fantasy XIV VR"
 description: "A community mod puts you inside Eorzea with 6DOF head tracking — and the world was built for it."
 flatReleaseDate: 2013-08-27
 vrReleaseDate: 2022-11-04
-lastVerified: 2022-11-04
+lastUpdated: 2022-11-04
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

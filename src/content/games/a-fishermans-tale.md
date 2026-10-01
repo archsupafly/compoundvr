@@ -1,7 +1,7 @@
 ---
 title: "A Fisherman's Tale VR"
 description: "A mind-bending puzzle adventure where you manipulate objects across nested realities inside a lighthouse — one of VR's most inventive mechanical ideas."
-lastVerified: 2019-01-22
+lastUpdated: 2019-01-22
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

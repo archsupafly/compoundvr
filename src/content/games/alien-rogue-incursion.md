@@ -3,7 +3,7 @@ title: "Alien: Rogue Incursion VR"
 description: "The first real Alien VR game is exactly what the genre needed — a native survival-horror shooter with excellent motion controls, as long as you pick the right platform and can handle smooth locomotion."
 flatReleaseDate: "2025-09-30"
 vrReleaseDate: "2024-12-19"
-lastVerified: "2024-12-19"
+lastUpdated: "2024-12-19"
 featured: false
 routeType: Native VR
 platforms:

@@ -1,7 +1,7 @@
 ---
 title: "Dead Space VR"
 description: "One of VorpX's most convincing third-person adaptations turns the USG Ishimura into a VR nightmare — but the horror intensity demands honest caveats."
-lastVerified: 2008-10-14
+lastUpdated: 2008-10-14
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

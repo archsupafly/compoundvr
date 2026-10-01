@@ -2,7 +2,7 @@
 title: "Best Pavlov Mods: Maps, Weapons, and the DIY Workshop Culture"
 description: "Pavlov's real game is its Workshop. Beyond the Counter-Strike ports and Trouble in Terrorist Town sit a whole DIY culture of absurd maps — Left 4 Dead, Call of Duty Zombies, WW1 trenches, a Best Buy, a McDonalds, Mario Kart — plus custom weapons like nerf guns and lightsabers. Here's the essential Pavlov modding guide."
 pubDate: 2019-12-15
-lastVerified: 2020-07-01
+lastUpdated: 2020-07-01
 history:
   - date: 2020-07-01
     note: Added Pavlov Shack vs PCVR mod-pipeline split.

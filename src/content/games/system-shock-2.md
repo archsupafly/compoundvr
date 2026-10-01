@@ -1,7 +1,7 @@
 ---
 title: "System Shock 2 VR"
 description: "A legendary immersive sim in a headset — but only through stereoscopic injection, with no motion controls and no VR interaction model to speak of."
-lastVerified: 2017-01-01
+lastUpdated: 2017-01-01
 flatReleaseDate: 1999-08-11
 vrReleaseDate: 2017-01-01
 featured: false

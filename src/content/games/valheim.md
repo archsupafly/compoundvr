@@ -3,7 +3,7 @@ title: "Valheim VR"
 description: "Valheim's Viking purgatory becomes a first-person, motion-controlled survival sandbox through the community VHVR mod — the way this game was meant to be lived in."
 flatReleaseDate: 2021-02-02
 vrReleaseDate: 2021-04-04
-lastVerified: 2026-09-09
+lastUpdated: 2026-09-09
 history:
   - date: 2026-09-09
     note: "VHVR mod updated to support Valheim 1.0 / Deep North release (0.221.x), maintaining compatibility with the latest game version."

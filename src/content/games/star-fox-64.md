@@ -3,7 +3,7 @@ title: "Star Fox 64 VR"
 description: "The 1997 Arwing classic rebuilt for the headset — proper per-eye depth, motion-controller aim, and a cockpit you actually sit inside."
 flatReleaseDate: 1997-07-01
 vrReleaseDate: 2026-07-04
-lastVerified: 2026-07-04
+lastUpdated: 2026-07-04
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

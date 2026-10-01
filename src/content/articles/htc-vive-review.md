@@ -2,7 +2,7 @@
 title: "HTC Vive Review: The Room-Scale Revolution"
 description: "The HTC Vive shipped on April 5, 2016 — and it was the first headset to deliver the full VR promise: motion controllers, room-scale tracking, and hands that actually appear in the game. We spent launch week inside it. Here's what $799 buys, what it costs, and why it changed everything."
 pubDate: 2016-04-05
-lastVerified: 2016-04-05
+lastUpdated: 2016-04-05
 author: Richard
 category: opinion
 heroImage: /images/articles/htc-vive-review-hero.jpg

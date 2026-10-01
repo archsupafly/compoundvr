@@ -2,7 +2,7 @@
 title: "VorpX: The Honest Guide to VR Injection Drivers"
 description: "VorpX is a $40 VR injection driver that lets you play flat games in stereoscopic 3D. But what you're getting—and more importantly, what you're NOT getting—matters. Here's everything you need to know before you buy."
 pubDate: 2013-09-30
-lastVerified: 2021-04-20
+lastUpdated: 2021-04-20
 history:
   - date: 2021-04-20
     note: Added OpenXR runtime support coverage (21.2.0).

@@ -1,7 +1,7 @@
 ---
 title: "Wilson's Heart VR"
 description: "A black-and-white psychological thriller set in a twisted 1940s hospital, where an aging patient must unravel the mystery of his stolen heart in one of VR's most atmospheric narrative experiences."
-lastVerified: 2017-04-25
+lastUpdated: 2017-04-25
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

@@ -2,7 +2,7 @@
 title: "Steam Frame Review: Valve's Standalone Headset Is a Modder's Dream — If You Can Stomach the Price"
 description: "The Steam Frame ships September 18 at $1,059. It's Valve's answer to Quest — but for the modding and enthusiast crowd, it's something more interesting than a Quest competitor. Here's what it actually offers."
 pubDate: 2026-09-18
-lastVerified: 2026-09-18
+lastUpdated: 2026-09-18
 author: Richard
 category: opinion
 heroImage: /images/articles/steam-frame-review-hero.jpg

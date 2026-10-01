@@ -2,7 +2,7 @@
 title: "Pistol Whip VR"
 description: "A rhythm-action shooter that makes you feel like the star of your own action movie — ducking, shooting, and reloading to the pulse of a throbbing EDM soundtrack."
 vrReleaseDate: 2019-11-07
-lastVerified: 2019-11-07
+lastUpdated: 2019-11-07
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest']

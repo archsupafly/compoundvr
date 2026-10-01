@@ -3,7 +3,7 @@ title: "Black Myth: Wukong VR"
 description: "A community UEVR profile drops you into Game Science's mythological action RPG in stereoscopic 3D — gorgeous, gamepad-driven, and hungry for high-end hardware."
 flatReleaseDate: 2024-08-20
 vrReleaseDate: 2024-08-25
-lastVerified: 2025-06-27
+lastUpdated: 2025-06-27
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

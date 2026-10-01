@@ -3,7 +3,7 @@ title: "Bramble: The Mountain King VR"
 description: "A gorgeous Nordic folklore platformer becomes a diorama-scale horror show in UEVR — but its side-scrolling camera was never built for a headset, and the novelty only goes so far."
 flatReleaseDate: '2023-04-27'
 vrReleaseDate: '2024-01-01'
-lastVerified: '2024-01-01'
+lastUpdated: '2024-01-01'
 featured: false
 routeType: Multi-Route Coverage
 platforms:

@@ -3,7 +3,7 @@ title: "I Expect You To Die 2"
 description: "A seated spy-puzzle sequel that proves VR doesn't need you to move your feet to make you feel like a secret agent."
 flatReleaseDate: 2021-08-24
 vrReleaseDate: 2021-08-24
-lastVerified: 2021-08-24
+lastUpdated: 2021-08-24
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest', 'Rift', 'PSVR']

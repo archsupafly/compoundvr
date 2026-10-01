@@ -2,7 +2,7 @@
 title: "REFramework VR: Resident Evil and Beyond in VR"
 description: "Praydog's REFramework turns Capcom's RE Engine into a VR platform. Full stereoscopic 6DOF VR with motion controls for Resident Evil 2, 3, 4, 7, 8, and 9 — plus Devil May Cry 5, Monster Hunter, and every other RE Engine game. Free, open source, and the most polished flat-to-VR mod in existence. Here's how to set it up, what each game plays like, and what to expect."
 pubDate: 2022-06-15
-lastVerified: 2025-03-05
+lastUpdated: 2025-03-05
 history:
   - date: 2025-03-05
     note: Extended coverage to current builds (Monster Hunter Wilds, Onimusha 2).

@@ -2,7 +2,7 @@
 title: "Virtual Desktop VR"
 description: "A VR-native utility that puts your Windows desktop on a virtual screen in your headset — and, with the standalone client, becomes the cleanest wireless bridge for playing PCVR on a tether-free headset."
 vrReleaseDate: 2016-03-31
-lastVerified: 2019-05-21
+lastUpdated: 2019-05-21
 featured: false
 routeType: "Native VR"
 platforms:

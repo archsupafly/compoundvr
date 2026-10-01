@@ -3,7 +3,7 @@ title: "Prince of Persia: The Sands of Time VR"
 description: "There is no real way to play Sands of Time in VR at home. vorpX fails to hook, UEVR is blocked by the Jade engine, and the only official VR is an arcade escape room you can't buy."
 flatReleaseDate: "2003-10-28"
 vrReleaseDate: "2020-02-01"
-lastVerified: "2020-02-01"
+lastUpdated: "2020-02-01"
 featured: false
 routeType: "Multi-Route Coverage"
 platforms:

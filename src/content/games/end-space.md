@@ -3,7 +3,7 @@ title: "End Space VR"
 description: "Orange Bridge Studios' VR-native cockpit space shooter drops you into a starfighter for mission-based dogfights across most major headsets."
 flatReleaseDate: 2019-08-29
 vrReleaseDate: 2016-04-21
-lastVerified: 2020-12-16
+lastUpdated: 2020-12-16
 history:
   - date: 2020-12-16
     note: Version 1.0.6.1 Quest 2 enhancement update — 90Hz, Phase Sync, real-time cockpit shadows, revised default control scheme.

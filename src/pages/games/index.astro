@@ -4,7 +4,7 @@ import CardGrid from '../../components/CardGrid.astro';
 import { getCollection } from 'astro:content';
 
 // Sort by tier (S > A > B > C > D > F) for ranking visibility,
-// tiebreak by recency (lastVerified newest first).
+// tiebreak by recency (lastUpdated newest first).
 const tierOrder = { 'S': 0, 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'F': 5 };
 const tierRank = (t?: string) => tierOrder[t as keyof typeof tierOrder] ?? 2;
 const validDate = (d?: Date) => (d && !isNaN(d.valueOf()) ? d : undefined);
@@ -19,7 +19,7 @@ const maxYear = Math.max(...relYears);
 const games = allGames.sort((a, b) => {
   const dt = tierRank(a.data.tier) - tierRank(b.data.tier);
   if (dt !== 0) return dt;
-  return epoch(b.data.lastVerified) - epoch(a.data.lastVerified);
+  return epoch(b.data.lastUpdated) - epoch(a.data.lastUpdated);
 });
 ---
 
@@ -124,7 +124,7 @@ const games = allGames.sort((a, b) => {
       recommendation: game.data.recommendation,
       setupBurden: game.data.setupBurden,
       sortTier: tierRank(game.data.tier),
-      sortUpdated: epoch(game.data.lastVerified),
+      sortUpdated: epoch(game.data.lastUpdated),
       sortReleased: epoch(releaseOf(game)),
       filterRoute: game.data.routeType,
       filterPerf: game.data.performance,

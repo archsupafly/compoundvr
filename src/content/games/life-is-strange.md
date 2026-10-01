@@ -3,7 +3,7 @@ title: "Life is Strange VR"
 description: "The original Life is Strange has no official VR mode and no motion-control mod — only a VorpX injection profile that puts Arcadia Bay in stereoscopic 3D with head tracking."
 flatReleaseDate: 2015-01-30
 vrReleaseDate: 2015-01-30
-lastVerified: 2015-01-30
+lastUpdated: 2015-01-30
 featured: false
 routeType: Framework Only
 platforms:

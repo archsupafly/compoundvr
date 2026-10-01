@@ -2,7 +2,7 @@
 title: "Luigi's Mansion VR"
 flatReleaseDate: 2001-09-14
 description: "A GameCube classic gets a second life through emulator VR — atmospheric, imperfect, and absolutely worth the hassle for the curious."
-lastVerified: "2016-07-13"
+lastUpdated: "2016-07-13"
 vrReleaseDate: 2016-07-13
 featured: false
 routeType: Framework Only

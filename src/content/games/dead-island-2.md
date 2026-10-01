@@ -3,7 +3,7 @@ title: "Dead Island 2 VR"
 description: "A UEVR plugin turns Dead Island 2 into a physical zombie brawler in VR — full 6DOF motion controls, decoupled aim, and real melee swings through sun-bleached Hell-A. It's still beta, still heavy on hardware, and the best way to play."
 flatReleaseDate: 2023-04-21
 vrReleaseDate: 2023-06-24
-lastVerified: 2026-01-07
+lastUpdated: 2026-01-07
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

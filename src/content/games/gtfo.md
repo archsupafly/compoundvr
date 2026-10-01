@@ -3,7 +3,7 @@ title: "GTFO VR"
 description: "A community mod puts you and three friends inside 10 Chambers' pitch-black co-op horror shooter with real rifles in your hands — and it's one of the best co-op VR experiences you can strap on for."
 flatReleaseDate: 2019-12-09
 vrReleaseDate: 2020-02-01
-lastVerified: 2020-02-01
+lastUpdated: 2020-02-01
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Risk of Rain 2 VR"
 description: "DrBibop's full-motion-control mod turns Risk of Rain 2's chaotic roguelite arenas into a swing-and-shoot VR spectacle — if you're willing to wrangle the install and pin an older build."
 flatReleaseDate: 2020-08-11
 vrReleaseDate: 2021-05-24
-lastVerified: 2024-09-01
+lastUpdated: 2024-09-01
 history:
   - date: 2024-09-01
     note: "A September 2024 Risk of Rain 2 game update broke the DrBibop VR mod on current builds; it now requires downpatching to a pre-update version to run."

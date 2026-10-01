@@ -2,7 +2,7 @@
 title: "Top 20 VR Games of 2020"
 description: "The year VR went mainstream — from the genre-defining Half-Life: Alyx and the survival horror of Saints & Sinners to the open-world ambition of GTA V in VR and the mods that kept the medium alive. The twenty games that defined VR's breakout year."
 pubDate: 2020-12-31
-lastVerified: 2020-12-31
+lastUpdated: 2020-12-31
 author: Richard
 category: opinion
 listicle: true

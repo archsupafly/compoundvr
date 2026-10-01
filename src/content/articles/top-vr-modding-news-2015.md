@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2015: The Year Flat-to-VR Went Mainstream"
 description: "2015 was the year VR modding exploded — from VorpX adding GTA V support to Dolphin VR letting you play GameCube in VR, here are the stories that defined the DK2 era."
 pubDate: 2015-12-15
-lastVerified: 2015-12-15
+lastUpdated: 2015-12-15
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2015-hero.jpg

@@ -3,7 +3,7 @@ title: "Arashi: Castles of Sin in VR: The Closest We Got to VR Tenchu — Reticl
 description: "A first-person VR ninja stealth sandbox with a wolf companion and motion-controlled swordplay — a genuine shinobi fantasy undercut by a head-locked aiming system and shallow enemy AI."
 flatReleaseDate: 2021-08-10
 vrReleaseDate: 2021-08-10
-lastVerified: 2023-12-05
+lastUpdated: 2023-12-05
 history:
   - date: 2021-08-10
     note: "Original PSVR release by Endeavor One"

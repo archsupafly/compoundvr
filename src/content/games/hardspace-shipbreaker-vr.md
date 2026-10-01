@@ -3,7 +3,7 @@ title: "Hardspace: Shipbreaker VR"
 description: "A free community mod drops you into Hardspace: Shipbreaker's zero-g salvage yards through a stereoscopic VR camera — but with no motion controls, it's presence without hands."
 flatReleaseDate: 2022-05-24
 vrReleaseDate: 2022-06-19
-lastVerified: 2022-06-19
+lastUpdated: 2022-06-19
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

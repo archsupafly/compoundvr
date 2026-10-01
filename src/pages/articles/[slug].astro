@@ -16,7 +16,7 @@ function formatShortDate(date: Date): string {
 }
 
 const pubDateIso = article.data.pubDate.toISOString().slice(0, 10);
-const updatedIso = (article.data.lastVerified ?? article.data.pubDate).toISOString().slice(0, 10);
+const updatedIso = (article.data.lastUpdated ?? article.data.pubDate).toISOString().slice(0, 10);
 const isUpdated = updatedIso !== pubDateIso;
 const jsonLd = JSON.stringify({
   '@context': 'https://schema.org',

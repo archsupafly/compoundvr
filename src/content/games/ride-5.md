@@ -3,7 +3,7 @@ title: "Ride 5 VR"
 description: "A community UEVR profile puts you on a superbike in stereoscopic 3D — the only way to ride Ride 5 in VR, and a genuine rush if your stomach agrees."
 flatReleaseDate: 2023-08-24
 vrReleaseDate: 2024-01-05
-lastVerified: 2024-05-12
+lastUpdated: 2024-05-12
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

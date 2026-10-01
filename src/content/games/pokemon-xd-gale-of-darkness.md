@@ -3,7 +3,7 @@ title: "Pokémon XD: Gale of Darkness VR"
 description: "A 2005 GameCube RPG in VR through DolphinXR — head-tracked stereoscopic 3D around a third-person camera, and one of the gentlest emulator VR experiences you'll find."
 flatReleaseDate: 2005-08-04
 vrReleaseDate: 2026-04-14
-lastVerified: 2026-07-31
+lastUpdated: 2026-07-31
 history:
   - date: 2026-07-31
     note: Updated emulator coverage through July 2026 builds (passthrough, foveated rendering).

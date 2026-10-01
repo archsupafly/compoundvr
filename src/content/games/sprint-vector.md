@@ -1,7 +1,7 @@
 ---
 title: "Sprint Vector VR"
 description: "Survios' arm-pumping racing spectacle turns your living room into a game show obstacle course — and your body into the controller."
-lastVerified: 2018-02-08
+lastUpdated: 2018-02-08
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

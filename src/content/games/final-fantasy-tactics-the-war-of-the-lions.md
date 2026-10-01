@@ -3,7 +3,7 @@ title: "Final Fantasy Tactics: The War of the Lions VR"
 description: "PPSSPP VR turns this PSP tactical classic into a comfortable virtual-screen playthrough on Quest and PICO — perfect compatibility, zero nausea, and not much presence."
 flatReleaseDate: "2007-05-10"
 vrReleaseDate: "2022-09-06"
-lastVerified: "2022-09-06"
+lastUpdated: "2022-09-06"
 featured: false
 routeType: Framework Only
 platforms:

@@ -2,7 +2,7 @@
 title: Best VR Experiences You Can Play in Dreams
 description: Nine player-made VR creations you can play inside Dreams on PSVR, ranked by how completely they use the headset. The community built more VR worth playing than the studio did, and the best of it justifies the hardware on its own.
 pubDate: 2020-12-31
-lastVerified: 2020-12-31
+lastUpdated: 2020-12-31
 author: Richard
 category: comparison
 listicle: true

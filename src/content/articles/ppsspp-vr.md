@@ -6,7 +6,7 @@ author: Richard
 category: guide
 featured: false
 heroImage: /images/articles/ppsspp-vr-hero.jpg
-lastVerified: 2026-05-03
+lastUpdated: 2026-05-03
 history:
   - date: 2026-05-03
     note: Rebuilt around Vonásek's maintained Quest fork (Quest 2/3/3S/Pro, PICO 4).

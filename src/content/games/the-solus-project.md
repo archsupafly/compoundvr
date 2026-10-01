@@ -1,7 +1,7 @@
 ---
 title: "The Solus Project VR"
 description: "An atmospheric alien survival adventure where room-scale VR amplifies the isolation and wonder—if you play on PC."
-lastVerified: 2017-09-18
+lastUpdated: 2017-09-18
 featured: false
 routeType: Official Hybrid
 flatReleaseDate: 2016-06-07

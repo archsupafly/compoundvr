@@ -3,7 +3,7 @@ title: "The Climb 2 VR"
 description: "Crytek's VR-native climbing sequel turns your living room into a cliff face — reach, grab, and haul yourself up skyscrapers and alpine peaks with full motion controls."
 flatReleaseDate: 2021-03-04
 vrReleaseDate: 2021-03-04
-lastVerified: 2021-06-10
+lastUpdated: 2021-06-10
 history:
   - date: 2021-04-22
     note: "Freestyle Expansion Pack Part 1 released free (six levels, new rhythm-climbing mode)."

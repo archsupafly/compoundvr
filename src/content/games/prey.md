@@ -3,7 +3,7 @@ title: "Prey VR"
 description: "Prey reaches VR in two pieces — an official prop-hunt multiplayer mode and a VorpX injection of the full campaign that adds 3D depth but no motion controls."
 flatReleaseDate: 2017-05-05
 vrReleaseDate: 2018-12-11
-lastVerified: 2018-12-11
+lastUpdated: 2018-12-11
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

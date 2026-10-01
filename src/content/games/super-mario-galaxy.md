@@ -3,7 +3,7 @@ title: "Super Mario Galaxy VR"
 description: "One of the best 3D platformers ever made, finally playable from inside Mario's helmet — if you're willing to bolt it into a Wii emulator yourself."
 flatReleaseDate: 2007-11-01
 vrReleaseDate: 2023-12-01
-lastVerified: 2023-12-01
+lastUpdated: 2023-12-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR', 'Quest']

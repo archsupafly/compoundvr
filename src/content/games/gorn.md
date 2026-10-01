@@ -1,7 +1,7 @@
 ---
 title: "Gorn VR"
 description: "A cartoonishly violent gladiator simulator where rubbery physics, dismemberment, and slapstick gore collide — and where the arm-pull locomotion might make you love it or hate it."
-lastVerified: 2019-07-18
+lastUpdated: 2019-07-18
 vrReleaseDate: 2019-07-18
 featured: false
 draft: false

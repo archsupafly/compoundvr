@@ -1,7 +1,7 @@
 ---
 title: "Medal of Honor: Above and Beyond VR"
 description: "Respawn's native WWII VR shooter delivers satisfying gunplay, cinematic set pieces, and a ten-hour campaign — episodic pacing and dead multiplayer cost it essential status, but on PCVR this is the best WWII VR shooting you can buy."
-lastVerified: 2020-12-11
+lastUpdated: 2020-12-11
 vrReleaseDate: 2020-12-11
 featured: false
 routeType: Native VR

@@ -3,7 +3,7 @@ title: "Sniper Elite VR"
 description: "The sniper fantasy works shockingly well in native VR: real scopes, slow-motion kill cams, and a steady tactical pace that proves not every shooter needs to be a run-and-gun mod."
 flatReleaseDate: "2005-09-30"
 vrReleaseDate: "2021-07-08"
-lastVerified: "2021-07-08"
+lastUpdated: "2021-07-08"
 featured: false
 routeType: Native VR
 platforms:

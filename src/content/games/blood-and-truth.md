@@ -1,7 +1,7 @@
 ---
 title: "Blood and Truth VR"
 description: "A blockbuster-quality PSVR exclusive that casts you as the lead in a London crime caper — thrilling, gorgeous, and far too short."
-lastVerified: 2019-05-28
+lastUpdated: 2019-05-28
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

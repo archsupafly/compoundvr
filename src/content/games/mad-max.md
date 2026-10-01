@@ -3,7 +3,7 @@ title: "Mad Max VR"
 description: "Mad Max never shipped a VR mode, but a VorpX profile drops you into the wasteland in stereoscopic 3D — here's what that head-tracked ride actually feels like."
 flatReleaseDate: 2015-09-01
 vrReleaseDate: 2018-11-18
-lastVerified: 2018-11-18
+lastUpdated: 2018-11-18
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

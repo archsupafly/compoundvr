@@ -1,7 +1,7 @@
 ---
 title: "Down the Rabbit Hole VR"
 description: "A brief but beautifully crafted diorama adventure that makes Wonderland feel like a toy box you can lean into — just don't expect it to last the afternoon."
-lastVerified: 2020-03-26
+lastUpdated: 2020-03-26
 featured: false
 routeType: Native VR
 platforms: ['Quest', 'PCVR', 'PSVR']

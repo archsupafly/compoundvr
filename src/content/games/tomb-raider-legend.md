@@ -3,7 +3,7 @@ title: "Tomb Raider: Legend VR"
 description: "A nearly 20-year-old platformer in VR via two very different paths: Dolphin VR turns the GameCube release into a 6DOF emulator experience, while VorpX injects the PC version into stereoscopic 3D. Both work. Neither makes it a native VR game."
 flatReleaseDate: 2006-04-07
 vrReleaseDate: 2016-07-13
-lastVerified: 2016-07-13
+lastUpdated: 2016-07-13
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

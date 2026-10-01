@@ -3,7 +3,7 @@ title: "Star Wars: Tales from the Galaxy's Edge VR"
 description: "A native VR Star Wars shooter that exists on exactly two platforms — and nowhere else."
 flatReleaseDate: 2020-11-19
 vrReleaseDate: 2020-11-19
-lastVerified: 2020-11-19
+lastUpdated: 2020-11-19
 featured: false
 routeType: Native VR
 platforms:

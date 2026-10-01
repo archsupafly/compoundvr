@@ -3,7 +3,7 @@ title: "BioShock Infinite VR"
 description: "A community mod finally drops you into Columbia with real motion controls — pistol in one hand, a Vigor in the other — but Infinite itself is early access."
 flatReleaseDate: 2013-03-26
 vrReleaseDate: 2026-08-13
-lastVerified: 2026-08-13
+lastUpdated: 2026-08-13
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']
 recommendation: Recommended with Caveats

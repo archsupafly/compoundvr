@@ -2,7 +2,7 @@
 title: "Vireio Perception: The Open-Source Driver That Proved Flat-to-VR Wasn't Locked Behind a Paywall"
 description: "Before VorpX dominated, Vireio Perception was the free, open-source injection driver that let DK1 and DK2 owners play Skyrim, Mirror's Edge, and more in VR. Here's the story of the driver that kept flat-to-VR open to everyone."
 pubDate: 2016-12-15
-lastVerified: 2016-12-15
+lastUpdated: 2016-12-15
 author: Richard
 category: opinion
 heroImage: /images/articles/vireio-perception-hero.jpg

@@ -3,7 +3,7 @@ title: "Marvel's Spider-Man 2 in VR: Swinging at the Edge of a Mod"
 description: "The only real way to put on a headset is Luke Ross's R.E.A.L. VR framework — head-tracked, gamepad-driven, and demanding as hell. Here's what that actually feels like."
 flatReleaseDate: 2023-10-20
 vrReleaseDate: 2026-03-11
-lastVerified: 2026-03-11
+lastUpdated: 2026-03-11
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

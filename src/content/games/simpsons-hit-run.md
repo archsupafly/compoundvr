@@ -3,7 +3,7 @@ title: "The Simpsons: Hit & Run VR"
 description: "A room-scale VR port drops you into Springfield with motion controls and a virtual steering wheel — the 2003 cult classic finally lets you live inside the cartoon."
 flatReleaseDate: 2003-09-16
 vrReleaseDate: 2026-09-01
-lastVerified: 2026-09-01
+lastUpdated: 2026-09-01
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'PCVR']

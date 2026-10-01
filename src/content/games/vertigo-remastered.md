@@ -3,7 +3,7 @@ title: "Vertigo Remastered"
 description: "A one-person labor of love that turns Half-Life-style pacing into a physics-driven VR shooter — grab the gun, pull the trigger, and try not to fall."
 flatReleaseDate: 2020-07-21
 vrReleaseDate: 2020-07-21
-lastVerified: 2020-07-21
+lastUpdated: 2020-07-21
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

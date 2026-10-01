@@ -2,7 +2,7 @@
 title: "RUSH VR"
 description: "A first-person wingsuit racer that turns mountain dives into the purest speed sensation native VR offers — lean into the wind and thread a canyon at full thrust."
 vrReleaseDate: 2017-01-01
-lastVerified: 2025-11-06
+lastUpdated: 2025-11-06
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'PSVR2', 'Quest']

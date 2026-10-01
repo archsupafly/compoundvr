@@ -1,7 +1,7 @@
 ---
 title: "Deracine VR"
 description: "FromSoftware's quiet PSVR mystery trades combat for contemplation, letting you haunt a boarding school as an invisible faerie."
-lastVerified: 2018-11-06
+lastUpdated: 2018-11-06
 vrReleaseDate: 2018-11-06
 featured: false
 routeType: Native VR

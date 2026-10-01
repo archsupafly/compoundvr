@@ -3,7 +3,7 @@ title: "Borderlands 3 in VR: The UEVR Route That Actually Delivers"
 description: "There's no official Borderlands 3 VR port, but a UEVR community profile turns the full looter-shooter — co-op, vehicles, campaign and all — into a surprisingly solid PCVR experience."
 flatReleaseDate: 2019-09-13
 vrReleaseDate: 2024-02-01
-lastVerified: 2024-02-01
+lastUpdated: 2024-02-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Ghostwire: Tokyo VR"
 description: "A community-framework way to walk a supernatural, empty Tokyo in your headset — atmospheric and genuinely present, but gamepad-bound with no native VR comfort."
 flatReleaseDate: 2022-03-25
 vrReleaseDate: 2024-08-07
-lastVerified: 2024-08-07
+lastUpdated: 2024-08-07
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Kona VR"
 description: "A flat-screen Canadian mystery got a full native VR conversion straight from the developer. The atmosphere is great; the port is uneven. Read this before you pick it up."
 flatReleaseDate: "2017-03-17"
 vrReleaseDate: "2018-06-19"
-lastVerified: "2018-06-19"
+lastUpdated: "2018-06-19"
 featured: false
 routeType: "Official Hybrid"
 platforms:

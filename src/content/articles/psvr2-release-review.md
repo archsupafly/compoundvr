@@ -2,7 +2,7 @@
 title: "PlayStation VR2 Review: The Headset That Split the PS5 VR Crowd"
 description: "Sony's PSVR2 is the best console VR headset ever built and the most divisive. Here's my take on why it split the PS5 crowd on day one — and who should actually buy it."
 pubDate: 2023-02-22
-lastVerified: 2023-02-22
+lastUpdated: 2023-02-22
 author: Ian
 category: opinion
 heroImage: /images/articles/psvr2-release-review-hero.jpg

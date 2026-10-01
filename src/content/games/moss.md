@@ -1,7 +1,7 @@
 ---
 title: "Moss VR"
 description: "A tiny mouse looks up at you, signs 'thank you,' and suddenly you care more about a video game rodent than you expected to."
-lastVerified: 2023-03-09
+lastUpdated: 2023-03-09
 history:
   - date: 2023-03-09
     note: Added PSVR2 enhanced version coverage.

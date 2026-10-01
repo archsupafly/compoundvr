@@ -2,7 +2,7 @@
 title: "Moss: Book II VR"
 description: "Polyarc went back to the same well and found more in it — bigger dioramas, a climbing mouse, and a hammer only your body can throw."
 vrReleaseDate: 2022-03-31
-lastVerified: 2026-09-11
+lastUpdated: 2026-09-11
 history:
   - date: 2022-03-31
     note: Original release on PlayStation VR (PS4).

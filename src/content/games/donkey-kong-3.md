@@ -3,7 +3,7 @@ title: "Donkey Kong 3 VR"
 description: "A 1983 arcade shooter rebuilt as a 3D voxel diorama in your headset — charming, slight, and over before you've finished adjusting your straps."
 flatReleaseDate: 1983-10-01
 vrReleaseDate: 2019-01-01
-lastVerified: 2019-01-01
+lastUpdated: 2019-01-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR', 'Quest']

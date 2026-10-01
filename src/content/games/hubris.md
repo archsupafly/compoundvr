@@ -3,7 +3,7 @@ title: "Hubris"
 description: "A gorgeous, physically-driven sci-fi VR shooter that moves like nothing else in the genre — if only the gunplay matched the graphics."
 flatReleaseDate: 2022-12-07
 vrReleaseDate: 2022-12-07
-lastVerified: 2024-02-16
+lastUpdated: 2024-02-16
 history:
   - date: 2024-02-16
     note: Added Arena survival mode coverage.

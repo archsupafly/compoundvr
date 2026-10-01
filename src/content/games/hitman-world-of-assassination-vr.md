@@ -4,7 +4,7 @@ description: "After years of half-measures, IO Interactive finally turned its st
 featured: false
 flatReleaseDate: "2021-01-20"
 vrReleaseDate: "2025-09-25"
-lastVerified: "2025-09-25"
+lastUpdated: "2025-09-25"
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR2']
 recommendation: Recommended

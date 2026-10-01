@@ -1,7 +1,7 @@
 ---
 title: "Here They Lie VR"
 description: "A PSVR launch-era psychological horror game that aims for surreal terror but collapses under its own ambitions, nausea-inducing camera work, and a platform that has left it behind."
-lastVerified: 2016-10-13
+lastUpdated: 2016-10-13
 vrReleaseDate: 2016-10-13
 featured: false
 routeType: Native VR

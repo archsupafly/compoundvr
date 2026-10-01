@@ -1,7 +1,7 @@
 ---
 title: "A Curious Tale of the Stolen Pets VR"
 description: "A heartwarming diorama puzzle adventure that proves VR doesn't need combat or complexity to charm — though you will wish there was more of it."
-lastVerified: 2019-11-14
+lastUpdated: 2019-11-14
 featured: false
 vrReleaseDate: 2019-11-14
 routeType: Native VR

@@ -3,7 +3,7 @@ title: "Outward VR"
 description: "A stubborn open-world survival RPG rebuilt for first-person VR by a maintained community fork. Natural Skyrim-like motion controls, working hands, snap turning, and the cold, punishing world of Aurai actually work in a headset now."
 flatReleaseDate: 2019-03-26
 vrReleaseDate: 2023-05-14
-lastVerified: 2026-02-15
+lastUpdated: 2026-02-15
 history:
   - date: 2026-02-15
     note: Rewrote around the maintained fork, dropped VorpX.

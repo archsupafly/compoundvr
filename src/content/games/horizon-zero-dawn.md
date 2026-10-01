@@ -3,7 +3,7 @@ title: "Horizon Zero Dawn VR"
 description: "Guerrilla's frozen-machine wilderness is a stunner in stereoscopic 3D, but injection-driven VR keeps you a spectator behind Aloy rather than inside the hunt."
 flatReleaseDate: 2017-02-28
 vrReleaseDate: 2020-08-07
-lastVerified: 2025-07-01
+lastUpdated: 2025-07-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

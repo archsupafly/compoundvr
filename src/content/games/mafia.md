@@ -3,7 +3,7 @@ title: "Mafia VR"
 description: "Luke Ross's R.E.A.L. mod puts you inside 1930s Lost Heaven at third-person range — full head tracking and stereoscopic depth, but you're watching Tommy through a camera, not holding the gun."
 flatReleaseDate: 2020-09-25
 vrReleaseDate: 2021-09-14
-lastVerified: 2021-09-14
+lastUpdated: 2021-09-14
 routeType: Full VR Mod
 platforms: ['PCVR']
 recommendation: Recommended with Caveats

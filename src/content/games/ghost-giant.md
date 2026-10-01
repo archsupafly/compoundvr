@@ -1,7 +1,7 @@
 ---
 title: "Ghost Giant VR"
 description: "A heartfelt PSVR puzzle-adventure where you reach into a papercraft world and befriend a lonely boy named Louis."
-lastVerified: 2019-04-12
+lastUpdated: 2019-04-12
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

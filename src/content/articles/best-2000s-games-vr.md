@@ -2,7 +2,7 @@
 title: "Best 2000s Games to Play in VR"
 description: "The 25 best 2000s games ranked by what they actually feel like in a headset today — every entry states its VR method up front, from dedicated 6DOF mods to emulator head-tracking, with no hype where the method is thin."
 pubDate: 2022-06-15
-lastVerified: 2026-08-19
+lastUpdated: 2026-08-19
 history:
   - date: 2026-08-19
     note: "Major refresh: added BioShock (VR-Stereo-Hub), Vice City (vice-city-vr), Red Faction (Alpine Faction VR alpha), Mirror's Edge (mirrors-edge-vr-mod), and Eternal Darkness (Dolphin VR). Rewrote CoD4 (KisakCOD VR 6DOF) and Battlefield 1942 (BFVR) entries around new full VR mods. Linked Prey 2006, Quake 4, Red Faction, and Counter-Strike to full reviews with images. Verified honorable mentions in or out. Replaced 'Not yet verified' with 'Also worth playing.'"

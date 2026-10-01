@@ -1,7 +1,7 @@
 ---
 title: "EVE Gunjack"
 description: "A polished turret shooter that proved mobile VR could deliver console-quality visuals — now delisted and diminished, but still playable solo."
-lastVerified: 2015-11-01
+lastUpdated: 2015-11-01
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest']

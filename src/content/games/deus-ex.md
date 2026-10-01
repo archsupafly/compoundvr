@@ -3,7 +3,7 @@ title: "Deus Ex VR"
 description: "The cyberpunk immersive sim classic plays surprisingly well in VR—if you know which game to target and what compromises to expect."
 flatReleaseDate: 2000-06-23
 vrReleaseDate: 2013-10-22
-lastVerified: 2013-10-22
+lastUpdated: 2013-10-22
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

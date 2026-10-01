@@ -1,7 +1,7 @@
 ---
 title: "Archangel: Hellfire VR"
 description: "Skydance Interactive's native VR mech shooter straps you into a six-story war machine, trading the original's on-rails shooting gallery for free-roaming PvP combat and surprisingly physical cockpit controls."
-lastVerified: 2017-07-18
+lastUpdated: 2017-07-18
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

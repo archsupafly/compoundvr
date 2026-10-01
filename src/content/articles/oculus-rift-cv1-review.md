@@ -2,7 +2,7 @@
 title: "Oculus Rift CV1 Review: The Headset That Started a Revolution"
 description: "After four years of promises and prototypes, the consumer Oculus Rift is finally here. We spent launch week inside it. Here's what works, what doesn't, and whether it's worth $599."
 pubDate: 2016-03-28
-lastVerified: 2016-03-28
+lastUpdated: 2016-03-28
 author: Richard
 category: opinion
 heroImage: /images/articles/oculus-rift-cv1-review-hero.jpg

@@ -2,7 +2,7 @@
 title: "Oculus Quest 2 Review: The $299 Headset That Made VR Inevitable"
 description: "The Oculus Quest 2 is cheaper, faster, lighter, and sharper than the original — and it's the headset that turned VR from an enthusiast hobby into a mass-market product. We spent launch week inside it. Here's what the $299 buys, what it costs, and why this is the headset that changes everything."
 pubDate: 2020-10-21
-lastVerified: 2020-10-21
+lastUpdated: 2020-10-21
 author: Richard
 category: opinion
 heroImage: /images/articles/oculus-quest-2-review-hero.jpg

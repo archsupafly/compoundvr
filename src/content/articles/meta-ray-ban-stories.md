@@ -2,7 +2,7 @@
 title: "Meta Ray-Ban Stories (2021): Camera Glasses Worth Wearing"
 description: "I spent real time with the first-gen (2021) Meta Ray-Ban Stories. They look like normal sunglasses and capture hands-free photos, but the camera, the battery, and the privacy question decide whether they're worth it."
 pubDate: 2021-09-09
-lastVerified: 2021-09-09
+lastUpdated: 2021-09-09
 author: Ian
 category: opinion
 heroImage: /images/articles/meta-ray-ban-stories-hero.jpg

@@ -2,7 +2,7 @@
 title: "DLSS 5 Modded Into Skyrim: What Nvidia's Hottest Tech Means for VR Players"
 description: "Modders put DLSS 5 into Skyrim within days of launch — with dramatic results. Here's what DLSS 5 is, why it's controversial, how the mods work, and what it means for VR."
 pubDate: 2026-09-03
-lastVerified: 2026-09-03
+lastUpdated: 2026-09-03
 author: Richard
 category: news
 heroImage: /images/articles/dlss-5-skyrim-vr-hero.jpg

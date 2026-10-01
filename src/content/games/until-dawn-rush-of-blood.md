@@ -2,7 +2,7 @@
 title: "Until Dawn: Rush of Blood VR"
 description: "A carnival ride through the Until Dawn universe that weaponizes jump scares and dual pistols into one of PSVR's most technically confident launch titles — short, sharp, and honest about what it is."
 vrReleaseDate: 2016-10-13
-lastVerified: 2016-10-13
+lastUpdated: 2016-10-13
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

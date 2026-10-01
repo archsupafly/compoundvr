@@ -2,7 +2,7 @@
 title: "Echo VR"
 description: "Native VR zero-gravity disc combat that turns your whole body into the controller — and a community relay that is frozen in place."
 vrReleaseDate: 2017-07-20
-lastVerified: 2023-11-09
+lastUpdated: 2023-11-09
 history:
   - date: 2023-11-09
     note: "EchoRelay discontinued upstream — codebase frozen, volunteer-run community servers continue with no further development."

@@ -3,7 +3,7 @@ title: "Kerbal Space Program VR"
 description: "KerbalVR turns the greatest space sim ever made into something you inhabit rather than watch — but only if you are willing to build the cockpit yourself."
 flatReleaseDate: "2015-04-27"
 vrReleaseDate: "2018-06-15"
-lastVerified: "2025-02-08"
+lastUpdated: "2025-02-08"
 history:
   - date: 2025-02-08
     note: Updated for actively maintained fork (early-2025 state).

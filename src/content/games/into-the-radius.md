@@ -1,7 +1,7 @@
 ---
 title: "Into the Radius VR"
 description: "Atmospheric survival shooter with best-in-class gun handling and genuine tension. The STALKER-inspired Zone experience VR has been waiting for."
-lastVerified: 2020-07-20
+lastUpdated: 2020-07-20
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest']

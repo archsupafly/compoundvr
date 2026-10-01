@@ -3,7 +3,7 @@ title: "Adventure of Lolo 2 VR"
 description: "HAL Laboratory's NES grid-puzzle classic becomes a tiny, head-tracked 3D diorama you can lean into through the 3dSenVR emulator — charming, comfortable, and unchanged as a game."
 flatReleaseDate: "1990-01-01"
 vrReleaseDate: "2025-06-19"
-lastVerified: "2025-06-19"
+lastUpdated: "2025-06-19"
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

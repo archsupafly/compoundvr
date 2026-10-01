@@ -3,7 +3,7 @@ title: "Defector VR"
 description: "VR's best Mission Impossible fantasy — a globe-trotting spy thriller of private-jet heists, mid-air parachute transfers, and face-mask disguises, with production values that still hold up."
 flatReleaseDate: null
 vrReleaseDate: 2019-07-11
-lastVerified: 2019-07-11
+lastUpdated: 2019-07-11
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Rift', 'Rift S']

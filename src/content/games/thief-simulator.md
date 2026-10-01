@@ -3,7 +3,7 @@ title: "Thief Simulator in VR: Why Stealing Feels Right With Your Own Hands"
 description: "A ground-up VR rebuild that turns a flat simulation into a hands-on burglary sandbox, but the grabbing is fussier than the loot is valuable."
 flatReleaseDate: 2018-11-09
 vrReleaseDate: 2022-07-07
-lastVerified: 2022-07-07
+lastUpdated: 2022-07-07
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest']

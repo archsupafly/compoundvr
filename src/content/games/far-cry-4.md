@@ -3,7 +3,7 @@ title: Far Cry 4 VR
 description: A stunning open-world shooter held back by the fact that its only real VR path is a VorpX injection profile — stereoscopic 3D and head tracking, but no motion controls and plenty of jank.
 flatReleaseDate: 2014-11-18
 vrReleaseDate: 2014-12-11
-lastVerified: 2014-12-11
+lastUpdated: 2014-12-11
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

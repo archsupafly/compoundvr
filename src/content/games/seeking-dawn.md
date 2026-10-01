@@ -1,7 +1,7 @@
 ---
 title: "Seeking Dawn VR"
 description: "A visually stunning sci-fi survival shooter that dared to be one of VR's longest experiences — if you can stomach the busywork."
-lastVerified: 2018-07-12
+lastUpdated: 2018-07-12
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

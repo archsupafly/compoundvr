@@ -2,7 +2,7 @@
 title: "Journey of the Gods VR"
 description: "A native Quest/Rift action-adventure that proves VR doesn't need a mod to feel like a real RPG — though its combat and campaign length keep it from essential status."
 vrReleaseDate: 2019-05-21
-lastVerified: 2019-05-21
+lastUpdated: 2019-05-21
 featured: false
 routeType: Native VR
 platforms: ['Quest', 'Rift', 'Rift S']

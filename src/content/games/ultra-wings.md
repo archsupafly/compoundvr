@@ -1,7 +1,7 @@
 ---
 title: "Ultra Wings VR"
 description: "A light aircraft sandbox that proves VR flight doesn't need combat to be compelling — just a motion-controlled stick, an open sky, and enough missions to fill the tank."
-lastVerified: 2017-07-20
+lastUpdated: 2017-07-20
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest']

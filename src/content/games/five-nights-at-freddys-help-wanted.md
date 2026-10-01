@@ -3,7 +3,7 @@ title: "Five Nights at Freddy's VR: Help Wanted"
 description: "A native VR horror anthology that works almost everywhere — here's which version actually justifies strapping the headset on."
 flatReleaseDate: "2019-05-28"
 vrReleaseDate: "2019-05-28"
-lastVerified: "2023-11-21"
+lastUpdated: "2023-11-21"
 history:
   - date: 2023-11-21
     note: Added PSVR2 Full Time Edition coverage.

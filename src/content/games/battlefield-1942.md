@@ -3,7 +3,7 @@ title: "Battlefield 1942 VR"
 description: "A community mod finally drops you inside the WWII combined-arms sandbox — cockpits, trenches, and tracked-controller aiming, with full 6DOF."
 flatReleaseDate: 2002-09-10
 vrReleaseDate: 2026-08-10
-lastVerified: 2026-08-10
+lastUpdated: 2026-08-10
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

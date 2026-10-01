@@ -2,7 +2,7 @@
 title: "Beat Saber Modding Guide: Custom Songs, From First Install to Playlist"
 description: "The single best upgrade for Beat Saber is the community's custom-song scene — thousands of maps, from ranked expert challenges to silly memes, for any song you can name. Here's the definitive guide to installing the mod toolchain, finding great maps, building playlists, and staying safe."
 pubDate: 2024-06-01
-lastVerified: 2024-06-01
+lastUpdated: 2024-06-01
 author: Richard
 category: guide
 heroImage: /images/articles/beat-saber-modding-guide-hero.jpg

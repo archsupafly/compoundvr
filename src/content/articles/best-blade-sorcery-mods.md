@@ -2,7 +2,7 @@
 title: "Best Blade & Sorcery Mods: The Total Conversions and DIY Scene"
 description: "Blade & Sorcery's physics engine is the best melee VR has, and its mod scene turned a small sandbox into a bottomless one — Star Wars total conversions, a 400-weapon Medieval MegaPack, new spell systems, maps, and behavior overhauls. Here's the essential Blade & Sorcery mod guide."
 pubDate: 2021-06-01
-lastVerified: 2021-06-01
+lastUpdated: 2021-06-01
 author: Richard
 category: guide
 heroImage: /images/articles/best-blade-sorcery-mods-hero.jpg

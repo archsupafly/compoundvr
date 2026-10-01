@@ -4,7 +4,7 @@ slug: grand-theft-auto-vice-city-stories
 game: 'Grand Theft Auto: Vice City Stories'
 flatReleaseDate: '2006-10-31'
 vrReleaseDate: '2022-07-31'
-lastVerified: '2022-07-31'
+lastUpdated: '2022-07-31'
 routeType: Multi-Route Coverage
 tier: C
 tierLabel: Playable with Major Compromises

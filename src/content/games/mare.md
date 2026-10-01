@@ -3,7 +3,7 @@ title: "Mare in VR: A Peaceful World You Watch Over, Not Walk Through"
 description: "A mechanical bird, a lost girl, and eight chapters of the most calming, motion-sickness-free VR atmosphere you can put on a headset — now across Quest, PC VR, and PSVR2."
 flatReleaseDate: 2023-01-01
 vrReleaseDate: 2024-11-18
-lastVerified: 2024-11-18
+lastUpdated: 2024-11-18
 featured: false
 routeType: Native VR
 platforms: ['Quest', 'PCVR', 'Rift', 'Vive', 'PSVR2']

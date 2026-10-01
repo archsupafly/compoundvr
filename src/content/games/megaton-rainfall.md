@@ -3,7 +3,7 @@ title: "Megaton Rainfall VR"
 description: "A superhero simulator that lets you fly from a city street to another galaxy in seconds — and makes your stomach question every second of it."
 flatReleaseDate: "2017-10-17"
 vrReleaseDate: "2018-08-09"
-lastVerified: "2018-08-09"
+lastUpdated: "2018-08-09"
 featured: false
 routeType: "Official Hybrid"
 platforms:

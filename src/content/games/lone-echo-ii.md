@@ -3,7 +3,7 @@ title: "Lone Echo II"
 description: "Ready At Dawn's zero-gravity swan song for the Rift — you grab, you push, and you drift through a derelict station as the best VR movement system the medium has shipped."
 flatReleaseDate: 2021-10-12
 vrReleaseDate: 2021-10-12
-lastVerified: 2021-10-12
+lastUpdated: 2021-10-12
 featured: false
 routeType: Native VR
 platforms: ['Rift', 'Rift S', 'PCVR']

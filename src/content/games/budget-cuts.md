@@ -1,7 +1,7 @@
 ---
 title: "Budget Cuts VR"
 description: "The long-awaited PCVR stealth sandbox arrives with brilliant portal locomotion and tactile espionage, though its brief runtime and streamlined mechanics leave the ghost of its legendary demo looming large."
-lastVerified: "2018-06-14"
+lastUpdated: "2018-06-14"
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

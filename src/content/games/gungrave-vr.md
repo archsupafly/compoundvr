@@ -1,7 +1,7 @@
 ---
 title: "Gungrave VR"
 description: "A cult classic anime shooter reborn as a VR title that feels like it was designed by people who had heard about VR but never tried it."
-lastVerified: 2019-03-06
+lastUpdated: 2019-03-06
 history:
   - date: 2019-03-06
     note: Added PCVR Steam release coverage.

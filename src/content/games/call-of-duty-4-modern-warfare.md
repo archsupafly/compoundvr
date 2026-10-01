@@ -3,7 +3,7 @@ title: "Call of Duty 4: Modern Warfare VR"
 description: "A community OpenXR mod drops you into the original 2007 campaign with motion-controlled rifles and a real scope — a legendary shooter finally playable in VR, warts and all."
 flatReleaseDate: 2007-11-05
 vrReleaseDate: 2026-07-30
-lastVerified: 2026-07-30
+lastUpdated: 2026-07-30
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

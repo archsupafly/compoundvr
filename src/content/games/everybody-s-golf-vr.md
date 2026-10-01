@@ -3,7 +3,7 @@ title: "Everybody's Golf VR"
 description: "The only way to actually swing a club in VR golf on PSVR — charming, physical, and lighter on content than you'd hope."
 flatReleaseDate: 2019-05-21
 vrReleaseDate: 2019-05-21
-lastVerified: 2019-05-21
+lastUpdated: 2019-05-21
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

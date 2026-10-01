@@ -1,7 +1,7 @@
 ---
 title: "Space Junkies VR"
 description: "Ubisoft Montpellier's zero-G arena shooter aimed for VR esports glory with thrilling jetpack combat — a brief, bright flare in competitive VR."
-lastVerified: 2019-03-26
+lastUpdated: 2019-03-26
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR']

@@ -1,7 +1,7 @@
 ---
 title: "Trover Saves the Universe VR"
 description: "An absurdist action-platformer where you play as a chair-bound alien commanding a foul-mouthed purple creature — funniest in VR, but the platforming stays basic."
-lastVerified: 2019-05-31
+lastUpdated: 2019-05-31
 featured: false
 routeType: Official Hybrid
 flatReleaseDate: 2019-05-31

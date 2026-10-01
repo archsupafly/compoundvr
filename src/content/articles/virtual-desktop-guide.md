@@ -2,7 +2,7 @@
 title: "Virtual Desktop: The Complete Guide to Wireless PCVR on Quest"
 description: "Virtual Desktop turns a standalone Quest into a wireless PCVR headset. Here's what it is, what you actually need, how it beats Air Link and Steam Link, and the settings that matter."
 pubDate: 2016-03-28
-lastVerified: 2023-11-01
+lastUpdated: 2023-11-01
 history:
   - date: 2023-11-01
     note: Added VDXR runtime coverage.

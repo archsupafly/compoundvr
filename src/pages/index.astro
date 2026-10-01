@@ -8,8 +8,8 @@ import { getCollection } from 'astro:content';
 
 // Sort games by last verified date (newest first) for freshness
 const allGames = (await getCollection('games')).sort((a, b) => {
-  const dateA = a.data.lastVerified?.valueOf() || 0;
-  const dateB = b.data.lastVerified?.valueOf() || 0;
+  const dateA = a.data.lastUpdated?.valueOf() || 0;
+  const dateB = b.data.lastUpdated?.valueOf() || 0;
   return dateB - dateA;
 });
 
@@ -26,8 +26,8 @@ const moddedCount = allGames.filter((g) =>
 // Articles for the sidebar column (up to 10, exclude featured ones already in carousel)
 const featuredSlugs = ['flatout-4-vr', 'microsoft-flight-simulator', 'dolphin-vr', 'triangle-strategy', 'outward'];
 const allArticles = (await getCollection('articles')).sort((a, b) => {
-  const dateA = a.data.lastVerified?.valueOf() || a.data.pubDate.valueOf();
-  const dateB = b.data.lastVerified?.valueOf() || b.data.pubDate.valueOf();
+  const dateA = a.data.lastUpdated?.valueOf() || a.data.pubDate.valueOf();
+  const dateB = b.data.lastUpdated?.valueOf() || b.data.pubDate.valueOf();
   return dateB - dateA;
 });
 const sidebarArticles = allArticles
@@ -48,7 +48,7 @@ const featuredItems = featuredSlugs
         description: game.data.verdict,
         heroImage: game.data.heroImage,
         category: 'game',
-        date: game.data.lastVerified || game.data.flatReleaseDate || new Date(),
+        date: game.data.lastUpdated || game.data.flatReleaseDate || new Date(),
       };
     }
     const article = articlesMap[slug];

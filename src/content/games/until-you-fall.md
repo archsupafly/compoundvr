@@ -1,7 +1,7 @@
 ---
 title: "Until You Fall VR"
 description: "A synthwave-drenched roguelite where every sword swing is yours to execute, and every death is just currency for the next run."
-lastVerified: 2019-08-29
+lastUpdated: 2019-08-29
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Mega Man in VR: Every Path, and Why Most of Them Suck"
 description: "Capcom never made a real VR Mega Man. I spent the weekend chasing every way to play one in a headset, and only one mainline option is even worth talking about."
 flatReleaseDate: "1987-12-17"
 vrReleaseDate: "2020-08-31"
-lastVerified: "2020-08-31"
+lastUpdated: "2020-08-31"
 featured: false
 routeType: "Multi-Route Coverage"
 platforms: ['PCVR', 'Quest']

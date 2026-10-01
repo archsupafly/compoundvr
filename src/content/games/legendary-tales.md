@@ -2,7 +2,7 @@
 title: "Legendary Tales VR"
 description: "A VR-native dark fantasy action RPG where the combat is real — you swing, you parry, you get hit, and the physics don't lie."
 vrReleaseDate: 2021-09-08
-lastVerified: 2026-01-15
+lastUpdated: 2026-01-15
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR2', 'Quest']

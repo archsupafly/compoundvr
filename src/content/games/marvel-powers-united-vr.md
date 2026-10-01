@@ -3,7 +3,7 @@ title: "Marvel Powers United VR"
 description: "Marvel Powers United VR was a solid VR superhero game that no longer exists — killed by always-online architecture and a publisher that would rather delete it than preserve it."
 flatReleaseDate: null
 vrReleaseDate: 2018-07-26
-lastVerified: 2021-03-01
+lastUpdated: 2021-03-01
 history:
   - date: 2021-03-01
     note: Documented store delisting and server shutdown.

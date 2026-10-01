@@ -1,7 +1,7 @@
 ---
 title: "Population: One VR"
 description: "A native VR battle royale where climbing, gliding, and building redefine competitive combat—free on Quest, but running on maintenance-mode life support."
-lastVerified: 2020-10-22
+lastUpdated: 2020-10-22
 featured: false
 vrReleaseDate: 2020-10-22
 routeType: Native VR

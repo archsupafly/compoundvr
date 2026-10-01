@@ -2,7 +2,7 @@
 title: "Helix Mod and 3DMigoto: The Shader Fixers Who Made Flat-to-VR Look Right"
 description: "Before VorpX could make a flat game feel like VR, someone had to fix the broken stereoscopic rendering. That was the Helix Mod and 3DMigoto community — the unsung shader fixers who made flat-to-VR actually look correct."
 pubDate: 2016-12-15
-lastVerified: 2016-12-15
+lastUpdated: 2016-12-15
 author: Richard
 category: opinion
 heroImage: /images/articles/helix-mod-3dmigoto-hero.jpg

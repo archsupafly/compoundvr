@@ -1,7 +1,7 @@
 ---
 title: "Beat Saber VR"
 description: "The rhythm game that sold VR headsets by the million — pure rhythm, pure movement, pure fun."
-lastVerified: 2025-06-18
+lastUpdated: 2025-06-18
 history:
   - date: 2025-06-18
     note: Documented PlayStation content sunset.

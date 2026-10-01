@@ -3,7 +3,7 @@ title: "A Plague Tale: Innocence VR"
 description: "A gorgeous, heartbreaking stealth game — but its only real VR path is a third-person community mod, and the rest is just stereo glued to a virtual screen."
 flatReleaseDate: "2019-05-14"
 vrReleaseDate: "2021-12-28"
-lastVerified: "2021-12-28"
+lastUpdated: "2021-12-28"
 featured: false
 routeType: Multi-Route Coverage
 platforms:

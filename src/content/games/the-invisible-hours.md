@@ -1,7 +1,7 @@
 ---
 title: "The Invisible Hours VR"
 description: "A murder mystery staged as immersive theatre, where you are the invisible audience — free to follow any character, rewind time, and piece together a death in Nikola Tesla's mansion."
-lastVerified: 2017-10-10
+lastUpdated: 2017-10-10
 featured: false
 flatReleaseDate: 2017-10-10
 vrReleaseDate: 2017-10-10

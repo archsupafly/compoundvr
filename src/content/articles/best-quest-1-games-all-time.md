@@ -2,7 +2,7 @@
 title: "The 20 Best Quest 1 Games of All Time: The Complete Standalone VR Library"
 description: "The original Oculus Quest launched in May 2019 with 53 games and two years later had one of VR's best libraries. Here are the 20 games that proved standalone VR wasn't a compromise."
 pubDate: 2019-05-21
-lastVerified: 2022-12-31
+lastUpdated: 2022-12-31
 history:
   - date: 2022-12-31
     note: Completed retrospective of the full Quest 1 library including sideloaded Team Beef ports and final-era store releases.

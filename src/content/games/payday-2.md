@@ -3,7 +3,7 @@ title: "Payday 2 in VR: The Free Heist Mode That Actually Shows Up"
 description: "Payday 2's free official VR mode turns the co-op heist shooter into a surprisingly complete room-scale experience, but it only stays that way with a couple of community patches."
 flatReleaseDate: 2013-08-13
 vrReleaseDate: 2018-03-15
-lastVerified: 2018-03-15
+lastUpdated: 2018-03-15
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

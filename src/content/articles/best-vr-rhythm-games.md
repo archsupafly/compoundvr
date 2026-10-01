@@ -2,7 +2,7 @@
 title: "Best Rhythm Games to Play in VR"
 description: "The best rhythm games in VR ranked by how well they turn motion controllers into instruments, weapons, and dance partners. From Beat Saber to Samba de Amigo, these are the titles that make a headset worth keeping charged."
 pubDate: 2021-12-31
-lastVerified: 2021-12-31
+lastUpdated: 2021-12-31
 author: Richard
 category: comparison
 listicle: true

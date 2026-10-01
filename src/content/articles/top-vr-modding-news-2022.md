@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2022: The Year Modding Went Pro"
 description: "Flat-to-VR modding stopped being a hobby in 2022 — praydog dropped REFramework on New Year's Day, Luke Ross made $20,000 a month and got DMCA'd by Take-Two within the same week, an eight-year Half-Life 2 mod launched free on Steam, and the scattered scene got a name, a headquarters, and a monthly press column."
 pubDate: 2022-12-15
-lastVerified: 2022-12-15
+lastUpdated: 2022-12-15
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2022-hero.jpg

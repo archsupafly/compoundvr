@@ -2,7 +2,7 @@
 title: "DuckStation VR: PS1 Emulation in Stereoscopic 3D"
 description: "Community-developed stereoscopic 3D fix enables PS1 games on VR headsets, but this is virtual-screen 3D—not true VR with motion controls or head tracking."
 pubDate: 2021-11-01
-lastVerified: 2021-11-01
+lastUpdated: 2021-11-01
 author: Ian
 category: guide
 tags:

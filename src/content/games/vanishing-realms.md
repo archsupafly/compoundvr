@@ -1,7 +1,7 @@
 ---
 title: "Vanishing Realms VR"
 description: "A pioneering room-scale dungeon crawler with some of the best melee combat in PCVR, held back by brevity and an increasingly dated framework."
-lastVerified: 2019-08-23
+lastUpdated: 2019-08-23
 history:
   - date: 2019-08-23
     note: Added Sundered Rift expansion coverage.

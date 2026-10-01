@@ -3,7 +3,7 @@ title: "BONELAB VR"
 description: "Stress Level Zero's VR-native physics sandbox turns your body into the controller — every object has weight, and the toybox is the reason to own a headset."
 flatReleaseDate: 2022-09-29
 vrReleaseDate: 2022-09-29
-lastVerified: 2022-09-29
+lastUpdated: 2022-09-29
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest']

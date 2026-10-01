@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil 2 (2019) in VR"
 description: "Raccoon City's finest survival horror finally enters VR through Praydog's REFramework, bringing 6DOF head tracking, stereo 3D, and partial motion controls to one of the decade's most celebrated remakes."
-lastVerified: 2022-03-01
+lastUpdated: 2022-03-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

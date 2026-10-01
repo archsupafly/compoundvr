@@ -5,7 +5,7 @@ description: The only viable VR path for the original Witcher is a fan-made prol
 game: The Witcher
 flatReleaseDate: '2007-10-26'
 vrReleaseDate: '2020-02-20'
-lastVerified: '2022-07-11'
+lastUpdated: '2022-07-11'
 history:
   - date: 2022-07-11
     note: Added 2.0 release coverage (full prologue, combat, five maps).

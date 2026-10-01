@@ -3,7 +3,7 @@ title: "Days Gone VR"
 description: "VorpX turns Bend Studio's open-world zombie ride into a stereoscopic 3D diorama — you watch Deacon, you don't become him."
 flatReleaseDate: 2019-04-26
 vrReleaseDate: 2021-05-18
-lastVerified: 2021-05-18
+lastUpdated: 2021-05-18
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

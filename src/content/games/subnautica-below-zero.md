@@ -3,7 +3,7 @@ title: "Subnautica: Below Zero VR"
 description: "Below Zero never shipped official VR, but the SubmersedVR mod drops you into 4546B's frozen waters with full motion controls — at the cost of a real swim-coupled comfort tax."
 flatReleaseDate: 2021-05-14
 vrReleaseDate: 2021-05-14
-lastVerified: 2021-05-14
+lastUpdated: 2021-05-14
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

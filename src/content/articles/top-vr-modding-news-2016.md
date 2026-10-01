@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2016: The Year Consumer VR Changed Everything"
 description: "2016 was the year VR went from dev kits to consumer hardware — the Rift and Vive launched, VorpX and Dolphin VR caught up, Bethesda announced Fallout 4 VR, and the community got GTA V, Witcher 3, Minecraft, and Doom 3 running in headsets."
 pubDate: 2016-12-15
-lastVerified: 2016-12-15
+lastUpdated: 2016-12-15
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2016-hero.jpg

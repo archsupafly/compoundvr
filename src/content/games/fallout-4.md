@@ -3,7 +3,7 @@ title: "Fallout 4 VR"
 description: "A full AAA open-world RPG in VR with native motion controls — rough vanilla, extraordinary once the community gets hold of it."
 flatReleaseDate: 2015-11-10
 vrReleaseDate: 2017-12-04
-lastVerified: 2018-01-31
+lastUpdated: 2018-01-31
 history:
   - date: 2018-01-31
     note: Added January 2018 patch coverage.

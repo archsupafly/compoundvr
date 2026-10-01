@@ -3,7 +3,7 @@ title: "Westworld Awakening VR"
 description: "A short, tightly directed stealth horror experience that uses the Westworld license well — three memorable hours of atmosphere and tension, though it remains PCVR-only."
 flatReleaseDate: 2019-08-20
 vrReleaseDate: 2019-08-20
-lastVerified: 2019-08-20
+lastUpdated: 2019-08-20
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Rift', 'Rift S', 'Vive', 'Index']

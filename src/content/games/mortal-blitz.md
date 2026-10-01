@@ -3,7 +3,7 @@ title: "Mortal Blitz VR"
 description: "Time Crisis with dual-wielded guns and physical duck-and-cover — a 90-minute arcade shooter that does exactly what it promises and not a thing more."
 flatReleaseDate: null
 vrReleaseDate: 2015-12-01
-lastVerified: 2015-12-01
+lastUpdated: 2015-12-01
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

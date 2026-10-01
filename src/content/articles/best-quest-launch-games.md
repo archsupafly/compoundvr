@@ -2,7 +2,7 @@
 title: "The 10 Best Quest Launch Games: The Lineup That Made Standalone VR Real"
 description: "The Oculus Quest launched on May 21, 2019 with 53 games — the strongest launch library in VR history. Here are the 10 that proved standalone VR wasn't a compromise."
 pubDate: 2019-06-05
-lastVerified: 2019-06-05
+lastUpdated: 2019-06-05
 author: Richard
 category: guide
 listicle: true

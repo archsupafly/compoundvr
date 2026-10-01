@@ -1,7 +1,7 @@
 ---
 title: "The Legend of Zelda: Ocarina of Time VR"
 description: "Shipwright VR delivers the complete campaign in 6DOF with motion controls — the premiere way to stand inside Hyrule at last."
-lastVerified: 2026-07-22
+lastUpdated: 2026-07-22
 flatReleaseDate: 1998-11-21
 vrReleaseDate: 2025-06-01
 featured: false

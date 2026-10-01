@@ -3,7 +3,7 @@ title: "Hyper Void VR"
 description: "A free PSVR update drops you inside a kaleidoscopic wormhole shooter at a silky 120fps — the question is whether the ride outlasts the novelty."
 flatReleaseDate: 2015-09-08
 vrReleaseDate: 2016-11-01
-lastVerified: 2016-11-01
+lastUpdated: 2016-11-01
 featured: false
 routeType: Official Hybrid
 platforms: ['PSVR']

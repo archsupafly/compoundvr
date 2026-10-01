@@ -3,7 +3,7 @@ title: "Mario Bros. VR"
 description: "The original Mario Bros. in VR is only possible through unofficial paths — and only one of them is worth your time."
 flatReleaseDate: 1983-06-21
 vrReleaseDate: 2019-06-19
-lastVerified: 2025-06-19
+lastUpdated: 2025-06-19
 history:
   - date: 2025-06-19
     note: Added 1.0 release coverage.

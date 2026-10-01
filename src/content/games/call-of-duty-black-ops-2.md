@@ -3,7 +3,7 @@ title: "Call of Duty: Black Ops 2 VR"
 description: "The actual game has no real VR path, but fan-made Zombies recreations inside Contractors VR deliver the real thing — motion controls, perks, and undead chaos in your headset."
 flatReleaseDate: "2012-11-13"
 vrReleaseDate: "2014-09-01"
-lastVerified: "2014-09-01"
+lastUpdated: "2014-09-01"
 featured: false
 routeType: Multi-Route Coverage
 platforms:

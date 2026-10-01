@@ -1,7 +1,7 @@
 ---
 title: "DCS World VR"
 description: "The deepest military flight simulator on the market becomes a genuine cockpit experience in VR — if your hardware, controls, and patience are up to the climb."
-lastVerified: 2015-05-15
+lastUpdated: 2015-05-15
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR']

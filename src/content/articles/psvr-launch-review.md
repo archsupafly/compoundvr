@@ -2,7 +2,7 @@
 title: "PlayStation VR Review: Console VR Arrives — And It Actually Works"
 description: "Sony's $399 VR headset turns the PlayStation 4 into a virtual reality machine. After a week inside it, here's what works, what surprises, and whether it's worth buying."
 pubDate: 2016-10-13
-lastVerified: 2016-10-13
+lastUpdated: 2016-10-13
 author: Richard
 category: opinion
 heroImage: /images/articles/psvr-launch-review-hero.jpg

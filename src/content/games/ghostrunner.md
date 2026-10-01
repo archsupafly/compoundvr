@@ -3,7 +3,7 @@ title: "Ghostrunner VR"
 description: "Wall-running through a cyberpunk tower at 60mph with a sword in your hand — if your stomach can handle it."
 flatReleaseDate: 2020-10-27
 vrReleaseDate: 2024-01-01
-lastVerified: 2024-01-01
+lastUpdated: 2024-01-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

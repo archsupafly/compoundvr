@@ -3,7 +3,7 @@ title: "Red Faction in VR: Geo-Mod Was Always Meant for a Headset"
 description: "A community mod finally puts Volition's 2001 Mars shooter in VR — and blowing holes in walls is even better when you're standing in the rubble."
 flatReleaseDate: 2001-09-20
 vrReleaseDate: 2026-08-19
-lastVerified: 2026-08-19
+lastUpdated: 2026-08-19
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

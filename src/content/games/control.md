@@ -3,7 +3,7 @@ title: "Control VR"
 description: "Control reaches VR only through VorpX — a stereoscopic 3D window into the Oldest House, not a headset-native experience."
 flatReleaseDate: 2019-08-27
 vrReleaseDate: 2019-11-21
-lastVerified: 2019-11-21
+lastUpdated: 2019-11-21
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

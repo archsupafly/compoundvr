@@ -1,7 +1,7 @@
 ---
 title: "In Death VR"
 description: "A medieval roguelike where drawing a bow and loosing an arrow feels as good as it looks—and the procedural purgatory keeps pulling you back for one more run."
-lastVerified: 2018-10-31
+lastUpdated: 2018-10-31
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

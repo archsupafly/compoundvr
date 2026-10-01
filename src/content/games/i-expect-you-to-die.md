@@ -1,7 +1,7 @@
 ---
 title: "I Expect You to Die VR"
 description: "A seated spy thriller where telekinetic puzzle-solving turns deadly escape rooms into pure VR joy."
-lastVerified: 2016-12-06
+lastUpdated: 2016-12-06
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR']

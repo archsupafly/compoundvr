@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2021: The Year Mods Set the Agenda"
 description: "Luke Ross went Patreon-pro, Team Beef dominated Quest, Valheim got a VR mod in weeks, and Meta rebranded while killing the Rift — 2021 was the year flat-to-VR stopped asking for permission."
 pubDate: 2021-12-20
-lastVerified: 2021-12-20
+lastUpdated: 2021-12-20
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2021-hero.jpg

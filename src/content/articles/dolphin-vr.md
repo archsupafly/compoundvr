@@ -2,7 +2,7 @@
 title: "Dolphin VR: The Emulator That Makes Classics Feel New"
 description: "The GameCube and Wii emulator fork that shoves two decades of Nintendo classics into your headset — with all the beauty and brutality that entails."
 pubDate: 2014-11-07
-lastVerified: 2026-07-31
+lastUpdated: 2026-07-31
 history:
   - date: 2026-07-31
     note: Added DolphinXR 2026 fork coverage (through Redux v0.4).

@@ -3,7 +3,7 @@ title: "Tumble VR in VR: The Block Stacker That Quietly Justifies the Headset"
 description: "A rebuilt-from-scratch PSVR puzzle game where you stack, balance, and demolish towers of physics-driven blocks in 3D space — the launch title that proves block-stacking is genuinely better in a headset."
 flatReleaseDate: 2016-10-10
 vrReleaseDate: 2016-10-10
-lastVerified: 2016-10-10
+lastUpdated: 2016-10-10
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

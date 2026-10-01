@@ -3,7 +3,7 @@ title: "Dr. Mario VR"
 description: "3dSenVR is the only path that makes 1990's Dr. Mario genuinely worth strapping a headset on for — a 3D voxel diorama that turns a flat puzzle game into something you can step around."
 flatReleaseDate: "1990-07-27"
 vrReleaseDate: 2019-01-01
-lastVerified: 2019-01-01
+lastUpdated: 2019-01-01
 featured: false
 routeType: "Multi-Route Coverage"
 platforms: ['PCVR']

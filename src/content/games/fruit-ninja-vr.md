@@ -3,7 +3,7 @@ title: "Fruit Ninja VR"
 description: "The game that sold a billion phones became a genuinely great native VR party game. Pick your version right — the original for PCVR/PSVR nostalgia, or Fruit Ninja VR 2 on Quest and PICO."
 flatReleaseDate: "2010-04-21"
 vrReleaseDate: "2016-07-07"
-lastVerified: "2016-07-07"
+lastUpdated: "2016-07-07"
 featured: false
 routeType: Native VR
 platforms:

@@ -1,7 +1,7 @@
 ---
 title: "The Room VR: A Dark Matter"
 description: "A masterclass in tactile puzzle design where every latch, lever, and hidden compartment responds to your actual hands."
-lastVerified: 2020-03-26
+lastUpdated: 2020-03-26
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR', 'Quest']

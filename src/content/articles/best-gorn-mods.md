@@ -2,7 +2,7 @@
 title: "Best GORN Mods: The MemeLoader Scene's Essential Downloads"
 description: "GORN's physics-driven arena combat is already absurd, but the modding scene made it unhinged. Here are the essential GORN mods — from the MemeLoader that makes everything possible to the custom weapons and modes that keep the gladiator pit fresh."
 pubDate: 2020-07-18
-lastVerified: 2020-07-18
+lastUpdated: 2020-07-18
 author: Richard
 category: guide
 heroImage: /images/articles/best-gorn-mods-hero.jpg

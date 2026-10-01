@@ -3,7 +3,7 @@ title: "Eternal Darkness: Sanity's Requiem VR"
 description: "The only way to play Eternal Darkness in VR is a long-dead emulator fork, and somehow that makes the whole thing feel fitting."
 flatReleaseDate: 2002-06-24
 vrReleaseDate: 2016-07-13
-lastVerified: 2016-07-13
+lastUpdated: 2016-07-13
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

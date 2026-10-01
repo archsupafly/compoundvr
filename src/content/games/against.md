@@ -2,7 +2,7 @@
 title: "AGAINST VR"
 description: "A 1930s noir comic-book brawler where you slash, shoot, and wall-run to the rhythm — Joy Way's take on what happens when Beat Saber and Pistol Whip share a speakeasy."
 vrReleaseDate: 2021-12-16
-lastVerified: 2021-12-16
+lastUpdated: 2021-12-16
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "Demeo VR"
 description: "A VR-native dungeon crawler that puts you and your friends at a glowing table, moving miniatures and flinging spells with your own hands."
 flatReleaseDate:
 vrReleaseDate: 2021-05-06
-lastVerified: 2024-05-23
+lastUpdated: 2024-05-23
 featured: false
 routeType: Native VR
 platforms: ['Quest', 'PCVR', 'PSVR2', 'Pico']

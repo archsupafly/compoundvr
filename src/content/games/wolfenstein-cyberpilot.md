@@ -3,7 +3,7 @@ title: "Wolfenstein: Cyberpilot VR"
 description: "Bethesda's 2019 VR spin-off puts you in the captain's chair, remote-piloting Nazi mechs through Paris — a stylish, very short curiosity that never lets you feel the boots on the ground."
 flatReleaseDate: null
 vrReleaseDate: 2019-07-26
-lastVerified: 2019-07-26
+lastUpdated: 2019-07-26
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

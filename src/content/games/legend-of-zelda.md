@@ -1,7 +1,7 @@
 ---
 title: "The Legend of Zelda VR"
 description: "The original Legend of Zelda transforms into a living diorama through 3dSen VR, breathing new spatial depth into the foundational action-adventure classic that defined an entire genre."
-lastVerified: 2018-01-03
+lastUpdated: 2018-01-03
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest']

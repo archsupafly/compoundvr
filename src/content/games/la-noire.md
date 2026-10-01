@@ -1,7 +1,7 @@
 ---
 title: "L.A. Noire VR"
 description: "Rockstar's noir detective thriller rebuilt for VR, with seven hand-picked cases, physical interrogations, and a storefront experience that undermines everything good about it."
-lastVerified: "2017-12-15"
+lastUpdated: "2017-12-15"
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

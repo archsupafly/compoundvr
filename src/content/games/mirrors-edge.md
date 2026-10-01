@@ -1,7 +1,7 @@
 ---
 title: "Mirror's Edge VR"
 description: "One of the best injection driver experiences available, turning DICE's rooftop parkour classic into a vertigo-inducing thrill — if your stomach can handle it."
-lastVerified: 2009-01-13
+lastUpdated: 2009-01-13
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

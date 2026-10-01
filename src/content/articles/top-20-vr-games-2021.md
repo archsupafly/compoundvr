@@ -2,7 +2,7 @@
 title: "Top 20 VR Games of 2021"
 description: "From Resident Evil 4's landmark Quest conversion to Gorilla Tag's viral explosion, the twenty games that defined VR's second mainstream year."
 pubDate: 2021-12-31
-lastVerified: 2021-12-31
+lastUpdated: 2021-12-31
 author: Richard
 category: opinion
 listicle: true

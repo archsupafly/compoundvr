@@ -1,7 +1,7 @@
 ---
 title: "Team Fortress 2 VR"
 description: "A beloved multiplayer shooter with a complicated VR history — one broken official implementation and one promising work-in-progress community mod."
-lastVerified: 2013-05-01
+lastUpdated: 2013-05-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

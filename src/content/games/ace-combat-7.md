@@ -1,7 +1,7 @@
 ---
 title: "Ace Combat 7: Skies Unknown VR"
 description: "Two VR paths, opposite tradeoffs: a flawless but fleeting official mode on PlayStation, and a full-campaign PC injection experience that demands patience and horsepower."
-lastVerified: 2019-01-18
+lastUpdated: 2019-01-18
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'PSVR']

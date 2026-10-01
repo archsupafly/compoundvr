@@ -1,7 +1,7 @@
 ---
 title: "Farpoint VR"
 description: "A PSVR sci-fi shooter built around the Aim Controller, delivering some of the most satisfying gunplay available on the platform."
-lastVerified: 2017-05-16
+lastUpdated: 2017-05-16
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

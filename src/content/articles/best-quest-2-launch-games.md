@@ -2,7 +2,7 @@
 title: "The 12 Best Quest 2 Launch Titles: The Launch Window That Made Standalone VR Mainstream"
 description: "The Quest 2 launched October 13, 2020 with the entire Quest library running better, then kept delivering all year: Saints & Sinners, Population: One, Galaxy's Edge, Tetris Effect, Myst and more. These are the 12 best Quest 2 launch titles."
 pubDate: 2020-12-20
-lastVerified: 2020-12-20
+lastUpdated: 2020-12-20
 author: Richard
 category: guide
 listicle: true

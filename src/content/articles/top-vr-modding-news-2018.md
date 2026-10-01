@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2018: The Year the Mods Came Back"
 description: "2018 was the year the studios' official VR ports forced the modding community to adapt — Skyrim VR hit PC and the mods worked immediately, VorpX pushed deeper, and new players like Luke Ross' R.E.A.L. framework started reshaping how flat games reached headsets."
 pubDate: 2018-12-15
-lastVerified: 2018-12-15
+lastUpdated: 2018-12-15
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2018-hero.jpg

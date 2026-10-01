@@ -3,7 +3,7 @@ title: "Deep Rock Galactic VR"
 description: "A community mod drops you into the boots of a space dwarf — full motion controls, holsters, and cross-play co-op with flat players."
 flatReleaseDate: 2020-05-13
 vrReleaseDate: 2022-05-27
-lastVerified: 2022-05-27
+lastUpdated: 2022-05-27
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']

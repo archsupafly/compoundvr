@@ -3,7 +3,7 @@ title: "WipEout Omega Collection VR"
 description: "The definitive cockpit sense of speed on PSVR — a free update that made the entire WipEout collection playable in VR, with the best comfort toolkit of its generation."
 flatReleaseDate: 2017-06-06
 vrReleaseDate: 2018-03-28
-lastVerified: 2018-03-28
+lastUpdated: 2018-03-28
 featured: false
 routeType: Official Hybrid
 platforms: ['PSVR']

@@ -2,7 +2,7 @@
 title: "P.T. VR"
 description: "A delisted PS4 horror demo, reborn in VR through a fan remake that amplifies every creak, shadow, and impossible hallway into something genuinely traumatic."
 vrReleaseDate: 2019-01-01
-lastVerified: 2019-01-01
+lastUpdated: 2019-01-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR', 'Quest']

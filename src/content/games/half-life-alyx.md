@@ -1,7 +1,7 @@
 ---
 title: "Half-Life: Alyx VR"
 description: "Valve's native VR prequel remains the most coherent benchmark for campaign-driven virtual reality, built from the ground up for headsets with physical interaction design that has rarely been equaled."
-lastVerified: 2020-03-23
+lastUpdated: 2020-03-23
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

@@ -3,7 +3,7 @@ title: "PlayStation VR Worlds VR"
 description: "Five VR experiences built for the original PlayStation VR's launch — and The London Heist alone is worth the price of admission."
 flatReleaseDate: "2016-10-10"
 vrReleaseDate: "2016-10-10"
-lastVerified: "2016-10-10"
+lastUpdated: "2016-10-10"
 featured: false
 routeType: Native VR
 platforms: ['PSVR']

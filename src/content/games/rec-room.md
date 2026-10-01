@@ -1,7 +1,7 @@
 ---
 title: "Rec Room VR"
 description: "The social VR platform that became a unicorn, built a universe, and couldn't make the math work — now shutting down after ten years."
-lastVerified: 2025-08-01
+lastUpdated: 2025-08-01
 history:
   - date: 2025-08-01
     note: Documented layoffs and sunset announcement.

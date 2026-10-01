@@ -3,7 +3,7 @@ title: "Dirt Rally 2.0 in VR: The Sim That Makes Every Other Racer Feel Flat"
 description: "Codemasters turned on VR for Dirt Rally 2.0 months after launch, and for anyone with a wheel and a headset, it's the closest you'll get to sitting inside a real rally car without the medical bills."
 flatReleaseDate: 2019-02-26
 vrReleaseDate: 2019-08-07
-lastVerified: 2019-08-07
+lastUpdated: 2019-08-07
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'Rift', 'Rift S', 'Index', 'Vive', 'Windows Mixed Reality']

@@ -2,7 +2,7 @@
 title: "The 10 Best PSVR Launch Games: Sony's $399 Bet on Console VR"
 description: "The PlayStation VR launched on October 13, 2016 with over 30 titles — the deepest VR launch library to date. Here are the 10 that proved console VR wasn't a compromise."
 pubDate: 2016-10-20
-lastVerified: 2016-10-20
+lastUpdated: 2016-10-20
 author: Richard
 category: guide
 listicle: true

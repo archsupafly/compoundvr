@@ -3,7 +3,7 @@ title: "Left 4 Dead 2 VR"
 description: "A full community VR conversion that makes Valve's co-op zombie classic sing in a headset — now with proper ADS, simple setup, and the best social VR shootouts on PCVR."
 flatReleaseDate: 2009-11-17
 vrReleaseDate: 2022-04-24
-lastVerified: 2026-05-17
+lastUpdated: 2026-05-17
 history:
   - date: 2026-05-17
     note: Added keyou91 fork improvements (ADS support, simplified setup).

@@ -2,7 +2,7 @@
 title: "Valve Index Review: The Enthusiast's Headset"
 description: "Valve finally shipped its own VR headset — and it's the most capable, most expensive, and most demanding system on the market. We spent launch week inside the Index. Here's what the $999 buys, what it costs, and who it's for."
 pubDate: 2019-06-28
-lastVerified: 2019-06-28
+lastUpdated: 2019-06-28
 author: Richard
 category: opinion
 heroImage: /images/articles/valve-index-review-hero.jpg

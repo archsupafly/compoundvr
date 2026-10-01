@@ -2,7 +2,7 @@
 title: "Oculus Rift S Review: The Simplest Way Into PC VR"
 description: "The Rift S kills the camera stands and brings inside-out tracking to Oculus's PC headset — but trades away 90Hz, keeps a modest screen, and drops the manual IPD dial. We spent launch week inside it. Here's what $399 buys, what it gives up, and why it's aimed at developers more than enthusiasts."
 pubDate: 2019-05-21
-lastVerified: 2019-05-21
+lastUpdated: 2019-05-21
 author: Richard
 category: opinion
 heroImage: /images/articles/oculus-rift-s-review-hero.jpg

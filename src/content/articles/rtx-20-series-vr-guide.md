@@ -2,7 +2,7 @@
 title: "RTX 20-Series VR Performance: What Each Card Ran in 2018"
 description: "Four cards, twelve games, one headset target. We ran the full RTX stack through the 2018 VR library — frame data, supersampling headroom, and which card was actually worth your money."
 pubDate: 2018-09-20
-lastVerified: 2020-03-09
+lastUpdated: 2020-03-09
 history:
   - date: 2020-03-09
     note: "2070 section derived from flat-benchmark deltas; 2060 section rebuilt with FCAT-VR data."

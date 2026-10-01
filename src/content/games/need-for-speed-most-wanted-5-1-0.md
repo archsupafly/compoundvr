@@ -3,7 +3,7 @@ title: "Need for Speed: Most Wanted 5-1-0 VR"
 description: "The 2005 PSP racer reaches VR through PPSSPP's emulator — a nostalgic cockpit view with real stereoscopic depth, held back by PSP-era limits and emulation rough edges."
 flatReleaseDate: 2005-11-15
 vrReleaseDate: 2022-12-01
-lastVerified: 2022-12-01
+lastUpdated: 2022-12-01
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR', 'Quest', 'Pico']

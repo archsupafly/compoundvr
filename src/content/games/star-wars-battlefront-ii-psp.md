@@ -3,7 +3,7 @@ title: "Star Wars Battlefront II (PSP) VR"
 description: "A PSP classic dropped into a headset via PPSSPP VR — you can stand inside its battles, but shaky depth and a 480p source make this a Battlefront fan's detour, not a destination."
 flatReleaseDate: 2005-11-01
 vrReleaseDate: 2022-12-01
-lastVerified: 2022-12-01
+lastUpdated: 2022-12-01
 featured: false
 routeType: Framework Only
 platforms: ['Quest', 'Pico', 'PCVR', 'Rift']

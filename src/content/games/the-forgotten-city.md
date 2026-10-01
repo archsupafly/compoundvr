@@ -3,7 +3,7 @@ title: "The Forgotten City VR"
 description: "A story-driven Roman mystery that feels built for VR, dropped into your headset via UEVR — real 6DOF presence in an ancient city, but no hand-tracked interaction and a steep performance cost."
 flatReleaseDate: "2021-07-28"
 vrReleaseDate: "2024-01-01"
-lastVerified: "2024-01-01"
+lastUpdated: "2024-01-01"
 featured: false
 routeType: "Framework Only"
 platforms: ['PCVR']

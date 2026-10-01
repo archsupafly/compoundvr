@@ -2,7 +2,7 @@
 title: "RTX 30-Series VR Performance Guide"
 description: "I spent the Ampere generation figuring out which RTX 30-series card earns its place in a VR rig. Here is the tier-by-tier verdict, driven by the headset you own and the mods you run, not the marketing number on the box."
 pubDate: 2020-09-17
-lastVerified: 2022-03-29
+lastUpdated: 2022-03-29
 history:
   - date: 2022-03-29
     note: Full-stack rewrite covering all ten cards through the 3090 Ti.

@@ -3,7 +3,7 @@ title: "YUKI Space Ranger VR"
 description: "A VR-native bullet-hell roguelite where your body is the controller — lean, duck, and punch your way through anime-styled bullet storms."
 flatReleaseDate: 2021-07-22
 vrReleaseDate: 2021-07-22
-lastVerified: 2021-07-22
+lastUpdated: 2021-07-22
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest', 'PSVR']

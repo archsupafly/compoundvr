@@ -1,7 +1,7 @@
 ---
 title: "Transference VR"
 description: "A psychological thriller that traps you inside a family's corrupted digital memories, built by a film studio that understands how to make your skin crawl."
-lastVerified: 2018-09-18
+lastUpdated: 2018-09-18
 featured: false
 routeType: Official Hybrid
 platforms: ['PSVR', 'PCVR']

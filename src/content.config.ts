@@ -7,7 +7,7 @@ const articles = defineCollection({
     title: z.string(),
     description: z.string(),
     pubDate: z.coerce.date(),
-    lastVerified: z.coerce.date().optional(),
+    lastUpdated: z.coerce.date().optional(),
     author: z.string().default('Richard'),
     draft: z.boolean().default(false),
     tags: z.array(z.string()).default([]),
@@ -27,7 +27,7 @@ const games = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    lastVerified: z.coerce.date(),
+    lastUpdated: z.coerce.date(),
     featured: z.boolean().default(false),
     routeType: z.enum(['Native VR', 'Official Hybrid', 'Full VR Mod', 'Framework Only', 'Multi-Route Coverage']),
     recommendation: z.enum([

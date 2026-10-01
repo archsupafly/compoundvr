@@ -3,7 +3,7 @@ title: "Gothic VR"
 description: "There is no official VR, but there are two real ways to stand inside the colony: a native fan rebuild for the 2001 classic, and UEVR for the 2026 remake. Which one is worth your weekend depends on which Gothic you actually want to play."
 flatReleaseDate: 2001-03-15
 vrReleaseDate: 2025-06-09
-lastVerified: 2025-06-09
+lastUpdated: 2025-06-09
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']

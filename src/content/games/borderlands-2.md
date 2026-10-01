@@ -3,7 +3,7 @@ title: "Borderlands 2 VR"
 description: "A landmark looter-shooter lands in VR with the full campaign in tow, but loses co-op, buries its DLC, and ships with enough technical friction to make it a solo-only curiosity."
 flatReleaseDate: 2012-09-18
 vrReleaseDate: 2018-12-14
-lastVerified: 2018-12-14
+lastUpdated: 2018-12-14
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']

@@ -3,7 +3,7 @@ title: "Star Wars: Squadrons VR"
 description: "An official hybrid space combat sim that delivers genuine cockpit fantasy at the cost of technical roughness and an abandoned multiplayer scene."
 flatReleaseDate: 2020-10-02
 vrReleaseDate: 2020-10-02
-lastVerified: 2020-10-02
+lastUpdated: 2020-10-02
 featured: false
 routeType: Official Hybrid
 platforms: ['PCVR', 'PSVR']

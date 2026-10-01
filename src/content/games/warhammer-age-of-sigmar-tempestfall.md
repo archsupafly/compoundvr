@@ -3,7 +3,7 @@ title: "Warhammer Age of Sigmar: Tempestfall in VR: Great Storm Magic, Dull Stee
 description: "Carbon Studio drops you into the Warhammer Age of Sigmar universe as a lightning-wielding Stormcast Eternal — but the melee combat and enemy variety don't live up to the spellcasting."
 flatReleaseDate: 2021-11-17
 vrReleaseDate: 2021-11-17
-lastVerified: 2022-05-19
+lastUpdated: 2022-05-19
 history:
   - date: 2022-05-19
     note: "Meta Quest 2 standalone port released with Storm Trials roguelike mode."

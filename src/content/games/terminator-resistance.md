@@ -3,7 +3,7 @@ title: "Terminator: Resistance VR"
 description: "UEVR turns Teyon's future-war shooter into a genuine 6DOF way to stand inside the Terminator world — motion-control shooting, flat menus, and injection roughness included."
 flatReleaseDate: 2019-11-15
 vrReleaseDate: 2024-01-01
-lastVerified: 2024-01-01
+lastUpdated: 2024-01-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR', 'Quest', 'Pico']

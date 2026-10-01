@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2017: The Year the Studios Showed Up"
 description: "2017 was the year the big studios finally answered the modding community — Bethesda shipped Fallout 4 VR, Skyrim VR, and Doom VFR, while VorpX added motion controller support and the modders kept pushing classics like Alien: Isolation, GTA V, and Quake 2 into headsets."
 pubDate: 2017-12-15
-lastVerified: 2017-12-15
+lastUpdated: 2017-12-15
 author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2017-hero.jpg

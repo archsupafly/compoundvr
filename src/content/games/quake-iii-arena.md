@@ -3,7 +3,7 @@ title: "Quake III Arena in VR: The Fastest Shooter in Headset History"
 description: "Two free community ports bring id Software's legendary arena shooter to VR with full motion controls and crossplay — a genuine competitive experience that will test your stomach as much as your aim."
 flatReleaseDate: "1999-12-02"
 vrReleaseDate: "2022-05-01"
-lastVerified: "2022-05-01"
+lastUpdated: "2022-05-01"
 featured: false
 routeType: Full VR Mod
 platforms:

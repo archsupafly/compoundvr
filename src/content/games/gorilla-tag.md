@@ -3,7 +3,7 @@ title: "Gorilla Tag"
 description: "A free VR game where you move by flailing your arms like an ape — and somehow it's one of the most physically funny things on the platform."
 flatReleaseDate: "2021-03-15"
 vrReleaseDate: "2021-03-15"
-lastVerified: "2024-11-08"
+lastUpdated: "2024-11-08"
 history:
   - date: 2024-11-08
     note: "Free PSVR2 port released (UploadVR, Oct 31 2024 announcement); no cross-play with Quest/PCVR lobbies at launch."

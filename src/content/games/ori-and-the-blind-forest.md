@@ -3,7 +3,7 @@ title: "Ori and the Blind Forest VR"
 description: "Ori and the Blind Forest never shipped a VR mode — but VorpX's virtual cinema turns Moon Studios' hand-painted wasteland into a private screening, and that's both the best and the only way to see it in a headset."
 flatReleaseDate: 2015-03-11
 vrReleaseDate: 2016-07-04
-lastVerified: 2016-07-04
+lastUpdated: 2016-07-04
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']

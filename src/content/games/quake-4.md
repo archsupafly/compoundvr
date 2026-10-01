@@ -3,7 +3,7 @@ title: "Quake 4 VR"
 description: "Team Beef's standalone Quest port finally puts you inside the 2005 Strogg war with real motion controls — a proper VR conversion, not a flat-screen injection."
 flatReleaseDate: 2005-10-18
 vrReleaseDate: 2025-01-15
-lastVerified: 2025-01-15
+lastUpdated: 2025-01-15
 featured: false
 routeType: Full VR Mod
 platforms: ['Quest', 'PCVR']

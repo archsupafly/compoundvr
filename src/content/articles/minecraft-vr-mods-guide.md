@@ -2,7 +2,7 @@
 title: "Minecraft VR Modding Guide: Vivecraft, QuestCraft, and Which Mods Survive VR"
 description: "Vanilla Minecraft in VR is half the game. This guide covers both routes — Vivecraft on PCVR and QuestCraft standalone — plus the mod compatibility matrix: which loaders, shaders, and performance mods actually work in a headset, and the version-pinning discipline that keeps it all running."
 pubDate: 2016-07-01
-lastVerified: 2025-10-26
+lastUpdated: 2025-10-26
 author: Richard
 category: guide
 heroImage: /images/articles/minecraft-vr-mods-guide-hero.jpg

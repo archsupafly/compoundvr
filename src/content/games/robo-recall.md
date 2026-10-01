@@ -1,7 +1,7 @@
 ---
 title: "Robo Recall VR"
 description: "Epic Games' arcade shooter remains one of the most satisfyingly physical VR experiences ever built, even if its teleport-only movement shows its age."
-lastVerified: 2019-05-21
+lastUpdated: 2019-05-21
 history:
   - date: 2019-05-21
     note: Added Quest (Unplugged) version coverage.

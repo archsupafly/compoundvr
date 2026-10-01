@@ -1,7 +1,7 @@
 ---
 title: "The Gallery Episode 2: Heart of the Emberstone VR"
 description: "A native VR adventure puzzle game that trades the linear path of its predecessor for a fuller world of telekinetic gauntlets, cassette-tape lore, and 1980s fantasy atmosphere — one of the better early VR adventures, though time and an unfinished story have dimmed its glow."
-lastVerified: 2017-10-18
+lastUpdated: 2017-10-18
 featured: false
 routeType: Native VR
 platforms: ['PCVR']

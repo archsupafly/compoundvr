@@ -3,7 +3,7 @@ title: "After the Fall VR"
 description: "A native four-player co-op shooter from the Arizona Sunshine team that is best bought on PCVR or PSVR2 — the Quest version is competent, but the hordes deserve better graphics."
 flatReleaseDate: 2021-12-09
 vrReleaseDate: 2021-12-09
-lastVerified: 2021-12-09
+lastUpdated: 2021-12-09
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'Quest', 'Rift', 'Rift S', 'PSVR', 'PSVR2', 'Pico']

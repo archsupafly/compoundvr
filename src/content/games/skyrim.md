@@ -3,7 +3,7 @@ title: "The Elder Scrolls V: Skyrim VR"
 description: "The deepest, most absorbing open-world RPG you can live inside in VR—once the mods transform Bethesda's bare port into something that feels built for the headset."
 flatReleaseDate: 2011-11-11
 vrReleaseDate: "2017-11-17"
-lastVerified: 2018-04-02
+lastUpdated: 2018-04-02
 history:
   - date: 2018-04-02
     note: Added PCVR (SteamVR) port coverage.

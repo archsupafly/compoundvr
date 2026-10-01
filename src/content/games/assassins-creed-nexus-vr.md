@@ -3,7 +3,7 @@ title: "Assassin's Creed Nexus VR"
 description: "A ground-up Quest build that finally puts you inside the Brotherhood — hand-tracked hidden blades, real parkour, and twenty hours as Ezio, Kassandra, and Connor."
 flatReleaseDate: 2023-11-16
 vrReleaseDate: 2023-11-16
-lastVerified: 2023-11-16
+lastUpdated: 2023-11-16
 featured: false
 routeType: Native VR
 platforms: ['Quest']

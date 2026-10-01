@@ -3,7 +3,7 @@ title: "Dead by Daylight VR"
 description: "The asymmetric horror hit everyone wants to play in VR — and the frustrating reality that, right now, you basically can't."
 flatReleaseDate: "2016-06-14"
 vrReleaseDate: "2016-06-14"
-lastVerified: "2016-06-14"
+lastUpdated: "2016-06-14"
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']
