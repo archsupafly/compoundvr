@@ -3,7 +3,7 @@ title: "The Forgotten City VR"
 description: "A story-driven Roman mystery that feels built for VR, dropped into your headset via UEVR — real 6DOF presence in an ancient city, but no hand-tracked interaction and a steep performance cost."
 flatReleaseDate: "2021-07-28"
 vrReleaseDate: "2024-01-01"
-lastUpdated: "2024-01-01"
+lastUpdated: "2026-10-01"
 featured: false
 routeType: "Framework Only"
 platforms: ['PCVR']
@@ -26,10 +26,13 @@ experienceTags:
   - Narrative Mystery
   - Time-Loop
   - Environmental Storytelling
-tier: "B"
-verdict: "A Writers' Guild-winning Roman mystery that UEVR finally lets you walk through in real 6DOF — the world is worth inhabiting, but gamepad-style controls, a heavy PC bill, and framework setup friction mean you should climb in knowing the trade-offs."
+tier: "A"
+verdict: "A Writers' Guild-winning Roman mystery that UEVR finally lets you walk through in real 6DOF, and one of the strongest arguments on this site that a flat game can quietly beg for a headset without ever asking for one. Eighteen characters with interlocking secrets, a time loop you unravel by watching where people look, and Roman architecture that lands harder when it is wrapping your peripheral vision. What holds it a tier short of the best is the one thing it does not have: Skyrim's modded Rome put a sword in your hand, and this city gives you a reticle. The community profile is a touch janky, and there are no hands to reach with. The writing is the draw, and it survives the translation intact. A great game — and the headset is where it is at its best."
 heroImage: /images/games/the-forgotten-city-vr-hero.jpg
 sources: "Research conducted via Steam store page, Steam Community UEVR discussion threads, VorpX forum threads, UEVR documentation and GitHub releases, UEVR Profiles Hub, Nexus Mods (Skyrim SE Forgotten City mod), Unreal Engine developer interview, Wikipedia, PCGamingWiki, MobyGames, and Paradise Decay YouTube UEVR gameplay footage."
+history:
+  - date: 2026-10-01
+    note: "Tier re-rated B to A on owner judgment: one of the strongest UEVR routes on the site, held below S by the absence of combat."
 ---
 
 I fired up The Forgotten City through UEVR on a Tuesday night fully expecting a novelty. What I got was the most convincing argument I've seen that a flat game can quietly beg for a headset without ever asking for one.
@@ -64,4 +67,4 @@ Setup friction is real but one-time. UEVR isn't a retail product with a profile 
 
 ## The call
 
-This is a B-tier VR experience by a specific route: the underlying game is exceptional, the VR is real but borrowed. If you already own a strong PC, already run UEVR, and you like a story that respects your attention, climb in. You'll get a narrative world worth standing inside, with presence flat can't match and friction that never quite disappears. If you're on a modest rig or you need VR to mean hands-on interaction, play it on the monitor — the writing is just as good there, and you'll skip the bill.
+This is an A-tier VR experience by an imperfect route: the underlying game is exceptional, the VR is real but borrowed. If you already own a strong PC, already run UEVR, and you like a story that respects your attention, climb in. You'll get a narrative world worth standing inside, with presence flat can't match and friction that never quite disappears. If you're on a modest rig or you need VR to mean hands-on interaction, play it on the monitor — the writing is just as good there, and you'll skip the bill.
