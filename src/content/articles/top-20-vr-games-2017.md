@@ -2,6 +2,7 @@
 title: "Top 20 VR Games of 2017"
 description: "The year VR grew up — from AAA survival horror and full-length RPGs to competitive sport and social theater. The twenty games that defined VR's second act."
 pubDate: 2017-12-31
+lastUpdated: 2017-12-31
 author: Richard
 category: opinion
 listicle: true

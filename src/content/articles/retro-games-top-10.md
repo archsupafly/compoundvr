@@ -2,6 +2,7 @@
 title: "Top 10 Retro Games From the 80s & 90s Worth Playing in VR"
 description: "The classic games that actually hold up in VR — ranked by VR implementation quality. Tetris Effect leads, followed by Half-Life, Quake, and the 3dSen voxel transformations."
 pubDate: 2026-03-29
+lastUpdated: 2026-03-29
 author: Ian
 category: opinion
 listicle: true

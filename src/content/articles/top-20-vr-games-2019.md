@@ -2,6 +2,7 @@
 title: "Top 20 VR Games of 2019"
 description: "The year VR came into its own — from lightsaber-wielding Sith temples and ninja parkour to recursive lighthouses and the physics sandbox that changed everything. The twenty games that defined VR's coming-of-age."
 pubDate: 2019-12-31
+lastUpdated: 2019-12-31
 author: Richard
 category: opinion
 listicle: true
