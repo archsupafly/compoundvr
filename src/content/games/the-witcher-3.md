@@ -33,6 +33,10 @@ experienceTags:
 tier: B
 verdict: "A genuinely good way to experience one of the best RPGs ever made, held back by gamepad-only input, alpha stability, and flat-game UI that still intrudes. The Continent is worth visiting in VR if you can live with the caveats."
 heroImage: /images/games/the-witcher-3-vr-hero.jpg
+modDownload:
+  url: "https://github.com/tig3rmast3r/witcher3-vr/releases"
+  label: "Download Witcher 3 VR Mod"
+  note: "Created by tig3rmast3r"
 sources: "witcher3-vr GitHub repository and release notes (tig3rmast3r), PCVR Central mod entry for witcher3-vr, VorpX official profile documentation, Flat2VR community knowledge base, VorpX forums (Witcher 3 Next Gen v4.04 confirmation), Reddit VR community feedback, VR YouTube coverage."
 history:
   - date: 2026-09-26
