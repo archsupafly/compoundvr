@@ -27,8 +27,8 @@ experienceTags:
   - Ocean Survival
   - Co-op
   - Base Building
-tier: A
-verdict: "RaftVR rebuilds the game's signature hook-throw as a physical act and drops you onto a raft in a living ocean — a great survival game made genuinely better with a headset. The install is a mod and compatibility needs a Discord check, but once you're in, it's one of the stronger Unity VR conversions out there."
+tier: B
+verdict: "RaftVR rebuilds the game's signature hook-throw as a physical act and drops you onto a raft in a living ocean — a good survival game made better with a headset. The install is a mod and compatibility needs a Discord check, but once you're in, it's a solid Unity VR conversion that earns its headset time without reaching the top shelf."
 heroImage: /images/games/raft-vr-hero.jpg
 modDownload:
   url: "https://www.raftmodding.com/mods/raftvr/download"
