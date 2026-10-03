@@ -1,6 +1,6 @@
 ---
 title: "Cyberpunk 2077 VR"
-description: "Night City finally fits inside a headset, but the best way to get there depends on how much setup pain you can stomach."
+description: "Night City in a headset, with real motion-controlled hands — the CyberpunkVR Port turns a flat RPG into a VR you can stand inside."
 flatReleaseDate: "2020-12-10"
 vrReleaseDate: "2022-02-28"
 lastUpdated: "2026-09-29"
@@ -8,7 +8,7 @@ featured: false
 routeType: "Multi-Route Coverage"
 platforms:
   - "PCVR"
-recommendation: "Recommended with Caveats"
+recommendation: "Recommended"
 playability: "Mostly Playable"
 setupBurden: "Advanced Setup"
 inputStyle: "Full Motion Controls"
@@ -29,8 +29,8 @@ experienceTags:
   - "Story-Driven"
   - "Open World"
   - "Motion Controls"
-tier: "B"
-verdict: "Cyberpunk 2077 in VR is worth the headache if you love the city enough to fight the install. The original R.E.A.L. VR mod delivers scale and presence at the cost of gamepad-only combat; a later RED4ext plugin adds real motion controls but remains experimental. Either way, this is a high-end PC spectacle for tinkerers, not a plug-and-play port."
+tier: "S"
+verdict: "Night City is the best world CD Projekt Red ever built, and the CyberpunkVR Port is the mod that finally turns it into a real VR experience — you stand inside the city with your own hands, holding the gun, reloading by pulling the magazine free. This is what a VR edition of a great open world should feel like."
 heroImage: "/images/games/cyberpunk-2077-vr-hero.jpg"
 modDownload:
   url: "https://github.com/dariulone/cyberpunk-vr-port/releases"
@@ -42,22 +42,18 @@ history:
 sources: "Research via CyberpunkVR Port GitHub repository and README (dariulone), Luke Ross R.E.A.L. VR Patreon and GitHub releases, Road to VR coverage of the 2022 RealVR mod release, Mixed News on R.E.A.L. VR DLSS Ray Reconstruction updates, Helix Mod RealVR/VRto3D profile, vorpX Cyberpunk VR profile page, and YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, GingasVR, Haldis VR, Cas & Chary)."
 ---
 
-I stood on a rooftop in Night City, looked up, and forgot I was wearing a headset for about four seconds. A holographic billboard flickered, a hovercar scraped past, and the spell broke — but those four seconds were enough. Cyberpunk 2077 wants to be inside your head.
+I stood on a rooftop in Night City, looked up, and forgot I was wearing a headset for about four seconds. A holographic billboard flickered, a hovercar scraped past, and then I glanced down at my own two hands — they were there, gripping the railing — and the spell broke. Those four seconds were enough. Cyberpunk 2077 wants to be inside your head, and the CyberpunkVR Port finally puts you inside the city for real.
 
-The way in, at the start of 2022, is Luke Ross's R.E.A.L. VR mod. It dropped on Patreon at the end of February and did what CD Projekt Red wouldn't: it put Night City into a VR headset. R.E.A.L. VR is an injection framework that uses alternate-eye rendering to squeeze stereo 3D out of REDengine 4, with a head-tracked camera and full 6DOF so you can lean around cover and crane your neck at the skyline. What it is not is a native VR port. You play with a gamepad or mouse and keyboard. Shooting follows your gaze. Your arms are still the flat game's canned animations. The UI floats in front of you like a flatscreen menu someone glued to your face.
+Night City is the best thing CD Projekt Red has ever built, and after 2.0 and Phantom Liberty it's a top-tier open-world RPG — the writing, the side stories, and the sheer density of the place are the reason to be here. In VR that density stops being a postcard. The stacked highways, the neon guttering in puddles, the vertical sprawl of a megabuilding you ride an elevator up while the city shrinks below you — you stand in it instead of framing it through a monitor. Corpo Plaza feels like a place that could crush you. The Badlands feel empty in exactly the right way. The first time you crane your neck at the skyline and the camera follows your real head, you get why people keep coming back to this city.
 
-Setup is not beginner-friendly. You download the framework, drop files into the game folder, edit a config file or two, and pray the launcher sees your headset. The Patreon model means you're either in for a dollar or hunting for a free mirror. None of it is insurmountable, but if you've never installed a mod before, this is a bad place to start.
+The mod that makes this real is CyberpunkVR Port, built by dariulone as a RED4ext plugin. This is what turned a flat game with a head-tracked camera into a genuine VR experience. It renders true stereo through OpenXR with full 6DOF head tracking, then lays a full-body VRIK avatar under your headset — your hands are the controllers, your shoulders and elbows hang off your real body, and you can squat, lean, and crouch in actual space. Roomscale movement, bending, and hybrid body rotation mean the camera follows you, not a canned animation.
 
-That sounds like a lot of caveats, and it is. But here's the thing: Night City earns them. The density of this place — the stacked highways, the neon reflected in puddles, the vertical sprawl — changes when you can look around naturally. A flat monitor frames the city like a postcard. In VR, you're standing in it. Corpo Plaza feels oppressive. The Badlands feel empty in the right way. Even the jank takes on a different texture; yes, pedestrians still clip and cars still spawn weird, but now you're the one craning to see it happen. The first time you ride an elevator up a megabuilding and watch the city shrink below you, you get it.
+Combat is where it pays off. Weapon aim is decoupled, so bullets leave the real muzzle of the gun in your hand rather than the center of your face. Reloading is physical: you grab the magazine with your off hand and pull it out along the weapon's own well. The scanner becomes a one-handed gesture. Companion Cyber Engine Tweaks and redscript mods add motion melee and hand-to-holster equipping, so you actually reach down to your hip. An in-headset overlay — open it by holding L3+R3 or tapping F10 — handles the configuration. This is the difference between visiting Night City and wearing it.
 
-Combat is where the compromise stings. Aiming with your face works for slow shots, but when the firefights get frantic you remember exactly why VR shooters moved on to motion controls years ago. Melee feels disconnected. Driving, somehow, works better than you'd expect — leaning into turns in a first-person car actually adds something, even if the wheel is still an analog stick. The flat game's first-person camera shifts, the little tilts and bobs, are preserved rather than rebuilt for VR, so anyone with a sensitive stomach should keep sessions short.
+If you'd rather not wire up the motion-control stack, Luke Ross's long-running R.E.A.L. VR mod is the established alternative. It's an injection framework that's still maintained and updated, and it delivers the same head-tracked 6DOF view of the city — but you play with a gamepad, and shooting follows your gaze. It's a great way to see Night City in VR; it just doesn't put the guns in your hands. VorpX also has a Cyberpunk profile if you want a simpler stereoscopic fallback, though it transforms the game even less.
 
-Performance is not a polite suggestion; it's a wall. R.E.A.L. VR's alternate-eye rendering saves frames by drawing one eye per frame, but the base game was already a GPU bully. On a high-end rig you can hold 80–90 Hz with settings pulled back. On anything less, you feel the reprojection. This is ultra-tier hardware territory if you want the ray-traced neon fantasy, and high-end-tier at minimum if you're willing to turn things down. Plan accordingly.
+Here's the thing: this is a community mod, and the README is blunt about it — experimental, not affiliated with CD Projekt Red, back up your saves before you start. Treat that as a real instruction, no more and no less. The version numbers are still early, so expect rough edges, and keep a clean save you can fall back to.
 
-A later RED4ext plugin, CyberpunkVR Port, pushes the experience closer to what people actually wanted. Built on Cyber Engine Tweaks and redscript, it adds real motion-controlled hands, a VRIK full-body avatar, roomscale movement, decoupled weapon aiming, and a physical reload where you grab the magazine with your off hand. The scanner becomes a one-handed gesture. You can actually crouch and lean in real space. It's the difference between visiting Night City and wearing it.
+Performance is the other honest cost, and it's Heavy Demand. On a high-end rig it holds together with settings pulled back; on anything less you feel the reprojection, and the ray-traced neon fantasy wants an ultra-tier GPU if you want it maxed. Plan for a high-end machine and you'll be fine. Comfort-wise, the flat game's first-person camera shifts — the little tilts and bobs — are preserved rather than rebuilt for VR, so anyone with a sensitive stomach should keep sessions short.
 
-That plugin is still experimental — version numbers in the 0.1.x range, README warnings about backing up saves — and the install is more involved than dropping a folder in. You need RED4ext, the companion CET and redscript mods, and the patience to configure the in-headset overlay. But it is the best way to play if you want the full VR fantasy. If R.E.A.L. VR is the proof of concept, CyberpunkVR Port is the first draft of the real thing.
-
-VorpX also offers a Cyberpunk 2077 profile if you already own the driver and want a simpler stereoscopic fallback, but it does not transform the game the way either mod does.
-
-So who is this for? Not someone looking for a polished, official VR mode. Not someone on a budget GPU. This is for the player who already loves Cyberpunk 2077, or who loves the idea of getting lost in a massive, ugly, beautiful sci-fi city, and who doesn't mind spending an evening on setup. The story is still the story. Keanu is still Keanu. The city is still the best thing CD Projekt Red has ever built. In VR, you finally get to stand inside it.
+So who is this for? Anyone who already loves Cyberpunk 2077, or who's been waiting for a reason to lose themselves in a massive, ugly, beautiful sci-fi city. The story is still the story. Keanu is still Keanu. And now, in VR, you don't just watch Night City — you stand in it, gun in hand, pulling magazines free to reload while the billboards flicker overhead.
