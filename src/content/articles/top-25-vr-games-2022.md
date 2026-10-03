@@ -21,6 +21,8 @@ heroImage: /images/articles/top-25-vr-games-2022-hero.jpg
 
 ## #1: Half-Life 2 VR Mod
 
+![Half-Life 2 VR Mod](/images/games/half-life-2-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 The Source VR Mod Team's free HL2VR dropped on Steam Workshop on September 16, the youngest thing on this list and still the one I'd install first. I drop into City 17 in full 6DOF with the gravity gun in my actual hands, and the game that defined 2004 shooters finally plays like it was built for a headset. Ravenholm's slow dread and the Citadel's set-piece chaos hit harder when you're standing inside them.
@@ -31,6 +33,8 @@ This is a full mod, not an injection: 6DOF head tracking plus motion controls, a
 
 ## #2: Firewatch
 
+![Firewatch](/images/games/firewatch-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 Raicuparta's TwoForksVR brought Firewatch into headsets and hit its 1.0 milestone on April 2. I walk the Wyoming lookout towers in full stereoscopic presence, and the quiet between Henry and Delilah lands differently when the forest is wrapped around me. The mod is a Unity rebuild, not a profile slapped on the flat game. What sells it is the stillness — Firewatch was always a walking-and-talking game, and VR gives the isolation real weight. You crane your neck at the smoke on the horizon and the mystery finally has space to breathe. [Read the full Firewatch review](/games/firewatch)
@@ -38,6 +42,8 @@ Raicuparta's TwoForksVR brought Firewatch into headsets and hit its 1.0 mileston
 ---
 
 ## #3: Red Matter 2
+
+![Red Matter 2](/images/games/red-matter-2-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Native</div>
 
@@ -51,6 +57,8 @@ This is the title I hand a non-believer first. [Read the full Red Matter 2 revie
 
 ## #4: Left 4 Dead 2
 
+![Left 4 Dead 2](/images/games/left-4-dead-2-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 sd805's l4d2vr dropped on April 24 and turned the best co-op shooter of its era into a headset panic. I'm in the middle of the horde with both hands on the shotgun, and the Valve pacing reads entirely differently when the infected are around me — the calm before a Witch, the scream of a Tank.
@@ -63,6 +71,8 @@ The Screaming Oak level alone justifies the install. The aiming depth I couldn't
 
 ## #5: Moss: Book II
 
+![Moss: Book II](/images/games/moss-book-ii-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Native</div>
 
 Polyarc's Moss: Book II is storybook platforming with a publisher's polish behind it. It landed on PSVR on March 31 and reached Quest 2 in July and PCVR in October. I guide Quill through the pages as a giant presence in her world, and the living-book framing finally makes sense when she's looking up at me.
@@ -72,6 +82,8 @@ The VR here is native throughout, built for the headset rather than ported to it
 ---
 
 ## #6: The Walking Dead: Saints & Sinners – Chapter 2: Retribution
+
+![The Walking Dead: Saints & Sinners – Chapter 2: Retribution](/images/games/the-walking-dead-saints-and-sinners-chapter-2-retribution-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Native</div>
 
@@ -83,6 +95,8 @@ Chapter 2 extends the loop without losing the grit. The flooded sections made me
 
 ## #7: Cyberpunk 2077
 
+![Cyberpunk 2077](/images/games/cyberpunk-2077-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 Luke Ross's R.E.A.L. VR mod put Night City into headsets on February 28, and it's the most ambitious flat-to-VR injection of the year. I walk the streets of Watson in stereoscopic 3D with head-tracked 6DOF, and the scale of the city finally has the presence the flat launch promised but never delivered.
@@ -92,6 +106,8 @@ This is an AER injection mod, gamepad at release, not a motion-control rebuild. 
 ---
 
 ## #8: Wanderer
+
+![Wanderer](/images/games/wanderer-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Native</div>
 
@@ -105,6 +121,8 @@ The pacing sags in spots and the late sections are the weakest thing here, but t
 
 ## #9: Star Wars Jedi Knight II: Jedi Outcast
 
+![Star Wars Jedi Knight II: Jedi Outcast](/images/games/jedi-knight-2-vr-hero.png)
+
 <div class="rank-meta">2022 · VR Port/Mod</div>
 
 Team Beef's JKXR brought Jedi Outcast to OpenXR devices, Quest, Pico 4, and PCVR, in September 2022. The reason it ranks is the one promise VR delivers: lightsaber combat with motion controls. I draw the blade and swing it, and Kyle Katarn's arc from gunfighter to Jedi finally clicks.
@@ -117,6 +135,8 @@ How deep the saber duels go past the core swings, I haven't fully verified. [Rea
 
 ## #10: Hubris
 
+![Hubris](/images/games/hubris-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Native</div>
 
 Hubris shipped on PC VR on December 7 as a VR-only action title with AAA aspirations. I climb, shoot, and swing through its sci-fi arenas with motion controls, and the sets and creature work sit a step above the usual native crop even where the edges show — a real spaceship to stand in beats a corridor every time.
@@ -128,6 +148,8 @@ It's native and uncompromising about the headset, but rough in the way ambitious
 ---
 
 ## #11: Green Hell VR
+
+![Green Hell VR](/images/games/green-hell-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Native Port</div>
 
@@ -143,6 +165,8 @@ The flat Green Hell was a management spreadsheet; this is the panic version, and
 
 ## #12: Kayak VR: Mirage
 
+![Kayak VR: Mirage](/images/games/kayak-vr-mirage-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Native</div>
 
 Kayak VR: Mirage launched on PC VR on July 12 as the year's purest stand-inside-it experience. I paddle through Antarctica, Costa Rica, and Norway in full presence, and the water, light, and scale are the entire pitch. There's a kayak and a coastline, and nothing is shouting at you for failing — that absence is the design.
@@ -155,6 +179,8 @@ Built around presence rather than systems. No objectives, no fail state, no HUD.
 
 ## #13: Among Us VR
 
+![Among Us VR](/images/games/among-us-3d-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Native</div>
 
 Among Us VR shipped on Quest 2 and PCVR on November 10 with crossplay, and it's social VR at its most accessible. I stand in the circular task rooms, watch crewmates move, and the paranoia of who's the impostor lands because the people are actually in the room with me — not avatars on a flat screen.
@@ -166,6 +192,8 @@ The simplification of tasks for VR works. You swipe and weld with your hands, an
 ---
 
 ## #14: F1 22
+
+![F1 22](/images/games/f1-22-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Official Hybrid</div>
 
@@ -181,6 +209,8 @@ On a gamepad it's a novelty, and the VR frame budget wants a 3080-class card to 
 
 ## #15: Neon White
 
+![Neon White](/images/games/neon-white-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 Raicuparta's HeavenVR mod brought Neon White into headsets in September 2022. I run the afterlife's parkour-fps levels in 6DOF stereo with motion controls required, and the snappy card-gun movement translates to VR better than a game this fast had any right to.
@@ -193,6 +223,8 @@ A Unity build for headset rather than an injection, on OpenXR. The speed is the 
 
 ## #16: Wolfenstein: The New Colossus
 
+![Wolfenstein: The New Colossus](/images/games/wolfenstein-ii-the-new-colossus-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 Helifax's Vk3DVision VR mod put The New Colossus into headsets in April 2022. I fight through the Nazi occupation in Vulkan stereo injection with 6DOF head tracking and gesture-based motion-controller aiming, and the gunplay finally has the weight the flat game hinted at.
@@ -204,6 +236,8 @@ A stereo injection mod on the existing Vulkan pipeline rather than a from-scratc
 ---
 
 ## #17: Espire 2
+
+![Espire 2](/images/games/espire-2-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Native</div>
 
@@ -219,6 +253,8 @@ The first Espire stumbled out of the gate; this one sticks the landing, and the 
 
 ## #18: Deep Rock Galactic
 
+![Deep Rock Galactic](/images/games/deep-rock-galactic-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 The VRG (Virtual Rock Galactic) mod hit beta on May 27 and put Deep Rock's dwarven co-op into headsets. I drill, shoot, and holster weapons on my actual body, and the cave panic — a swarm pouring in from a real direction — is the flat game's best quality finally felt.
@@ -230,6 +266,8 @@ UE4, 6DOF, motion controllers, and the killer feature is cross-play: your flat f
 ---
 
 ## #19: Bonelab
+
+![Bonelab](/images/games/bonelab-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Native</div>
 
@@ -243,6 +281,8 @@ The mod tools are the point. This is a platform as much as a game, and the set-p
 
 ## #20: Resident Evil 2
 
+![Resident Evil 2](/images/games/resident-evil-2-2019-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 Praydog's REFramework VR mod brought the RE2 Remake into headsets in 2022. I walk Raccoon City's police station in 6DOF with motion controls, and the survival-horror pressure is the remake's intent finally delivered — a zombie in your personal space, Mr. X's stride down the hall.
@@ -255,6 +295,8 @@ RE Engine via REFramework, distributed through Nexus and Patreon rather than a s
 
 ## #21: Ultrawings 2
 
+![Ultrawings 2](/images/games/ultrawings-2-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Native</div>
 
 Ultrawings 2 launched on Quest 2 and PCVR on February 3 as the open-world flight sequel VR needed. I pilot across its islands with motion-control sticks in my hands, and the free-flight loop — racing buoys, hauling cargo, just banking over the water — is the headset flying fantasy without a cockpit cage.
@@ -266,6 +308,8 @@ The sequel expands the map and the aircraft in ways the first game only hinted a
 ---
 
 ## #22: Dark Souls
+
+![Dark Souls](/images/games/dark-souls-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Full VR Mod</div>
 
@@ -281,6 +325,8 @@ Setup is patreon-tier tooling and a GPU that can push 4K per eye without droppin
 
 ## #23: The Last Clockwinder
 
+![The Last Clockwinder](/images/games/the-last-clockwinder-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Native</div>
 
 The Last Clockwinder launched on Quest 2 and PCVR on June 2 as the year's beloved automation puzzler. I record my own movements and loop them through clockwork clones, and the teach-the-machine-to-do-the-task loop is a VR-native idea no flat game could sell the same way — recording yourself is the mechanic.
@@ -293,6 +339,8 @@ It's cozy engineering with your hands. The puzzle curve builds without ever shou
 
 ## #24: The Stanley Parable
 
+![The Stanley Parable](/images/games/the-stanley-parable-ultra-deluxe-vr-hero.jpg)
+
 <div class="rank-meta">2022 · Full VR Mod</div>
 
 Raicuparta's StanleyVR mod brought The Stanley Parable: Ultra Deluxe into headsets on July 14. I walk the parable's offices in first person with my own head, and the narration's fourth-wall games land harder when the space is actually around me and the choices are my footsteps rather than a menu pick.
@@ -304,6 +352,8 @@ A Unity build for headset presence rather than an injection. The humor survives 
 ---
 
 ## #25: Raft
+
+![Raft](/images/games/raft-vr-hero.jpg)
 
 <div class="rank-meta">2022 · Full VR Mod</div>
 
