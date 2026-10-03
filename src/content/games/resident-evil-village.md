@@ -5,7 +5,7 @@ flatReleaseDate: 2021-05-07
 vrReleaseDate: 2023-02-22
 lastUpdated: 2023-02-22
 featured: false
-routeType: Native VR
+routeType: Official Hybrid
 platforms: ['PSVR2', 'PCVR']
 recommendation: Recommended
 playability: Fully Playable
@@ -26,7 +26,7 @@ experienceTags:
   - Horror Atmosphere
   - Manual Weapon Handling
   - Memorable Setting
-tier: A
+tier: S
 verdict: "Capcom's free PSVR2 VR Mode is the definitive way to play Village—dual-wield aiming and real weapon handling make the horror land harder than flat ever could. PC players get a near-equal taste through praydog's REFramework mod, but the headset to own here is the PSVR2."
 heroImage: /images/games/resident-evil-village-vr-hero.jpg
 sources: "Research compiled from Capcom/PlayStation Store listing, praydog REFramework GitHub and documentation (reframework.praydog.com), PCVR Central mod listing and setup guide, Digital Foundry PSVR2 tech review, and YouTube VR coverage (Virtual Reality Oasis, jacksepticeye, wolf397). Assessment draws on first-party documentation, developer notes, and community reception."
