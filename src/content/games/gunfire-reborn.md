@@ -2,7 +2,7 @@
 title: "Gunfire Reborn VR"
 description: "A dedicated community mod turns Gunfire Reborn's frantic roguelite gunplay into a full motion-control VR shooter — aim with your hands, loot with your squad, die a lot."
 flatReleaseDate: 2020-05-22
-vrReleaseDate: 2023-08-15
+vrReleaseDate: 2022-11-11
 lastUpdated: 2023-08-15
 featured: false
 routeType: Full VR Mod

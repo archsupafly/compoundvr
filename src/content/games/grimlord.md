@@ -1,7 +1,7 @@
 ---
 title: "Grimlord VR"
 description: "A VR-native dark fantasy Soulslike where you swing, block, and dodge with your own hands — the closest thing the headset has to Dark Souls with a blade in it."
-vrReleaseDate: 2024-12-19
+vrReleaseDate: 2023-06-22
 lastUpdated: 2024-12-19
 featured: false
 routeType: Native VR
