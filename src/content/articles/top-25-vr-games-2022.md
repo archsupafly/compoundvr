@@ -373,7 +373,7 @@ These didn't make the top 25 but belong in your library or your watchlist this y
 
 **RuinsMagus** — Native anime dungeon crawler on Quest 2 and PCVR, shipped July 7. Hand-tracked spellcasting in a hand-drawn JRPG shell, and the art direction makes it the year's most stylish native Quest dungeon crawl — at 72Hz, in a headset. [Read the full RuinsMagus review](/games/ruinsmagus)
 
-**MOTHERGUNSHIP: FORGE** — Native VR-only spinoff of the flat roguelite shooter on PCVR and Quest 2, shipped June 16. You build absurd guns from parts on a workbench in your hands, then test them against waves. The weapon-crafting loop is the whole pitch.
+**MOTHERGUNSHIP: FORGE** — Native VR-only spinoff of the flat roguelite shooter on PCVR and Quest 2, shipped June 16. You build absurd guns from parts on a workbench in your hands, then test them against waves. The weapon-crafting loop is the whole pitch. [Read the full MOTHERGUNSHIP: FORGE review](/games/mothergunship-forge)
 
 **Resident Evil 3** — Praydog's REFramework VR mod brought the RE3 Remake into headsets in 2022. 6DOF with motion controls on RE Engine, same treatment as the RE2 mod, and the Nemesis pressure reads harder still when he's filling your personal space. [Read the full Resident Evil 3 review](/games/resident-evil-3)
 
