@@ -95,6 +95,14 @@ October was the month high-end VR stopped apologizing. Meta launched the Quest P
 
 None of these are modding stories directly. All of them are the ground the modding stories stand on: better lenses to see converted worlds through, real standalone competition, and the raw horsepower to brute-force unoptimized conversions into smooth framerates. The mods provide the destinations; October 2022 upgraded the vehicles.
 
+## Independent Modding Grew in the Margins
+
+Most of the stories above run through an institution — a framework, a hub, a Patreon account, a press cycle. The growth was real, but it wasn't only happening there. All year, solo and small-team conversions shipped outside that structure, and the press cycle largely passed them over because none of them had an announcement to make.
+
+[Left 4 Dead 2](https://compoundvr.com/games/left-4-dead-2/) got a full 6DOF motion-control rebuild from sd805, released April 24 out of a public repository, with no trailer and no Discord to announce it. [Wolfenstein II: The New Colossus](https://compoundvr.com/games/wolfenstein-ii-the-new-colossus/) came through Helifax's Vk3DVision, a Vulkan stereo driver pairing head tracking with gesture-aimed weapons — the sort of conversion that never makes headlines because the tooling did the work instead of the person. [Raft](https://compoundvr.com/games/raft/) got a Unity rebuild with motion controls and multiplayer from DrBibop, whose repository went up in September. [Gunfire Reborn](https://compoundvr.com/games/gunfire-reborn/) arrived as a BepInEx port from PureDark and was later forked into a maintained installer by Astienth.
+
+None of the four had a framework behind it or a revenue stream attached. They had someone willing to finish the port, and players who found it anyway. The institutions are what made 2022 legible from the outside — the frameworks, the hub, the DMCA. My read is that the catalog was considerably larger than the press cycle reported, and our [Top 25 VR Games of 2022](https://compoundvr.com/articles/top-25-vr-games-2022/) listicle ranked as much of that long tail as would fit.
+
 ## Honorable Mentions
 
 **Half-Life: Alyx: Levitation + the Alyx mod scene.** November's Levitation campaign was the biggest [Half-Life: Alyx](https://compoundvr.com/games/half-life-alyx/) mod to date, atop a growing scene of custom campaigns and Gunman Contracts-era experiments. Scope note: these are mods *for* a VR game, not flat-to-VR — which is why they're here and not numbered. The distinction matters, and the scene deserves the nod.
