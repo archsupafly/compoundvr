@@ -369,13 +369,13 @@ Unity, PCVR, and early enough that the seams still show if you go looking. The b
 
 These didn't make the top 25 but belong in your library or your watchlist this year.
 
-**Elden Ring** — Luke Ross's R.E.A.L. VR mod brought the Lands Between into headsets in April 2022. Gamepad injection, no motion controls, but the open world in stereoscopic 3D is the year's biggest stand-inside-it tease — and the map is five times bigger than Lordran's. It sits just below the cut because Dark Souls does the same trick on a tighter map and you already know the rituals.
+**Elden Ring** — Luke Ross's R.E.A.L. VR mod brought the Lands Between into headsets in April 2022. Gamepad injection, no motion controls, but the open world in stereoscopic 3D is the year's biggest stand-inside-it tease — and the map is five times bigger than Lordran's. It sits just below the cut because Dark Souls does the same trick on a tighter map and you already know the rituals. [Read the full Elden Ring review](/games/elden-ring)
 
-**RuinsMagus** — Native anime dungeon crawler on Quest 2 and PCVR, shipped July 7. Hand-tracked spellcasting in a hand-drawn JRPG shell, and the art direction makes it the year's most stylish native Quest dungeon crawl — at 72Hz, in a headset.
+**RuinsMagus** — Native anime dungeon crawler on Quest 2 and PCVR, shipped July 7. Hand-tracked spellcasting in a hand-drawn JRPG shell, and the art direction makes it the year's most stylish native Quest dungeon crawl — at 72Hz, in a headset. [Read the full RuinsMagus review](/games/ruinsmagus)
 
 **MOTHERGUNSHIP: FORGE** — Native VR-only spinoff of the flat roguelite shooter on PCVR and Quest 2, shipped June 16. You build absurd guns from parts on a workbench in your hands, then test them against waves. The weapon-crafting loop is the whole pitch.
 
-**Resident Evil 3** — Praydog's REFramework VR mod brought the RE3 Remake into headsets in 2022. 6DOF with motion controls on RE Engine, same treatment as the RE2 mod, and the Nemesis pressure reads harder still when he's filling your personal space.
+**Resident Evil 3** — Praydog's REFramework VR mod brought the RE3 Remake into headsets in 2022. 6DOF with motion controls on RE Engine, same treatment as the RE2 mod, and the Nemesis pressure reads harder still when he's filling your personal space. [Read the full Resident Evil 3 review](/games/resident-evil-3)
 
 **Tentacular** — Native physics playground on Quest 2 and PCVR, shipped in 2022. You play a kraken with two enormous tentacles, smashing and stacking a cartoon world. Grabbing ships and buildings at that scale is the silly VR power fantasy the year needed, and nothing else in VR lets you do it.
 
@@ -393,11 +393,11 @@ These didn't make the top 25 but belong in your library or your watchlist this y
 
 **Drums Rock** — Native VR rhythm game on Quest 2 and PCVR, shipped in 2022. You bash drums with both sticks against a rock tracklist. The full-body drumming is the year's most physical rhythm pick, with no guitar-band restraint.
 
-**Tea For God** — Native roomscale VR roguelite, still an early-access build through 2022. It maps your real room into endless virtual space so you walk everywhere with your own legs, and the no-artificial-locomotion trick is the year's most honest answer to VR movement — your real legs are the whole system. Playable, half-built, and still the best demonstration of the idea.
+**Tea For God** — Native roomscale VR roguelite, still an early-access build through 2022. It maps your real room into endless virtual space so you walk everywhere with your own legs, and the no-artificial-locomotion trick is the year's most honest answer to VR movement — your real legs are the whole system. Playable, half-built, and still the best demonstration of the idea. [Read the full Tea For God review](/games/tea-for-god)
 
-**Zenith: The Last City** — Native VR MMO on Quest 2, PCVR, and PSVR, shipped January 27. The anime-styled open world finally put a persistent MMO in a headset. Other players actually around you is the pitch VR promised for years.
+**Zenith: The Last City** — Native VR MMO on Quest 2, PCVR, and PSVR, shipped January 27. The anime-styled open world finally put a persistent MMO in a headset. Other players actually around you is the pitch VR promised for years. [Read the full Zenith review](/games/zenith)
 
-**Gunfire Reborn** — PureDark's BepInEx VR mod brought the roguelite shooter into headsets in November 2022. 6DOF with motion controls on the flat game's loop, and the gun-feel and co-op runs carry over well enough to make it the year's modded looter surprise.
+**Gunfire Reborn** — PureDark's BepInEx VR mod brought the roguelite shooter into headsets in November 2022. 6DOF with motion controls on the flat game's loop, and the gun-feel and co-op runs carry over well enough to make it the year's modded looter surprise. [Read the full Gunfire Reborn review](/games/gunfire-reborn)
 
 ---
 
