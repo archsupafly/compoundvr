@@ -15,7 +15,7 @@ tags:
 heroImage: /images/articles/top-50-psvr-games-all-time-hero.jpg
 ---
 
-The PlayStation VR library is the widest spread of virtual reality experiences ever assembled on a single console. I've spent the better part of six years with the headset on, and what still gets me is the range: some of these are built for VR from the ground up, and some are full flat-AAA titles that shipped a VR mode alongside the disc, and both belong on the same shelf. This is the definitive ranking of all 50, counted from the bottom up, #50 to #1. I've put every one of them on at least once, and each entry below says what the game is and how it runs in VR before sending you to the full review. If you want the year's cross-platform and mod picks, our Top 25 VR Games of 2022 covers that lane; this list is PSVR-only, every year, console-only. Here's where the library actually lands.
+The PlayStation VR library is the widest spread of virtual reality experiences ever assembled on a single console. I've spent the better part of six years with the headset on, and what still gets me is the range: some of these are built for VR from the ground up, and some are full flat-AAA titles that shipped a VR mode alongside the disc, and both belong on the same shelf. This is the definitive ranking of all 50, counted from the bottom up, #50 to #1.
 
 ---
 
