@@ -643,5 +643,3 @@ Team Asobi's platformer understands PSVR better than any other. The DualShock ap
 ---
 
 Fifty games, one headset, and the through-line is clearer now than it was at launch. The best of them isn't the biggest flat game with a VR toggle bolted on. It's the title that treats the headset as the player rather than the screen. Astro Bot takes #1 for the simple reason that it never lets you forget you're inside it, and the hybrid giants beneath it earn their places by how completely they occupy the room.
-
-I've played most of this library more than once, and the honest verdict is that PSVR built the strongest console VR shelf anyone has shipped. Some of these are worth your headset. The ones at the bottom are worth knowing about anyway. If you want the year's cross-platform and mod picks, our [Top 25 VR Games of 2022](/articles/top-25-vr-games-2022) covers that lane.
