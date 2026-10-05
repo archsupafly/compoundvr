@@ -15,7 +15,7 @@ tags:
 heroImage: /images/articles/top-50-psvr-games-all-time-hero.jpg
 ---
 
-The PlayStation VR library is the widest spread of virtual reality experiences ever assembled on a single console. I've spent the better part of six years with the headset on, and what still gets me is the range: some of these are built for VR from the ground up, and some are full flat-AAA titles that shipped a VR mode alongside the disc, and both belong on the same shelf. This is the definitive ranking of all 50, counted from the bottom up — #50 to #1 — written as one player who has actually put each of them on. If you want the year's cross-platform and mod picks, our Top 25 VR Games of 2022 covers that lane; this list is PSVR-only, every year, console-only. Here's where the library actually lands.
+The PlayStation VR library is the widest spread of virtual reality experiences ever assembled on a single console. I've spent the better part of six years with the headset on, and what still gets me is the range: some of these are built for VR from the ground up, and some are full flat-AAA titles that shipped a VR mode alongside the disc, and both belong on the same shelf. This is the definitive ranking of all 50, counted from the bottom up, #50 to #1. I've put every one of them on at least once, and each entry below says what the game is and how it runs in VR before sending you to the full review. If you want the year's cross-platform and mod picks, our Top 25 VR Games of 2022 covers that lane; this list is PSVR-only, every year, console-only. Here's where the library actually lands.
 
 ---
 
@@ -25,7 +25,8 @@ The PlayStation VR library is the widest spread of virtual reality experiences e
 
 <div class="rank-meta">2019 · Native</div>
 
-I put on the headset and sat in that security office, and the first thing to know is that this is not one game so much as a pile of short horror minigames wearing the Freddy costume — flashlight fixes, vent crawls, and the original night-guard shifts rebuilt in VR. What works is the proximity: the animatronics lean into your personal space and the jump scares land because there is nowhere to look away. Don't expect a single authored campaign; treat it as a scare-box anthology and the padding is fine, the best bits are genuinely sweaty.
+Five Nights at Freddy's: Help Wanted is a horror minigame anthology, not a single campaign. The headset drops you into flashlight repairs, vent crawls, and the original night-guard shifts rebuilt in VR. The animatronics lean into personal space and the jump scares land because there is nowhere to look away. Treat it as a scare-box anthology. The padding is fine and the best bits are genuinely sweaty.
+
 
 ---
 
@@ -35,11 +36,12 @@ I put on the headset and sat in that security office, and the first thing to kno
 
 <div class="rank-meta">2016 · Native</div>
 
-I dropped into the cockpit of the Battlezone tank on day one of PSVR and the neon-vector aesthetic still reads as the cleanest launch-window art direction on the system. It's a roguelike loop — you roll out, light up enemy armor, die, and roll out again with a new map — and the canopy view and vector glow make the simplicity feel deliberate rather than thin. The motion is smooth and the difficulty curve gets teeth fast, which is exactly what a launch arcade shooter should do.
+Battlezone opened the PSVR launch window with a neon-vector aesthetic that still reads as the cleanest art direction on the system. The loop is roguelike. You roll out, light up enemy armor, die, and roll out again on a fresh map. The canopy view and vector glow make the simplicity feel deliberate rather than thin. Motion stays smooth and the difficulty curve gets teeth fast, which is what a launch arcade shooter should do.
 
-[Read the full Battlezone review](/games/battlezone)
 
 ---
+
+[Read the full Battlezone review](/games/battlezone)
 
 ## #48: Borderlands 2 VR
 
@@ -47,7 +49,8 @@ I dropped into the cockpit of the Battlezone tank on day one of PSVR and the neo
 
 <div class="rank-meta">2018 · Native</div>
 
-I loaded cel-shaded Pandora into the headset and the loot-shooter translates better than it had any right to, with the Aim Controller turning every reload into a physical habit. This is the full Borderlands 2 campaign in VR, a PSVR timed exclusive, and the gunplay and skill trees survive the jump intact even if the frame budget occasionally reminds you it's a port straining the hardware. If you already loved the flat game, standing inside its chaos is the upgrade; if you didn't, VR won't fix the joke pacing.
+Borderlands 2 VR drops cel-shaded Pandora and the loot-shooter translates better than it had any right to, with the Aim Controller turning every reload into a physical habit. This is the full Borderlands 2 campaign in VR, a PSVR timed exclusive, and gunplay and skill trees survive the jump intact. The frame budget occasionally reminds you it is a port straining the hardware. Loved the flat game? Standing inside its chaos is the upgrade. Didn't? VR won't fix the joke pacing.
+
 
 ---
 
@@ -57,11 +60,12 @@ I loaded cel-shaded Pandora into the headset and the loot-shooter translates bet
 
 <div class="rank-meta">2020 · Native</div>
 
-I put this on and spent the first ten minutes grinning at the conceit: a 90s console game bleeds off the screen and into your room, so you're playing a game while a game glitches into your real space. The retro-nostalgia pitch works because the in-world platforming is actually competent and the reality-break moments are the draw, not a gimmick bolted on. It's short and a little precious about its references, but as a love letter to the CRT era it's the most charming weirdo on the list.
+Pixel Ripped 1995 is a 90s console game that bleeds off the screen and into your room, so you play a game while a game glitches into real space. The retro-nostalgia pitch works because the in-world platforming is actually competent and the reality-break moments are the draw, not a gimmick bolted on. It is short and a little precious about its references, but as a love letter to the CRT era it is the most charming weirdo on the list.
 
-[Read the full Pixel Ripped 1995 review](/games/pixel-ripped-1995)
 
 ---
+
+[Read the full Pixel Ripped 1995 review](/games/pixel-ripped-1995)
 
 ## #46: The Invisible Hours
 
@@ -69,11 +73,12 @@ I put this on and spent the first ten minutes grinning at the conceit: a 90s con
 
 <div class="rank-meta">2017 · Official Hybrid</div>
 
-I stood in the manor and let time play out around me, because this is a murder mystery you walk through rather than solve with a cursor — the cast moves on fixed paths and you choose which thread to follow. The trick is agency without interaction: you can't change the night, only witness it from every angle, and the headset makes eavesdropping feel like trespassing. It's slow and demands patience, but no other VR title lets you drift through a locked-room drama this completely.
+The Invisible Hours is a murder mystery you walk through rather than solve with a cursor. The cast moves on fixed paths and you choose which thread to follow. The trick is agency without interaction. You cannot change the night, only witness it from every angle, and the headset makes eavesdropping feel like trespassing. It is slow and demands patience, but no other VR title lets you drift through a locked-room drama this completely.
 
-[Read the full The Invisible Hours review](/games/the-invisible-hours)
 
 ---
+
+[Read the full The Invisible Hours review](/games/the-invisible-hours)
 
 ## #45: Arizona Sunshine
 
@@ -81,11 +86,12 @@ I stood in the manor and let time play out around me, because this is a murder m
 
 <div class="rank-meta">2017 · Native</div>
 
-I stepped into the cabin with the Move controllers and reloaded a shotgun by hand for the first time on PSVR, and that single tactile habit carried the whole zombie FPS. The horde closes in from real directions and the Aim Controller later made the shooting read even cleaner, but even on Move the forest panic is the point. It's a competent campaign with a co-op mode that's the real reason to keep it installed, and the gore physics never stop being satisfying.
+Arizona Sunshine puts the Move controllers in your hands and reloading a shotgun by hand is the tactile habit that carries the whole zombie FPS. The horde closes in from real directions and the Aim Controller later makes the shooting read cleaner, but even on Move the forest panic is the point. The campaign is competent and the co-op mode is the real reason to keep it installed, with gore physics that never stop satisfying.
 
-[Read the full Arizona Sunshine review](/games/arizona-sunshine)
 
 ---
+
+[Read the full Arizona Sunshine review](/games/arizona-sunshine)
 
 ## #44: Firewall Zero Hour
 
@@ -93,11 +99,12 @@ I stepped into the cabin with the Move controllers and reloaded a shotgun by han
 
 <div class="rank-meta">2018 · Native</div>
 
-I held the Aim Controller like a real rifle and called targets to my squad, and this is the tactical multiplayer shooter that finally justified the peripheral for something other than Farpoint. Each round is a small hostage-rescue puzzle where sound and positioning beat reflexes, and the headset turns peeking a corner into a held breath. It lives or dies on who you queue with, but with a coordinated crew it's the best competitive VR on the console.
+Firewall Zero Hour puts the Aim Controller in your hands like a real rifle and you call targets to your squad. This is the tactical multiplayer shooter that justified the peripheral for something other than Farpoint. Each round is a small hostage-rescue puzzle where sound and positioning beat reflexes, and the headset turns peeking a corner into a held breath. It lives or dies on who you queue with, but with a coordinated crew it is the best competitive VR on the console.
 
-[Read the full Firewall Zero Hour review](/games/firewall-zero-hour)
 
 ---
+
+[Read the full Firewall Zero Hour review](/games/firewall-zero-hour)
 
 ## #43: Ace Combat 7: Skies Unknown
 
@@ -105,11 +112,12 @@ I held the Aim Controller like a real rifle and called targets to my squad, and 
 
 <div class="rank-meta">2019 · Official Hybrid</div>
 
-I climbed into the cockpit for the dogfights and you need to know up front that only three missions in Ace Combat 7 are in VR — the rest of the flat campaign stays on the TV. Those three are gorgeous: the cockpit view and the horizon rolling under your wings sell the flight better than any flat cutscene, and the sense of altitude is the whole reason to flip the headset on. The honest framing is that the VR is a bonus mode on a flat game you'd own anyway, not a VR title in its own right.
+Ace Combat 7: Skies Unknown puts you in the cockpit for its dogfights, but only three missions are in VR. The rest of the flat campaign stays on the TV. Those three are gorgeous. The cockpit view and horizon rolling under your wings sell the flight better than a flat cutscene, and the sense of altitude is why you flip the headset on. The VR is a bonus mode on a flat game you would own anyway, not a VR title in its own right.
 
-[Read the full Ace Combat 7 review](/games/ace-combat-7)
 
 ---
+
+[Read the full Ace Combat 7 review](/games/ace-combat-7)
 
 ## #42: Everybody's Golf VR
 
@@ -117,11 +125,12 @@ I climbed into the cockpit for the dogfights and you need to know up front that 
 
 <div class="rank-meta">2019 · Native</div>
 
-I swung the Move like a real club and the Clap Hanz swing model reads your tempo rather than your button press, which is the difference between a minigame and a round you want to replay. It's a focused slice of the series — a handful of courses and a calm driving-range loop — but the presence of standing on the tee with the wind moving the grass is exactly what VR golf should be. Light on content, heavy on the feel, and the most relaxing thing on this list.
+Everybody's Golf VR hands you the Move controller like a real club and the Clap Hanz swing model reads your tempo rather than your button press, which is the difference between a minigame and a round you want to replay. It is a focused slice of the series with a handful of courses and a calm driving-range loop, but standing on the tee with wind moving grass is what VR golf should be. Light on content, heavy on feel, and the most relaxing thing on the list.
 
-[Read the full Everybody's Golf VR review](/games/everybody-s-golf-vr)
 
 ---
+
+[Read the full Everybody's Golf VR review](/games/everybody-s-golf-vr)
 
 ## #41: Déraciné
 
@@ -129,11 +138,12 @@ I swung the Move like a real club and the Clap Hanz swing model reads your tempo
 
 <div class="rank-meta">2018 · Native</div>
 
-I moved through the hushed boarding-school manor as a fairy tugging at time, and this FromSoftware curiosity, led by Dark Souls director Hidetaka Miyazaki, is the anti-souls game — no combat, just observation and a slow mystery about the students you're meant to protect. The headset makes the stillness intimate; you lean into a scene and the small details carry the story. It's short and deliberately slow, but as a proof that VR can do gentle as well as loud it earns its spot.
+Déraciné casts you as a fairy tugging at time inside a hushed boarding-school manor, a FromSoftware curiosity led by Dark Souls director Hidetaka Miyazaki. It is the anti-souls game. There is no combat, just observation and a slow mystery about the students you are meant to protect. The headset makes the stillness intimate, letting you lean into a scene while small details carry the story. Short and deliberately slow, but as proof that VR can do gentle as well as loud it earns its spot.
 
-[Read the full Déraciné review](/games/deracine)
 
 ---
+
+[Read the full Déraciné review](/games/deracine)
 
 ## #40: Thumper
 
@@ -141,11 +151,12 @@ I moved through the hushed boarding-school manor as a fairy tugging at time, and
 
 <div class="rank-meta">2016 · Native</div>
 
-I put on the headset and the beetle hit the track at launch and "rhythm violence" stopped being a marketing phrase — the speed and the bass physically press on you, and missing a beat stings in the chest. It's a rail shooter married to a metal soundtrack, no motion controls needed, and the simplicity is the strength: you just survive the next stretch of track. On PSVR's first day this was the argument that sound and speed could do more than guns and rooms.
+Thumper put the beetle on the track at PSVR's launch and "rhythm violence" stops being a marketing phrase. The speed and bass physically press on you, and missing a beat stings in the chest. It is a rail shooter married to a metal soundtrack with no motion controls needed, and the simplicity is the strength because you just survive the next stretch of track. On PSVR's first day this was the argument that sound and speed could do more than guns and rooms.
 
-[Read the full Thumper review](/games/thumper)
 
 ---
+
+[Read the full Thumper review](/games/thumper)
 
 ## #39: Until You Fall
 
@@ -153,11 +164,12 @@ I put on the headset and the beetle hit the track at launch and "rhythm violence
 
 <div class="rank-meta">2020 · Native</div>
 
-I swung the Move to block and parry and the roguelike sword combat finally felt like my arms were the weapon, not a button mapping. Each run throws a new loadout of blades at you and the limb-targeted blocking means you actually watch where the enemy's sword is going. It's repeatable and the runs are short enough to fit a break, and among PSVR's melee crop this is the one that taught my wrists the rhythm first.
+Until You Fall hands you the Move controllers to block and parry, and the roguelike sword combat makes your arms the weapon rather than a button mapping. Each run throws a new loadout of blades at you and the limb-targeted blocking means you actually watch where the enemy's sword is going. The runs are repeatable and short enough to fit a break, and among PSVR's melee crop this is the one that taught the rhythm to your wrists first.
 
-[Read the full Until You Fall review](/games/until-you-fall)
 
 ---
+
+[Read the full Until You Fall review](/games/until-you-fall)
 
 ## #38: Paper Beast
 
@@ -165,7 +177,8 @@ I swung the Move to block and parry and the roguelike sword combat finally felt 
 
 <div class="rank-meta">2020 · Native</div>
 
-I put my hands into Eric Chahi's paper ecosystem and the creatures fold and react to my gestures like living origami, which is the entire pitch and it holds up. It's a sandbox more than a game — you nudge, dig, and redirect the wildlife through puzzle valleys — and the weird beauty of the paper world is the reason to stay. Thin on goals, rich on texture, and the most singular art direction in the mid-list.
+Paper Beast drops your hands into Eric Chahi's paper ecosystem and the creatures fold and react to your gestures like living origami, which is the entire pitch and it holds up. It is a sandbox more than a game. You nudge, dig, and redirect the wildlife through puzzle valleys, and the weird beauty of the paper world is the reason to stay. Thin on goals, rich on texture, and the most singular art direction in the mid-list.
+
 
 ---
 
@@ -175,11 +188,12 @@ I put my hands into Eric Chahi's paper ecosystem and the creatures fold and reac
 
 <div class="rank-meta">2018 · Native</div>
 
-I woke on the doomed ship in the dark with the DualShock and the dread is purely about not seeing what's around the next corner, because this roguelike horror rebuilds its map every death. The VR makes the close-quarters stalk genuinely tense and the DS4-only controls keep it from demanding wands, which is a relief. It's a grind that rewards persistence (the name is not subtle), and the claustrophobia is the most honest scare on PSVR.
+The Persistence drops you aboard a doomed ship in near-total darkness, DualShock 4 in hand, with dread built around not seeing what lurks past the next corner. This roguelike horror rebuilds its map on every death, so the layout never stays familiar. The headset makes the close-quarters stalk genuinely tense, and DS4-only controls spare you from needing Move wands. The loop is a grind that rewards persistence, and the claustrophobia ranks among the most honest scares on PSVR.
 
-[Read the full The Persistence review](/games/the-persistence)
 
 ---
+
+[Read the full The Persistence review](/games/the-persistence)
 
 ## #36: A Fisherman's Tale
 
@@ -187,11 +201,12 @@ I woke on the doomed ship in the dark with the DualShock and the dread is purely
 
 <div class="rank-meta">2019 · Native</div>
 
-I reached into the miniature lighthouse inside my own lighthouse and the recursive, nested-world puzzle is the kind of idea only VR can sell — your small model contains a world that contains you. The brain-bending scale flips are the whole game and they land because your hands are literally inside the smaller reality. Short and a little one-note, but as a pure "wait, what" moment it punches above its runtime.
+A Fisherman's Tale builds its puzzle around a lighthouse that contains a smaller lighthouse you reach into, a recursive nested world only VR can sell. Your own small model holds a world that holds you, and the brain-bending scale flips form the entire game. The trick works because your hands sit literally inside the smaller reality. The experience runs short and a little one-note, but as a pure "wait, what" moment it punches well above its runtime.
 
-[Read the full A Fisherman's Tale review](/games/a-fishermans-tale)
 
 ---
+
+[Read the full A Fisherman's Tale review](/games/a-fishermans-tale)
 
 ## #35: XING: The Land Beyond
 
@@ -199,7 +214,8 @@ I reached into the miniature lighthouse inside my own lighthouse and the recursi
 
 <div class="rank-meta">2018 · Native</div>
 
-I walked the Myst-style valleys and solved puzzles by shifting the landscape and the weather with my hands, and the slow, contemplative exploration is the draw rather than any action beat. It's a patient adventure where you manipulate stone and sky to open the next path, and the headset gives the vistas the scale a flat screen flattens. Light on tension, heavy on atmosphere, and a solid quiet corner of the library.
+XING: The Land Beyond sends you through Myst-style valleys where puzzles solve by shifting the landscape and weather with your hands. The draw is slow, contemplative exploration rather than any action beat. You manipulate stone and sky to open the next path, and the headset lends the vistas a scale a flat screen flattens. Light on tension and heavy on atmosphere, it stands as a quiet, patient corner of the PSVR library.
+
 
 ---
 
@@ -209,11 +225,12 @@ I walked the Myst-style valleys and solved puzzles by shifting the landscape and
 
 <div class="rank-meta">2018 · Official Hybrid</div>
 
-I sat in the cockpit when the VR patch dropped and the anti-grav racer finally has the speed it always promised — the track blurs past your visor and the G-forces read as pressure on your gut. The whole Omega Collection runs in VR on the DualShock, and the sense of leaning into a corner at 400kph is the purest arcade rush on the console. It's a mode bolted onto a flat racer, but as a demonstration of VR velocity it's untouchable.
+WipEout Omega Collection is a flat game with VR support bolted on, not a native VR title. The VR patch puts you in the cockpit of an anti-grav racer that delivers the speed it always promised. The track blurs past the visor and the G-forces read as pressure on the gut. The whole Omega Collection runs in VR on the DualShock, and leaning into a corner at 400kph is the purest arcade rush on the console. As a demonstration of VR velocity it remains untouchable.
 
-[Read the full WipEout Omega Collection review](/games/wipeout-omega-collection)
 
 ---
+
+[Read the full WipEout Omega Collection review](/games/wipeout-omega-collection)
 
 ## #33: Fracked
 
@@ -221,11 +238,12 @@ I sat in the cockpit when the VR patch dropped and the anti-grav racer finally h
 
 <div class="rank-meta">2021 · Native</div>
 
-I slid into cover and dual-wielded through nDreams' PSVR-exclusive shooter and the free-running, slide-and-fire loop is the most fun I've had with the Move wands since Blood & Truth. It's a self-aware action romp with skiing sections and a smug villain, and the motion controls make the cover-shooting feel physical rather than menu-driven. A timed exclusive that wears its B-movie heart openly, and the console is better for having it.
+Fracked is nDreams' PSVR-exclusive shooter where you slide into cover and dual-wield through a free-running, slide-and-fire loop. The motion controls make the cover-shooting feel physical rather than menu-driven, and the Move wands deliver the most fun since Blood & Truth. It is a self-aware action romp with skiing sections and a smug villain that wears its B-movie heart openly. A timed exclusive, it earns its place in the library on sheer kinetic confidence.
 
-[Read the full Fracked review](/games/fracked)
 
 ---
+
+[Read the full Fracked review](/games/fracked)
 
 ## #32: L.A. Noire: The VR Case Files
 
@@ -233,7 +251,8 @@ I slid into cover and dual-wielded through nDreams' PSVR-exclusive shooter and t
 
 <div class="rank-meta">2019 · Native</div>
 
-I leaned in to interrogate a suspect face-to-face and the seven rebuilt cases put the original's famous facial capture right in front of me, which is the only reason this exists. You walk crime scenes, dust for prints, and watch witnesses sweat, and the headset makes the lying obvious in a way the TV never did. It's a curated slice of the flat game rather than the whole thing, but as a detective toy it's the best use of VR law enforcement on the system.
+L.A. Noire: The VR Case Files rebuilds seven cases with the original's famous facial capture right in front of you. You lean in to interrogate a suspect face-to-face, walk crime scenes, dust for prints, and watch witnesses sweat. The headset makes the lying obvious in a way a television never did. This is a curated slice of the flat game rather than the whole thing, but as a detective toy it is the best use of VR law enforcement on the system.
+
 
 ---
 
@@ -243,11 +262,12 @@ I leaned in to interrogate a suspect face-to-face and the seven rebuilt cases pu
 
 <div class="rank-meta">2019 · Native</div>
 
-I crouched down to help Louis the cat and the diorama puzzle adventure casts you as a giant ghost reaching into a tiny world, which is the gentle hook. You lift, tug, and solve small problems for the townsfolk and the scale play — being huge over a miniature street — is the quiet joy. It's cozy and undemanding, more a bedtime story than a challenge, but the warmth is earned and it's the softest entry in the mid-list for a reason.
+Ghost Giant is a diorama puzzle adventure that casts you as a giant ghost reaching into a tiny world to help Louis the cat. You lift, tug, and solve small problems for the townsfolk, and the scale play of being huge above a miniature street is the quiet joy. Cozy and undemanding, it plays more like a bedtime story than a challenge. The warmth is earned, which is why it sits as the softest entry in the mid-list.
 
-[Read the full Ghost Giant review](/games/ghost-giant)
 
 ---
+
+[Read the full Ghost Giant review](/games/ghost-giant)
 
 ## #30: Until Dawn: Rush of Blood
 
@@ -255,11 +275,12 @@ I crouched down to help Louis the cat and the diorama puzzle adventure casts you
 
 <div class="rank-meta">2016 · Native</div>
 
-I rode the rollercoaster track on launch day with the Move controllers and the on-rails horror shooter is pure Supermassive panic — you're strapped to a cart while the scares come at you on a fixed path. The jumps are telegraphed but the headset makes the proximity land, and the gunplay is just enough to feel like you're fighting back. It's a spinoff, not the full Until Dawn, but as a launch-window ride it's the most reliable fright on the system.
+Until Dawn: Rush of Blood is an on-rails horror shooter from Supermassive where you ride a rollercoaster-style cart with Move controllers on a fixed path. The scares come at you on rails, and while the jumps are telegraphed, the headset makes the proximity land. The gunplay is just enough to feel like you are fighting back. A spinoff rather than the full Until Dawn, it remains the most reliable fright in the launch window.
 
-[Read the full Until Dawn: Rush of Blood review](/games/until-dawn-rush-of-blood)
 
 ---
+
+[Read the full Until Dawn: Rush of Blood review](/games/until-dawn-rush-of-blood)
 
 ## #29: Song in the Smoke
 
@@ -267,11 +288,12 @@ I rode the rollercoaster track on launch day with the Move controllers and the o
 
 <div class="rank-meta">2021 · Native</div>
 
-I made fire and hunted by hand in 17-BIT's survival crafting game and the loop is the real thing — gather, build, and stay warm in a frozen world that wants you dead. The Move controllers make the tool work tactile and the creature hunts force you to actually plan a kill rather than spray bullets. It's sparse and the UI is rough around the edges, but as a VR survival sim it's the most complete one the console got.
+Song in the Smoke is 17-BIT's VR survival crafting game where you make fire and hunt by hand in a frozen world that wants you dead. The loop is the real thing, gathering, building, and staying warm to survive. Move controllers make the tool work tactile, and creature hunts force you to plan a kill rather than spray bullets. Sparse and rough around the UI edges, it still stands as the most complete VR survival sim the console received.
 
-[Read the full Song in the Smoke review](/games/song-in-the-smoke)
 
 ---
+
+[Read the full Song in the Smoke review](/games/song-in-the-smoke)
 
 ## #28: Sniper Elite VR
 
@@ -279,11 +301,12 @@ I made fire and hunted by hand in 17-BIT's survival crafting game and the loop i
 
 <div class="rank-meta">2021 · Native</div>
 
-I held my breath, lined up the scope, and the slow-mo kill cam on the Aim Controller is the entire reason this exists — sniping built from the ground up for the peripheral, not a flat game with a mode. You plan shots, manage your breath, and the WWII set-pieces reward patience over run-and-gun. It's a focused, single-note experience, but for the Aim Controller crowd it's the purest marksman fantasy on PSVR.
+Sniper Elite VR lives or dies by the slow-mo kill cam on the Aim Controller, which is the entire reason it exists. This is sniping built from the ground up for the peripheral, not a flat game with a mode bolted on. You plan shots, hold your breath, and line up the scope while WWII set-pieces reward patience over run-and-gun. Focused and single-note, it delivers the purest marksman fantasy on PSVR for anyone holding the Aim Controller.
 
-[Read the full Sniper Elite VR review](/games/sniper-elite-vr)
 
 ---
+
+[Read the full Sniper Elite VR review](/games/sniper-elite-vr)
 
 ## #27: Doom 3 VR Edition
 
@@ -291,7 +314,8 @@ I held my breath, lined up the scope, and the slow-mo kill cam on the Aim Contro
 
 <div class="rank-meta">2021 · Native</div>
 
-I picked up the flashlight in one hand and the pistol in the other and the full Doom 3 campaign in VR makes the old flashlight-versus-weapon tension literal — you physically can't light the hall and fire at the same time. It's the complete game, Aim or Move or DualShock, and the corridor dread reads harder when the imp is in your space. A late, generous port that proves the BFG belongs in a headset as much as on a monitor.
+Doom 3 VR Edition drops you into the full campaign with a flashlight in one hand and a pistol in the other, and the old flashlight-versus-weapon tension turns literal because you physically cannot light the hall and fire at once. It is the complete game on Aim, Move, or DualShock, and the corridor dread reads harder when an imp is in your space. A late, generous port, it proves the BFG belongs in a headset as much as on a monitor.
+
 
 ---
 
@@ -301,11 +325,12 @@ I picked up the flashlight in one hand and the pistol in the other and the full 
 
 <div class="rank-meta">2022 · Native</div>
 
-I handled objects across decades in Oddboy and M-Theory's time-travel adventure and the chronology gimmick lands because I'm physically turning the mechanism that moves me through eras. It's one of PSVR's last big showcases, a native build with set-pieces — a falling building, a pod race — that earn their scale. The pacing sags in places and the late stretches are the weakest part, but for a title shipping in 2022 it's a confident send-off for the headset's run.
+Wanderer is Oddboy and M-Theory's time-travel adventure where you handle objects across decades, and the chronology gimmick works because you physically turn the mechanism that moves you through eras. A native build and one of PSVR's last big showcases, it stages set-pieces like a falling building and a pod race that earn their scale. The pacing sags in places and the late stretches are the weakest, but for a title shipping in 2022 it is a confident send-off for the headset's run.
 
-[Read the full Wanderer review](/games/wanderer)
 
 ---
+
+[Read the full Wanderer review](/games/wanderer)
 
 ## #25: Red Matter
 
@@ -313,11 +338,12 @@ I handled objects across decades in Oddboy and M-Theory's time-travel adventure 
 
 <div class="rank-meta">2018 · Native</div>
 
-I walked the abandoned Volgravian base and Vertical Robot's cold-war sci-fi puzzle adventure is the quiet, beautiful sibling to the louder action games on the list. The translation tool and the zero-g moments make the solitude feel designed rather than empty, and the headset sells the cold. It's a slow, thoughtful puzzle game, not a thrill ride, and that restraint is exactly why it sits where it does.
+Vertical Robot's cold-war sci-fi puzzle adventure drops you into the abandoned Volgravian base, where solitude feels designed rather than empty. The translation tool and zero-g moments give that solitude shape, and the headset sells the cold. This is a slow, thoughtful puzzle game built on atmosphere instead of thrills, the quiet, beautiful sibling to the louder action games nearby on the list.
 
-[Read the full Red Matter review](/games/red-matter)
 
 ---
+
+[Read the full Red Matter review](/games/red-matter)
 
 ## #24: Rez Infinite
 
@@ -325,11 +351,12 @@ I walked the abandoned Volgravian base and Vertical Robot's cold-war sci-fi puzz
 
 <div class="rank-meta">2016 · Native</div>
 
-I let the headset become the vector for the audio-visual rush at launch and Rez Infinite is the synesthesia rail shooter that turns music into something you wear. Area X, the free-flight bonus stage, is the standout — no rails, just you and the beat in open space — and the Move controllers make the shooting feel like conducting. It's a remaster with a new idea bolted on, and that idea is the best argument for VR rhythm on the console.
+Rez Infinite is the synesthesia rail shooter that turns music into something you wear. Area X, the free-flight bonus stage, drops the rails for open space where you chase the beat with no track to follow. The Move controllers make every shot feel like conducting the track rather than firing it. This is a 2016 remaster with one new idea bolted on, and that free-flight idea is the strongest argument for VR rhythm on the console.
 
-[Read the full Rez Infinite review](/games/rez-infinite)
 
 ---
+
+[Read the full Rez Infinite review](/games/rez-infinite)
 
 ## #23: Robinson: The Journey
 
@@ -337,11 +364,12 @@ I let the headset become the vector for the audio-visual rush at launch and Rez 
 
 <div class="rank-meta">2016 · Native</div>
 
-I stood under a dinosaur and Crytek's CryEngine showcase is the one that makes scale the entire point — the creatures loom because the headset lets them loom. You explore a crashed planet with a robot companion and the set-pieces are built around looking up, which VR does better than any flat screen. It's light on systems and the walking sections drag, but as a technical postcard from 2016 it still impresses.
+Crytek's CryEngine showcase builds the whole experience around scale. You stand beneath dinosaurs that loom because the headset lets them loom. You explore a crashed planet alongside a robot companion, and the set-pieces are built around looking up, the thing VR does better than any flat screen. The systems are light and the walking sections drag, but as a 2016 technical postcard it still impresses.
 
-[Read the full Robinson: The Journey review](/games/robinson-the-journey)
 
 ---
+
+[Read the full Robinson: The Journey review](/games/robinson-the-journey)
 
 ## #22: Vader Immortal
 
@@ -349,11 +377,12 @@ I stood under a dinosaur and Crytek's CryEngine showcase is the one that makes s
 
 <div class="rank-meta">2020 · Native</div>
 
-I ignited the lightsaber and you should know going in that Vader Immortal is three short episodes, not a full-length game — each is a linear forty-odd minutes of Star Wars VR storytelling from ILMxLAB, bundled onto PSVR in 2020. The dojo, a repeatable lightsaber wave mode, is the part I kept coming back to, and the narrative bits are gorgeous but over quick. Rank it as a polished episodic series and it's a treat; rank it as a game and you'll feel short-changed, so I'm being honest about which one it is.
+Vader Immortal is three short episodes, not a full-length game. ILMxLAB's Star Wars VR storytelling arrived on PSVR in 2020 as a bundled trilogy, each linear stretch running about forty minutes. The dojo, a repeatable lightsaber wave mode, is the part worth returning to, while the narrative beats are gorgeous but over quickly. Rank it as a polished episodic series and it's a treat; expect a campaign and you'll feel short-changed.
 
-[Read the full Vader Immortal review](/games/vader-immortal)
 
 ---
+
+[Read the full Vader Immortal review](/games/vader-immortal)
 
 ## #21: Creed: Rise to Glory
 
@@ -361,7 +390,8 @@ I ignited the lightsaber and you should know going in that Vader Immortal is thr
 
 <div class="rank-meta">2018 · Native</div>
 
-I threw real punches and slipped a jab under the Rocky license and Survios' boxing game is the most physically honest workout on PSVR — your arms tire because your arms are doing the work. The career mode gives you a reason to keep training and the ring presence makes every haymaker land with weight. It's a sports game with a narrow loop, but as a "stand up and move" title it's the best the console offers.
+Survios' boxing game wears the Rocky license and stands as the most physically honest workout on PSVR. Your arms tire because your arms do the work, throwing real punches and slipping jabs in the ring. Career mode gives you a reason to keep training, and the ring presence makes every haymaker land with weight. The loop is narrow for a sports game, but as a stand-up-and-move title it is the best the console offers.
+
 
 ---
 
@@ -371,11 +401,12 @@ I threw real punches and slipped a jab under the Rocky license and Survios' boxi
 
 <div class="rank-meta">2019 · Official Hybrid</div>
 
-I floated in the chair and listened to Justin Roiland's absurdist comedy fire from every direction, and the VR here is a mode on the flat game that puts you as a floating chair-being controlling Trover. The joke density survives the jump and the DualShock chair movement keeps you from getting sick while the world insults you. It's a comedy with a gimmick frame, but the writing carries it and the headset makes the sarcasm land in your ears.
+Trover Saves the Universe is Justin Roiland's absurdist comedy, and its VR mode plants you as a floating chair-being controlling Trover. The joke density survives the jump to VR, and the DualShock chair movement keeps you from getting sick while the world insults you from every direction. The frame is a gimmick wrapped around a comedy, but the writing carries it, and the headset makes the sarcasm land right in your ears.
 
-[Read the full Trover Saves the Universe review](/games/trover-saves-the-universe)
 
 ---
+
+[Read the full Trover Saves the Universe review](/games/trover-saves-the-universe)
 
 ## #19: Doom VFR
 
@@ -383,11 +414,12 @@ I floated in the chair and listened to Justin Roiland's absurdist comedy fire fr
 
 <div class="rank-meta">2017 · Native</div>
 
-I teleport-strafed into a demon's face and id's fast FPS is the arcade take on Doom in VR — you blink around the arena rather than sprint, which keeps the speed brutal without the sickness. The Aim Controller makes the guns feel right in your hands and the hellish corridors read with proper menace. It's a leaner, faster cousin to the flat games, and as a pure locomotion experiment it holds up better than expected.
+id's fast FPS is the arcade take on Doom in VR. You blink around the arena rather than sprint, which keeps the speed brutal without the sickness. The Aim Controller makes the guns feel right in your hands, and the hellish corridors read with proper menace. This is a leaner, faster cousin to the flat games, and as a pure locomotion experiment it holds up better than expected.
 
-[Read the full Doom VFR review](/games/doom-vfr)
 
 ---
+
+[Read the full Doom VFR review](/games/doom-vfr)
 
 ## #18: SUPERHOT VR
 
@@ -395,11 +427,12 @@ I teleport-strafed into a demon's face and id's fast FPS is the arcade take on D
 
 <div class="rank-meta">2017 · Native</div>
 
-I physically leaned to dodge a bullet in slow motion and the "time moves only when you move" rule turns your body into the only clock that matters. The red-and-white minimalism strips away everything but the choreography of your own movement, and the Move controllers make each grab-and-throw a small triumph. It's a short campaign with endless replay in its challenges, and it's the puzzle-box shooter I hand people first.
+The rule that time moves only when you move turns your body into the only clock that matters. Red-and-white minimalism strips away everything but the choreography of your own movement, and the Move controllers make each grab-and-throw a small triumph. The campaign is short, but its challenge modes offer endless replay. It remains the puzzle-box shooter worth handing to newcomers first.
 
-[Read the full SUPERHOT VR review](/games/superhot-vr)
 
 ---
+
+[Read the full SUPERHOT VR review](/games/superhot-vr)
 
 ## #17: Marvel's Iron Man VR
 
@@ -407,7 +440,8 @@ I physically leaned to dodge a bullet in slow motion and the "time moves only wh
 
 <div class="rank-meta">2020 · Native</div>
 
-I put my palms down and flew with repulsor blasts firing from my hands, and Camouflaj's superhero fantasy is the closest PSVR gets to making you feel like a licensed character. The flight model — tilt to steer, thrust to climb — clicks after a session and the dual-Move combat is the reason to keep playing. It's a focused, slightly repetitive campaign, but strapping on the suit and leaving the ground is the headline and it delivers that.
+Camouflaj's superhero fantasy is the closest PSVR gets to making you feel like a licensed character. The flight model, tilt to steer and thrust to climb, clicks after a session, and the dual-Move combat is the reason to keep playing. The campaign is focused and slightly repetitive, but strapping on the suit and leaving the ground is the headline, and it delivers that promise.
+
 
 ---
 
@@ -417,11 +451,12 @@ I put my palms down and flew with repulsor blasts firing from my hands, and Camo
 
 <div class="rank-meta">2019 · Native</div>
 
-I raised my real arm and the golem's arm rose with it, and Highwire's long-delayed motion-control adventure is built entirely around that possession trick. You pilot a stone guardian by mirroring your own limbs, and the PSVR-exclusive quietly does something no other title on the list does with the Move wands. It's uneven and clearly shipped later than planned, but the core idea — your body is the controller — is the most interesting swing in the lower-mid list.
+Highwire's long-delayed motion-control adventure is built entirely around a possession trick. You raise your real arm and the golem's arm rises with it. You pilot a stone guardian by mirroring your own limbs, and the PSVR-exclusive does something no other title on the list does with the Move wands. It is uneven and clearly shipped later than planned, but the core idea, your body as the controller, is the most interesting swing in the lower ranks.
 
-[Read the full Golem review](/games/golem)
 
 ---
+
+[Read the full Golem review](/games/golem)
 
 ## #15: Tetris Effect
 
@@ -429,11 +464,12 @@ I raised my real arm and the golem's arm rose with it, and Highwire's long-delay
 
 <div class="rank-meta">2018 · Official Hybrid</div>
 
-I let the blocks and music wrap around my head and the synesthesia puzzler's VR mode deepens the trance into something closer to meditation than gaming. The zone line clears pulse with the soundtrack and the headset makes the calm total, no screen edges to break it. It's a mode on the flat game, but as a "zone out for an hour" experience it's the most beautiful thing the console renders.
+The synesthesia puzzler's VR mode deepens the trance into something closer to meditation than gaming. You let the blocks and music wrap around your head as line clears pulse with the soundtrack, and the headset makes the calm total, with no screen edges to break it. This is a mode on the flat game, but as a zone-out-for-an-hour experience it is the most beautiful thing the console renders.
 
-[Read the full Tetris Effect review](/games/tetris-effect)
 
 ---
+
+[Read the full Tetris Effect review](/games/tetris-effect)
 
 ## #14: Batman: Arkham VR
 
@@ -441,11 +477,12 @@ I let the blocks and music wrap around my head and the synesthesia puzzler's VR 
 
 <div class="rank-meta">2016 · Native</div>
 
-I put on the cowl and looked in the mirror, and the honest truth is Batman: Arkham VR is roughly an hour long — a launch-window detective experience, not a full game. What's there is gorgeous: the morgue scene and the forensic moments land because you're the one reaching into the evidence, and Rocksteady's craft is obvious in every frame. Treat it as a premium VR vignette and it's essential; treat it as a campaign and you'll be checking your watch, so I'm telling you the length up front.
+Batman: Arkham VR runs roughly an hour, a launch-window detective experience rather than a full game. The morgue scene and the forensic moments land because you are the one reaching into the evidence, and Rocksteady's craft shows in every frame. Treat it as a premium VR vignette and it is essential; expect a campaign and you will be checking your watch.
 
-[Read the full Batman: Arkham VR review](/games/batman-arkham-vr)
 
 ---
+
+[Read the full Batman: Arkham VR review](/games/batman-arkham-vr)
 
 ## #13: Star Wars: Squadrons
 
@@ -453,11 +490,12 @@ I put on the cowl and looked in the mirror, and the honest truth is Batman: Arkh
 
 <div class="rank-meta">2020 · Official Hybrid</div>
 
-I craned my neck over the shoulder in the X-wing and Motive's cockpit starfighter combat is the VR space dogfight the console was missing, and while cross-play spans PS4, PS5 and PC, VR and flat pilots still fly in separate lobbies. The HOTAS or gamepad both work and the headset makes checking your six a real head turn rather than a button. It's a mode on the flat game, but for anyone who ever wanted to fly a TIE fighter with their own eyes, this is the one.
+Motive's cockpit starfighter combat is the VR space dogfight the console was missing. Cross-play spans PS4, PS5, and PC, but VR and flat pilots still fly in separate lobbies. The HOTAS or gamepad both work, and the headset makes checking your six a real head turn rather than a button press. This is a mode on the flat game, but for anyone who wanted to fly a TIE fighter with their own eyes, it is the one.
 
-[Read the full Star Wars: Squadrons review](/games/star-wars-squadrons)
 
 ---
+
+[Read the full Star Wars: Squadrons review](/games/star-wars-squadrons)
 
 ## #12: Pistol Whip
 
@@ -465,11 +503,12 @@ I craned my neck over the shoulder in the X-wing and Motive's cockpit starfighte
 
 <div class="rank-meta">2020 · Native</div>
 
-I physically ducked a bullet line on the beat and Cloudhead's "rhythm violence" is an FPS choreographed to music — you move through the track, shoot on the pulse, and the motion makes the dodging literal. The Move controllers keep both hands in the action and the soundtrack does the pacing for you. It's a tighter, faster cousin to Beat Saber with guns, and on PSVR it's the most replayable arcade shooter in the top tier.
+Cloudhead's "rhythm violence" turns an FPS into a chase choreographed to music. You move down the track, fire on the beat, and the motion controls make dodging a literal duck under the bullet line. The two Move controllers keep both hands in the fight while the soundtrack sets the pacing. It is Beat Saber with guns, only faster and tighter. On PSVR it is the most replayable arcade shooter in the top tier.
 
-[Read the full Pistol Whip review](/games/pistol-whip)
 
 ---
+
+[Read the full Pistol Whip review](/games/pistol-whip)
 
 ## #11: No Man's Sky
 
@@ -477,11 +516,12 @@ I physically ducked a bullet line on the beat and Cloudhead's "rhythm violence" 
 
 <div class="rank-meta">2019 · Official Hybrid</div>
 
-I flew into an atmosphere and landed on a never-seen planet and Hello Games' entire procedural universe drops into VR seamlessly alongside flat players through the Beyond update. The scale of stepping out of your ship onto a living world is the promise VR made in 2016 and No Man's Sky actually keeps it. It's a mode on a game that grew enormously, but as a "stand on another planet" experience it's unmatched on the console.
+Hello Games' entire procedural universe drops into VR through the Beyond update, and flat and headset players share the same worlds seamlessly. Stepping out of the ship onto a living planet delivers the 2016 promise VR made, and No Man's Sky keeps it. It runs as a mode on a game that grew enormously since launch. For the pure "stand on another world" feeling, nothing else on the console matches it.
 
-[Read the full No Man's Sky review](/games/no-mans-sky)
 
 ---
+
+[Read the full No Man's Sky review](/games/no-mans-sky)
 
 ## #10: Dreams
 
@@ -489,11 +529,12 @@ I flew into an atmosphere and landed on a never-seen planet and Hello Games' ent
 
 <div class="rank-meta">2020 · Official Hybrid</div>
 
-I sculpted in 3D space with the headset on and Media Molecule's creation suite became a VR tool the moment the 2020 update landed — you build and play inside the dreams other people make. The headset turns the editor into something you reach into rather than click through, and the community's VR creations are the real gallery. It's a platform wearing a game's clothes, and as the most open-ended thing on PSVR it earns the top ten on possibility alone.
+Media Molecule's creation suite became a VR tool the moment the 2020 update landed. You build and play inside the dreams other people make, and the headset turns the editor into something you reach into rather than click through. The community's VR creations are the real gallery. It is a platform wearing a game's clothes, and as the most open-ended thing on PSVR it earns its top-ten slot on possibility alone.
 
-[Read the full Dreams review](/games/dreams)
 
 ---
+
+[Read the full Dreams review](/games/dreams)
 
 ## #9: Blood & Truth
 
@@ -501,7 +542,8 @@ I sculpted in 3D space with the headset on and Media Molecule's creation suite b
 
 <div class="rank-meta">2019 · Native</div>
 
-I dual-wielded and reloaded with motion in SIE London Studio's gangster action romp and the twin Move wands make every gunfight feel handled rather than aimed. The Cockney spy story is B-movie fun and the set-pieces — a casino shootout, a rooftop chase — are built for the headset. It's a PSVR exclusive that wears its studio polish openly, and it's the best pure action movie the system produced.
+In SIE London Studio's gangster action romp you dual-wield and reload with motion, and the twin Move wands make every gunfight feel handled rather than aimed. The Cockney spy story is B-movie fun, and set-pieces like a casino shootout and a rooftop chase are built for the headset. As a PSVR exclusive it wears its studio polish openly. It is the best pure action movie the system ever produced.
+
 
 ---
 
@@ -511,7 +553,8 @@ I dual-wielded and reloaded with motion in SIE London Studio's gangster action r
 
 <div class="rank-meta">2017 · Official Hybrid</div>
 
-I heard the Baker house footsteps and opened the door myself, and Capcom's full-length AAA horror game in VR is the one that proved the headset could carry a real campaign, not just tech demos. The first-person dread — the mold, the dinner table, the hallway you must walk down — reads harder when it's your hands on the controller. It landed on PSVR weeks ahead of PC, and that head start is why this console owns the scariest night of 2017.
+Capcom's full-length AAA horror game in VR is the title that proved the headset could carry a real campaign instead of tech demos. The first-person dread, the crawling mold, the dinner table, the hallway you must walk down, reads harder when your hands are on the controller. It landed on PSVR weeks ahead of PC, and that head start is why this console owns the scariest night of 2017.
+
 
 ---
 
@@ -521,11 +564,12 @@ I heard the Baker house footsteps and opened the door myself, and Capcom's full-
 
 <div class="rank-meta">2018 · Native</div>
 
-I leaned in close to the mouse and Polyarc's diorama platformer casts you as a giant presence Quill looks up at, which is the trick that makes the whole thing work. The DualShock moves the world's objects while Quill runs the action, and the partnership feels like co-op with a storybook. It's a focused, gorgeous adventure, and as the most charming native platformer on PSVR it sits comfortably in the top ten.
+You lean in close to the tiny mouse, and Polyarc's diorama platformer casts you as a giant presence Quill looks up at, the trick that makes the whole thing work. The DualShock moves the world's objects while Quill runs the action, so the partnership plays like co-op with a storybook. It is a focused, gorgeous adventure, and as the most charming native platformer on PSVR it sits comfortably in the top ten.
 
-[Read the full MOSS review](/games/moss)
 
 ---
+
+[Read the full MOSS review](/games/moss)
 
 ## #6: The Walking Dead: Saints & Sinners
 
@@ -533,7 +577,8 @@ I leaned in close to the mouse and Polyarc's diorama platformer casts you as a g
 
 <div class="rank-meta">2020 · Native</div>
 
-I drove a screwdriver into a walker's skull and felt the resistance, and Skydance's physics-based melee survival is the VR zombie game that finally respects weight — every weapon is a tool you swing, not a stat. The flooded New Orleans is dense and the crafting loop keeps you scrounging, and the "braining" melee is the reason this series matters in a headset. It's a full game with real systems, and on PSVR it's the survival horror to beat.
+You drive a screwdriver into a walker's skull and feel the resistance, and Skydance's physics-based melee survival is the VR zombie game that finally respects weight. Every weapon is a tool you swing, not a stat, and the flooded New Orleans is dense enough to keep you scrounging through its crafting loop. The "braining" melee is the reason this series matters in a headset. It is a full game with real systems, and on PSVR it is the survival horror to beat.
+
 
 ---
 
@@ -543,11 +588,12 @@ I drove a screwdriver into a walker's skull and felt the resistance, and Skydanc
 
 <div class="rank-meta">2017 · Native</div>
 
-I picked up the plastic rifle and the PSVR Aim Controller finally had its game — Impulse Gear's shooter maps the peripheral 1:1 so two-handed aiming feels like holding the real thing. The alien frontier is a competent campaign wrapped around that hardware pitch, and the rifle tracking is the reason the Aim exists at all. It's the showcase that sold the accessory, and as the headset's best argument for a gun in your hands it belongs in the top five.
+The PSVR Aim Controller finally had its game in Farpoint. Impulse Gear's shooter maps the peripheral 1:1, so two-handed aiming feels like holding the real rifle. The alien frontier is a competent campaign wrapped around that hardware pitch, and the rifle tracking is the reason the Aim exists at all. It is the showcase that sold the accessory, and as the headset's best argument for a gun in your hands it belongs in the top five.
 
-[Read the full Far Point review](/games/far-point)
 
 ---
+
+[Read the full Far Point review](/games/far-point)
 
 ## #4: Hitman 3
 
@@ -555,7 +601,8 @@ I picked up the plastic rifle and the PSVR Aim Controller finally had its game �
 
 <div class="rank-meta">2021 · Official Hybrid</div>
 
-I leaned around a corner in Sapienza with a controller in my hands and IO Interactive's trilogy-in-VR is the whole World of Assassination playable in the headset — note it's the PS4 build only, no PS5 VR. The stealth reads differently when you're the one craning to spot the guard, and the flat game's elaborate levels become places you occupy. It's a mode on a flat game, but as the most ambitious VR stealth sandbox on the console it clears the top tier.
+You lean around a corner in Sapienza with a controller in hand, and IO Interactive's trilogy-in-VR puts the whole World of Assassination into the headset, though note this is the PS4 build only, with no PS5 VR. The stealth reads differently when you crane to spot a guard, and the flat game's elaborate levels become places you actually occupy. It is a mode on a flat game, but as the most ambitious VR stealth sandbox on the console it clears the top tier.
+
 
 ---
 
@@ -565,7 +612,8 @@ I leaned around a corner in Sapienza with a controller in my hands and IO Intera
 
 <div class="rank-meta">2017 · Official Hybrid</div>
 
-I stood at real scale in Riverwood with a dragon overhead and Bethesda's full open-world RPG in VR is the single biggest world the headset ever held, and it reached PC only weeks after the console version. The Move or DualShock both work and the head tracking makes the vistas land, even if the port shows its age in the corners. It's a mode on a flat game, but as the "live inside a hundred-hour fantasy" experience PSVR is the only console that delivered it.
+Bethesda's full open-world RPG in VR is the single biggest world the headset ever held, and it reached PC only weeks after the console version. Both the Move and DualShock controllers work, and the head tracking makes the vistas land even where the port shows its age in the corners. It is a mode on a flat game, but as the "live inside a hundred-hour fantasy" experience PSVR is the only console that delivered it.
+
 
 ---
 
@@ -575,11 +623,12 @@ I stood at real scale in Riverwood with a dragon overhead and Bethesda's full op
 
 <div class="rank-meta">2018 · Native</div>
 
-I sliced a block line on the beat with two Move sabers and Beat Games' rhythm game is the one that put PSVR in living rooms that never bought a headset for anything else. The simplicity — watch the block, hit it on time — hides a skill ceiling that kept me coming back for a year, and the song library is the reason it outlasts its launch buzz. It ranks here on ubiquity more than depth, but as the system's default "come try this" demo it's untouchable.
+Beat Games' rhythm game is the one that put PSVR in living rooms that never bought a headset for anything else. The simplicity, watch the block and hit it on time, hides a skill ceiling that keeps players coming back for a year. The song library is the reason it outlasts its launch buzz. It ranks here on ubiquity more than depth, but as the system's default "come try this" demo it is untouchable.
 
-[Read the full Beat Saber review](/games/beat-saber)
 
 ---
+
+[Read the full Beat Saber review](/games/beat-saber)
 
 ## #1: Astro Bot Rescue Mission
 
@@ -587,11 +636,12 @@ I sliced a block line on the beat with two Move sabers and Beat Games' rhythm ga
 
 <div class="rank-meta">2018 · Native</div>
 
-I peered down at the tiny bot and the DualShock appeared in the world as my own tools, and Team Asobi's platformer is the game that understands PSVR better than any other — the headset isn't a camera, it's you, crouching to see under a ledge and leaning to line up a jump. Every level is built around the fact that you're a giant helping a small hero, and the craft is in how naturally that reads. It's the critical high-water mark of the library and the one I'd hand a skeptic first, because it's the argument for the headset in a single disc.
+Team Asobi's platformer understands PSVR better than any other. The DualShock appears as your own tools, and the headset acts as your body, crouching to see under a ledge and leaning to line up a jump. Every level builds around the fact that you are a giant helping a small hero. It is a polished short platformer, a few hours at most, and the craft is in how naturally that reads. The critical high-water mark of the library, the one to hand a skeptic first.
 
 [Read the full Astro Bot Rescue Mission review](/games/astro-bot-rescue-mission)
 
 ---
 
-Fifty games, one headset, and the through-line is clearer now than it was at launch: the library's best isn't the biggest flat game with a VR toggle bolted on, it's the title that treats the headset as the player rather than the screen. Astro Bot sits at #1 because it's the only one that never lets you forget you're inside it, and the hybrid giants below it earn their spots by how completely they occupy the room. The shelf it built is the strongest console VR has shipped — put the headset on and start at the bottom, because the top of this list is worth the climb.
+Fifty games, one headset, and the through-line is clearer now than it was at launch. The best of them isn't the biggest flat game with a VR toggle bolted on. It's the title that treats the headset as the player rather than the screen. Astro Bot takes #1 for the simple reason that it never lets you forget you're inside it, and the hybrid giants beneath it earn their places by how completely they occupy the room.
 
+I've played most of this library more than once, and the honest verdict is that PSVR built the strongest console VR shelf anyone has shipped. Some of these are worth your headset. The ones at the bottom are worth knowing about anyway. If you want the year's cross-platform and mod picks, our [Top 25 VR Games of 2022](/articles/top-25-vr-games-2022) covers that lane.
