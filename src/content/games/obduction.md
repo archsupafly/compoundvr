@@ -3,7 +3,7 @@ title: "Obduction VR"
 description: "Cyan's spiritual successor to Myst was built to be studied up close — and in VR with motion controls, that's exactly what you do."
 flatReleaseDate: "2016-08-24"
 vrReleaseDate: "2016-10-31"
-lastUpdated: "2026-10-04"
+lastUpdated: "2017-03-22"
 featured: false
 routeType: Native VR
 platforms: ['PCVR', 'PSVR']
@@ -33,8 +33,6 @@ sources: "Cyan Worlds official VR platform documentation, Wikipedia (Obduction),
 history:
   - date: "2017-03-22"
     note: "Added HTC Vive and Oculus Touch motion-controller support, completing the defining hands-on VR experience."
-  - date: "2026-10-04"
-    note: "Tier lowered from A to B: the concept is more interesting than the execution delivers, and the headset softens the very detail the game asks you to study."
 ---
 
 I arrive in a desert that shouldn't exist, with a chunk of a 1980s Arizona highway motel planted in the middle of it like someone hit copy-paste on reality and forgot to check the edges. That's Obduction's opening move. On a monitor it's a clever screenshot. In the headset it's a place you're standing in, and the first instinct isn't to solve anything — it's to walk over and put your hands on the thing.
