@@ -1,9 +1,9 @@
 ---
 title: "Ready or Not VR"
 description: "A hardcore tactical SWAT sim rebuilt for room-scale VR, where every breach, reload, and cleared doorway happens with your own hands."
-flatReleaseDate: 2021-12-17
-vrReleaseDate: 2025-11-14
-lastUpdated: 2026-06-15
+flatReleaseDate: 2023-12-13
+vrReleaseDate: 2024-09-10
+lastUpdated: 2025-11-14
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']
@@ -37,8 +37,8 @@ modDownload:
   label: "Download Ready or Not VR Mod"
   note: "Created by KITT and Mike VRO"
 history:
-  - date: 2026-06-15
-    note: "Ready Or Not VRO Mod updated to version 1031."
+  - date: 2025-11-14
+    note: "Ready Or Not VRO Mod released, a standalone VR route that replaces the archived UEVR profile."
 sources: "VR capability and setup facts from PCVR Central (VRO mod catalog, UEVR guide), the VRO mod Nexus Mods page by KITT and Mike VRO, and the Ready or Not Steam Community VR thread. Reception context from VR-mod creator coverage including Beardo Benjo, Nano, Virtual Reality Oasis, and TimelessVR."
 ---
 
