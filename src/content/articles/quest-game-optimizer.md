@@ -2,7 +2,7 @@
 title: "Quest Game Optimizer: How to boost your Quest 3 resolution setup guide"
 description: "I walk through Quest Games Optimizer (QGO) on the Meta Quest 3 — what it changes, how to install it, and the settings I tune first to push standalone games past their default render resolution."
 pubDate: 2023-10-19
-lastUpdated: 2026-10-06
+lastUpdated: 2026-06-30
 history:
   - date: 2024-10-18
     note: "QGO v11.0.0 added Quest 3S support, multi-app actions, and a new performance boost option."
