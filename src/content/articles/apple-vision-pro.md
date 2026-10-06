@@ -1,8 +1,11 @@
 ---
 title: "Apple Vision Pro: Brilliant Hardware, Absurd Math"
 description: "Apple's $3,499 spatial computer ships the best display and passthrough in VR, but it asks you to change how you compute — not how you play. The honest enthusiast verdict."
-pubDate: 2026-10-06
-lastUpdated: 2026-10-06
+pubDate: 2024-02-02
+lastUpdated: 2025-10-15
+history:
+  - date: 2025-10-15
+    note: "Apple announced the M5-powered Vision Pro revision, superseding the M2 launch hardware this guide was written for."
 author: "Ian"
 category: opinion
 heroImage: /images/articles/apple-vision-pro-hero.jpg
