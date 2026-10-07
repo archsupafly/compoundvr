@@ -7,6 +7,7 @@ interface Props {
 }
 
 const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-to-VR games and mods.' } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
@@ -23,6 +24,7 @@ const { title, description = 'CompoundVR catalogs, reviews, and evaluates flat-t
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
