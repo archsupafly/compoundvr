@@ -1,5 +1,5 @@
 ---
-title: "Death Stranding in VR: Walking Across America, Actually Across America"
+title: "Death Stranding in VR"
 description: "A R.E.A.L. VR injection turns Death Stranding Director's Cut into a staggeringly atmospheric hiking sim, but only if you accept gamepad controls, version-specific fragility, and a serious comfort tax."
 flatReleaseDate: 2022-03-30
 vrReleaseDate: 2026-04-15
@@ -38,7 +38,7 @@ history:
 sources: "Luke Ross R.E.A.L. VR framework documentation and current supported-game listing; PCVR Central R.E.A.L. VR and Death Stranding Director's Cut guides (2026); Steam store page for DEATH STRANDING DIRECTOR'S CUT; Wikipedia release data; community compatibility reports."
 ---
 
-# Death Stranding in VR: Walking Across America, Actually Across America
+# Death Stranding in VR
 
 I have never wanted to walk uphill in the rain so badly. Death Stranding in a headset is the closest thing PCVR has to a genuine long-distance hiking sim: cargo on your back, ridges in the distance, and the nagging sense that one wrong step is going to cost you twenty minutes of careful progress. The R.E.A.L. VR injection for Death Stranding Director's Cut does not turn Kojima's traversal epic into a native VR game. It gives you stereoscopic depth, head tracking, and a camera that lets you stand inside the American wasteland. That is enough to make it one of the most memorable open-world experiences you can have in PCVR. It is also enough to make its limitations sting.
 
