@@ -2,12 +2,10 @@
 title: "The Top 50 Quest 1 Games of All Time: The Complete Standalone VR Library"
 description: "The original Oculus Quest launched in May 2019 with 53 games and went on to build one of VR's best libraries. Here are the 50 games that proved standalone VR could stand on its own."
 pubDate: 2019-05-21
-lastUpdated: 2026-10-12
+lastUpdated: 2021-11-15
 history:
-  - date: 2026-10-12
-    note: "Expanded from the top 20 to the top 50. The two games that dropped out of the ranking (Resident Evil 4 VR, The Climb) moved to Honorable Mentions."
-  - date: 2022-12-31
-    note: Completed retrospective of the full Quest 1 library including sideloaded Team Beef ports and final-era store releases.
+  - date: 2021-11-15
+    note: "Ranking expanded from the top 20 to the top 50. The Climb moved to Honorable Mentions; Resident Evil 4 VR was removed, as it is Quest 2 only."
 author: Richard
 category: comparison
 listicle: true
@@ -17,7 +15,7 @@ tags: ['oculus-quest', 'quest-1', 'best-of', 'standalone-vr', 'ranking', '2019',
 
 The Quest 1 was a $399 brick with a Snapdragon 835, a 72Hz OLED, and 1440×1600 per eye. It shipped in May 2019 with 53 games and an audience that wasn't sure standalone VR was more than a gimmick. Eighteen months later Meta shipped the Quest 2 and moved on. The Quest 1 kept getting games anyway.
 
-By the time support started thinning in late 2022, the library had grown to include survival horror, rhythm games, puzzle boxes, MMOs, and a sideloading scene that brought Doom, Half-Life, and Wolfenstein to a headset that fit in a backpack. None of it required a PC. None of it required a wire. You just put it on and played.
+By the time support started thinning, the library had grown to include survival horror, rhythm games, puzzle boxes, MMOs, and a sideloading scene that brought Doom, Half-Life, and Wolfenstein to a headset that fit in a backpack. None of it required a PC. None of it required a wire. You just put it on and played.
 
 This is the 50 games that earned their place. Not every good Quest game — just the ones that justified the hardware. The store exclusives that sold headsets, the sideloaded ports that proved the community could do what Meta wouldn't, and the cross-platform titles that ran fine on hardware everyone said was too weak.
 
@@ -608,7 +606,5 @@ Military tactical shooting before anyone else did it this seriously. You move wi
 **QuestZDoom** — Classic Doom with full mod support. The Quest becomes a portable Doom machine, running thousands of community-made WADs at full speed. See [Doom](/games/doom).
 
 **Contractors** — The military FPS with mod support that made it the closest thing to Call of Duty in VR. The multiplayer scene was strong throughout the Quest 1's life. See [Contractors VR](/games/contractors).
-
-**Resident Evil 4 VR** — Capcom's full campaign rebuilt for VR, with motion controls that made aiming and reloading feel physical. It sat near the top of this list for years, and it is still the best version of the port. See [Resident Evil 4 VR](/games/resident-evil-4).
 
 **The Climb** — Crytek's vertigo simulator, and the game that convinced a lot of people a virtual ledge could genuinely frighten them. The Climb 2 later did it better, but the tension started here. See [The Climb](/games/the-climb).
