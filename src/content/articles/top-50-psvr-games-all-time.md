@@ -30,6 +30,8 @@ Five Nights at Freddy's: Help Wanted is a horror minigame anthology, not a singl
 
 ---
 
+[Read the full Five Nights at Freddy's: Help Wanted review](/games/five-nights-at-freddys-help-wanted)
+
 ## #49: Battlezone
 
 ![Battlezone](/images/games/battlezone-vr-hero.jpg)
@@ -53,6 +55,8 @@ Borderlands 2 VR drops cel-shaded Pandora and the loot-shooter translates better
 
 
 ---
+
+[Read the full Borderlands 2 VR review](/games/borderlands-2)
 
 ## #47: Pixel Ripped 1995
 
@@ -182,6 +186,8 @@ Paper Beast drops your hands into Eric Chahi's paper ecosystem and the creatures
 
 ---
 
+[Read the full Paper Beast review](/games/paper-beasts)
+
 ## #37: The Persistence
 
 ![The Persistence](/images/games/the-persistence-vr-hero.jpg)
@@ -219,6 +225,8 @@ XING: The Land Beyond sends you through Myst-style valleys where puzzles solve b
 
 ---
 
+[Read the full XING: The Land Beyond review](/games/xing)
+
 ## #34: WipEout Omega Collection
 
 ![WipEout Omega Collection](/images/games/wipeout-omega-collection-vr-hero.jpg)
@@ -255,6 +263,8 @@ L.A. Noire: The VR Case Files rebuilds seven cases with the original's famous fa
 
 
 ---
+
+[Read the full L.A. Noire: The VR Case Files review](/games/la-noire)
 
 ## #31: Ghost Giant
 
@@ -395,6 +405,8 @@ Survios' boxing game wears the Rocky license and stands as the most physically h
 
 ---
 
+[Read the full Creed: Rise to Glory review](/games/creed-rise-to-glory)
+
 ## #20: Trover Saves the Universe
 
 ![Trover Saves the Universe](/images/games/trover-saves-the-universe-vr-hero.jpg)
@@ -444,6 +456,8 @@ Camouflaj's superhero fantasy is the closest PSVR gets to making you feel like a
 
 
 ---
+
+[Read the full Marvel's Iron Man VR review](/games/iron-man-vr)
 
 ## #16: Golem
 
@@ -547,6 +561,8 @@ In SIE London Studio's gangster action romp you dual-wield and reload with motio
 
 ---
 
+[Read the full Blood & Truth review](/games/blood-and-truth)
+
 ## #8: Resident Evil 7: Biohazard
 
 ![Resident Evil 7](/images/games/resident-evil-7-vr-hero.jpg)
@@ -557,6 +573,8 @@ Capcom's full-length AAA horror game in VR is the title that proved the headset 
 
 
 ---
+
+[Read the full Resident Evil 7: Biohazard review](/games/resident-evil-7)
 
 ## #7: MOSS
 
@@ -582,6 +600,8 @@ You drive a screwdriver into a walker's skull and feel the resistance, and Skyda
 
 ---
 
+[Read the full The Walking Dead: Saints & Sinners review](/games/the-walking-dead-saints-and-sinners)
+
 ## #5: Farpoint
 
 ![Far Point](/images/games/far-point-vr-hero.jpg)
@@ -606,6 +626,8 @@ You lean around a corner in Sapienza with a controller in hand, and IO Interacti
 
 ---
 
+[Read the full Hitman 3 review](/games/hitman-world-of-assassination-vr)
+
 ## #3: The Elder Scrolls V: Skyrim VR
 
 ![The Elder Scrolls V: Skyrim VR](/images/games/skyrim-vr-vr-hero.jpg)
@@ -616,6 +638,8 @@ Bethesda's full open-world RPG in VR is the single biggest world the headset eve
 
 
 ---
+
+[Read the full The Elder Scrolls V: Skyrim VR review](/games/skyrim)
 
 ## #2: Beat Saber
 
