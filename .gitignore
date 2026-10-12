@@ -47,3 +47,7 @@ site/
 # Hero generation request files (internal workflow)
 *-hero-gen-request.md
 .hero-gen/
+
+# editor/pipeline backups must never ship to the site
+*.bak-*
+*.bak
