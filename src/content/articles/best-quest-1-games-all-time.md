@@ -10,7 +10,7 @@ author: Richard
 category: comparison
 listicle: true
 heroImage: /images/articles/best-quest-1-games-all-time-hero.jpg
-tags: ['oculus-quest', 'quest-1', 'best-of', 'standalone-vr', 'ranking', '2019', '2020', '2021', '2022', 'guide']
+tags: ['oculus-quest', 'quest-1', 'best-of', 'standalone-vr', 'ranking', '2019', '2020', '2021', 'guide']
 ---
 
 The Quest 1 was a $399 brick with a Snapdragon 835, a 72Hz OLED, and 1440×1600 per eye. It shipped in May 2019 with 53 games and an audience that wasn't sure standalone VR was more than a gimmick. Eighteen months later Meta shipped the Quest 2 and moved on. The Quest 1 kept getting games anyway.
@@ -597,8 +597,6 @@ Military tactical shooting before anyone else did it this seriously. You move wi
 
 **Echo VR** — Zero-g multiplayer arena that was essential during the Quest 1's life. The servers are gone now, but for a window in time, Echo VR was the most futuristic multiplayer experience in VR. See [Lone Echo](/games/lone-echo).
 
-**Zenith: The Last City** — The biggest new VR MMO of early 2022. Ramen VR built a world that justified the headset as a social platform, with crafting, combat, and a community that kept players coming back. Quest 1 support ended in September 2023.
-
 **Swarm** — Spider-man meets geometry wars. A 4.83-rated arena shooter that combined grapple-based movement with bullet-hell combat, proving the Quest 1 could handle fast-paced action without compromising on feel.
 
 **QuakeQuest** — Team Beef's native Quake port. The fast-paced, run-and-gun gameplay translates beautifully to VR, and the mod support makes it infinite. See [Quake VR](/games/quake).
@@ -608,3 +606,15 @@ Military tactical shooting before anyone else did it this seriously. You move wi
 **Contractors** — The military FPS with mod support that made it the closest thing to Call of Duty in VR. The multiplayer scene was strong throughout the Quest 1's life. See [Contractors VR](/games/contractors).
 
 **The Climb** — Crytek's vertigo simulator, and the game that convinced a lot of people a virtual ledge could genuinely frighten them. The Climb 2 later did it better, but the tension started here. See [The Climb](/games/the-climb).
+
+**Job Simulator** — Owlchemy's comedy sandbox was the Quest's launch-day proof that room-scale VR could be funny, physical and approachable at once. It is still the game most likely to be someone's first. See [Job Simulator](/games/job-simulator).
+
+**Five Nights at Freddy's: Help Wanted** — The horror anthology that brought Freddy's to VR, gathering the series' best scares into a set of minigames built around the headset. See [Five Nights at Freddy's: Help Wanted](/games/five-nights-at-freddys-help-wanted).
+
+**Synth Riders** — The rhythm game for people who wanted flow rather than slicing. Its synthwave and electro-swing libraries and freeform note-catching made it the Quest's other dance-floor staple. See [Synth Riders](/games/synth-riders).
+
+**Keep Talking and Nobody Explodes** — The asymmetric bomb-defusal party game, and still one of the best reasons to hand someone a headset and a printed manual. See [Keep Talking and Nobody Explodes](/games/keep-talking-and-nobody-explodes).
+
+**Vacation Simulator** — The follow-up to Job Simulator traded the cubicle for a resort and proved the studio's comedy could scale without losing its timing. See [Vacation Simulator](/games/vacation-simulator).
+
+**Pixel Ripped 1989** — The 1980s-set game inside a game, where you play a kid sneaking console time past the adults. The prequel to the 1995 entry in this ranking, and just as inventive. See [Pixel Ripped 1989](/games/pixel-ripped-1989).
