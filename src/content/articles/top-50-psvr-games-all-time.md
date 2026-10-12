@@ -329,6 +329,8 @@ Doom 3 VR Edition drops you into the full campaign with a flashlight in one hand
 
 ---
 
+[Read the full Doom 3 VR Edition review](/games/doom-3-bfg)
+
 ## #26: Wanderer
 
 ![Wanderer](/images/games/wanderer-vr-hero.jpg)
