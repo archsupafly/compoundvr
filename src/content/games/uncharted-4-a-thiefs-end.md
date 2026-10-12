@@ -23,8 +23,8 @@ experienceTags:
   - Third-Person
   - Cinematic
   - Gamepad
-tier: A
-verdict: "The best way to experience Uncharted 4's world if you already own a VR-ready PC — a stunning, stable cinematic conversion that trades physical hands for genuine scale and presence. Skip it if you need to be the one holding the gun."
+tier: B
+verdict: "A strong cinematic way to revisit Uncharted 4's world in VR if you already own a VR-ready PC — stable and full-scale, but still gamepad-only and without a dedicated motion-control mod. Skip it if you need to be the one holding the gun."
 heroImage: /images/games/uncharted-4-a-thiefs-end-vr-hero.jpg
 sources: "Research compiled from PCVR Central's Uncharted Legacy of Thieves R.E.A.L. VR mod page and setup guide, the Luke Ross RVR GitHub releases (framework repository), Helix Mod's REAL VR entry, and independent gameplay coverage across Gamertag VR, Ian's VR Corner (Eurogamer), Mox VR, Stereoscopic Gameplay, and VIRTUAL BRO. Assessment reflects the conversion's documented behavior and coverage standing; no direct hands-on testing performed."
 ---
