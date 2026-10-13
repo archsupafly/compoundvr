@@ -36,9 +36,9 @@ modDownload:
   note: "Created by Batandy"
 sources: "Research conducted via the developer's itch.io page (batandy.itch.io/simonsdestiny), the ZDoom forum thread for Simon's Destiny, the QuestZDoom official site and GitHub (Team-Beef-Studios/QuestZDoom), the GZDoom VR OpenVR repo (hh79/gzdoomvr), the ModDB QuestZDoom addon page, and multiple YouTube VR gameplay videos showing PCVR and Quest play (F guillotine, Pixelacos VR, Johnny 5 Arcade, Sergeant Frosty, Aeon Scholar Games, StoniVR). No direct testing performed; assessment based on documented VR engine ports and gameplay footage."
 relatedPages:
-  - id: castlevania-simons-destiny-quest-guide
+  - id: castlevania-vr-free-quest-guide
     kind: article
-    note: "The step-by-step Quest setup — sideloading QuestZDoom, the free IWAD route, and the caveats."
+    note: "The step-by-step Quest setup: QuestZDoom, the controls, and the fixes."
 
 ---
 

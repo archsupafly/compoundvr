@@ -14,6 +14,7 @@ export default defineConfig({
       '/games/zelda-ii-the-adventure-of-link/',
       '/games/zelda/',
       '/games/zelda-ocarina-of-time/',
+        '/articles/castlevania-simons-destiny-quest-guide/',
     ].includes(new URL(page).pathname),
   })],
 });
