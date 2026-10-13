@@ -23,7 +23,7 @@ technicalTags:
 experienceTags:
   - Presence
   - Training
-tier: B
+tier: C
 verdict: "Tekken 7 in VR is a study tool and spectator seat first, a fighter a distant second — the PSVR mode is a life-size practice dummy, while UEVR on PC finally lets you actually fight in the headset if you're willing to tinker."
 heroImage: /images/games/tekken-7-vr-hero.jpg
 history:
