@@ -34,6 +34,13 @@ tier: B
 verdict: "The definitive VR introduction and a masterclass in physics-based comedy. Short, yes, but nearly a decade of ports and updates prove its design is timeless."
 heroImage: /images/games/job-simulator-vr-hero.jpg
 sources: "Research conducted via Owlchemy Labs official blog and announcements, Wikipedia, Meta Quest Store and Steam store pages, UploadVR coverage (2016–2024), Road to VR, 6DOF Reviews, IGN, and YouTube VR gameplay footage (Nathie, Gamertag VR). No direct testing performed."
+relatedPages:
+  - id: best-quest-1-games-all-time
+    kind: article
+    note: "The complete standalone VR library, ranked."
+  - id: best-psvr-launch-games
+    kind: article
+    note: "Sony's $399 bet on console VR — Job Simulator shipped with the headset."
 ---
 
 On April 5, 2016, HTC Vive shipped to the first wave of consumer pre-orders. Inside the box, alongside the headset, two wands, and a tangle of lighthouse cables, was a code for a game about making photocopies and burning toast. That game was *Job Simulator*. And if you want to understand why early VR evangelists believed hand-tracked controllers were going to change everything, you could do worse than spending twenty minutes in its office level.
