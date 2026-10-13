@@ -31,7 +31,6 @@ vrReleaseDate: 2019-05-01
 relatedPages:
   - id: retro-games-top-10
     kind: article
-    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Doom VR: The Original FPS in Your Hands

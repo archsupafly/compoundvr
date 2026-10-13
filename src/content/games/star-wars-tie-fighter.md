@@ -34,7 +34,6 @@ sources: "Research conducted via TFTC official website (sites.google.com), TFTC 
 relatedPages:
   - id: retro-games-top-10
     kind: article
-    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 The first time you look down in a TIE Fighter cockpit and see your own gloved hands resting on the flight sticks, something clicks. Not the cheap thrill of novelty — something deeper. You understand, suddenly, why Imperial pilots die in such numbers. That viewport is a letterbox slit. The hull around you is eggshell thin. The Rebellion outside isn't a threat — it's a statistical inevitability.

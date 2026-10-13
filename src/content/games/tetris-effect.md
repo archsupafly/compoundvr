@@ -33,7 +33,6 @@ vrReleaseDate: 2018-11-09
 relatedPages:
   - id: retro-games-top-10
     kind: article
-    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Tetris Effect: Connected VR Review

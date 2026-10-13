@@ -40,7 +40,6 @@ sources: "- 3dSen VR Steam Store page and documentation - EmuVR official website
 relatedPages:
   - id: retro-games-top-10
     kind: article
-    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Super Mario Bros. in VR: Gaming's Most Iconic Platformer Reborn in 3D

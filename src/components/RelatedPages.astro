@@ -74,12 +74,22 @@ for (const item of items) {
     continue;
   }
 
-  resolved.push({
+    // Prefer an explicit contextual note. Otherwise fall back to the target
+    // page's own description: it is a real summary, unique per entry, and
+    // keyword-distinct from the title — a note that restates the title adds
+    // nothing and repeats across pages. Trimmed to a single line.
+    const desc = hit.data.description ?? '';
+    const summary =
+      desc.length > 150
+        ? desc.slice(0, 147).replace(/\s+\S*$/, '') + '\u2026'
+        : desc;
+
+    resolved.push({
     href: hitKind === 'game' ? `/games/${item.id}/` : `/articles/${item.id}/`,
     title: hit.data.title,
     image: hit.data.heroImage,
     kind: hitKind,
-    note: item.note,
+    note: item.note || summary,
   });
 }
 

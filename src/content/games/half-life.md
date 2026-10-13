@@ -34,7 +34,6 @@ sources: "- Lambda1VR Official Website — https://www.lambda1vr.com/ - Lambda1V
 relatedPages:
   - id: retro-games-top-10
     kind: article
-    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Half-Life in VR: The Original Masterpiece, Reborn
