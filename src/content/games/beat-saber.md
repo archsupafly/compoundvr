@@ -36,6 +36,18 @@ relatedPages:
   - id: beat-saber-modding-guide
     kind: article
     note: "Custom songs, playlists, and the full mod toolchain — the upgrade that keeps this game alive."
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Where Beat Saber sits among the best rhythm games in VR."
+  - id: top-20-vr-games-2018
+    kind: article
+    note: "The year Beat Saber, Astro Bot and Firewall changed what VR could be."
+  - id: top-50-psvr-games-all-time
+    kind: article
+    note: "The console VR library, ranked — Beat Saber makes the list."
+  - id: best-quest-1-games-all-time
+    kind: article
+    note: "The complete standalone VR library, ranked."
 ---
 
 Here's the thing about Beat Saber: it's not trying to be a world. There's no open landscape to explore, no lore to uncover, no crafting system or dialogue trees or side quests. You stand in a dark void, two glowing sabers materialize in your hands, and blocks fly at your face in time with the music. You slice them. That's it. That's the whole game. And somehow, it's still the best argument for owning a VR headset.

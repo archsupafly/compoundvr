@@ -143,8 +143,9 @@ if (resolved.length === 0) {
     gap: 0.75rem;
   }
 
-  /* Guard against a runaway list: this is a related block, not an index. */
-  .related-page:nth-child(n + 7) {
+  /* Guard against a runaway list: this is a related block, not an index.
+     Cap is 5 per founder instruction (2026-10-12). */
+  .related-page:nth-child(n + 6) {
     display: none;
   }
 
