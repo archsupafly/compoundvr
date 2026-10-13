@@ -41,6 +41,10 @@ heroImage: /images/games/zelda-vr-hero.jpg
 flatReleaseDate: 1986-02-21
 vrReleaseDate: 2018-01-03
 sources: "- 3dSen VR Steam Store page and documentation - 3dSen itch.io devlog (3dSen has supported Zelda since early 2018) - EmuVR official website and installation wiki - Emulation General Wiki 3dSen entry - Real Otaku Gamer 3dSen review highlighting Zelda transformation - RetroRGB coverage of EmuVR features - Flat2VR Discord community knowledge on NES emulation in VR - Steam Community guides for Zelda 100% completion in 3dSen"
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # The Legend of Zelda in VR: The Foundation of Action-Adventures Reborn in 3D

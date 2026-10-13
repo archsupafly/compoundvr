@@ -57,6 +57,10 @@ routes:
     status: Research
     platforms: ['Quest', 'PCVR']
     notes: "Various itch.io and WebVR implementations including NipsApp Pac-Man VR. Not licensed by Namco. Quality varies significantly."
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Pac-Man in VR: The Arcade Icon Finds New Screens

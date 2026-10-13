@@ -30,6 +30,10 @@ verdict: "An exceptional flat-to-VR source port that respects the original while
 heroImage: /images/games/tomb-raider-vr-hero.jpg
 flatReleaseDate: 1996-10-25
 vrReleaseDate: 2023-08-01
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Tomb Raider (1996) — VR Review

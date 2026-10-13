@@ -30,6 +30,10 @@ vrReleaseDate: 2020-03-07
 history:
   - date: 2020-03-07
     note: "Vittorio Romeo publicly released QuakeVR (v0.0.3) — room-scale movement, hand interactions, and melee in the 1996 original."
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Quake VR

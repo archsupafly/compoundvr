@@ -32,6 +32,10 @@ heroImage: /images/games/daggerfall-vr-hero.jpg
 flatReleaseDate: 1996-09-20
 vrReleaseDate: 2020-01-01
 sources: "- DFUVR GitHub Repository (LokiusV/Daggerfall-Unity-VR) — mod documentation and setup instructions - Daggerfall Unity Nexus Mods — DFUVR release page and community discussion - VorpX Forums — Daggerfall Unity compatibility thread and user reports - Flat2VR Discord — community knowledge and support for DFUVR - Daggerfall Unity Official Forums — mod compatibility and installation guides - Reddit r/Daggerfall and r/daggerfallunity — community experiences and troubleshooting"
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Daggerfall in VR: A 1996 RPG Unlocked

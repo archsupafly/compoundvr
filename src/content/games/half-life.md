@@ -31,6 +31,10 @@ heroImage: /images/games/half-life-vr-hero.jpg
 flatReleaseDate: 1998-11-19
 vrReleaseDate: 2019-03-01
 sources: "- Lambda1VR Official Website — https://www.lambda1vr.com/ - Lambda1VR GitHub Repository — https://github.com/Team-Beef-Studios/Lambda1VR - Lambda1VR SideQuest Page — https://sidequestvr.com/app/124/lambda1vr-half-life-vr-meta-quest - Half-Life 2: VR Mod Steam Page — https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/ - Black Mesa Source VR Nexus Mods — https://www.nexusmods.com/halflife2episode2/mods/4 - Mixed News coverage of Black Mesa VR launch (April 2023) - Reddit r/Lambda1VR community documentation"
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Half-Life in VR: The Original Masterpiece, Reborn

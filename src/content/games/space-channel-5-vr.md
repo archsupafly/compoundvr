@@ -21,6 +21,10 @@ verdict: "Successfully translates rhythm gameplay into VR with natural motion co
 heroImage: /images/games/space-channel-5-vr-hero.jpg
 flatReleaseDate: 1999-12-16
 vrReleaseDate: 2020-02-25
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Space Channel 5 VR: Kinda Funky News Flash!

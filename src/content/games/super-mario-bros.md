@@ -37,6 +37,10 @@ heroImage: /images/games/super-mario-bros-vr-hero.jpg
 flatReleaseDate: 1985-09-13
 vrReleaseDate: 2018-08-01
 sources: "- 3dSen VR Steam Store page and documentation - EmuVR official website and installation wiki - 3dSen itch.io devlog and community profiles - SideQuest app listings for Mario fan games - RetroRGB coverage of EmuVR netplay features - YouTube gameplay reviews from Mike Matei, Eurogamer, and UploadVR - Flat2VR Discord community knowledge on NES emulation in VR"
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Super Mario Bros. in VR: Gaming's Most Iconic Platformer Reborn in 3D

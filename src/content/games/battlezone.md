@@ -29,6 +29,10 @@ verdict: "Polished native VR tank combat that succeeds as a technical showcase w
 heroImage: /images/games/battlezone-hero.jpg
 flatReleaseDate: 1980-09-01
 vrReleaseDate: 2016-10-13
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Battlezone VR: The Periscope Legacy Realized

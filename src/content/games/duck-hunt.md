@@ -43,6 +43,10 @@ routes:
     status: Research
     platforms: ['Quest']
     notes: "Quest Store clone. Casual duck shooting, not the NES game."
+relatedPages:
+  - id: retro-games-top-10
+    kind: article
+    note: "Ranked in our Top 10 Retro Games From the 80s & 90s Worth Playing in VR."
 ---
 
 # Duck Hunt in VR: Multiple Paths, One Laughing Dog
