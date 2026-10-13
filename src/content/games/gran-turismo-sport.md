@@ -23,10 +23,20 @@ technicalTags:
 experienceTags:
   - Cockpit Presence
   - Hot Lapping
-tier: B
+tier: C
 verdict: "A genuine cockpit showcase that proves Gran Turismo belongs in VR — but only as a sealed hot-lapping mode. You get the best seat in the house; you don't get the rest of the game."
 heroImage: /images/games/gran-turismo-sport-vr-hero.jpg
 sources: "Research compiled from Wikipedia (release dates, platforms, sales, server shutdown), VRMods-List and PCVR Mods Installer Hub directory sweeps (no mod entry found), YouTube VR Tour gameplay footage (GrimmestGrim, Gamers Instinct, RE4-CITY), and Polyphony Digital / Sony official VR Tour mode documentation."
+relatedPages:
+  - id: best-psvr-launch-games
+    kind: article
+    note: "The PSVR launch lineup that set up everything that followed."
+  - id: wipeout-omega-collection
+    kind: game
+    note: "The other great PSVR racer — and this one gives you the whole game."
+  - id: driveclub
+    kind: game
+    note: "DRIVECLUB VR put a full grid in front of you where GT Sport would not."
 ---
 
 I climbed into the cockpit of the Mercedes F1 W08 at the Nürburgring Nordschleife and the first thing that hit me wasn't the speed — it was the windshield frame. In VR, that carbon-fiber pillar sits exactly where it does in the real car, and when I turned into the karussell I could place the apex over the A-pillar the way you do in an actual race car. That's the moment Gran Turismo Sport's VR stops being a tech demo and becomes something a flat screen never handed me.
@@ -47,4 +57,4 @@ Performance holds up well for a 2017 PSVR title. The headset's 120Hz reprojectio
 
 It's an official VR mode that is genuinely great at what it does and genuinely limited by what it is. It is not a way to play Gran Turismo Sport in VR. It is a way to drive a handful of cars on a handful of tracks with one opponent or no opponent at all, rendered with a conviction the flat game's cockpit cam never matched.
 
-Gran Turismo Sport's VR Tour is the best cockpit you can sit in on PSVR, and the hot laps make the headset worth it — just don't expect to race the full GT Sport in VR. If you want the entire Gran Turismo experience in a headset, that's Gran Turismo 7 on PSVR2, which covers the whole game. For Sport specifically, this is a brilliant bonus mode wearing the name of a much bigger game: absolutely worth a session if you already own the disc and a wheel, but not the reason to buy the game, and not the reason to buy a headset.
+Gran Turismo Sport's VR Tour is the best cockpit you can sit in on PSVR, and the hot laps make the headset worth it — just don't expect to race the full GT Sport in VR. For Sport specifically, this is a brilliant bonus mode wearing the name of a much bigger game: absolutely worth a session if you already own the disc and a wheel, but not the reason to buy the game, and not the reason to buy a headset. If you're weighing the headset itself rather than this one disc, our [best PSVR launch games round-up](/articles/best-psvr-launch-games/) is the better place to start.
