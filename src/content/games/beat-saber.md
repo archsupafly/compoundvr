@@ -32,6 +32,10 @@ tier: S
 verdict: "The rhythm game that sold VR to the world. Two sabers, the beat, and the best full-body workout disguised as entertainment you can find anywhere in VR."
 heroImage: /images/games/beat-saber-vr-hero.jpg
 sources: "Research conducted via Meta Quest Store, Steam store page, PlayStation Store, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), Flat2VR Discord community knowledge, and general industry coverage. No direct testing performed."
+relatedPages:
+  - id: beat-saber-modding-guide
+    kind: article
+    note: "Custom songs, playlists, and the full mod toolchain — the upgrade that keeps this game alive."
 ---
 
 Here's the thing about Beat Saber: it's not trying to be a world. There's no open landscape to explore, no lore to uncover, no crafting system or dialogue trees or side quests. You stand in a dark void, two glowing sabers materialize in your hands, and blocks fly at your face in time with the music. You slice them. That's it. That's the whole game. And somehow, it's still the best argument for owning a VR headset.

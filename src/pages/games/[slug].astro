@@ -164,6 +164,8 @@ function formatNumericDate(date: Date): string {
         </details>
       )}
 
+      <RelatedPages items={game.data.relatedPages} heading="Related articles" />
+
       <div class="eyebrow" style="margin-top:1.5rem;">Updated {game.data.lastUpdated.toISOString().slice(0, 10)}</div>
     </div>
   </section>
