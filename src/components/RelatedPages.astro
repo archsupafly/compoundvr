@@ -74,23 +74,29 @@ for (const item of items) {
     continue;
   }
 
-    // Prefer an explicit contextual note. Otherwise fall back to the target
-    // page's own description: it is a real summary, unique per entry, and
-    // keyword-distinct from the title — a note that restates the title adds
-    // nothing and repeats across pages. Trimmed to a single line.
-    const desc = hit.data.description ?? '';
-    const summary =
-      desc.length > 150
-        ? desc.slice(0, 147).replace(/\s+\S*$/, '') + '\u2026'
-        : desc;
+    // RULE (fixed 2026-10-12, founder directive): the note line is ONE
+    // sentence or 150 characters, whichever is SHORTER.
+    // Explicit contextual note wins; otherwise fall back to the target page's
+    // own `description` — both collections define it, it is unique per entry,
+    // and it is keyword-distinct from the title. Never restate the title.
+    // Applied to explicit notes too, so a hand-written line cannot break it.
+    const makeNote = (text: string) => {
+      const t = text.trim();
+      const sentenceEnd = t.search(/[.!?](\s|$)/);
+      let s = sentenceEnd > -1 ? t.slice(0, sentenceEnd + 1) : t;
+      if (s.length > 150) {
+        s = s.slice(0, 147).replace(/\s+\S*$/, '') + '\u2026';
+      }
+      return s;
+    };
 
     resolved.push({
-    href: hitKind === 'game' ? `/games/${item.id}/` : `/articles/${item.id}/`,
-    title: hit.data.title,
-    image: hit.data.heroImage,
-    kind: hitKind,
-    note: item.note || summary,
-  });
+      href: hitKind === 'game' ? `/games/${item.id}/` : `/articles/${item.id}/`,
+      title: hit.data.title,
+      image: hit.data.heroImage,
+      kind: hitKind,
+      note: makeNote(item.note || hit.data.description || ''),
+    });
 }
 
 if (resolved.length === 0) {
