@@ -34,6 +34,7 @@ const jsonLd = JSON.stringify({
 
 <Layout title={`${article.data.title} — CompoundVR`} description={article.data.description}>
   <section class="container section">
+    <div class="article-content">
     <h1>{article.data.title}</h1>
     <p class="lead">{article.data.description}</p>
     {article.data.heroImage && (
@@ -68,6 +69,7 @@ const jsonLd = JSON.stringify({
         </div>
       </details>
     )
+    </div>
   </section>
 </Layout>
 

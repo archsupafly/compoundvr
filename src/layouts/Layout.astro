@@ -775,6 +775,19 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     overflow-x: auto;
   }
 
+  /* Article column. Mirrors .game-content so article pages centre like game
+     pages instead of pinning the body to the left edge of a 1280px container.
+     Without this the prose sat at max-width:70ch with no auto margins, leaving
+     ~574px of dead space on the right at desktop widths. */
+  .article-content {
+    max-width: 80ch;
+    margin: 0 auto;
+  }
+
+  .article-content article.prose {
+    max-width: 100%;
+  }
+
   article.prose p,
   article.prose li {
     color: var(--text-secondary);
