@@ -1,13 +1,13 @@
 ---
 title: "Tekken 7 in VR: Half a Fighter, Two Ways to Watch"
-description: "Bandai Namco's PS4 VR mode turns Tekken 7 into a life-size training dummy and character viewer — and a UEVR injection on PC finally lets you actually throw hands."
+description: "Bandai Namco's PS4 VR mode turns Tekken 7 into a life-size training dummy and character viewer — and on PC a UEVR injection wraps the flat fighter around your head, gamepad and all."
 flatReleaseDate: 2017-06-02
 vrReleaseDate: 2017-06-02
 lastUpdated: 2024-02
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PSVR', 'PCVR']
-recommendation: Recommended with Caveats
+recommendation: Enthusiasts/Tinkerers Only
 playability: Fully Playable
 setupBurden: Advanced Setup
 inputStyle: Gamepad Preferred
@@ -24,7 +24,7 @@ experienceTags:
   - Presence
   - Training
 tier: C
-verdict: "Tekken 7 in VR is a study tool and spectator seat first, a fighter a distant second — the PSVR mode is a life-size practice dummy, while UEVR on PC finally lets you actually fight in the headset if you're willing to tinker."
+verdict: "Tekken 7's VR is a spectator seat rather than a fighter in a headset. The official PSVR mode is a small experience — a practice dummy and a character viewer — and the UEVR route only wraps a flat, gamepad-driven fighter around your head, which is a poor fit for the medium. Worth a look if you already own the game and want the roster at life size; not a reason to put the headset on."
 heroImage: /images/games/tekken-7-vr-hero.jpg
 history:
   - date: 2024-02
@@ -46,17 +46,17 @@ I don't regret spending an hour in the headset with it. The camera follows with 
 
 The PSVR mode shipped PS4 and PSVR1 only, and it never got ported forward to PSVR2 or anywhere else. But if you're on PC, you have a second door into this game's VR — and it's the one that actually lets you fight.
 
-## The PC route: UEVR finally lets you throw hands
+## The PC route: UEVR puts the flat fighter in your headset
 
 On the Steam version, praydog's UEVR injection works on Tekken 7's Unreal Engine 4 build. Multiple independent gameplay and tutorial videos show it running cleanly in both first-person and third-person, including a 4K hardware test on an RTX 4090 and an i9-13900K, so the rendering overhead isn't the wall here. You inject the profile, pick your camera mode, and you're standing in the stage with 6DOF head tracking while a real match plays out.
 
-This is fuller in-headset play than the PSVR mode ever offered. You're not limited to a non-retaliating dummy — you can actually run sets, watch frames land, and move your head through the space instead of being locked to a fixed viewer. It's still a third-person fighter on a gamepad or fight stick; there are no motion controls and you're not swinging punches. But the gap between "life-size statue you can't fight" and "an actual Tekken match happening around your head" is the difference between a curio and something you'd boot up to drill real matchups.
+This is fuller in-headset play than the PSVR mode ever offered. You're not limited to a non-retaliating dummy — you can actually run sets, watch frames land, and move your head through the space instead of being locked to a fixed viewer. It's still a third-person fighter on a gamepad or fight stick; there are no motion controls and you're not swinging punches. But a match unfolding around your head is still a match watched rather than fought, and gamepad input does nothing to close that distance.
 
 Setup is the honest catch. The standard UEVR flow applies — inject, choose profile and camera — and because Tekken 7's customized UE4 branch predates parts of UEVR's supported range, you should confirm the current profile on the Flat2VR Discord before you sink time into it. That's a tinker-tax, not a broken promise: the videos prove it works, the tutorial exists, and the payoff is a real fighter in VR rather than a museum piece.
 
 ## Who it's actually for
 
-This isn't a headset showcase you'd hand a newcomer. It's for the Tekken diehard who wants to live inside the frames they've been laboring over — the player who'll get a real kick out of standing next to a life-size Kazuya, or running actual sets in the room with their head free to track the stage. The PSVR mode is a free curiosity if you already own the PS4 version; the UEVR route asks for a tinker session but pays it back with the only version of Tekken 7 where you're genuinely fighting in VR.
+This isn't a headset showcase you'd hand a newcomer. It's for the Tekken diehard who wants to live inside the frames they've been laboring over — the player who'll get a real kick out of standing next to a life-size Kazuya, or running actual sets in the room with their head free to track the stage. The PSVR mode is a free curiosity if you already own the PS4 version; the UEVR route asks for a tinker session and hands back a flat fighter seen through a headset, which is a smaller thing than it sounds.
 
-Don't buy Tekken 7 for its VR. Buy it because you want to be in the ring with the cast — and on PC, with a little setup, you finally can be.
+Don't buy Tekken 7 for its VR. Buy it because you want the roster at life size — and go in knowing that on PC you're still playing a flat fighter with a gamepad, not a fighting game built for the headset.
 
