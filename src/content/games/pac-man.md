@@ -208,30 +208,6 @@ For those seeking the arcade experience:
 
 **Multiplayer:** EmuVR supports online multiplayer, allowing friends to visit your virtual room and take turns at the cabinet. The "pass the controller" experience translates naturally to VR.
 
-## Scoring (3dSen VR Route)
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 4/5 — Standard emulator + ROM workflow |
-| **VR Implementation** | 3/5 — Voxel transformation adds presence, not native VR |
-| **Playability** | 4/5 — Full game accessible, NES version differences |
-| **Controls** | 3/5 — Motion controller functional, precision varies |
-| **Comfort** | 5/5 — Static viewpoint, no locomotion |
-| **Performance** | 5/5 — Lightweight, runs on modest hardware |
-| **Stability** | 4/5 — Mature emulator, solid reliability |
-
-## Scoring (EmuVR Route)
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 3/5 — More complex initial configuration |
-| **VR Implementation** | 4/5 — Excellent environment immersion |
-| **Playability** | 4/5 — Full arcade game, authentic code |
-| **Controls** | 3/5 — Depends on configuration |
-| **Comfort** | 5/5 — Static viewpoint, room-scale optional |
-| **Performance** | 4/5 — Modest demands, heavier than 3dSen |
-| **Stability** | 4/5 — Beta software, occasional quirks |
-
 ## The Verdict
 
 **Tier: C — Recommended with Caveats**

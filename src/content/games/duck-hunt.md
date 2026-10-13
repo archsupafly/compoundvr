@@ -140,18 +140,6 @@ Since 3dSen VR is the recommended path for the authentic experience, here's what
 
 **Performance:** Modest requirements (GTX 960 minimum, 970 recommended). The NES wasn't demanding, and 3dSen's transformation is well-optimized.
 
-## Scoring (3dSen VR Route)
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 4/5 — Standard emulator + ROM workflow |
-| **VR Implementation** | 3/5 — Voxel transformation adds presence, not native VR |
-| **Playability** | 4/5 — Full game accessible |
-| **Controls** | 3/5 — Motion controller functional, precision varies |
-| **Comfort** | 5/5 — Static viewpoint, no locomotion |
-| **Performance** | 4/5 — Lightweight, runs on modest hardware |
-| **Stability** | 4/5 — Very Positive Steam rating |
-
 ## The Verdict
 
 **For the NES game:** 3dSen VR is the path. Motion controllers as the Zapper, voxel transformation, the authentic Duck Hunt experience in VR.

@@ -176,18 +176,6 @@ Space combat in VR involves rapid rotation, acceleration changes, and perspectiv
 - Comfort-sensitive VR users who struggle with rotation and acceleration
 - Players who want modern motion-controlled cockpit interaction
 
-## Scoring
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 2/5 — Multi-layer installation, significant configuration required |
-| **VR Implementation** | 4/5 — Strong cockpit presence and head tracking, no motion controls |
-| **Playability** | 5/5 — Complete campaign, all craft, full progression |
-| **Controls** | 3/5 — HOTAS required for best experience, complex configuration |
-| **Comfort** | 3/5 — Space combat intensity, manageable for experienced users |
-| **Performance** | 2/5 — Demanding, requires hardware and tuning |
-| **Stability** | 4/5 — Stable once configured, occasional SteamVR quirks |
-
 ## The Verdict
 
 **Tier: B**

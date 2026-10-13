@@ -108,18 +108,6 @@ Getting FAKK 2 running flat on a modern PC is already a hobbyist exercise. Getti
 - Those unwilling to spend time troubleshooting compatibility before even reaching the VR layer
 - VR newcomers — this will give the wrong impression of what VR can offer
 
-## Scoring
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 1/5 — Modern compatibility patches required, then VorpX on top |
-| **VR Implementation Quality** | 3/5 — Official VorpX profile, likely Geometry 3D, but third-person limits VR presence |
-| **Playability / Completeness** | 3/5 — Campaign completable if you can get it running |
-| **Controls / Input Quality** | 3/5 — Gamepad works fine, but no VR input advantage |
-| **Comfort** | 3/5 — Moderate, third-person helps but platforming causes spikes |
-| **Performance Efficiency** | 4/5 — Lightweight engine, Z3D has modest GPU overhead |
-| **Stability / Reliability** | 2/5 — Compatibility patches introduce fragility |
-
 ## The Verdict
 
 **Tier: D**

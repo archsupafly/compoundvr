@@ -90,18 +90,6 @@ The hex-based mission map suggests strategic depth—do you take the direct rout
 
 The procedural generation creates variety in enemy placement and map layout, but the limited tileset of environments and mission types becomes apparent within a few hours. A successful campaign run takes 6-8 hours, but permadeath means failed runs are common.
 
-## Scoring
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 5/5 — Native VR, frictionless installation |
-| **VR Implementation** | 4/5 — Polished cockpit, solid presence |
-| **Playability** | 3/5 — Full campaign, but repetitive structure |
-| **Controls** | 4/5 — Gamepad refined, no motion support |
-| **Comfort** | 3/5 — Moderate intensity, cockpit helps |
-| **Performance** | 4/5 (PCVR) / 3/5 (PSVR) — Stable, resolution varies |
-| **Stability** | 4/5 — Professional QA, rarely crashes |
-
 ## Who Should Play
 
 **Buy if:**

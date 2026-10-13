@@ -123,6 +123,7 @@ Find your type below and work the list.
 ### Game page
 
 - [ ] Schema fields filled **and consistent with the verdict prose**: `routeType`, `recommendation`, `playability`, `setupBurden`, `comfort`, `performance`, `inputStyle`, `vrReleaseDate`, `platforms`. An empty field is a finding; a field contradicting the body is critical.
+- [ ] **No `## Scoring` table.** Ten pages had one; they were removed on 2026-10-13 and the rule is now enforced. A per-category `/5` table adds nothing the verdict and spec grid don't already carry, the scales ran in inconsistent directions (higher-is-better on most rows, inverted on `Setup Friction`), and no JSON-LD is emitted, so nothing feeds structured data. Score through the schema fields only — `tier`, `recommendation` — never in prose.
 - [ ] No guide intent (install / how-to) absorbed into the page — those live in the linked guide.
 - [ ] `relatedPages` points at this title's guide plus cluster peers.
 - [ ] A reader can tell whether to play within a few paragraphs.

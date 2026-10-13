@@ -90,24 +90,6 @@ That said, the "experimental" label still applies. Users report occasional issue
 
 A note for completeness: American Truck Simulator (ATS) uses the same engine and received VR support in the same update. The implementation is functionally identical. If you've read this review wondering about ATS, the same judgments apply. The only difference is scenery—Nevada highways versus German autobahns—and that distinction matters less in VR than you might expect. The cab experience dominates.
 
-## Scoring
-
-**Setup Friction: 3/5** — The beta branch requirement and launch option knowledge create a barrier. OpenXR support improved this, but it's still not "click and play" for casual users.
-
-**VR Implementation Quality: 4/5** — Excellent spatial presence, proper world scale, and convincing cockpit immersion. Minus one point for the lack of tracked controller support and occasional UI rendering issues.
-
-**Playability / Completeness: 5/5** — Full game access, all content works, multiplayer functional, mod compatible. This is a complete VR implementation, not a limited mode.
-
-**Controls / Input Quality: 3/5** — Excellent with a wheel, functional with a gamepad, non-existent with motion controllers. The gap between ideal and fallback experience is substantial.
-
-**Comfort: 4/5** — Generally very comfortable for seated VR experiences. Performance issues can induce discomfort, but the core design is sound.
-
-**Performance Efficiency: 2/5** — This is the biggest weakness. Demanding on hardware, requires substantial tuning, and may never run as smoothly as users would like given the engine's age and architecture.
-
-**Stability / Reliability: 4/5** — Generally stable once configured. The "experimental" label occasionally shows with minor rendering glitches, but crashes are rare in current versions.
-
-**Recommendation Strength: 4/5**
-
 ## The Bottom Line
 
 Euro Truck Simulator 2 VR is one of the most compelling arguments for VR in the simulation space. The core experience—long-haul trucking across detailed European landscapes—benefits enormously from presence and spatial awareness. If you already own a steering wheel and pedals, this is arguably the definitive way to experience the game.

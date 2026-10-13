@@ -126,19 +126,6 @@ Elite Dangerous offers substantial comfort settings:
 
 **Nausea risk factors:** SRV traversal on rough terrain, combat maneuvering with flight assist off, rapid docking maneuvers.
 
-## Scoring
-
-| Category | Score | Notes |
-|----------|-------|-------|
-| **Setup Friction** | 4/5 | Launcher quirks, account linking issues; stable once running |
-| **VR Implementation Quality** | 4/5 | Cockpit presence exceptional; on-foot flat mode disappointing |
-| **Playability / Completeness** | 3/5 | All ship gameplay supported; on-foot Odyssey content flat-only |
-| **Controls / Input Quality** | 3/5 | HOTAS strongly recommended; VR motion controllers NOT supported |
-| **Comfort** | 4/5 | Good comfort options; ship/SRV movement can cause nausea |
-| **Performance Efficiency** | 2/5 | Very demanding; requires high-end hardware |
-| **Stability / Reliability** | 4/5 | Generally stable; occasional ASW artifacts on Meta headsets |
-| **Recommendation Strength** | 4/5 | Strong recommendation for space sim fans with adequate hardware |
-
 ## The Bottom Line
 
 Elite Dangerous in VR delivers one of the most convincing presence experiences in gaming. The cockpit presence, scale, and head-tracking integration justify the hardware investment for anyone serious about space sims.

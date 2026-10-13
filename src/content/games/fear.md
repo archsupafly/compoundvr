@@ -78,18 +78,6 @@ F.E.A.R. requires some configuration:
 
 Expect 15-30 minutes of configuration before your first session.
 
-## Scoring
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 3/5 — Manageable but requires attention |
-| **VR Implementation Quality** | 4/5 — Strong for injection driver, corridor design helps |
-| **Playability / Completeness** | 4/5 — Full campaign playable |
-| **Controls / Input Quality** | 2/5 — No motion controls, traditional input only |
-| **Comfort** | 3/5 — Horror intensity + injection driver quirks |
-| **Performance Efficiency** | 3/5 — Tuning required, Geometry 3D doubles render load |
-| **Stability / Reliability** | 4/5 — Stable compared to other VorpX titles |
-
 ## The Bottom Line
 
 **Recommend if:**

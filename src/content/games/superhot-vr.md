@@ -119,19 +119,6 @@ Each level is a puzzle with multiple solutions, and self-imposed challenges exte
 
 The VR version is not an "enhanced edition." It is a parallel title built for a different input paradigm. Owners of flat SUPERHOT do not get a discount or free upgrade.
 
-## Scoring
-
-| Category | Score | Notes |
-|----------|-------|-------|
-| **Setup Friction** | 5/5 | Native VR title. Buy, install, play. |
-| **VR Implementation Quality** | 5/5 | Purpose-built for VR. Hand presence, physics, spatial design cohesive. |
-| **Playability / Completeness** | 4/5 | Campaign 1.5-2 hours. Multiple challenge modes unlock after completion. |
-| **Controls / Input Quality** | 4/5 | Excellent on Quest/Touch. PSVR Move tracking has documented issues. |
-| **Comfort** | 4/5 | No artificial locomotion. High physical activity required. |
-| **Performance Efficiency** | 5/5 | Lightweight, stable, runs well even on modest hardware. |
-| **Stability / Reliability** | 5/5 | Polished release. No major bug patterns. |
-| **Recommendation Strength** | 5/5 | Easy recommendation for anyone with compatible VR hardware. |
-
 ## Known Limitations
 
 - **Short campaign:** 2 hours is brief for the price point. Challenge modes extend value, but this is not a long narrative experience.

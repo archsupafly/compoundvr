@@ -118,18 +118,6 @@ The ports include comfort options (vignette settings), but the experience remain
 
 **Quest tuning:** Recommended to set supersampling to 0.9 and force 60Hz refresh rate for stability.
 
-## Scoring
-
-| Category | Score |
-|----------|-------|
-| **Setup Friction** | 3/5 — Sideloading, WAD management, mod load order |
-| **VR Implementation Quality** | 4/5 — Solid 6DoF, sprite limitations authentic but dated |
-| **Playability / Completeness** | 5/5 — Full engine, all games, all mods |
-| **Controls / Input Quality** | 4/5 — Good motion controls, no iron sights without mods |
-| **Comfort** | 4/5 — Fast but well-contained, options available |
-| **Performance Efficiency** | 3/5 — Vanilla fine, mods demand tuning |
-| **Stability / Reliability** | 4/5 — Mature ports, occasional launcher quirks |
-
 ## The Bottom Line
 
 Doom in VR is one of the most complete framework experiences available for classic PC gaming. The combination of full game compatibility, extensive mod support, and competent VR controls makes it a genuinely worthwhile way to revisit the foundational FPS.
