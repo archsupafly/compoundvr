@@ -36,6 +36,20 @@ heroImage: /images/games/castlevania-vr-hero.jpg
 flatReleaseDate: 1986-09-26
 vrReleaseDate: 2018-08-01
 sources: "- 3dSen VR Steam Store page and documentation - 3dSen VR Meta Quest Store page - EmuVR official website and installation documentation - Konami Castlevania NES manual and historical documentation - Flat2VR Discord community knowledge on NES emulation in VR - YouTube gameplay demonstrations from retro VR enthusiasts"
+relatedPages:
+  - id: castlevania-ii-simon-s-quest
+    kind: game
+    note: "Castlevania II in VR: the sequel through the same 3dSen route."
+  - id: castlevania-judgment
+    kind: game
+    note: "Castlevania Judgment: the Wii fighter, running via Dolphin VR."
+  - id: castlevania-simons-destiny
+    kind: game
+    note: "Simon's Destiny: a free first-person rebuild of this game."
+  - id: castlevania-vr-free-quest-guide
+    kind: article
+    note: "How to play Simon's Destiny free on Quest, step by step."
+
 ---
 
 # Castlevania in VR: The Vampire Killer's Dimensional Descent into Dracula's Castle

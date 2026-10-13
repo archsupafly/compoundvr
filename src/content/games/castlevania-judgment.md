@@ -30,6 +30,20 @@ tier: C
 verdict: "Emulator stereo gives Castlevania Judgment a place in your headset, but a fixed third-person camera and no first-person code keep it a spectator experience — only worth it for committed Castlevania fans who already run Dolphin VR."
 heroImage: /images/games/castlevania-judgment-vr-hero.jpg
 sources: "Research conducted via the kenthinson/dolphin-vr fork (github.com/kenthinson/dolphin-vr), Dolphin VR capability statement (dolphinvr.wordpress.com), the iChris4/dolphinXR OpenXR fork (github.com/iChris4/dolphinXR) and its SideQuest build (sidequestvr.com/app/62233/dolphinxr), the r/Dolphin_VR setup guide, the BeyondFlatscreen Dolphin VR hub, the Dolphin wiki game page, and a freshness sweep of YouTube, Reddit (Pullpush), and Tier-1 VR mod lists (VRMods-List, PCVR Mods Installer Hub) which returned zero Judgment-specific VR coverage."
+relatedPages:
+  - id: castlevania
+    kind: game
+    note: "The first Castlevania in VR, via 3dSen VR."
+  - id: castlevania-ii-simon-s-quest
+    kind: game
+    note: "Castlevania II in VR through the same 3dSen route."
+  - id: castlevania-simons-destiny
+    kind: game
+    note: "Simon's Destiny: free first-person Castlevania on Quest."
+  - id: dolphin-vr
+    kind: article
+    note: "Dolphin VR explained: the emulator route this page depends on."
+
 ---
 
 I wanted to love this one on principle. Castlevania Judgment is the franchise's weird arena-fighter spinoff — Eighting of Bloody Roar lineage built it for the Wii in 2008, Koji Igarashi supervised it, and the roster pulls characters across the whole timeline: Simon, Alucard, Dracula, Maria, Cornell, the works. A versus brawler where you square off in arena stages and swing the Wiimote to attack. The kind of deep-cut Castlevania oddity a series obsessive wants to see up close.

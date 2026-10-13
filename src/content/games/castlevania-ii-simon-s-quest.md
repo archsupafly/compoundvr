@@ -34,6 +34,17 @@ tier: "C"
 verdict: "3dSen VR is the only real way to put Castlevania II on a headset, turning it into a charming 3D voxel diorama you can step around. It's comfortable novelty, not a transformed VR experience — great for retro fans, irrelevant for everyone else."
 heroImage: /images/games/castlevania-ii-simon-s-quest-vr-hero.jpg
 sources: "Assessment based on the 3dSen VR Steam store listing, official supported-games thread and showcase video, Geod Studio itch.io/devlog pages, EmuVR about page, Wikipedia and MobyGames release/platform data, and community VR emulator discussions."
+relatedPages:
+  - id: castlevania
+    kind: game
+    note: "The first Castlevania in VR, via 3dSen VR."
+  - id: castlevania-judgment
+    kind: game
+    note: "Castlevania Judgment: the Wii fighter through Dolphin VR."
+  - id: castlevania-simons-destiny
+    kind: game
+    note: "Simon's Destiny: a free first-person rebuild of the original."
+
 ---
 
 The opening village in Castlevania II: Simon's Quest is one of the most miserable starts in NES history. It gets dark, the villagers lie to you, and within five minutes you're lost in a swamp wondering whether you were supposed to jump left or right. But in 3dSen VR, that village looks almost cute. The houses pop out like little wooden blocks. Simon stands there in the center, stiff as always, while you lean in and look around the corner of a building that was never meant to have a corner.

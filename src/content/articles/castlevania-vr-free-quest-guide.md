@@ -18,6 +18,12 @@ tags:
   - troubleshooting
 sources: "Merged from a commissioned technical pass and CompoundVR's own research. Primary sources: batandy.itch.io/simonsdestiny (developer page, standalone-package claim); the ModDB QuestZDoom addon page (Quest-adapted build by Fguillotine); questzdoom.com and the Team Beef QuestZDoom repository (launcher, file paths, control layouts, performance guidance); QuestZDoom contributor performance notes; community reports on 2026 Quest firmware and launcher behaviour. No hands-on benchmarking performed on this run."
 relatedPages:
+  - id: castlevania
+    kind: game
+    note: "The NES original in VR, via 3dSen — a very different route."
+  - id: castlevania-judgment
+    kind: game
+    note: "The Wii fighter on Dolphin VR, for more Castlevania in a headset."
   - id: castlevania-simons-destiny
     kind: game
     note: "The game page: what Simon's Destiny is and how it actually plays in VR."
