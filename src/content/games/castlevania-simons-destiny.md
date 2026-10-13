@@ -35,6 +35,11 @@ modDownload:
   label: "Download Castlevania: Simon's Destiny VR Mod"
   note: "Created by Batandy"
 sources: "Research conducted via the developer's itch.io page (batandy.itch.io/simonsdestiny), the ZDoom forum thread for Simon's Destiny, the QuestZDoom official site and GitHub (Team-Beef-Studios/QuestZDoom), the GZDoom VR OpenVR repo (hh79/gzdoomvr), the ModDB QuestZDoom addon page, and multiple YouTube VR gameplay videos showing PCVR and Quest play (F guillotine, Pixelacos VR, Johnny 5 Arcade, Sergeant Frosty, Aeon Scholar Games, StoniVR). No direct testing performed; assessment based on documented VR engine ports and gameplay footage."
+relatedPages:
+  - id: castlevania-simons-destiny-quest-guide
+    kind: article
+    note: "The step-by-step Quest setup — sideloading QuestZDoom, the free IWAD route, and the caveats."
+
 ---
 
 There's a moment about ten minutes into Castlevania: Simon's Destiny where you're holding the Vampire Killer in one hand, cracking it across a skeleton's ribs in first person, and the side-scroller you remember is gone. You're standing in Castle Dracula's entrance hall, and the whip is actually in your hand. That's the pitch: a free, fan-made, first-person rebuild of the 1986 NES Castlevania, and it plays in VR.

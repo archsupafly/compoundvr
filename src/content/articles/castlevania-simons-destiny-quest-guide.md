@@ -16,6 +16,11 @@ tags:
   - fangame
   - setup-guide
 sources: "batandy.itch.io/simonsdestiny (developer page); questzdoom.com (engine port, install steps, controls, performance); the ModDB QuestZDoom addon page; the r/QuestZDoom build note; the ZDoom forum release thread; Wikipedia Castlevania series facts; YouTube coverage (Johnny 5 Arcade, Pixelacos VR, TechHoller, CrbnBased, F guillotine). No hands-on benchmarking performed"
+relatedPages:
+  - id: castlevania-simons-destiny
+    kind: game
+    note: "The game page: what Simon's Destiny is and how it actually plays in VR."
+
 ---
 
 # How to Play Castlevania on Quest for Free: Simon's Destiny Setup Guide
