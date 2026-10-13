@@ -1,0 +1,199 @@
+---
+/**
+ * RelatedPages.astro — contextual related-links block rendered BELOW the
+ * article/game body, outside `.prose`.
+ *
+ * Why it exists: a link added inside prose forces an edit to published body
+ * copy (a 2018 review should not be rewritten to mention a 2024 guide). This
+ * block keeps the editorial relationship out of the prose entirely.
+ *
+ * Item resolution: each entry references another page by collection id, so the
+ * title and thumbnail are read from the live page rather than retyped here.
+ * Rename the target page and this section follows automatically.
+ *
+ * NOTE ON LINK EQUITY: this must stay an in-body <nav> with real anchors.
+ * Sitewide/footer-style blocks are proven ineffective on this site:
+ * /terms/, /privacy/ and /methodology/ each hold 20 inbound links and have
+ * still never been crawled by Google.
+ */
+import { getCollection } from 'astro:content';
+
+interface RelatedItem {
+  id: string;
+  kind?: 'article' | 'game';
+  /** Optional one-line reason to click. Keep it short — this is not a teaser. */
+  note?: string;
+}
+
+const { items, heading = 'Related' } = Astro.props as {
+  items: RelatedItem[];
+  heading?: string;
+};
+
+if (!items || items.length === 0) {
+  return '';
+}
+
+const [articles, games] = await Promise.all([
+  getCollection('articles'),
+  getCollection('games'),
+]);
+
+type Resolved = {
+  href: string;
+  title: string;
+  image?: string;
+  kind: string;
+  note?: string;
+};
+
+const resolved: Resolved[] = [];
+for (const item of items) {
+  const pools: Array<{ collection: 'article' | 'game'; entries: typeof articles | typeof games }> = [];
+  if (item.kind === 'article') pools.push({ collection: 'article', entries: articles });
+  else if (item.kind === 'game') pools.push({ collection: 'game', entries: games });
+  else {
+    pools.push({ collection: 'article', entries: articles });
+    pools.push({ collection: 'game', entries: games });
+  }
+
+  let hit: (typeof articles)[number] | undefined;
+  let hitKind: 'article' | 'game' = 'article';
+  for (const pool of pools) {
+    hit = (pool.entries as Array<typeof articles[number]>).find((e) => e.id === item.id);
+    if (hit) {
+      hitKind = pool.collection;
+      break;
+    }
+  }
+
+  // Unknown id: skip silently rather than failing the whole page build. A typo
+  // in frontmatter should not take down the site.
+  if (!hit) {
+    console.warn(`[RelatedPages] no ${item.kind ?? 'article|game'} found with id "${item.id}"`);
+    continue;
+  }
+
+  resolved.push({
+    href: hitKind === 'game' ? `/games/${item.id}/` : `/articles/${item.id}/`,
+    title: hit.data.title,
+    image: hit.data.heroImage,
+    kind: hitKind,
+    note: item.note,
+  });
+}
+
+if (resolved.length === 0) {
+  return '';
+}
+---
+
+<nav class="related-pages" aria-label={heading}>
+  <h2 class="related-pages-heading">{heading}</h2>
+  <ul class="related-pages-list">
+    {
+      resolved.map((r) => (
+        <li class="related-page">
+          <a class="related-page-link" href={r.href}>
+            {r.image ? (
+              <img
+                class="related-page-thumb"
+                src={r.image}
+                alt=""
+                loading="lazy"
+                width="96"
+                height="64"
+              />
+            ) : (
+              <span class="related-page-thumb related-page-thumb--empty" aria-hidden="true" />
+            )}
+            <span class="related-page-text">
+              <span class="related-page-title">{r.title}</span>
+              {r.note && <span class="related-page-note">{r.note}</span>}
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  .related-pages {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-default);
+  }
+
+  .related-pages-heading {
+    margin: 0 0 1rem 0;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+  }
+
+  .related-pages-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  /* Guard against a runaway list: this is a related block, not an index. */
+  .related-page:nth-child(n + 7) {
+    display: none;
+  }
+
+  .related-page-link {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    padding: 0.6rem;
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: background 0.15s ease;
+  }
+
+  .related-page-link:hover,
+  .related-page-link:focus-visible {
+    background: var(--surface-secondary);
+  }
+
+  .related-page-thumb {
+    flex: 0 0 auto;
+    width: 64px;
+    height: 44px;
+    object-fit: cover;
+    border-radius: 4px;
+    background: var(--bg-secondary);
+  }
+
+  .related-page-thumb--empty {
+    display: block;
+    border: 1px solid var(--border-default);
+  }
+
+  .related-page-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-width: 0;
+  }
+
+  .related-page-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.35;
+  }
+
+  .related-page-note {
+    font-size: 0.8rem;
+    color: var(--text-tertiary);
+    line-height: 1.4;
+  }
+</style>

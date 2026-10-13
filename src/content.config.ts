@@ -15,6 +15,13 @@ const articles = defineCollection({
     listicle: z.boolean().default(false),
     featured: z.boolean().default(false),
     heroImage: z.string().optional(),
+    // Contextual related links rendered below the body. Editorial only — never
+    // a reason to rewrite prose. See components/RelatedPages.astro.
+    relatedPages: z.array(z.object({
+      id: z.string(),
+      kind: z.enum(['article', 'game']).optional(),
+      note: z.string().max(120).optional(),
+    })).default([]),
     history: z.array(z.object({
       date: z.coerce.date(),
       note: z.string(),
@@ -69,6 +76,13 @@ const games = defineCollection({
       label: z.string().optional(),
       note: z.string().optional(),
     }).optional(),
+    // Same contract as the articles collection; lets a game page point back to
+    // its modding guide without editing body copy.
+    relatedPages: z.array(z.object({
+      id: z.string(),
+      kind: z.enum(['article', 'game']).optional(),
+      note: z.string().max(120).optional(),
+    })).default([]),
     history: z.array(z.object({
       date: z.coerce.date(),
       note: z.string(),
