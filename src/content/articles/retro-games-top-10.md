@@ -26,6 +26,8 @@ We ranked by tier first (S > A > B > C), then by release date within tiers to cr
 
 ## #10: The Elder Scrolls: Daggerfall VR (1996)
 
+![The Elder Scrolls: Daggerfall VR](/images/games/daggerfall-vr-hero.jpg)
+
 <div class="rank-meta">Tier: B | VR Release: 2020</div>
 
 Daggerfall VR via the Daggerfall Unity VR mod (DFUVR) delivers something rare: a genuinely massive open-world RPG with full 6DOF motion controls. Physical sword swinging, spellcasting through hand gestures, and dungeon exploration at true scale transform Bethesda's 1996 cult classic from historical curiosity into a playable VR RPG.
@@ -42,6 +44,8 @@ But for players willing to meet it halfway, this is a singular experience: a spr
 
 ## #9: Battlezone VR (2016)
 
+![Battlezone VR](/images/games/battlezone-hero.jpg)
+
 <div class="rank-meta">Tier: B | VR Release: 2016</div>
 
 Battlezone is the only native VR title on this list, and that distinction matters. Rebellion's 2016 release was built from the ground up for first-generation VR headsets — no injection drivers, no source port workarounds, no file extraction. You buy it, you launch it, you play.
@@ -57,6 +61,8 @@ At its frequent discount prices (often under $10), Battlezone offers solid value
 ---
 
 ## #8: Doom VR (1993)
+
+![Doom VR](/images/games/doom-hero.jpg)
 
 <div class="rank-meta">Tier: B | VR Release: 2019</div>
 
@@ -76,6 +82,8 @@ For VR enthusiasts comfortable with sideloading and file management, Doom VR is 
 
 ## #7: Star Wars: TIE Fighter VR (1994)
 
+![Star Wars: TIE Fighter VR](/images/games/star-wars-tie-fighter-vr-hero.jpg)
+
 <div class="rank-meta">Tier: B | VR Release: 2022</div>
 
 TIE Fighter Total Conversion (TFTC) is a total conversion mod for 1999's X-Wing Alliance that delivers the complete 1994 space sim rebuilt with modern assets and native VR support. All 13 campaigns, every TIE variant, cockpit presence that makes you understand why Imperial pilots die in such numbers.
@@ -88,11 +96,13 @@ Performance is demanding. VR mode requires RTX 3060 Ti minimum, RTX 3070+ recomm
 
 For patient Star Wars fans with HOTAS hardware, this is essential — the definitive way to experience one of gaming's most beloved space sims. For everyone else, the setup friction and performance demands make this enthusiasts-only territory.
 
-[Read the full TIE Fighter VR review](/games/tie-fighter)
+[Read the full TIE Fighter VR review](/games/star-wars-tie-fighter)
 
 ---
 
 ## #6: The Legend of Zelda VR (1986)
+
+![The Legend of Zelda VR](/images/games/zelda-vr-hero.jpg)
 
 <div class="rank-meta">Tier: A | VR Release: 2018</div>
 
@@ -104,11 +114,13 @@ Controls remain gamepad-based — this is not motion-controlled combat. The VR v
 
 The Legend of Zelda remains one of the most perfectly designed games ever created. Its nonlinear exploration, dungeon structure, and sense of discovery established templates that the genre still follows. In 3dSen VR, it becomes something else entirely: the same foundational adventure viewed through a lens that makes its achievements even more apparent.
 
-[Read the full Legend of Zelda VR review](/games/zelda)
+[Read the full Legend of Zelda VR review](/games/legend-of-zelda)
 
 ---
 
 ## #5: Super Mario Bros. VR (1985)
+
+![Super Mario Bros. VR](/images/games/super-mario-bros-vr-hero.jpg)
 
 <div class="rank-meta">Tier: A | VR Release: 2018</div>
 
@@ -126,6 +138,8 @@ For Mario fans who've played the original dozens of times and want to see it dif
 
 ## #4: Tomb Raider VR (1996)
 
+![Tomb Raider VR](/images/games/tomb-raider-vr-hero.jpg)
+
 <div class="rank-meta">Tier: A | VR Release: 2023</div>
 
 BeefRaiderXR by Team Beef is not a traditional mod — it's a complete OpenXR source port of Tomb Raider 1 using the OpenLara engine. This is closer to GZDoom or QuakeSpasm than to a wrapper-based VR mod. The result: a polished, feature-complete port with multiple view modes, full motion controls, and cross-platform support.
@@ -141,6 +155,8 @@ The 1996 game's DNA creates inherent friction that no VR adaptation can fully re
 ---
 
 ## #3: Quake VR (1996)
+
+![Quake VR](/images/games/quake-vr-hero.jpg)
 
 <div class="rank-meta">Tier: A | VR Release: 2021</div>
 
@@ -158,6 +174,8 @@ What keeps Quake from S-tier is accessibility. The breakneck speed and bunny-hop
 
 ## #2: Half-Life VR (1998)
 
+![Half-Life VR](/images/games/half-life-vr-hero.jpg)
+
 <div class="rank-meta">Tier: A | VR Release: 2019</div>
 
 Half-Life enjoys three distinct, actively maintained VR implementations — a luxury that reflects both the game's importance and its technical accessibility. Lambda1VR for Quest, the Half-Life: Source VR Mod for PCVR, and Black Mesa VR for the fan remake each solve the problem differently.
@@ -173,6 +191,8 @@ Half-Life (1998) remains one of the finest first-person shooters ever created. I
 ---
 
 ## #1: Tetris Effect: Connected VR (1984)
+
+![Tetris Effect: Connected VR](/images/games/tetris-effect-vr-hero.jpg)
 
 <div class="rank-meta">Tier: S | VR Release: 2018</div>
 
@@ -197,16 +217,22 @@ For the price of a few lattes, you can experience what may be the definitive for
 These games have original flat releases before 2000 and VR implementations, but the combination of setup friction, limited content, or weaker VR integration keeps them out of the top 10.
 
 ### Duck Hunt VR (1985)
+
+![Duck Hunt VR](/images/games/duck-hunt-hero.jpg)
 The authentic NES experience lives in 3dSen VR — motion controllers as the Zapper, voxel transformation, the laughing dog in 3D. Modern clones on Quest/Steam exist but lack the original's charm. For NES nostalgia, 3dSen is the route. For casual duck shooting without emulator setup, clones may suffice. The core limitation: it's a 1984 light gun game — limited depth even with VR enhancement.
 
 [Read the full Duck Hunt VR review](/games/duck-hunt)
 
 ### Space Channel 5 VR (1999)
+
+![Space Channel 5 VR](/images/games/space-channel-5-vr-hero.jpg)
 The native VR rhythm game successfully translates the Dreamcast classic's "up, down, left, right, chu" gameplay into full-body motion controls. The campy 60s mod aesthetic returns in full force. But the 30-60 minute runtime offers poor value compared to Beat Saber or Pistol Whip. Fans will appreciate the faithful revival; newcomers should wait for a sale below $15. No seated play option limits accessibility.
 
 [Read the full Space Channel 5 VR review](/games/space-channel-5-vr)
 
 ### Pac-Man VR (1980)
+
+![Pac-Man VR](/images/games/pac-man-vr-hero.jpg)
 The most iconic arcade game has multiple VR paths: 3dSen VR for NES authenticity with voxel transformation, EmuVR for arcade cabinet atmosphere, and various unofficial clones. None transform the gameplay, but all preserve the classic experience. The limitation: Pac-Man doesn't gain much from VR presentation beyond novelty. It's still the same maze, same patterns, same appeal — just viewed from a different angle.
 
 [Read the full Pac-Man VR review](/games/pac-man)
