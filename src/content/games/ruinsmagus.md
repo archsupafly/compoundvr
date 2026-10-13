@@ -32,7 +32,7 @@ heroImage: /images/games/ruinsmagus-vr-hero.jpg
 history:
   - date: 2024-09-19
     note: "RUINSMAGUS: Complete launched on PSVR2, bundling the base game with its DLC."
-sources: "Research conducted via the Steam store page, Road to VR review (Quest 2 / SteamVR), UploadVR hands-on and PSVR2 Complete coverage, Virtual Grip Complete review, TryHardGuides platform and date reporting, and YouTube VR coverage (Gamertag VR, Without Parole, A Wolf in VR). No direct testing performed."
+sources: "Research conducted via the Steam store page, Road to VR review (Quest 2 / SteamVR), UploadVR hands-on and PSVR2 Complete coverage, Virtual Grip Complete review, TryHardGuides platform and date reporting, and YouTube VR coverage (Gamertag VR, Without Parole, A Wolf in VR)."
 ---
 
 I spent a weekend in RUINSMAGUS and came away sure of one thing: there is no better feeling in VR right now than opening your palm, winding up, and watching a fireball leave your hand and go exactly where you aimed it. This is a wizard-power fantasy that gets the part that matters — being the one casting, not selecting from a list.

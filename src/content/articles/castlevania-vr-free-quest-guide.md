@@ -16,7 +16,7 @@ tags:
   - fangame
   - setup-guide
   - troubleshooting
-sources: "Merged from a commissioned technical pass and CompoundVR's own research. Primary sources: batandy.itch.io/simonsdestiny (developer page, standalone-package claim); the ModDB QuestZDoom addon page (Quest-adapted build by Fguillotine); questzdoom.com and the Team Beef QuestZDoom repository (launcher, file paths, control layouts, performance guidance); QuestZDoom contributor performance notes; community reports on 2026 Quest firmware and launcher behaviour. No hands-on benchmarking performed on this run."
+sources: "Merged from a commissioned technical pass and CompoundVR's own research. Primary sources: batandy.itch.io/simonsdestiny (developer page, standalone-package claim); the ModDB QuestZDoom addon page (Quest-adapted build by Fguillotine); questzdoom.com and the Team Beef QuestZDoom repository (launcher, file paths, control layouts, performance guidance); QuestZDoom contributor performance notes; community reports on 2026 Quest firmware and launcher behaviour."
 relatedPages:
   - id: castlevania
     kind: game

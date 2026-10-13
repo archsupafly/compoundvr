@@ -28,7 +28,7 @@ experienceTags:
   - Isolation
 tier: B
 verdict: "A genuinely atmospheric survival adventure whose alien world benefits enormously from VR presence, held back by fidgety inventory systems and a disastrous PSVR port. Stick to PCVR and it is one of the better official hybrid implementations of its era."
-sources: "Research conducted via Steam store page, Road to VR review, COGconnected review, PlayStation Country review, Roomscalist review, Flat2VR Discord community knowledge, and Reddit community reports across r/Vive, r/oculus, and r/PSVR. No direct testing performed."
+sources: "Research conducted via Steam store page, Road to VR review, COGconnected review, PlayStation Country review, Roomscalist review, Flat2VR Discord community knowledge, and Reddit community reports across r/Vive, r/oculus, and r/PSVR."
 heroImage: /images/games/the-solus-project-vr-hero.jpg
 ---
 

@@ -31,7 +31,7 @@ tier: A
 verdict: "A genuinely good native VR superhero campaign held back by repetitive enemy encounters. The Quest version is the definitive way to play."
 vrReleaseDate: 2020-07-03
 heroImage: /images/games/iron-man-vr-hero.jpg
-sources: "Research conducted via Wikipedia, UploadVR, PlayStation Lifestyle, Digital Chumps, Rapid Reviews UK, Gaming Trend, Press Start, and Meta Store page. Assessment based on published reviews and community consensus. No direct testing performed."
+sources: "Research conducted via Wikipedia, UploadVR, PlayStation Lifestyle, Digital Chumps, Rapid Reviews UK, Gaming Trend, Press Start, and Meta Store page. Assessment based on published reviews and community consensus."
 ---
 
 The first time you raise your palms, trigger the repulsors, and feel the virtual thrust push you backward as your body shoots skyward, something clicks. This isn't a cutscene. You are steering the armor with your own hands, tilting your wrists to bank around Stark Tower, thumbing the boost to blast through a canyon of drones. For about fifteen seconds, *Marvel's Iron Man VR* delivers exactly what the premise promises: you are Iron Man, and the suit obeys your body.

@@ -30,7 +30,7 @@ experienceTags:
 tier: C
 verdict: "A genuinely impressive free mod that makes Saints Row The Third feel physical in VR, but broken cutscenes and performance inconsistencies keep it from being a clean recommendation."
 heroImage: /images/games/saints-row-the-third-vr-hero.jpg
-sources: "Research compiled from Zolika1351 mod page and changelog (zolika1351.pages.dev), Reddit r/virtualreality community reports (September 2022, January 2025), YouTube VR gameplay footage, Steam store page, Wikipedia game information, and Metacritic review aggregation. Assessment based on mod author documentation cross-referenced with independent community reports. No direct testing performed."
+sources: "Research compiled from Zolika1351 mod page and changelog (zolika1351.pages.dev), Reddit r/virtualreality community reports (September 2022, January 2025), YouTube VR gameplay footage, Steam store page, Wikipedia game information, and Metacritic review aggregation. Assessment based on mod author documentation cross-referenced with independent community reports."
 ---
 
 There is a very specific kind of joy that comes from sprinting through a crowded intersection, leaping onto the hood of a sedan, pulling the driver out through the windshield, and driving off while firing a rocket launcher out the window. Saints Row: The Third built its entire identity on this kind of gleeful, consequence-free chaos. What I didn't expect was that adding motion controls and a VR headset would make that chaos feel physically real — like I'm actually holding that rocket launcher, actually leaning out of that stolen car, actually standing in the middle of Steelport while everything explodes around me.

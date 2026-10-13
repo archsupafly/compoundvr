@@ -28,7 +28,7 @@ experienceTags:
 tier: S
 verdict: "One of the best examples of native VR design in 2019 — compulsively playable, physically demanding, and impossible to put down."
 heroImage: /images/games/pistol-whip-vr-hero.jpg
-sources: "Research conducted via Steam store page, Cloudhead Games official site, IGN review (Nov 2019), UploadVR coverage, Shacknews DICE Awards coverage, The VR Grid, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Steam store page, Cloudhead Games official site, IGN review (Nov 2019), UploadVR coverage, Shacknews DICE Awards coverage, The VR Grid, and YouTube VR gameplay footage."
 ---
 
 The first time the bass drops in Pistol Whip and you instinctively duck under a neon bullet trail, you realize Cloudhead Games has built something that flat screens simply cannot replicate. This is not a shooter with VR support bolted on. It is a shooter that only makes sense inside a headset — a rhythm-action gauntlet where your body becomes the instrument and the gun is just the percussion.

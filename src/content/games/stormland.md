@@ -27,7 +27,7 @@ tier: A
 verdict: "Stormland's movement systems are among the best VR has seen, but shallow combat and a repetitive progression loop make it a fascinating experiment rather than a lasting destination."
 vrReleaseDate: 2019-11-14
 heroImage: /images/games/stormland-vr-hero.jpg
-sources: "Research conducted via official Insomniac Games and Oculus store documentation, YouTube VR gameplay footage (Nathie, VR Grid, Gamertag VR), and retrospective critical coverage from the 2019 launch window. Assessment based on compiled community and critical consensus; no direct testing performed."
+sources: "Research conducted via official Insomniac Games and Oculus store documentation, YouTube VR gameplay footage (Nathie, VR Grid, Gamertag VR), and retrospective critical coverage from the 2019 launch window. Assessment based on compiled community and critical consensus;"
 ---
 
 The first time you boost off a cliff face, catch an updraft, and surf across a bank of storm clouds in Stormland, you understand exactly what Insomniac was chasing. This is not a game about careful teleportation between static nodes, and it is not a seated experience with a gamepad. It is a game about momentum, verticality, and the specific fantasy of moving through an alien landscape like you actually belong there. That feeling — of genuine, unscripted freedom in three dimensions — is the best thing Stormland offers. It is also, unfortunately, about the only thing that fully works.

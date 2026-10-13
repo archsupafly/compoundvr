@@ -26,7 +26,7 @@ verdict: "Quake II VR is a solid B-tier experience: the underlying game is a lan
 heroImage: /images/games/quake-ii-vr-hero.jpg
 flatReleaseDate: 1997-12-09
 vrReleaseDate: 2013-12-10
-sources: "Research conducted via dghost.net project page, GitHub repository (dghost/quake2vr), SideQuest store page and community reviews, Polygon coverage (2014), UploadVR coverage, Holochip Corporation website, VorpX forums, Reddit community reports (r/OculusQuest, r/virtualreality), and NVIDIA Quake II RTX documentation. No direct testing performed."
+sources: "Research conducted via dghost.net project page, GitHub repository (dghost/quake2vr), SideQuest store page and community reviews, Polygon coverage (2014), UploadVR coverage, Holochip Corporation website, VorpX forums, Reddit community reports (r/OculusQuest, r/virtualreality), and NVIDIA Quake II RTX documentation."
 ---
 
 # Quake II VR

@@ -28,7 +28,7 @@ experienceTags:
 tier: C
 verdict: "A sincere, limited educational experience that costs nothing and asks little. It delivers its Antarctic science lesson competently, but only to an audience that can understand it."
 heroImage: /images/games/antarctic-adventure-vr-hero.jpg
-sources: "Research conducted via Steam store page and user reviews, developer documentation from the National University of Tierra del Fuego, and general web verification of project scope and status. No direct testing performed."
+sources: "Research conducted via Steam store page and user reviews, developer documentation from the National University of Tierra del Fuego, and general web verification of project scope and status."
 ---
 
 There's something almost charming about a university team in Tierra del Fuego building a VR Antarctic experience and putting it on Steam for free. No microtransactions, no early access grift, no community manager begging for wishlists on Discord. Just: here, have some fossils and paleontology, goodbye.

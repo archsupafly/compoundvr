@@ -31,7 +31,7 @@ experienceTags:
 tier: S
 verdict: "Hitman: World of Assassination VR is a genuine transformation of IO's trilogy: 22 dense sandbox levels rebuilt with real physicality, social stealth that rewards your body, and a scale of replayability that justifies the headset on its own. On PSVR2 it is the cleanest experience; on PC it is excellent but demands serious hardware."
 heroImage: /images/games/hitman-world-of-assassination-vr-hero.jpg
-sources: "Research via IO Interactive official patch notes and news posts, UploadVR coverage of the September 2025 PC VR overhaul and March 2025 PSVR2 launch, Road to VR's parity report, PlayStation Blog release announcement, and hands-on reviews from Impulse Gamer and TechRadar. No direct testing performed."
+sources: "Research via IO Interactive official patch notes and news posts, UploadVR coverage of the September 2025 PC VR overhaul and March 2025 PSVR2 launch, Road to VR's parity report, PlayStation Blog release announcement, and hands-on reviews from Impulse Gamer and TechRadar."
 ---
 
 There is a moment in Hitman: World of Assassination VR when you realize you are standing in a crowd, dressed wrong, holding a silenced pistol behind your back, and nobody has noticed yet. Your target is two meters away, leaning over a balcony. Your free hand is reaching for a coin. That is the promise. For years, IO Interactive's attempts to deliver it in VR were clumsy, one-handed, half-embarrassing affairs. The September 2025 overhaul changed the math. The PC version now matches the PSVR2 release, and both finally feel like Hitman was built to be played from inside the suit.

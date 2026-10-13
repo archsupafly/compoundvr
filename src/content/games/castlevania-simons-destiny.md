@@ -34,7 +34,7 @@ modDownload:
   url: "https://batandy.itch.io/simonsdestiny"
   label: "Download Castlevania: Simon's Destiny VR Mod"
   note: "Created by Batandy"
-sources: "Research conducted via the developer's itch.io page (batandy.itch.io/simonsdestiny), the ZDoom forum thread for Simon's Destiny, the QuestZDoom official site and GitHub (Team-Beef-Studios/QuestZDoom), the GZDoom VR OpenVR repo (hh79/gzdoomvr), the ModDB QuestZDoom addon page, and multiple YouTube VR gameplay videos showing PCVR and Quest play (F guillotine, Pixelacos VR, Johnny 5 Arcade, Sergeant Frosty, Aeon Scholar Games, StoniVR). No direct testing performed; assessment based on documented VR engine ports and gameplay footage."
+sources: "Research conducted via the developer's itch.io page (batandy.itch.io/simonsdestiny), the ZDoom forum thread for Simon's Destiny, the QuestZDoom official site and GitHub (Team-Beef-Studios/QuestZDoom), the GZDoom VR OpenVR repo (hh79/gzdoomvr), the ModDB QuestZDoom addon page, and multiple YouTube VR gameplay videos showing PCVR and Quest play (F guillotine, Pixelacos VR, Johnny 5 Arcade, Sergeant Frosty, Aeon Scholar Games, StoniVR).; assessment based on documented VR engine ports and gameplay footage."
 relatedPages:
   - id: castlevania
     kind: game

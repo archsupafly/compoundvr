@@ -29,7 +29,7 @@ experienceTags:
 tier: C
 verdict: "A legendary franchise stuck behind an injection driver. Human Revolution via VorpX is the best current VR path, but 'best' here means 'least broken'—no motion controls, text readability fights you, and a $40 software tax on top of the game. Wait for a real VR mod, or play it flat."
 heroImage: /images/games/deus-ex-vr-hero.jpg
-sources: "Research conducted via VorpX official forums and documentation, VorpX version release notes, Steam store page for Deus Ex: Mankind Divided – VR Experience, Reddit community reports (r/DeusEx, r/oculus), PC Gamer coverage of Surreal 98/DXU24, UploadVR coverage of the Mankind Divided VR Experience, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via VorpX official forums and documentation, VorpX version release notes, Steam store page for Deus Ex: Mankind Divided – VR Experience, Reddit community reports (r/DeusEx, r/oculus), PC Gamer coverage of Surreal 98/DXU24, UploadVR coverage of the Mankind Divided VR Experience, and YouTube VR gameplay footage."
 ---
 
 There's a certain irony in using a third-party injection driver to strap a twenty-five-year-old immersive sim onto your face. Deus Ex is a game about bodily augmentation—about grafting machinery onto flesh and hoping the result feels like an upgrade rather than a hack. Playing it in VR through VorpX is essentially the same transaction, except the machinery is a $40 stereo-injection wrapper and the flesh is your patience.

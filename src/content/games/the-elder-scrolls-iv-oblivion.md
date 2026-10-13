@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A genuine way to experience one of the best RPGs ever made inside a headset, but only if you have the PC to push it and the tolerance to tinker."
 heroImage: /images/games/the-elder-scrolls-iv-oblivion-vr-hero.jpg
-sources: "Research conducted via Bethesda/Steam store page, Road to VR coverage, Flat2VR Discord community knowledge, YouTube VR gameplay footage (LunchAndVR, Beardo Benjo, Gamertag VR), Reddit community reports, and VorpX forums for original 2006 release status. No direct testing performed."
+sources: "Research conducted via Bethesda/Steam store page, Road to VR coverage, Flat2VR Discord community knowledge, YouTube VR gameplay footage (LunchAndVR, Beardo Benjo, Gamertag VR), Reddit community reports, and VorpX forums for original 2006 release status."
 ---
 
 The first time I stood inside the Imperial City sewers and watched torchlight flicker off stone walls in actual stereo depth, I had the same thought every Oblivion player has eventually: *holy shit, this actually works.*

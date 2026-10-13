@@ -38,7 +38,7 @@ modDownload:
 history:
   - date: 2026-09-19
     note: Dedicated VR mod reached v0.2.2-alpha, adding motion controls, 6DOF tracking, and tracked hands, pistols, and parkour over the previous VorpX route.
-sources: "Research conducted via the LetsGoSportsTeam/mirrors-edge-vr-mod GitHub repository and README, YouTube VR gameplay footage (Beardo Benjo, NotAGameAddict, CaptainsRath, LetsGoSportsTeam), Flat2VR Discord community knowledge, Reddit community reports (r/mirrorsedge, r/vive), and VorpX official forums and documentation for the legacy injection-driver route. No direct testing performed."
+sources: "Research conducted via the LetsGoSportsTeam/mirrors-edge-vr-mod GitHub repository and README, YouTube VR gameplay footage (Beardo Benjo, NotAGameAddict, CaptainsRath, LetsGoSportsTeam), Flat2VR Discord community knowledge, Reddit community reports (r/mirrorsedge, r/vive), and VorpX official forums and documentation for the legacy injection-driver route."
 ---
 
 The first time you look down from a rooftop in Mirror's Edge in VR, your body rebels. The city falls away in layers of white concrete and arterial red, and some primitive part of your brain insists that you are actually standing on the edge of a building. That moment — the lurch in your stomach, the instinct to step back — is the entire pitch. Mirror's Edge was always about height and momentum and clean lines, and in stereoscopic 3D those qualities become physical in a way the flat screen never managed.

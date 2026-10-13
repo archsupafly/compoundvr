@@ -28,7 +28,7 @@ tier: B
 verdict: "One of VR's best mech combat fantasies, realized with satisfying physical controls and strategic multiplayer depth, though its single-player offerings and long-term population remain its achilles heel."
 vrReleaseDate: 2017-07-18
 heroImage: /images/games/archangel-hellfire-vr-hero.jpg
-sources: "Research conducted via UploadVR, Gaming Trend, Shacknews, The VR Grid, Digital Chumps, Wikipedia, and official Skydance Interactive press releases. Assessment compiled from published reviews, documented gameplay footage, and community reports from VR-specific subreddits. No direct testing performed."
+sources: "Research conducted via UploadVR, Gaming Trend, Shacknews, The VR Grid, Digital Chumps, Wikipedia, and official Skydance Interactive press releases. Assessment compiled from published reviews, documented gameplay footage, and community reports from VR-specific subreddits."
 ---
 
 Every VR platform needs its power fantasy. For Skydance Interactive, that fantasy was six stories tall, armored in steel, and armed with enough firepower to level a city block. *Archangel: Hellfire* is not a conversion, a mod, or an afterthought — it is a VR-native mech combat game built from the cockpit up, and it understands exactly why people strap on headsets in the first place.

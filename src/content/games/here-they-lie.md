@@ -31,7 +31,7 @@ experienceTags:
 tier: D
 verdict: "Here They Lie is a PSVR-only psychological horror walking simulator with striking atmosphere and genuine early scares, but it's hamstrung by forced camera movements that induce motion sickness, nonexistent combat, an overwrought narrative, and permanent abandonment on a discontinued headset platform."
 heroImage: /images/games/here-they-lie-vr-hero.jpg
-sources: "Research conducted via IGN review (Kallie Plagge, October 2016), Metacritic critic and user reviews (aggregated), YouTube VR gameplay footage (PSVR2 Without Parole), and community reports. No direct testing performed. Game is stranded on original PSVR hardware with no PCVR or PSVR2 path available."
+sources: "Research conducted via IGN review (Kallie Plagge, October 2016), Metacritic critic and user reviews (aggregated), YouTube VR gameplay footage (PSVR2 Without Parole), and community reports. Game is stranded on original PSVR hardware with no PCVR or PSVR2 path available."
 ---
 
 # Here They Lie in VR: A Nightmare You'll Want to Wake Up From

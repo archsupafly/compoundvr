@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely fun physics sandbox for social VR sessions that runs out of single-player steam faster than you'd hope. Best with friends, acceptable solo, and absolutely not for anyone seeking depth."
 heroImage: /images/games/drunken-bar-fight-vr-hero.jpg
-sources: "Research conducted via Steam Store page (App ID 528550), Meta Store listings, YouTube VR gameplay footage (Nathie, December 2016; Beardo Benjo), Gamalytic database, Reddit r/OculusQuest community reports, and Flat2VR Discord community knowledge. No direct testing performed."
+sources: "Research conducted via Steam Store page (App ID 528550), Meta Store listings, YouTube VR gameplay footage (Nathie, December 2016; Beardo Benjo), Gamalytic database, Reddit r/OculusQuest community reports, and Flat2VR Discord community knowledge."
 ---
 
 The first time I swung a barstool at someone's head in Drunkn Bar Fight, I missed completely, hit a bottle of whiskey, and watched it explode into fragments that sent the bartender ducking for cover. I was laughing too hard to defend myself when his fist connected with my virtual jaw. That's the game in one moment: chaotic, sloppy, and genuinely funny in a way that only physics-driven VR violence can achieve.

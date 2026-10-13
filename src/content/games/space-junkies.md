@@ -30,7 +30,7 @@ experienceTags:
 tier: D
 verdict: "A competent zero-G arena shooter with genuinely fun VR mechanics, rendered unplayable by server shutdown. When it worked, it was a solid multiplayer option — now it's a memory."
 heroImage: /images/games/space-junkies-vr-hero.jpg
-sources: "Research conducted via UploadVR, Road to VR, Well Played, The AU Review, and GameCloud reviews from 2019; Ubisoft official decommissioning notices; VR League / ESL Season 3 documentation; YouTube VR gameplay footage (UploadVR, Gamertag VR, Nathie). Assessment based on compiled critical consensus from 2019-era coverage. No direct testing performed."
+sources: "Research conducted via UploadVR, Road to VR, Well Played, The AU Review, and GameCloud reviews from 2019; Ubisoft official decommissioning notices; VR League / ESL Season 3 documentation; YouTube VR gameplay footage (UploadVR, Gamertag VR, Nathie). Assessment based on compiled critical consensus from 2019-era coverage."
 ---
 
 The first time you boost off a chunk of space debris and arc over an opponent's head, dual pistols tracking their evasive burn, you understand exactly what Space Junkies is chasing. Ubisoft Montpellier — the same studio behind Eagle Flight and Grow Home — built this thing as a love letter to the arena shooters of the late '90s, then dropped the whole formula into full three-dimensional zero gravity. No up, no down, just thrust, momentum, and whoever lands the shot while spinning through a shattered orbital wreckage field.

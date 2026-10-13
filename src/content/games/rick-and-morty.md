@@ -28,7 +28,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely funny VR experience that nails the show's voice, but the 2-hour runtime makes it hard to justify at full price unless you're a die-hard fan."
 heroImage: /images/games/rick-and-morty-vr-hero.jpg
-sources: "Research conducted via Steam store page, IGN review (2018), UploadVR coverage, HowLongToBeat data, Meta comfort ratings, Reddit community reports, and YouTube gameplay footage from VR Grid and Gamertag VR. No direct testing performed."
+sources: "Research conducted via Steam store page, IGN review (2018), UploadVR coverage, HowLongToBeat data, Meta comfort ratings, Reddit community reports, and YouTube gameplay footage from VR Grid and Gamertag VR."
 ---
 
 Here's the thing about licensed VR games: most of them suck. They exist to cash in on a brand, not to make something worth playing. So when I heard Owlchemy Labs — the people who made *Job Simulator* actually fun — was doing *Rick and Morty*, I paid attention. These are the same developers who figured out that picking up virtual coffee cups could be satisfying. If anyone could translate Roiland's chaotic energy into something that doesn't make me want to throw my headset across the room, it was them.

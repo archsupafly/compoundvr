@@ -30,7 +30,7 @@ experienceTags:
 tier: A
 verdict: "For Star Wars flight sim fans with the patience to wrestle the install, this is the definitive TIE Fighter experience — 150+ missions of cockpit presence that no official release has ever matched."
 heroImage: /images/games/star-wars-tie-fighter-vr-hero.jpg
-sources: "Research conducted via TFTC official website (sites.google.com), TFTC ModDB page and changelog, XWA Upgrade project documentation (xwaupgrade.com), UploadVR coverage (July 2021, October 2025), Ars Technica hands-on impressions (July 2023), GitHub XWAU ddraw_d3d11 VR guide, OpenMR forum community reports, and TFTC Discord community knowledge. No direct testing performed."
+sources: "Research conducted via TFTC official website (sites.google.com), TFTC ModDB page and changelog, XWA Upgrade project documentation (xwaupgrade.com), UploadVR coverage (July 2021, October 2025), Ars Technica hands-on impressions (July 2023), GitHub XWAU ddraw_d3d11 VR guide, OpenMR forum community reports, and TFTC Discord community knowledge."
 relatedPages:
   - id: retro-games-top-10
     kind: article

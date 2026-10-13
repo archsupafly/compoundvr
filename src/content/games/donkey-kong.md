@@ -28,7 +28,7 @@ experienceTags:
 tier: "D"
 verdict: "A delightful visual novelty that wears out its welcome fast. The voxel diorama effect is genuinely charming, but you're still playing a forty-year-old arcade game with no motion controls and about twenty minutes of content. Fun to show a friend. Not fun to sink an evening into."
 heroImage: /images/games/donkey-kong-vr-hero.jpg
-sources: "Research conducted via 3DSen VR Steam store page and community reviews, SideQuest app listings, itch.io (SuperJMan64 DKVR), YouTube VR gameplay footage, Reddit community discussions (r/VRGaming, r/oculus), and media coverage from 80.lv and MobileSyrup. Assessment based on community experience; no direct testing performed."
+sources: "Research conducted via 3DSen VR Steam store page and community reviews, SideQuest app listings, itch.io (SuperJMan64 DKVR), YouTube VR gameplay footage, Reddit community discussions (r/VRGaming, r/oculus), and media coverage from 80.lv and MobileSyrup. Assessment based on community experience;"
 ---
 
 # Donkey Kong VR

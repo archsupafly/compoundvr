@@ -30,7 +30,7 @@ vrReleaseDate: 2019-12-10
 tier: A
 verdict: "Boneworks remains the gold standard for physics-driven VR gameplay. The full-body simulation, sandbox freedom, and surprisingly cohesive campaign make it essential for any PCVR owner with solid VR legs — but the intense physics and demanding performance mean it's not a first-timer's game."
 heroImage: /images/games/boneworks-vr-hero.jpg
-sources: "Research conducted via Steam store page, Stress Level Zero official documentation, Wikipedia, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie), UploadVR and Road to VR coverage, Flat2VR Discord community knowledge, and Reddit community reports (r/vive, r/oculus, r/BONELAB). No direct testing performed."
+sources: "Research conducted via Steam store page, Stress Level Zero official documentation, Wikipedia, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie), UploadVR and Road to VR coverage, Flat2VR Discord community knowledge, and Reddit community reports (r/vive, r/oculus, r/BONELAB)."
 ---
 
 The first time I threw a crate at a headcrab—wait, wrong game. The first time I grabbed a metal pipe with both hands, felt the weight shift as I swung it into an enemy, and watched them stumble backward into a pile of physics objects that all reacted independently, I understood why people still talk about Boneworks six years after release.

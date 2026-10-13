@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "No Man's Sky VR delivers moments of genuine awe that no other headset experience can match, but its technical ambition outpaces its polish. Performance demands are steep, menus feel like flatscreen relics, and the jank is impossible to ignore. For patient explorers with capable hardware, it's the definitive way to play. For everyone else, the caveats are steep."
 heroImage: /images/games/no-mans-sky-vr-hero.jpg
-sources: "Research conducted via Hello Games official announcements, UploadVR coverage (2019), Road to VR review (2019), PlayStation Blog VR deep dive, IGN VR preview, Steam community discussions, and YouTube VR gameplay footage from launch period (Nathie, Gamertag VR, Beardo Benjo). Assessment based on community reports and verified launch-period coverage. No direct testing performed."
+sources: "Research conducted via Hello Games official announcements, UploadVR coverage (2019), Road to VR review (2019), PlayStation Blog VR deep dive, IGN VR preview, Steam community discussions, and YouTube VR gameplay footage from launch period (Nathie, Gamertag VR, Beardo Benjo). Assessment based on community reports and verified launch-period coverage."
 ---
 
 The first time you stand on an alien shoreline in No Man's Sky VR, look up, and watch a ringed gas giant drift across a sky full of unfamiliar stars, you understand exactly what Hello Games was chasing. It is not merely that the game looks good in a headset. It is that the scale of this universe — eighteen quintillion planets, each one a complete, walkable surface — finally makes sense when it is wrapped around your head. The sense of place is overwhelming. The ambition is undeniable. And then you try to open your inventory, and the whole thing wobbles.

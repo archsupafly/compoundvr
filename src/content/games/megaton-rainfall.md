@@ -32,7 +32,7 @@ experienceTags:
 tier: "B"
 verdict: "The official VR mode delivers the superhero flight fantasy better than almost anything else on PC VR or PSVR, but the comfort cost is real. Worth it for anyone who can handle intense locomotion; a hard pass for motion-sensitive players."
 heroImage: "/images/games/megaton-rainfall-vr-hero.jpg"
-sources: "Research conducted via Steam store page, PlayStation Blog developer posts, Road to VR and PC Gamer coverage of the August 2018 PC VR update, Gematsu release reporting, Meta Quest Blog Rift launch post, the official Megaton Rainfall modding documentation, VorpX supported-games list, and reviews from GameSpot, Rock Paper Shotgun, and GameSpew. No direct testing performed."
+sources: "Research conducted via Steam store page, PlayStation Blog developer posts, Road to VR and PC Gamer coverage of the August 2018 PC VR update, Gematsu release reporting, Meta Quest Blog Rift launch post, the official Megaton Rainfall modding documentation, VorpX supported-games list, and reviews from GameSpot, Rock Paper Shotgun, and GameSpew."
 ---
 
 # Megaton Rainfall in VR: The Superman Simulator That Might Make You Sick

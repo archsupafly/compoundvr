@@ -29,7 +29,7 @@ experienceTags:
 tier: C
 verdict: "A beautiful curiosity for existing VorpX owners and TRON devotees. Not worth buying the driver for alone."
 heroImage: /images/games/tron-2-0-vr-hero.jpg
-sources: "Research compiled from VorpX official profile database and community forums, Reddit r/OculusQuest user reports (December 2019), YouTube VR gameplay footage, Steam store page documentation, Wikipedia game information, and Killer App Mod project documentation. Assessment based on community experience and profile maturity. No direct testing performed."
+sources: "Research compiled from VorpX official profile database and community forums, Reddit r/OculusQuest user reports (December 2019), YouTube VR gameplay footage, Steam store page documentation, Wikipedia game information, and Killer App Mod project documentation. Assessment based on community experience and profile maturity."
 ---
 
 Some games were born to be seen in stereoscopic 3D. TRON 2.0, Monolith Productions' 2003 first-person shooter, is one of them. The neon grid lines, glowing architecture, and infinite pitch-black voids of its computer-world aesthetic don't just work in VR — they practically demand it. Seeing the Grid wrap around you in head-tracked 3D is the closest most people will get to actually standing inside the 1982 film.

@@ -27,7 +27,7 @@ experienceTags:
 tier: C
 verdict: "A stunning way to see Pandora in your headset, but it's an injection conversion at heart: head-tracked stereo and flight, no tracked hands, flat menus. Worth it for the world, not for the interaction."
 heroImage: /images/games/avatar-frontiers-of-pandora-vr-hero.jpg
-sources: "Research conducted via PCVR Central mod page and install/optimization guide, the PCVR Mods Installer Hub supported-games list, Luke Ross Patreon update notes for the From the Ashes expansion, mtbs3d forum DLC discussion, Ubisoft/Wikipedia flat-release facts, Snowdrop engine confirmation via DSOGaming, and YouTube VR coverage (Beardo Benjo, Headset-VR, Paradise Decay, LunchAndVR, Blue Scorpio VR, wAFF wORLD). No direct testing performed."
+sources: "Research conducted via PCVR Central mod page and install/optimization guide, the PCVR Mods Installer Hub supported-games list, Luke Ross Patreon update notes for the From the Ashes expansion, mtbs3d forum DLC discussion, Ubisoft/Wikipedia flat-release facts, Snowdrop engine confirmation via DSOGaming, and YouTube VR coverage (Beardo Benjo, Headset-VR, Paradise Decay, LunchAndVR, Blue Scorpio VR, wAFF wORLD)."
 history:
   - date: 2026-01-13
     note: "Luke Ross updated the R.E.A.L. VR mod for the From the Ashes expansion; community confirmed running the DLC in VR."

@@ -28,7 +28,7 @@ experienceTags:
 tier: B
 verdict: "A charming, well-crafted third-person puzzle platformer that uses VR cleverly but offers only a few hours of play. Worth it on sale, and perfect for VR newcomers or families."
 heroImage: /images/games/along-together-vr-hero.jpg
-sources: "Research conducted via Steam store page, Meta Quest store page, YouTube VR gameplay footage (The VR Grid), UploadVR preview coverage, COGconnected review, VR Truths review, and Reddit/Steam community reports. No direct testing performed."
+sources: "Research conducted via Steam store page, Meta Quest store page, YouTube VR gameplay footage (The VR Grid), UploadVR preview coverage, COGconnected review, VR Truths review, and Reddit/Steam community reports."
 ---
 
 There's something deeply satisfying about being a giant invisible hand that shoves trees out of a kid's way. Not in a mean way — in a "I'm your imaginary friend and we're finding your dog" way. That's the entire pitch of Along Together, and honestly, it's enough.

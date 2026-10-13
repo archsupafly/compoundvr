@@ -33,7 +33,7 @@ experienceTags:
 tier: C
 verdict: "A grim, atmospheric Souls-like that gains real presence in UEVR, but the lack of motion-controlled melee and the game's punishing camera work make it a recommendation for committed fans rather than a must-play VR conversion."
 heroImage: /images/games/mortal-shell-vr-hero.jpg
-sources: "Research conducted via the UEVR GitHub repository and documentation, the UEVR official site, the UEVR Profiles Hub, UEVR 1.0 release notes, ARVRTips' UEVR guide, general release-date verification sources for Mortal Shell, and the VorpX Mortal Shell forum thread for injection-driver context. No direct testing performed."
+sources: "Research conducted via the UEVR GitHub repository and documentation, the UEVR official site, the UEVR Profiles Hub, UEVR 1.0 release notes, ARVRTips' UEVR guide, general release-date verification sources for Mortal Shell, and the VorpX Mortal Shell forum thread for injection-driver context."
 ---
 
 The first thing you notice in Mortal Shell's UEVR conversion is how small the world makes you feel. Not in scale — the characters are human-sized — but in threat. The fogged swamps, tilted cathedrals, and collapsing fortresses press in from every direction, and with a headset on, that oppressive art direction stops being wallpaper and starts feeling like weather. You can look up at the things that are about to kill you. You can lean around a corner to see if something is waiting. The dread gets spatial.

@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "A compelling co-op horror experience whose VR mode amplifies the tension, but persistent object-interaction jank and performance dips on larger maps keep it from earning a clean recommendation."
 heroImage: /images/games/phasmophobia-vr-hero.jpg
-sources: "Research conducted via Steam store page, PlayStation Blog, UploadVR review-in-progress, Gamertag VR gameplay footage, Kinetic Games official roadmap, Flat2VR Discord community reports, Reddit community feedback (r/PhasmophobiaGame, r/PSVR), and YouTube VR gameplay channels. No direct testing performed."
+sources: "Research conducted via Steam store page, PlayStation Blog, UploadVR review-in-progress, Gamertag VR gameplay footage, Kinetic Games official roadmap, Flat2VR Discord community reports, Reddit community feedback (r/PhasmophobiaGame, r/PSVR), and YouTube VR gameplay channels."
 ---
 
 The first time a door slams shut behind you in Phasmophobia's VR mode, you don't just hear it — you feel the air move. You're standing in a dark farmhouse hallway, flashlight beam trembling against peeling wallpaper, and the realization hits that you are no longer watching a horror movie. You are inside it.

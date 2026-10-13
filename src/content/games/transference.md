@@ -33,7 +33,7 @@ vrReleaseDate: "2018-09-18"
 flatReleaseDate: "2018-09-18"
 verdict: "A genuinely unsettling psychological thriller that uses VR's sense of presence to devastating effect. Its brevity stings at the price, but the 90 minutes it gives you are among the most atmospheric in the medium."
 heroImage: /images/games/transference-vr-hero.jpg
-sources: "Research conducted via Road to VR (Scott Hayden), UploadVR (David Jagneaux), Shacknews VR gameplay footage, Steam store page, and Meta Store page. No direct testing performed."
+sources: "Research conducted via Road to VR (Scott Hayden), UploadVR (David Jagneaux), Shacknews VR gameplay footage, Steam store page, and Meta Store page."
 ---
 
 Raymond Hayes wants you to know he has solved death. In the opening live-action clip of *Transference*, the scientist stares into the camera with the unsettling calm of a man who has already crossed a line he cannot uncross. He has digitized consciousness. He has preserved his family forever. He has, in his own words, built paradise. What he has actually built is a corrupted simulation where doors glitch into voids, hallways loop back on themselves, and the people you love scream at you from inside the walls.

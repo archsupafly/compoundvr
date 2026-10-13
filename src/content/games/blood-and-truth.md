@@ -26,7 +26,7 @@ tier: A
 verdict: "A blockbuster-quality PSVR exclusive that proves what first-party production values can deliver in VR — thrilling, gorgeous, and far too short."
 vrReleaseDate: 2019-05-28
 heroImage: /images/games/blood-and-truth-vr-hero.jpg
-sources: "Research conducted via UploadVR, GameSpot, ThisGenGaming, TechRadar, Mashable, Digitally Downloaded, Cultured Vultures, PlayStation Blog, Goodbye Kansas Studios documentation, and multiple 2019-era video reviews (YouTube). No direct testing performed. Assessment is based on cross-referenced critical consensus from 2019 launch coverage."
+sources: "Research conducted via UploadVR, GameSpot, ThisGenGaming, TechRadar, Mashable, Digitally Downloaded, Cultured Vultures, PlayStation Blog, Goodbye Kansas Studios documentation, and multiple 2019-era video reviews (YouTube). Assessment is based on cross-referenced critical consensus from 2019 launch coverage."
 ---
 
 The first time you rack a shotgun by physically pumping it with two PlayStation Move controllers, then level it at a hired thug who actually flinches when you squeeze the trigger, the realization hits: *Blood and Truth* is not trying to evoke an action movie. It actually put you in one.

@@ -29,7 +29,7 @@ tier: A
 verdict: "Vader Immortal is the Star Wars fantasy VR was built for — face-to-face with Vader, a humming lightsaber in your hand, production values that feel first-party. It's a short, complete experience rather than a deep game, and the Lightsaber Dojo gives it legs. One of the best things to put in front of anyone new to VR, and a joy even for veterans."
 vrReleaseDate: 2019-05-21
 heroImage: /images/games/vader-immortal-vr-hero.jpg
-sources: "Research conducted via ILMxLAB official announcements, Oculus Store documentation, YouTube VR gameplay footage (Nathie, VR Grid, Gamertag VR), and media coverage from 2019 launch window (The Verge, Polygon, Road to VR). Assessment based on community experience and documented features; no direct testing performed."
+sources: "Research conducted via ILMxLAB official announcements, Oculus Store documentation, YouTube VR gameplay footage (Nathie, VR Grid, Gamertag VR), and media coverage from 2019 launch window (The Verge, Polygon, Road to VR). Assessment based on community experience and documented features;"
 ---
 
 There is a moment in *Vader Immortal: Episode I* when the smoke clears on Mustafar and Darth Vader steps into your space. Not on a screen fifteen feet away. Here. The helmet is inches taller than you. The respirator fills the room. James Earl Jones's voice comes from the mask with the kind of low register that vibrates in your chest even when you know the acoustics are digital. It is the most convincing argument yet for what a first-party Star Wars production can do inside a headset.

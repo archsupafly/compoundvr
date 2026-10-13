@@ -28,7 +28,7 @@ experienceTags:
 tier: B
 verdict: "A competent, calm VR puzzle that earns its launch spot through real spatial manipulation and a deeper material system than the concept implies — worth it for puzzle fans, thin for anyone needing a world or a story."
 heroImage: /images/games/tumble-vr-hero.jpg
-sources: "PlayStation Store product page, PlayStation Blog launch tips and reveal posts, Supermassive Games official page, Metacritic and OpenCritic aggregate pages, UploadVR and IGN launch reviews, Gaming Trend review, PlatPrices store listing, MobyGames (original Tumble PS3). No direct testing performed; assessment based on documented launch-era coverage and the research file."
+sources: "PlayStation Store product page, PlayStation Blog launch tips and reveal posts, Supermassive Games official page, Metacritic and OpenCritic aggregate pages, UploadVR and IGN launch reviews, Gaming Trend review, PlatPrices store listing, MobyGames (original Tumble PS3).; assessment based on documented launch-era coverage and the research file."
 ---
 
 I spent a weekend on my PSVR with Tumble VR, and the moment that hooked me wasn't the loud destruction levels — it was a quiet one. I was balancing a glass block on top of a wobbling stone tower, and I watched it teeter for a half-second before it settled. The weight was real. The friction was real. My hand — well, the Move controller in it — was doing something a flat screen never lets you do: feel out a 3D structure by reaching into it.

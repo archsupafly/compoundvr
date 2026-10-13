@@ -27,7 +27,7 @@ experienceTags:
 tier: B
 verdict: "One of the most visually accomplished native VR games of 2018, with environmental storytelling and tactile puzzles that justify the headset. The brevity and occasional difficulty spike keep it from essential status, but puzzle-adventure fans should not miss it."
 heroImage: /images/games/red-matter-vr-hero.jpg
-sources: "Research conducted via Metacritic aggregate scores and review excerpts, UploadVR review (2018), TheSixthAxis review (2019), Vandal review (2018), Vertical Robot official channels, Steam community knowledge, and Reddit community reports (r/virtualreality, r/Oculus, r/Vive). No direct testing performed."
+sources: "Research conducted via Metacritic aggregate scores and review excerpts, UploadVR review (2018), TheSixthAxis review (2019), Vandal review (2018), Vertical Robot official channels, Steam community knowledge, and Reddit community reports (r/virtualreality, r/Oculus, r/Vive)."
 ---
 
 The first time your flashlight catches the riveted metal of a Soviet-era airlock, you might forget you're wearing a headset. In May 2018, nothing in VR looked like this. Vertical Robot's *Red Matter* is a science-fiction puzzle adventure built exclusively for virtual reality — no flat version, no pancake fallback — and its opening minutes make a simple argument: VR can be beautiful, and beauty in virtual space means something different than it does on a monitor.

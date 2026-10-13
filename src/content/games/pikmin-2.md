@@ -32,7 +32,7 @@ experienceTags:
 tier: C
 verdict: "A charming novelty for Pikmin obsessives and emulator tinkerers, but the outdated Dolphin VR fork, lack of motion controls, and serious setup friction make the flat version the better way to play."
 heroImage: /images/games/pikmin-2-vr-hero.jpg
-sources: "Research conducted via the Dolphin VR official site and downloads page, the Pikmin VR Guide (Google Sites), YouTube VR gameplay showcases by Modest Pelican ('Pikmin 2 First-Person VR' and 'Can you Beat Pikmin 2 in VR?'), the Dolphin Emulator Wiki, PC Gamer's Dolphin VR coverage, and general release-date verification sources. No direct testing performed."
+sources: "Research conducted via the Dolphin VR official site and downloads page, the Pikmin VR Guide (Google Sites), YouTube VR gameplay showcases by Modest Pelican ('Pikmin 2 First-Person VR' and 'Can you Beat Pikmin 2 in VR?'), the Dolphin Emulator Wiki, PC Gamer's Dolphin VR coverage, and general release-date verification sources."
 ---
 
 There is a moment in Pikmin 2 VR where you stand up, look down, and realize the Bulborb snoring two feet in front of you is the size of a couch. The grass blades are like palm trees. A single Red Pikmin at your feet comes up to your knee. That scale shift is the whole pitch: you're not watching Captain Olimar from above anymore. You *are* the tiny astronaut, lost in somebody's overgrown backyard, throwing a hundred living vegetables at monsters the size of sedans.

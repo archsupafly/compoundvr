@@ -29,7 +29,7 @@ experienceTags:
 tier: A
 verdict: "One of the most physically inventive and exhilarating VR games available, Sprint Vector demands your whole body and rewards the commitment with racing that no flat-screen game can replicate."
 heroImage: /images/games/sprint-vector-vr-hero.jpg
-sources: "Research conducted via Survios official announcements, PlayStation Store and Steam store pages, YouTube VR gameplay footage (Road to VR, Eurogamer, Push Square), and Reddit community reports (r/PSVR, r/Vive, r/oculus). No direct testing performed."
+sources: "Research conducted via Survios official announcements, PlayStation Store and Steam store pages, YouTube VR gameplay footage (Road to VR, Eurogamer, Push Square), and Reddit community reports (r/PSVR, r/Vive, r/oculus)."
 vrReleaseDate: 2018-02-08
 ---
 

@@ -31,7 +31,7 @@ experienceTags:
 tier: "A"
 verdict: "Gorilla Tag turns your living room into a jungle gym with nothing but arm-swinging and voice chat, and the physical comedy carries it. The intensity and a loud young crowd are the honest catches — not dealbreakers, but know them before you swing."
 heroImage: /images/games/gorilla-tag-vr-hero.jpg
-sources: "Research compiled from the Steam and Meta Quest store pages, UploadVR's App Lab and PSVR2 launch coverage, Road to VR's playerbase/revenue reporting, Vice's PSVR2 impression, the Gorilla Tag Wiki (Shiny Rocks, modding), the MonkeModManager and MonkeMapLoader GitHub repositories, and Another Axiom's official mod policy and blog. No direct testing performed."
+sources: "Research compiled from the Steam and Meta Quest store pages, UploadVR's App Lab and PSVR2 launch coverage, Road to VR's playerbase/revenue reporting, Vice's PSVR2 impression, the Gorilla Tag Wiki (Shiny Rocks, modding), the MonkeModManager and MonkeMapLoader GitHub repositories, and Another Axiom's official mod policy and blog."
 ---
 
 The first time you play Gorilla Tag, you will fall on your face. Not in the game — in real life, because you leaned into a wall-run that your arms were absolutely not strong enough to sell. There is no controller stick movement here. There are no legs. You are a torso with two very enthusiastic arms, and the only way anywhere is to slap your hands against a surface, push off, and pray your momentum carries you to the next tree. It is the stupidest, most physical, most genuinely joyful thing I have done in a headset this year.

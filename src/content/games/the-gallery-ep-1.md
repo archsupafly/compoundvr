@@ -29,7 +29,7 @@ tier: B
 verdict: "A historically important VR adventure that pioneered teleport locomotion and proved VR could deliver genuine narrative experiences. Still playable and atmospheric, but its ~2 hour length and abandoned series status make it a curiosity for modern players rather than an essential purchase."
 vrReleaseDate: 2016-04-05
 heroImage: /images/games/the-gallery-ep-1-vr-hero.jpg
-sources: "Research conducted via Steam store page, Wikipedia, Road to VR review, Destructoid review, The VR Grid coverage, VG247 preview, UploadVR coverage on Blink locomotion, Voices of VR podcast interview with Cloudhead Games, Game Developer and UploadVR reporting on Cloudhead Games January 2026 layoffs. Assessment based on historical coverage and community consensus; no direct testing performed."
+sources: "Research conducted via Steam store page, Wikipedia, Road to VR review, Destructoid review, The VR Grid coverage, VG247 preview, UploadVR coverage on Blink locomotion, Voices of VR podcast interview with Cloudhead Games, Game Developer and UploadVR reporting on Cloudhead Games January 2026 layoffs. Assessment based on historical coverage and community consensus;"
 ---
 
 I remember the first time I blinked across a virtual beach and didn't feel like I was going to vomit. That sounds like a low bar, but in April 2016 it was revolutionary.

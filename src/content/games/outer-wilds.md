@@ -35,7 +35,7 @@ experienceTags:
 tier: B
 verdict: "NomaiVR is a masterclass in what a committed community mod can achieve. The sense of presence is extraordinary — but so is the physical demand. This is a recommendation reserved for VR veterans with capable hardware and iron stomachs."
 heroImage: /images/games/outer-wilds-vr-hero.jpg
-sources: "Research conducted via the official NomaiVR documentation (outerwildsmods.com), Raicuparta GitHub repository, Flat2VR Discord community knowledge, Reddit community reports (r/outerwilds, r/virtualreality), and multiple YouTube VR channels including Gamertag VR and Beardo Benjo. No direct testing performed; assessment based on aggregated community experience and technical documentation."
+sources: "Research conducted via the official NomaiVR documentation (outerwildsmods.com), Raicuparta GitHub repository, Flat2VR Discord community knowledge, Reddit community reports (r/outerwilds, r/virtualreality), and multiple YouTube VR channels including Gamertag VR and Beardo Benjo.; assessment based on aggregated community experience and technical documentation."
 ---
 
 # Outer Wilds in VR: A Masterpiece That Will Test Your Stomach

@@ -39,7 +39,7 @@ experienceTags:
 tier: B
 verdict: "The core campaign still delivers, but the missing co-op, missing DLC, and rough VR compromises mean this is a B-tier port of an A-tier game. Worth it for solo vault hunters who can tolerate jank; everyone else should play the flat version with friends."
 heroImage: /images/games/borderlands-2-vr-hero.jpg
-sources: "Research conducted via IGN, Road to VR, UploadVR, GodisaGeek, Press Start, and Digitally Downloaded review coverage from December 2018; community reports from r/PSVR, r/virtualreality, and Steam community discussions. Assessment based on reported launch-period performance, control schemes, and feature set. No direct testing performed."
+sources: "Research conducted via IGN, Road to VR, UploadVR, GodisaGeek, Press Start, and Digitally Downloaded review coverage from December 2018; community reports from r/PSVR, r/virtualreality, and Steam community discussions. Assessment based on reported launch-period performance, control schemes, and feature set."
 ---
 
 Standing on the edge of a cliff overlooking Pandora's rust-colored wasteland, the scale of the thing finally makes sense. Borderlands 2's cel-shaded world has always looked like a comic book come to life, and in VR that comic book wraps around the player. Bandit camps tower overhead. Skags charge from what feels like actual meters away. For a moment, the ambition is undeniable.

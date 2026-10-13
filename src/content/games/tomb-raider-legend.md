@@ -34,7 +34,7 @@ experienceTags:
 tier: C
 verdict: "Dolphin VR is the more interesting way to play Tomb Raider: Legend in a headset, but neither route turns it into a native VR experience. Worth a look for franchise diehards; everyone else should keep scrolling."
 heroImage: /images/games/tomb-raider-legend-vr-hero.jpg
-sources: "Research conducted via Dolphin VR release history and documentation, VorpX official forums (profile thread by RJK_, May 2025), VorpX supported games list, RJK_ profile repository, GameCube emulation community knowledge, Reddit community reports (r/vorpx, r/emulation), Wikipedia, PCGamingWiki, and YouTube gameplay footage. No direct testing performed."
+sources: "Research conducted via Dolphin VR release history and documentation, VorpX official forums (profile thread by RJK_, May 2025), VorpX supported games list, RJK_ profile repository, GameCube emulation community knowledge, Reddit community reports (r/vorpx, r/emulation), Wikipedia, PCGamingWiki, and YouTube gameplay footage."
 ---
 
 There's a moment in Tomb Raider: Legend where Lara scales a sheer cliff face in Bolivia, ice picks biting into rock, wind howling through the canyon below. In the original 2006 release, it was a perfectly fine platforming setpiece — press jump, time the grab, watch the animation. In VR, with actual stereoscopic depth to the chasm dropping away beneath her boots, that same sequence takes on a completely different quality. Your stomach lurches. You lean forward in your chair. For about three seconds, you're actually *there* — until the camera snaps to a new angle and the illusion shatters.

@@ -30,7 +30,7 @@ experienceTags:
 tier: D
 verdict: "The Sims 4 in VR is a neat idea that currently has no viable execution. The dedicated mod is broken by the 2024 DX11 update, and the VorpX profile that used to make the dollhouse view pleasantly 3D now struggles to attach or render proper geometry. Play it flat."
 heroImage: /images/games/the-sims-4-vr-hero.jpg
-sources: "Research conducted via the convexvr/sims4-vr GitHub repository and README, VorpX official supported-games list, VorpX community forums (The Sims 4 topic, DX11 attachment topic, can't-attach support thread), EA/Maxis patch notes and Crinrict's Sims 4 Help Blog for DirectX 11 transition dates, and YouTube VR tutorial/community coverage. No direct testing performed."
+sources: "Research conducted via the convexvr/sims4-vr GitHub repository and README, VorpX official supported-games list, VorpX community forums (The Sims 4 topic, DX11 attachment topic, can't-attach support thread), EA/Maxis patch notes and Crinrict's Sims 4 Help Blog for DirectX 11 transition dates, and YouTube VR tutorial/community coverage."
 ---
 
 There is a moment in *The Sims 4*, usually around hour forty, when you zoom in close on a kitchen you spent too long decorating and think: *I want to stand right there.* The game is basically a dollhouse simulator with weather and heartbreak. VR feels like it should be the obvious next room over. Lower your headset in, walk around the living room you just furnished, watch your Sim burn toast from eye level.

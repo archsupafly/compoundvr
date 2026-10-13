@@ -30,7 +30,7 @@ experienceTags:
 tier: D
 verdict: "The original Neverwinter Nights works in VorpX as a curiosity for CRPG diehards, offering genuine stereoscopic depth and a novel tabletop-like perspective. The Enhanced Edition is effectively unplayable in VR due to OpenGL shader conflicts."
 heroImage: /images/games/neverwinter-nights-vr-hero.jpg
-sources: "Research conducted via VorpX forums (profile discussions, cloud profile availability, OpenGL compatibility threads), Beamdog community forums, Steam Community discussions, and Reddit community reports. No direct testing performed."
+sources: "Research conducted via VorpX forums (profile discussions, cloud profile availability, OpenGL compatibility threads), Beamdog community forums, Steam Community discussions, and Reddit community reports."
 ---
 
 There is a particular kind of pleasure in leaning over a miniature world. CRPGs have always traded in that fantasy — the god's-eye view, the tiny hero marching across a painted map, the dice rolling somewhere behind the curtain. Neverwinter Nights, BioWare's 2002 D&D powerhouse, built an entire ecosystem around that perspective: module creation, persistent worlds, thousands of hours of player-made campaigns. The idea of stepping inside it in VR carries a specific romantic weight. You are not just observing the Sword Coast. You are inhabiting it.

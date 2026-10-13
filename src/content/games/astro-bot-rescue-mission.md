@@ -30,7 +30,7 @@ tier: S
 verdict: "The best argument yet that VR can do things flat games simply cannot. A polished, inventive platformer that treats the player as a physical presence in the world, not just a camera."
 vrReleaseDate: "2018-10-02"
 heroImage: /images/games/astro-bot-rescue-mission-vr-hero.jpg
-sources: "Research conducted via Team Asobi official site, PlayStation Store listing, IGN wiki and review coverage, Road to VR review, Node Gamers retrospective, Use A Potion review, Wikipedia entry, YouTube VR gameplay footage, and Reddit community reports across r/PSVR. No direct testing performed."
+sources: "Research conducted via Team Asobi official site, PlayStation Store listing, IGN wiki and review coverage, Road to VR review, Node Gamers retrospective, Use A Potion review, Wikipedia entry, YouTube VR gameplay footage, and Reddit community reports across r/PSVR."
 ---
 
 There is a moment, maybe ten minutes in, when Astro stops running and looks up at you. Not at the screen. At *you*. His little LED eyes tilt toward the headset, and he waves. It is a small thing — a cartoon robot acknowledging the giant in the room — but it reframes everything. You are not watching a platformer. You are *inside* it, physically crouched over a diorama that wraps around your head, and the game knows you are there.

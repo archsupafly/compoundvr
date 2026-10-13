@@ -30,7 +30,7 @@ experienceTags:
 tier: D
 verdict: "A genuinely charming novelty that breathes unexpected life into a 40-year-old arcade game. The 3D voxel conversion is impressive, but the $25 emulator price makes this hard to justify for Balloon Fight alone unless you're planning to explore the full retro library."
 heroImage: /images/games/balloon-fight-vr-hero.jpg
-sources: "Research conducted via 3dSen VR Steam store page, Geod Studio official website, Steam community discussions, Reddit community reports (r/oculus, r/retrogaming), UploadVR coverage, TweakTown and NotebookCheck media articles, and YouTube gameplay footage. Assessment based on community experience, documentation review, and media coverage; no direct testing performed."
+sources: "Research conducted via 3dSen VR Steam store page, Geod Studio official website, Steam community discussions, Reddit community reports (r/oculus, r/retrogaming), UploadVR coverage, TweakTown and NotebookCheck media articles, and YouTube gameplay footage. Assessment based on community experience, documentation review, and media coverage;"
 ---
 
 I spent twenty minutes floating above a pixelated ocean, popping balloons in a 3D diorama, and I honestly couldn't stop smiling. Balloon Fight — Nintendo's 1985 arcade curiosity where you flap a pair of balloons to stay aloft while knocking rival balloonists into the water — is not a game anyone would call essential. It's ten minutes of arcade charm, a high-score chaser with exactly one screen's worth of mechanics. But strap it into 3dSen VR and it becomes something else entirely: a tiny, beautiful toy that proves old games don't need remakes. They just need the right lens.

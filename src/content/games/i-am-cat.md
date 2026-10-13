@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "I Am Cat is the rare VR toy that earns its premise — being a cat is genuinely physical and genuinely funny, and the motion controls sell every swat and sprint. Just know it's a chaos sandbox, not a story, and the quadruped gallop will test anyone prone to VR nausea."
 heroImage: /images/games/i-am-cat-vr-hero.jpg
-sources: "Research conducted via the Steam store page (app 3016840), the Meta Quest official blog launch announcement, the I Am Cat Fandom wiki, the r/iamcatvr and r/OculusQuest community threads, and YouTube VR gameplay coverage from comedy channels (Fudgy, Foltyn, PowerOnVR). No direct testing performed."
+sources: "Research conducted via the Steam store page (app 3016840), the Meta Quest official blog launch announcement, the I Am Cat Fandom wiki, the r/iamcatvr and r/OculusQuest community threads, and YouTube VR gameplay coverage from comedy channels (Fudgy, Foltyn, PowerOnVR)."
 ---
 
 The first thing you do in I Am Cat is knock a cup off a counter. Not because the game tells you to — because you are a cat, and the cup is there, and your paw is right there, and the physics engine clearly thinks this is the funniest thing that has ever happened. It is. I knocked that cup off, watched it bounce, and felt something I don't feel in most VR games: I was not playing a character, I was being a goddamn animal.

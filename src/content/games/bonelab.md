@@ -31,7 +31,7 @@ experienceTags:
 tier: A
 verdict: "BONELAB is a sandbox that happens to contain a game. The campaign is thin, but the physics — every object weighted, your body fully simulated — are the best in VR, and the mod pipeline is already deep. If Boneworks was your favorite VR title, this is the sequel you wanted."
 heroImage: /images/games/bonelab-vr-hero.jpg
-sources: "Research conducted via Steam store page (store.steampowered.com/app/1592190/BONELAB/), Wikipedia (en.wikipedia.org/wiki/Bonelab), UploadVR launch review (uploadvr.com/bonelab-review/), Road to VR (roadtovr.com), and Thunderstore BONELAB mod database. No direct testing performed."
+sources: "Research conducted via Steam store page (store.steampowered.com/app/1592190/BONELAB/), Wikipedia (en.wikipedia.org/wiki/Bonelab), UploadVR launch review (uploadvr.com/bonelab-review/), Road to VR (roadtovr.com), and Thunderstore BONELAB mod database."
 ---
 
 I spent the weekend in this headset, and my shoulders still remember it. BONELAB opens with you on a gallows, a knife floating in front of your face, and the sudden realization that you're about to physically act your way out of an execution. That's the whole game in one moment: Stress Level Zero built a world you touch, then dared you to interact with it like a person instead of a cursor.

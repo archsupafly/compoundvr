@@ -29,7 +29,7 @@ experienceTags:
 tier: B
 verdict: "A polished, comfortable, and genuinely charming VR adventure that invents its own visual language for Wonderland. The catch: it's over in about three hours, and the puzzles never test you. Worth it on sale or for anyone craving a gentle, accessible VR experience."
 heroImage: /images/games/down-the-rabbit-hole-vr-hero.jpg
-sources: "Research compiled from UploadVR review (4/5 rating), TheSixthAxis review (5/10 rating), PSU.com PSVR review, The Escape Roomer review, Steam community reviews, and Reddit community reports (r/PSVR, r/OculusQuest). No direct testing performed."
+sources: "Research compiled from UploadVR review (4/5 rating), TheSixthAxis review (5/10 rating), PSU.com PSVR review, The Escape Roomer review, Steam community reviews, and Reddit community reports (r/PSVR, r/OculusQuest)."
 ---
 
 The first thing that strikes you is the scale. Not the bigness of it — the smallness. In *Down the Rabbit Hole*, Wonderland unfolds like a theatrical pop-up book wrapped around your head. You are not Alice. You are not even inside the world, not really. You are a giant leaning over a dollhouse diorama, guiding a small girl through tunnels and tea parties while the Mad Hatter's hat shoppe glows in miniature just off to your left. It is one of the more confident visual statements in VR adventure gaming, and it arrives in the opening minutes without fanfare.

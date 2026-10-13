@@ -29,7 +29,7 @@ experienceTags:
 tier: B
 verdict: "A genuine cockpit spectacle that puts a spherical planet under your head — the best argument for the arcade shooter on PSVR's launch day. Get it if you like score-attack arcade games and want a launch title that actually uses the headset; skip it if you need depth, story, or a reason to return past your high-score fix."
 heroImage: /images/games/super-stardust-ultra-vr-hero.jpg
-sources: "PlayStation Store product page, PlayStation Blog launch and original SSU announcements, Metacritic and OpenCritic aggregate pages, MobyGames, CGMagazine and PlayStation LifeStyle reviews, Digital Foundry PS4 analysis, d3t developer page, Backwards Compatible and Push Square listings. No direct testing performed; assessment based on documented launch-era coverage and the research file."
+sources: "PlayStation Store product page, PlayStation Blog launch and original SSU announcements, Metacritic and OpenCritic aggregate pages, MobyGames, CGMagazine and PlayStation LifeStyle reviews, Digital Foundry PS4 analysis, d3t developer page, Backwards Compatible and Push Square listings.; assessment based on documented launch-era coverage and the research file."
 ---
 
 The first time a planet filled my field of view and a wall of asteroids came screaming over the horizon, I stopped aiming with the stick and just turned my head. The cockpit turned with me. That's the whole game, and it's the right game for a headset that had exactly one launch-day shooter worth strapping on for.

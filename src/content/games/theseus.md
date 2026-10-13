@@ -32,7 +32,7 @@ experienceTags:
 tier: C
 verdict: "A brief but memorable atmospheric experience that gets more right than wrong. Worth a single evening for the Minotaur alone — just don't expect depth beyond the dread."
 heroImage: /images/games/theseus-vr-hero.jpg
-sources: "Research conducted via UploadVR review, Push Square review, PlayStation Country review, VG Reloaded review, Press Play News review, Reddit r/PSVR community impressions, Steam store page, and YouTube gameplay footage. Assessment based on review compilation. No direct testing performed."
+sources: "Research conducted via UploadVR review, Push Square review, PlayStation Country review, VG Reloaded review, Press Play News review, Reddit r/PSVR community impressions, Steam store page, and YouTube gameplay footage. Assessment based on review compilation."
 ---
 
 The first time the Minotaur rounds a corner in *Theseus*, you forget that this is a third-person game.

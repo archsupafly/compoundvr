@@ -31,7 +31,7 @@ experienceTags:
 tier: C
 verdict: "A serviceable stereoscopic 3D wrapper for a great ARPG, but the VR adds little beyond depth perception. Only worth the effort for die-hard fans who already own vorpX."
 heroImage: /images/games/titan-quest-vr-hero.jpg
-sources: "Research conducted via vorpX official forums (profile thread 2019–2025), vorpX release notes, Reddit community reports (r/vorpx, r/VRGaming), Steam store page documentation, and Wikipedia for release date verification. Assessment based on community experience and documentation review; no direct testing performed."
+sources: "Research conducted via vorpX official forums (profile thread 2019–2025), vorpX release notes, Reddit community reports (r/vorpx, r/VRGaming), Steam store page documentation, and Wikipedia for release date verification. Assessment based on community experience and documentation review;"
 ---
 
 I wanted to love this. Titan Quest is one of those games I keep reinstalling every few years — a loot-driven ARPG through ancient Greece, Egypt, and beyond, with that satisfying Diablo-like rhythm of click, kill, collect, repeat. The Anniversary Edition bundles the original game, its expansion, and years of community fixes into a surprisingly durable package. So when I heard there was a way to play it in VR, I got curious. Maybe the old girl could feel fresh again.

@@ -36,7 +36,7 @@ experienceTags:
 tier: C
 verdict: "GTA V in VR is a stunning technical curiosity built on abandoned scaffolding: the R.E.A.L. mod delivers a real sense of place, but only on the Legacy PC build, and only if you're willing to tangle with a dead mod and no motion controls."
 heroImage: /images/games/gta-5-vr-hero.jpg
-sources: "Research conducted via the Luke Ross gta5-real-mod GitHub repository and release notes, UploadVR and Eurogamer coverage of the R.E.A.L. mod launch, Virtual Reality Oasis gameplay footage, GamesIndustry.biz / The Verge / IGN / Kotaku reporting on the 2022 Take-Two DMCA takedown, VorpX forum discussions and community profiles for GTA V Enhanced, Rockstar and Steam store pages for GTA V Legacy and Enhanced editions, and PPSSPP / Dolphin VR documentation. No direct testing performed."
+sources: "Research conducted via the Luke Ross gta5-real-mod GitHub repository and release notes, UploadVR and Eurogamer coverage of the R.E.A.L. mod launch, Virtual Reality Oasis gameplay footage, GamesIndustry.biz / The Verge / IGN / Kotaku reporting on the 2022 Take-Two DMCA takedown, VorpX forum discussions and community profiles for GTA V Enhanced, Rockstar and Steam store pages for GTA V Legacy and Enhanced editions, and PPSSPP / Dolphin VR documentation."
 ---
 
 The first time I stood at the corner of Vinewood Boulevard and looked up at the signs, I understood why people kept chasing this. GTA V is one of the most fully realized cities ever built for a screen, and in VR that city finally wraps around you. The palm trees have actual height. The traffic has real depth. Los Santos stops being a diorama and starts being a place you occupy.

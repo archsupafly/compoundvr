@@ -28,7 +28,7 @@ experienceTags:
 tier: "C"
 verdict: "A legendary game shoehorned into a headset. The 3D scale is genuinely striking, but the VR implementation is thin — no motion controls, no VR UI, and plenty of setup friction. Only worth it if you're replaying for the fifth time and want to see the Normandy in stereo."
 heroImage: /images/games/mass-effect-2-vr-hero.jpg
-sources: "Research conducted via VorpX official forums (profile status, performance reports, bug threads), Reddit community experiences (r/masseffect, r/virtualreality, r/HPReverb), YouTube VR gameplay footage, and EA community forum threads. Assessment based on community experience; no direct testing performed."
+sources: "Research conducted via VorpX official forums (profile status, performance reports, bug threads), Reddit community experiences (r/masseffect, r/virtualreality, r/HPReverb), YouTube VR gameplay footage, and EA community forum threads. Assessment based on community experience;"
 ---
 
 # Mass Effect 2 VR

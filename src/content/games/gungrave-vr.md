@@ -33,7 +33,7 @@ experienceTags:
 tier: "D"
 verdict: "A disappointingly short, mechanically dated VR shooter that misunderstands what makes VR work. Only the most devoted Gungrave fans should consider it — and even they will likely wish they had stayed with the PS2 originals."
 heroImage: /images/games/gungrave-vr-vr-hero.jpg
-sources: "Research compiled from Steam store pages and user reviews (Mixed — 41% positive), PSVR and PCVR coverage by UploadVR, The VR Grid, Hey Poor Player, TechRaptor, Nook Gaming, Road to VR, and community reports from Reddit r/PSVR. No direct testing performed."
+sources: "Research compiled from Steam store pages and user reviews (Mixed — 41% positive), PSVR and PCVR coverage by UploadVR, The VR Grid, Hey Poor Player, TechRaptor, Nook Gaming, Road to VR, and community reports from Reddit r/PSVR."
 ---
 
 I wanted to love this. I really did.

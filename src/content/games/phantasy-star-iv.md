@@ -29,7 +29,7 @@ experienceTags:
 tier: C
 verdict: "One of the finest 16-bit RPGs ever made, trapped inside a charming but limited VR wrapper that you can no longer buy. For existing owners, it's a cozy nostalgia trip. For everyone else, it's a museum piece."
 heroImage: /images/games/phantasy-star-iv-vr-hero.jpg
-sources: "Research conducted via Wikipedia, PCMag, UploadVR, Eurogamer, Windows Central, IGN, GameFAQs, HowLongToBeat, Reddit community reports (r/Vive, r/PSVR), and Steam Community discussions. Assessment based on community experience and published coverage; no direct testing performed."
+sources: "Research conducted via Wikipedia, PCMag, UploadVR, Eurogamer, Windows Central, IGN, GameFAQs, HowLongToBeat, Reddit community reports (r/Vive, r/PSVR), and Steam Community discussions. Assessment based on community experience and published coverage;"
 ---
 
 You snap the cartridge into the slot. The Genesis logo flickers to life on a curved CRT screen. Sonic posters watch from the walls. A stack of VHS tapes sits on the shelf. You're not in your living room — you're in VR, standing in a meticulously recreated 90s bedroom, about to play one of the finest 16-bit RPGs ever made.

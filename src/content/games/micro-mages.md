@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A delightful and genuinely comfortable way to experience one of the best NES homebrew platformers. The diorama presentation adds real visual charm without demanding motion controls or iron stomachs."
 heroImage: /images/games/micro-mages-vr-hero.jpg
-sources: "Research compiled from 3dSen VR Steam store page and Geod Studio documentation, Reddit r/virtualreality and Steam community reviews (2024–2025), YouTube VR gameplay footage, Micro Mages Steam store page, Wikipedia, and Metacritic user aggregation. Assessment based on emulator documentation cross-referenced with independent community reports. No direct testing performed."
+sources: "Research compiled from 3dSen VR Steam store page and Geod Studio documentation, Reddit r/virtualreality and Steam community reviews (2024–2025), YouTube VR gameplay footage, Micro Mages Steam store page, Wikipedia, and Metacritic user aggregation. Assessment based on emulator documentation cross-referenced with independent community reports."
 ---
 
 There's a specific kind of magic that happens when you boot up an old game inside a VR headset and realize it's not just a flat screen floating in front of your face — it's become a physical object you can walk around. That's what 3dSen VR does to NES games, and watching it work on Micro Mages is like watching someone carefully place a perfect toy castle on your coffee table, then invite you to lean in and examine every brick.

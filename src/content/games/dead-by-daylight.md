@@ -29,7 +29,7 @@ experienceTags:
 tier: F
 verdict: "Dead by Daylight has no working VR path. Every unofficial option is blocked by Easy Anti-Cheat, and Behaviour has never shipped official support. Don't put your headset on for this."
 heroImage: /images/games/dead-by-daylight-vr-hero.jpg
-sources: "Steam store page and Wikipedia for release/engine details; VorpX forums for anti-cheat and whitelisting status; Steam Community discussions for UEVR and anti-cheat reports; UploadVR, Rock Paper Shotgun, and 360 Rumors for UEVR launch context; IGN, Game Rant, and PCGamesN for 10th-anniversary coverage confirming no VR announcement; Flat2VR community knowledge. No direct testing performed."
+sources: "Steam store page and Wikipedia for release/engine details; VorpX forums for anti-cheat and whitelisting status; Steam Community discussions for UEVR and anti-cheat reports; UploadVR, Rock Paper Shotgun, and 360 Rumors for UEVR launch context; IGN, Game Rant, and PCGamesN for 10th-anniversary coverage confirming no VR announcement; Flat2VR community knowledge."
 ---
 
 The first time a killer tunneled me in Dead by Daylight, I nearly fell off my couch. A hulking shape bursting from a locker, a chainsaw revving, the chase music spiking — the game is already oppressive on a monitor. Strapping a headset on and standing *inside* that fog is one of those ideas that sells itself before you even own a VR rig.

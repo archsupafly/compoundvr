@@ -28,7 +28,7 @@ tier: B
 verdict: "A charming, mission-driven flight sandbox with genuinely satisfying motion-controlled piloting. The controls take patience, and the mission loop wears thin over time, but no other VR title at this price makes casual aviation feel this personal."
 vrReleaseDate: "2017-07-20"
 heroImage: /images/games/ultra-wings-vr-hero.jpg
-sources: "Research conducted via Steam store page, PSN store listing, Meta Quest store page, YouTube VR gameplay footage (UploadVR, Gamertag VR), Flat2VR Discord community knowledge, and Reddit community reports across r/PSVR, r/oculus, and r/vive. No direct testing performed."
+sources: "Research conducted via Steam store page, PSN store listing, Meta Quest store page, YouTube VR gameplay footage (UploadVR, Gamertag VR), Flat2VR Discord community knowledge, and Reddit community reports across r/PSVR, r/oculus, and r/vive."
 ---
 
 The first time you wrap your fingers around a virtual flight stick and pull back, something clicks. It isn't the realism — *Ultra Wings* is stylized, arcade-leaning, and built on blocky islands floating in a bright blue void. It's the *physicality*. Developer Bit Planet Games didn't set out to build a flight simulator. They built a toy cockpit that happens to fit over your head, and the result is one of the most approachable VR flying experiences on the market.

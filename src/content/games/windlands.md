@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "A genuine mechanical triumph that proves swinging through impossible architecture is one of VR's most exhilarating verbs. Just know your stomach is the final boss."
 heroImage: /images/games/windlands-vr-hero.jpg
-sources: "Research conducted via Steam store page and Meta Quest Store, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie), Reddit community reports (r/PSVR, r/VRGaming, r/oculus), Kotaku VR coverage, UploadVR PSVR preview, The VR Grid review, and OpenCritic aggregate reviews. No direct testing performed."
+sources: "Research conducted via Steam store page and Meta Quest Store, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie), Reddit community reports (r/PSVR, r/VRGaming, r/oculus), Kotaku VR coverage, UploadVR PSVR preview, The VR Grid review, and OpenCritic aggregate reviews."
 relatedPages:
   - id: top-10-vr-games-2015
     kind: article

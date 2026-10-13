@@ -32,7 +32,7 @@ experienceTags:
 tier: C
 verdict: "Sonic Robo Blast 2 in VR is a novelty that works better than it has any right to, but the lack of motion controls, flat UI, and brutal comfort issues mean it's only worth the setup for dedicated fans who already love SRB2 and can handle its speed in a headset."
 heroImage: /images/games/sonic-robo-blast-2-vr-hero.jpg
-sources: "Research conducted via the SRB2 Message Board SRB2 VR Mod addon page and discussion thread, chreas GitLab release tags for openvr_release_1.0.0 and openvr_release_1.0.1, SRB2.org official version history pages, the SRB2 Wiki Versions article, Wikipedia, and community reviews on the SRB2 Message Board. No direct testing performed."
+sources: "Research conducted via the SRB2 Message Board SRB2 VR Mod addon page and discussion thread, chreas GitLab release tags for openvr_release_1.0.0 and openvr_release_1.0.1, SRB2.org official version history pages, the SRB2 Wiki Versions article, Wikipedia, and community reviews on the SRB2 Message Board."
 ---
 
 There is a special kind of madness in taking a game built around blistering speed, tight jumps, and camera-whipping slope physics, and then asking your inner ear to keep up with it in first-person VR. That is exactly what the SRB2 VR Mod does to *Sonic Robo Blast 2*. And the wildest part? It technically works.

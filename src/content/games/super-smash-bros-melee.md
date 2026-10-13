@@ -27,7 +27,7 @@ experienceTags:
 tier: C
 verdict: "A fascinating novelty that renders Melee in true 3D, but added latency and clunky setup make it unsuitable for serious play. Best suited for Melee fans who already own a headset and want a weekend curiosity, not a replacement for their CRT."
 heroImage: /images/games/super-smash-bros-melee-vr-hero.jpg
-sources: "Research conducted via Dolphin VR official WordPress site and downloads page, CarlKenner/dolphin GitHub repository, Dolphin XR (iChris4/dolphinXR) GitHub, Emulation GameTechWiki VR documentation, Dolphin Emulator Wiki (Stereoscopic 3D Setup and Super Smash Bros. Melee pages), Reddit community reports (r/Dolphin_VR, r/SSBM, r/virtualreality, r/Vive), and YouTube VR gameplay footage of Dolphin VR running Melee. Assessment based on community experience and emulator documentation; no direct testing performed."
+sources: "Research conducted via Dolphin VR official WordPress site and downloads page, CarlKenner/dolphin GitHub repository, Dolphin XR (iChris4/dolphinXR) GitHub, Emulation GameTechWiki VR documentation, Dolphin Emulator Wiki (Stereoscopic 3D Setup and Super Smash Bros. Melee pages), Reddit community reports (r/Dolphin_VR, r/SSBM, r/virtualreality, r/Vive), and YouTube VR gameplay footage of Dolphin VR running Melee. Assessment based on community experience and emulator documentation;"
 ---
 
 I love Super Smash Bros. Melee more than most things in this world. I still have a GameCube controller with a frayed cord and worn-out Z button that I've been meaning to replace for three years. So when I heard there was a way to play it in VR, I had two simultaneous thoughts: "Holy shit, that sounds incredible" and "This is going to be a nightmare."

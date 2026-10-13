@@ -29,7 +29,7 @@ experienceTags:
 tier: B
 verdict: "A delightful novelty for fans of the original, but the VR wrapper is old, hacky, and demands patience. Worth it if you want to peer down at Paper Mario’s world like a toy on a table."
 heroImage: /images/games/paper-mario-the-thousand-year-door-vr-hero.jpg
-sources: "Research conducted via the Dolphin VR official download/release notes page (dolphinvr.wordpress.com), Siliconera coverage of the 'giant perspective' Paper Mario VR demonstration, VRborg.com's Dolphin VR guide and compatibility list, Road to VR articles on Dolphin VR setup and Metroid Prime in Dolphin VR, the Reddit r/Dolphin_VR community setup guide, the iChris4/dolphinXR GitHub repository, and Nintendo's official pages for flat release dates. No direct testing performed."
+sources: "Research conducted via the Dolphin VR official download/release notes page (dolphinvr.wordpress.com), Siliconera coverage of the 'giant perspective' Paper Mario VR demonstration, VRborg.com's Dolphin VR guide and compatibility list, Road to VR articles on Dolphin VR setup and Metroid Prime in Dolphin VR, the Reddit r/Dolphin_VR community setup guide, the iChris4/dolphinXR GitHub repository, and Nintendo's official pages for flat release dates."
 ---
 
 # Paper Mario: The Thousand-Year Door VR

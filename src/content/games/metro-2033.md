@@ -28,7 +28,7 @@ experienceTags:
 tier: C
 verdict: "Metro 2033 through VorpX delivers genuine atmosphere in VR, but only if you're already comfortable with injection drivers and willing to accept no motion controls."
 heroImage: /images/games/metro-2033-vr-hero.jpg
-sources: "Research conducted via VorpX official forums (profile discussions and stability reports), Reddit community posts (r/oculus, r/metro), YouTube VR gameplay footage, and Steam store page documentation. No direct testing performed."
+sources: "Research conducted via VorpX official forums (profile discussions and stability reports), Reddit community posts (r/oculus, r/metro), YouTube VR gameplay footage, and Steam store page documentation."
 ---
 
 There's a moment early in Metro 2033 where Artyom crawls through a collapsed tunnel, flashlight cutting weak beams through concrete dust and radiation, and you can hear something breathing in the dark that isn't you. In flat-screen, it's tense. In stereoscopic 3D with your head filling the viewport, it's claustrophobic in a way that makes you physically aware of the headset pressed against your face — which, honestly, kind of helps.

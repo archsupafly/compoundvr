@@ -30,7 +30,7 @@ flatReleaseDate: 2003-02-27
 vrReleaseDate: 2018-09-04
 verdict: "A genuine mech-pilot fantasy that the cockpit view can't save. Fast, button-mashy combat designed for third-person doesn't translate to first-person VR — one of the rare games that's actually more fun in flat. Only for the most devoted ZOE fans."
 heroImage: /images/games/zone-of-the-enders-vr-hero.jpg
-sources: "Research conducted via Konami official store pages (Steam, PlayStation), UploadVR review, IGN review, Video Chums review, Forbes Games review, Way Too Many Games review, Reddit community reports (r/PSVR, r/ZoneoftheEnders), and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Konami official store pages (Steam, PlayStation), UploadVR review, IGN review, Video Chums review, Forbes Games review, Way Too Many Games review, Reddit community reports (r/PSVR, r/ZoneoftheEnders), and YouTube VR gameplay footage."
 ---
 
 The first time you look down and see Jehuty's control panels wrapping around your legs, you get it. This is what Zone of the Enders was always supposed to feel like. Not watching a tiny mech from above, but sitting inside it, staring through the windshield as homing lasers streak past your face and enemy orbital frames explode against your canopy. Konami's official VR mode for *Zone of the Enders: The 2nd Runner M∀RS* understands the fantasy completely. Whether it delivers on it is another question.

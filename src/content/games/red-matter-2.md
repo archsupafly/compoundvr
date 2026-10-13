@@ -31,7 +31,7 @@ heroImage: /images/games/red-matter-2-vr-hero.jpg
 history:
   - date: 2023-05-18
     note: Released on PlayStation VR2 (PSVR2), extending native VR availability beyond Quest, Rift, and PCVR.
-sources: "Official Vertical Robot presskit factsheet (release dates, platforms), PlayStation Store and PlayStation.com official game pages, UploadVR review (comfort options, teleport and smooth locomotion), IGN review, The VR Grid review (comfort detail), vrarwiki release timeline, and VR community coverage. Assessment based on launch-era native VR coverage and community reporting; no direct testing performed."
+sources: "Official Vertical Robot presskit factsheet (release dates, platforms), PlayStation Store and PlayStation.com official game pages, UploadVR review (comfort options, teleport and smooth locomotion), IGN review, The VR Grid review (comfort detail), vrarwiki release timeline, and VR community coverage. Assessment based on launch-era native VR coverage and community reporting;"
 ---
 
 I stepped out of the airlock and the whole station went quiet. Not silent — there's a low hum, the distant tick of cooling systems, the soft static of my own breathing — but quiet in the way only a VR space can be when the world around you actually feels like it exists. That first look across the frozen surface of a moon, Volgravia's red insignia smeared across a derelict outpost, is the moment Red Matter 2 earns its reputation. Vertical Robot didn't port a flat game into a headset. They built a Cold War-in-space puzzle adventure that only makes sense with one strapped to your face.

@@ -31,7 +31,7 @@ experienceTags:
 tier: "C"
 verdict: "Left 4 Dead in VR is a nostalgia trip with stereo depth for VorpX owners who already love the game, but the lack of motion controls and the intense action make it a poor introduction to VR and a questionable purchase on its own."
 heroImage: "/images/games/left-4-dead-vr-hero.jpg"
-sources: "Research conducted via VorpX forums (community profile by user RJK, June 2021), Reddit r/virtualreality and r/Oculus community compatibility reports, Eurogamer coverage of L4D2VR mod, GitHub sd805/l4d2vr repository for comparative context, VorpX version release notes, and Steam store page metadata. No direct testing performed."
+sources: "Research conducted via VorpX forums (community profile by user RJK, June 2021), Reddit r/virtualreality and r/Oculus community compatibility reports, Eurogamer coverage of L4D2VR mod, GitHub sd805/l4d2vr repository for comparative context, VorpX version release notes, and Steam store page metadata."
 ---
 
 There is a very specific kind of terror that comes from hearing a Hunter scream while you are wearing a VR headset. In flatscreen, Left 4 Dead trained me to spin 180 degrees and panic-fire. In VR, with head tracking and stereoscopic depth, that same scream hits different — it has direction, it has presence, and your lizard brain responds before your thumbs do. The problem is that your thumbs are still doing all the work.

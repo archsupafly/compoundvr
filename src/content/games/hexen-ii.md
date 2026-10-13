@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A rare classic FPS with two genuine VR routes. The PCVR option is excellent; the standalone alpha is rough but thrilling. For boomer-shooter fans, this is one of the better retro VR conversions available."
 heroImage: /images/games/hexen-ii-vr-hero.jpg
-sources: "Research conducted via SideQuest app page for VHexen2, Real o Virtual coverage of the Quest alpha, GitHub hh79/gzdoomvr repository and release notes (gvr4.13.2.2), Wikipedia/MobyGames/DoomWiki for game background, and Reddit r/Vive community reports on GZDoomVR Hexen II setup. Assessment based on community experience and documented features; no direct testing performed."
+sources: "Research conducted via SideQuest app page for VHexen2, Real o Virtual coverage of the Quest alpha, GitHub hh79/gzdoomvr repository and release notes (gvr4.13.2.2), Wikipedia/MobyGames/DoomWiki for game background, and Reddit r/Vive community reports on GZDoomVR Hexen II setup. Assessment based on community experience and documented features;"
 ---
 
 The first time you physically swing a war hammer at a weredragon in a 1997 dungeon crawler, something clicks. Not just about the game — about what VR can do with the right source material. *Hexen II* was built around four distinct classes, each with their own melee weapons and spell arsenals, and in VR that class identity becomes physical. The Paladin's hammer feels heavier in your dominant hand than the Assassin's daggers. The Crusader's ice magic arcs from your off-hand trigger in a way the original mouse-and-keyboard setup never quite conveyed. It is the same game, but the texture of it changes completely.

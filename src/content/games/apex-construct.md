@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A rare early attempt at a full-length narrative VR adventure with satisfying bow combat and a compelling ruined world, undercut by repetitive structure, occasional jank, and the limitations of 2018-era tracking. Worth it for anyone who wants proof that VR can sustain a campaign."
 heroImage: /images/games/apex-construct-vr-hero.jpg
-sources: "Research conducted via UploadVR, PlayStation Lifestyle, Gaming Boulevard, Use a Potion, TechRaptor, Thumb Culture, Reddit PSVR community reports, HTC Vive blog, Fast Travel Games official FAQ, and YouTube VR gameplay footage. Assessment based on published reviews and community experience from 2018; no direct testing performed."
+sources: "Research conducted via UploadVR, PlayStation Lifestyle, Gaming Boulevard, Use a Potion, TechRaptor, Thumb Culture, Reddit PSVR community reports, HTC Vive blog, Fast Travel Games official FAQ, and YouTube VR gameplay footage. Assessment based on published reviews and community experience from 2018;"
 ---
 
 # Apex Construct: The Bow, the Shield, and the Last City

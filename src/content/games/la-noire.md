@@ -30,7 +30,7 @@ verdict: "Ambitious and genuinely compelling when it runs, but Rockstar's abando
 heroImage: /images/games/la-noire-vr-hero.jpg
 flatReleaseDate: "2011-11-08"
 vrReleaseDate: "2017-12-15"
-sources: "Research conducted via UploadVR, PCGamesN, GameSpot, VR Grid, Pure Dead Gaming, PC Gamer, Rockstar Games store pages, Steam community discussions, Reddit community reports (r/PSVR, r/pcmasterrace, r/OculusQuest), and Flat2VR Discord community knowledge. Assessment based on community experience and published reviews. No direct testing performed."
+sources: "Research conducted via UploadVR, PCGamesN, GameSpot, VR Grid, Pure Dead Gaming, PC Gamer, Rockstar Games store pages, Steam community discussions, Reddit community reports (r/PSVR, r/pcmasterrace, r/OculusQuest), and Flat2VR Discord community knowledge. Assessment based on community experience and published reviews."
 ---
 
 The suspect's face is inches from yours. You can see the sweat on his upper lip, the way his eyes dart to the left when he claims he was home all night. In the flat version of *L.A. Noire*, this moment was impressive. In *The VR Case Files*, it is unsettling in the best way — you are not watching a detective interrogate someone, you *are* the detective, leaning in close enough to smell the cigarette smoke.

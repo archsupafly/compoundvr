@@ -30,7 +30,7 @@ tier: A
 verdict: "One of VR's finest narrative horror experiences, elevated by striking black-and-white visuals, an exceptional voice cast, and genuine atmosphere — though the combat never quite matches the quality of everything surrounding it."
 heroImage: /images/games/wilsons-heart-vr-hero.jpg
 vrReleaseDate: 2017-04-25
-sources: "Research conducted via Meta/Oculus store page, Wikipedia, Road to VR review, UploadVR review, PC World review, Dread Central coverage, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Meta/Oculus store page, Wikipedia, Road to VR review, UploadVR review, PC World review, Dread Central coverage, and YouTube VR gameplay footage."
 ---
 
 You wake up in a hospital bed, the room washed in stark blacks and whites like someone dialed the saturation out of reality itself. Storm clouds roll past the window. Rain hammers the glass. And then you look down at your chest and see that your heart — your actual, beating heart — has been replaced by a mechanical orb that pulses with an unnerving glow. That is the opening beat of *Wilson's Heart*, and it never really lets you catch your breath.

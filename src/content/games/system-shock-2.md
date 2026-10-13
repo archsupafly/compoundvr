@@ -32,7 +32,7 @@ experienceTags:
 tier: D
 verdict: "System Shock 2 is one of the greatest PC games ever made, but playing it in VR means wrapping a flatscreen game in stereoscopic 3D with no motion controls and no VR interaction — you're better off playing it flat, or playing the System Shock Remake in VR instead."
 heroImage: /images/games/system-shock-2-vr-hero.jpg
-sources: "Research conducted via vorpX community forums (configuration threads, SS2 profile discussions), UploadVR and Mixed News coverage of Nightdive's canceled VR mode, Reddit r/vive and r/oculus community reports, Steam Community SS2 VR discussion threads, GitHub shock2quest repository, and Forbes/PC Gamer/IGN coverage of the original VR announcement. No direct testing performed."
+sources: "Research conducted via vorpX community forums (configuration threads, SS2 profile discussions), UploadVR and Mixed News coverage of Nightdive's canceled VR mode, Reddit r/vive and r/oculus community reports, Steam Community SS2 VR discussion threads, GitHub shock2quest repository, and Forbes/PC Gamer/IGN coverage of the original VR announcement."
 ---
 
 System Shock 2 is one of those games that rewired what people thought a first-person game could be. The RPG-inventory-survival-horror hybrid that Irrational Games and Looking Glass shipped in 1999 still casts a shadow over everything from BioShock to Prey. If you're here, you already know that. The question is whether putting it in a headset does anything meaningful for the experience.

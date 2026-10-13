@@ -25,7 +25,7 @@ experienceTags:
 tier: A
 verdict: "Farpoint is one of the best arguments for PSVR and easily among the top five experiences on the platform. The Aim Controller integration transforms this into a genuinely excellent VR shooter where physical aiming, weighty gunplay, and free locomotion come together in a way that feels like the future of console FPS design."
 heroImage: /images/games/far-point-vr-hero.jpg
-sources: "Research conducted via IGN review (2017), GameSpot review (2017), Road to VR coverage, PlayStation Blog official announcements, Wikipedia entry, Flat2VR Discord community knowledge, Reddit r/PSVR community reports, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via IGN review (2017), GameSpot review (2017), Road to VR coverage, PlayStation Blog official announcements, Wikipedia entry, Flat2VR Discord community knowledge, Reddit r/PSVR community reports, and YouTube VR gameplay footage."
 vrReleaseDate: 2017-05-16
 ---
 

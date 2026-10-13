@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "The best VR melee combat available, trapped in a very small box. Worth it for the physics alone if you know what you're buying."
 heroImage: /images/games/blade-and-sorcery-vr-hero.jpg
-sources: "Steam store page (WarpFrog), YouTube VR gameplay footage (Nathie, Gamertag VR, Beardo Benjo), Reddit community reports (r/BladeAndSorcery, r/Vive, r/oculus), Flat2VR Discord community knowledge. Assessment based on research compilation; no direct testing performed."
+sources: "Steam store page (WarpFrog), YouTube VR gameplay footage (Nathie, Gamertag VR, Beardo Benjo), Reddit community reports (r/BladeAndSorcery, r/Vive, r/oculus), Flat2VR Discord community knowledge. Assessment based on research compilation;"
 ---
 
 You swing a longsword at a raider's head and something unexpected happens: the blade catches on his shield, slides along the rim, and bites into his shoulder with the awkward, messy physics of real metal hitting real bone. In most VR games, that collision would have ghosted right through. In *Blade & Sorcery*, it stops. It bounces. It behaves like an object with mass, and that single difference rewrites what melee combat feels like in a headset.

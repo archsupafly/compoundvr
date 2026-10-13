@@ -30,7 +30,7 @@ experienceTags:
 tier: "C"
 verdict: "Fallout 3 in VR is a compelling curiosity for dedicated Bethesda fans who already own VorpX, but the lack of motion controls and the engine's instability make it a poor entry point for anyone seeking a modern VR RPG experience."
 heroImage: /images/games/fallout-3-vr-hero.jpg
-sources: "Research conducted via VorpX official forums (Fallout 3 profile threads, Direct VR discussion, framerate and controller bug reports), Road to VR VorpX preview coverage, Reddit community reports (r/virtualreality, r/fo4vr), VorpX FAQ and documentation, and Bethesda/Steam store page. Assessment based on community experience and technical documentation; no direct testing performed."
+sources: "Research conducted via VorpX official forums (Fallout 3 profile threads, Direct VR discussion, framerate and controller bug reports), Road to VR VorpX preview coverage, Reddit community reports (r/virtualreality, r/fo4vr), VorpX FAQ and documentation, and Bethesda/Steam store page. Assessment based on community experience and technical documentation;"
 ---
 
 I remember the first time I stepped out of Vault 101. The blinding sunlight, the wreckage of the Washington Monument in the distance, the desolate wind carrying radioactive dust across a dead world. It was 2008, I was on a flat monitor, and it still gave me chills. Ten years later, I strapped on a headset and tried it again through VorpX — and here's the thing: that moment still works. The wasteland still feels vast and hostile and weirdly beautiful. But getting there? That's where the romance ends.

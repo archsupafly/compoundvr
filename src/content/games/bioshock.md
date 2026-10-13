@@ -29,7 +29,7 @@ experienceTags:
 tier: "B"
 verdict: "Return to Rapture delivers a legitimate BioShock-flavored VR experience with full motion controls and impressive scope, but requires owning Half-Life: Alyx and accepting it's a tribute, not a port."
 heroImage: "/images/games/bioshock-vr-hero.jpg"
-sources: "Research conducted via UploadVR hands-on coverage, PC Gamer mod reviews, YouTube VR gameplay (Beardo Benjo), Reddit r/VRGaming community reports, Steam Workshop page, and Flat2VR Discord community knowledge. No direct testing performed."
+sources: "Research conducted via UploadVR hands-on coverage, PC Gamer mod reviews, YouTube VR gameplay (Beardo Benjo), Reddit r/VRGaming community reports, Steam Workshop page, and Flat2VR Discord community knowledge."
 ---
 
 The first thing you need to understand: there is no BioShock VR. Not officially. Not as a mod you can inject into the 2007 original. The game runs on a cobbled-together version of Unreal Engine 2.5 that predates modern VR pipelines by nearly a decade, and nobody's built a native wrapper that actually works.

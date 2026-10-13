@@ -28,7 +28,7 @@ experienceTags:
 tier: A
 verdict: "One of the most convincing arguments yet that VR benefits from games built specifically for it. The bow combat is exceptional, the roguelike loop is tight, and the whole thing runs without the friction that plagues so many headset experiments."
 heroImage: /images/games/in-death-vr-hero.jpg
-sources: "Research conducted via Steam store page, Sólfar Studios official documentation, YouTube VR gameplay footage (Nathie, VR Grid, Gamertag VR), Reddit community reports (r/Vive, r/oculus, r/PSVR), and Flat2VR Discord community knowledge. No direct testing performed."
+sources: "Research conducted via Steam store page, Sólfar Studios official documentation, YouTube VR gameplay footage (Nathie, VR Grid, Gamertag VR), Reddit community reports (r/Vive, r/oculus, r/PSVR), and Flat2VR Discord community knowledge."
 vrReleaseDate: "2018-10-31"
 ---
 

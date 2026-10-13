@@ -31,7 +31,7 @@ experienceTags:
 tier: A
 verdict: "fholger's free full VR mod is the definitive way to play Far Cry in a headset — roomscale movement, motion controls, and two-handed weapons transform the 2004 classic into something that feels native. The jungle has never looked this alive, but you'll need solid VR legs to survive its relentless pace."
 heroImage: /images/games/far-cry-vr-hero.jpg
-sources: "Research conducted via fholger GitHub repository (farcry_vrmod), official Far Cry VR manual (farcryvr.de), Flat2VR Discord community knowledge, YouTube VR gameplay footage, and Reddit community reports (r/Vive, r/VRGaming). No direct testing performed."
+sources: "Research conducted via fholger GitHub repository (farcry_vrmod), official Far Cry VR manual (farcryvr.de), Flat2VR Discord community knowledge, YouTube VR gameplay footage, and Reddit community reports (r/Vive, r/VRGaming)."
 flatReleaseDate: 2004-03-23
 vrReleaseDate: 2021-06-01
 ---

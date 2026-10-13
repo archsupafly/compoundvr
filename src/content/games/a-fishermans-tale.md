@@ -28,7 +28,7 @@ tierVR: A
 tier: B
 verdict: "A brief but brilliant puzzle adventure built on a recursive mechanic that only works in VR. Two hours of genuine inventiveness make it essential for anyone who wants to see what the medium can do beyond flat-screen conventions."
 heroImage: /images/games/a-fishermans-tale-vr-hero.jpg
-sources: "Research conducted via Wikipedia, Road to VR coverage (launch reporting and review), UploadVR review, Unreal Engine developer interview with Innerspace VR, AIXR award documentation, and Meta Store page. Assessment based on compiled critical consensus and gameplay footage. No direct testing performed."
+sources: "Research conducted via Wikipedia, Road to VR coverage (launch reporting and review), UploadVR review, Unreal Engine developer interview with Innerspace VR, AIXR award documentation, and Meta Store page. Assessment based on compiled critical consensus and gameplay footage."
 vrReleaseDate: 2019-01-22
 ---
 

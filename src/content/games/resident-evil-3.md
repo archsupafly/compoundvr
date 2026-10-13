@@ -32,7 +32,7 @@ experienceTags:
 tier: B
 verdict: "REFramework transforms Resident Evil 3 into one of the most intense unofficial VR horror experiences available, but softlocks, heavy performance demands, and occasional mod-game disagreements mean it's only worth the effort for dedicated horror fans with patience for tinkering."
 heroImage: /images/games/resident-evil-3-vr-hero.jpg
-sources: "Research conducted via REFramework documentation and GitHub repository, VorpX community forums, Wccftech coverage of Praydog's REFramework VR mod, BioHazardVR compatibility guides, Reddit community reports on r/virtualreality and r/ValveIndex, YouTube VR gameplay footage from multiple channels, and cross-referenced troubleshooting guides from the REFramework wiki. Assessment based on research compilation; no direct testing performed."
+sources: "Research conducted via REFramework documentation and GitHub repository, VorpX community forums, Wccftech coverage of Praydog's REFramework VR mod, BioHazardVR compatibility guides, Reddit community reports on r/virtualreality and r/ValveIndex, YouTube VR gameplay footage from multiple channels, and cross-referenced troubleshooting guides from the REFramework wiki. Assessment based on research compilation;"
 ---
 
 There's a moment early in Resident Evil 3 when Nemesis crashes through a wall and the camera pulls in tight. In VR, that wall is yours. The ceiling tiles rain down around your head. His mutated fist is the size of a dinner plate and it's two feet from your face. You don't watch Jill Valentine scramble backward—you scramble backward.

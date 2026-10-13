@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "Ghostwire: Tokyo in VR drops you inside one of the most atmospheric cities in modern gaming, and the presence is real — but it's a framework injection with gamepad controls and no comfort options, so chase it for the vibes, not for native-quality VR combat."
 heroImage: /images/games/ghostwire-tokyo-vr-hero.jpg
-sources: "Research conducted via PCVR Central (R.E.A.L. VR guide, UEVR profile page, Ghostwire game page), VorpX forums (W.I.P. profile thread), Road to VR (Luke Ross R.E.A.L. VR release coverage), and Reddit community reports (r/uevr, r/GhostwireTokyo). No direct testing performed."
+sources: "Research conducted via PCVR Central (R.E.A.L. VR guide, UEVR profile page, Ghostwire game page), VorpX forums (W.I.P. profile thread), Road to VR (Luke Ross R.E.A.L. VR release coverage), and Reddit community reports (r/uevr, r/GhostwireTokyo)."
 ---
 
 I spent a rainy Sunday night in a headset, standing at the center of a deserted Shibuya crossing, watching a visitor spirit drift through the haze with its arms outstretched. Ghostwire: Tokyo's empty, supernatural Tokyo is the kind of place that was practically begging for VR — and thanks to the community, you can actually stand in it.

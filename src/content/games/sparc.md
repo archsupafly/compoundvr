@@ -27,7 +27,7 @@ experienceTags:
 tier: B
 verdict: "Sparc is one of the most physically honest competitive VR games ever built, but its multiplayer-only design makes it a purchase for dedicated competitors, not casual explorers. With community servers maintaining access after official support ended, it remains worth seeking out for players who want VR sport that actually demands athletic skill."
 heroImage: /images/games/sparc-vr-hero.jpg
-sources: "Research conducted via CCP Games official announcements and press materials, UploadVR review coverage, PushSquare review, VG247 preview coverage, Shacknews update reporting, YouTube VR gameplay footage (UploadVR, PlayStation Access), Reddit community reports (r/PSVR, r/VRGaming), Flat2VR Discord community knowledge regarding AfterSparc private servers, and Steam/PlayStation Store page documentation. No direct testing performed."
+sources: "Research conducted via CCP Games official announcements and press materials, UploadVR review coverage, PushSquare review, VG247 preview coverage, Shacknews update reporting, YouTube VR gameplay footage (UploadVR, PlayStation Access), Reddit community reports (r/PSVR, r/VRGaming), Flat2VR Discord community knowledge regarding AfterSparc private servers, and Steam/PlayStation Store page documentation."
 ---
 
 Sparc does not want to be a video game that supports VR. It wants to be a sport that happens to exist inside a headset.

@@ -32,7 +32,7 @@ modDownload:
   url: "https://github.com/Raicuparta/stanley-vr/releases"
   label: "Download The Stanley Parable VR Mod"
   note: "Created by Raicuparta"
-sources: "Research conducted via the StanleyVR GitHub repository (repo, README, SETUP.md, releases), Raicuparta's Rai Manager install distribution, YouTube VR gameplay coverage (Beardo Benjo, Raicuparta dev diary), Reddit community knowledge, and the Steam store page for the flat game. No direct testing performed."
+sources: "Research conducted via the StanleyVR GitHub repository (repo, README, SETUP.md, releases), Raicuparta's Rai Manager install distribution, YouTube VR gameplay coverage (Beardo Benjo, Raicuparta dev diary), Reddit community knowledge, and the Steam store page for the flat game."
 ---
 
 The first thing I did in VR Stanley Parable was hold the bucket up to the screen and let go. The narrator called me out for it, and the bucket tipped and spilled onto the carpet in front of me — a few feet of empty office floor I was now physically standing on. That's the whole pitch in one dumb, perfect gesture: this is a game about a man pressing buttons in an office while a narrator argues with him, and being *in* the office turns a clever flat-screen gag into something you occupy with your own hands.

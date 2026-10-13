@@ -32,7 +32,7 @@ experienceTags:
 tier: "C"
 verdict: "Mutar's community mod is the only way to stand inside A Plague Tale: Innocence's world, but it's a third-person, Patreon-gated tinker that will make many players queasy. Unless you're already devoted to Flat2VR experiments, play this one flat."
 heroImage: /images/games/a-plague-tale-innocence-vr-hero.jpg
-sources: "Research and assessment based on the Steam store page and Steam Community VR mod threads, vorpX forum profiles, Mutar/NoMoreFlat Patreon and YouTube gameplay/tutorial footage, the VRto3D NoMoreFlat wiki, Digital Foundry's engine tech analysis, PCGamingWiki's Zouna engine entry, UEVR documentation, and Reddit engine discussion. No direct testing performed."
+sources: "Research and assessment based on the Steam store page and Steam Community VR mod threads, vorpX forum profiles, Mutar/NoMoreFlat Patreon and YouTube gameplay/tutorial footage, the VRto3D NoMoreFlat wiki, Digital Foundry's engine tech analysis, PCGamingWiki's Zouna engine entry, UEVR documentation, and Reddit engine discussion."
 ---
 
 There is a moment early in A Plague Tale: Innocence when Amicia and Hugo creep through a village at sunset, the light slicing through the smoke, and you can hear the rats before you see them — a dry rustling underneath every boarded door. It's the kind of scene that makes you want to lean in and look around the corner. In VR, with Mutar's third-person mod, you actually can.

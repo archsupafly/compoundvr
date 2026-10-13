@@ -30,7 +30,7 @@ experienceTags:
 heroImage: /images/games/jurassic-park-aftermath-vr-hero.jpg
 tier: B
 verdict: "An excellent stealth-horror VR experience with AAA sound design and genuine tension, held back by repetitive encounters and platform exclusivity. Best suited for players who want a focused, atmospheric single-session thriller rather than a lengthy campaign."
-sources: "Research conducted via Wikipedia, UploadVR, Road to VR, GamingTrend PSVR2 review, Meta official blog on art direction, Coatsink developer materials, Reddit community impressions (r/OculusQuest, r/PSVR), and Flat2VR Discord community knowledge confirming native VR status. No direct testing performed."
+sources: "Research conducted via Wikipedia, UploadVR, Road to VR, GamingTrend PSVR2 review, Meta official blog on art direction, Coatsink developer materials, Reddit community impressions (r/OculusQuest, r/PSVR), and Flat2VR Discord community knowledge confirming native VR status."
 ---
 
 The first time a velociraptor stopped inches from my face and sniffed, I didn't move. Not because the game told me to freeze — because my actual body locked up. My brain knew it was cel-shaded. My nervous system didn't care.

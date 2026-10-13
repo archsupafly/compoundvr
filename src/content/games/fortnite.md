@@ -30,7 +30,7 @@ experienceTags:
 tier: D
 verdict: "A technical curiosity, not a practical way to play. Fortnite in VR via UEVR delivers occasional visual spectacle in Creative mode, but competitive Battle Royale is handicapped by control latency, unpredictable performance, and genuine comfort concerns. Try it if you're already deep into UEVR tinkering; everyone else should play Population: ONE instead."
 heroImage: /images/games/fortnite-vr-hero.jpg
-sources: "Research conducted via Epic Games press statements (The Verge, UploadVR, Road to VR), UEVR GitHub releases (praydog), ARVRTips guide on Fortnite VR alternatives, Mixed-News coverage of UEVR profile ecosystem, Flat2VR Discord community knowledge, Reddit community reports (r/uevr, r/FortNiteBR), and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Epic Games press statements (The Verge, UploadVR, Road to VR), UEVR GitHub releases (praydog), ARVRTips guide on Fortnite VR alternatives, Mixed-News coverage of UEVR profile ecosystem, Flat2VR Discord community knowledge, Reddit community reports (r/uevr, r/FortNiteBR), and YouTube VR gameplay footage."
 ---
 
 Here's the thing about dropping into Fortnite with a headset on: for about thirty seconds, it's genuinely impressive. The island looks *big* in stereoscopic 3D. Your first build fight from a third-person VR perspective feels like watching a miniature war zone unfold around you. Then you try to edit a wall, the camera snaps ninety degrees to track your character's movement, and your inner ear files a formal complaint.

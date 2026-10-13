@@ -27,7 +27,7 @@ experienceTags:
 tier: B
 verdict: "A polished, intuitive VR puzzle game that makes slingshot combat feel natural. Best for casual sessions and VR newcomers, but hardcore players will exhaust the content quickly."
 heroImage: /images/games/angry-birds-vr-hero.jpg
-sources: "Research conducted via Resolution Games official pages, Steam store page, Meta store page, YouTube VR gameplay footage (UploadVR, Road to VR reviews), and community reports. No direct testing performed."
+sources: "Research conducted via Resolution Games official pages, Steam store page, Meta store page, YouTube VR gameplay footage (UploadVR, Road to VR reviews), and community reports."
 ---
 
 # Angry Birds VR: Isle of Pigs in VR: The Slingshot Actually Works

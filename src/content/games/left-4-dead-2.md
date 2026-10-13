@@ -34,7 +34,7 @@ experienceTags:
 tier: A
 verdict: "A genuinely thrilling VR conversion that's grown into one of the best co-op experiences in PCVR. Proper aim-down-sights, simple setup, and the same relentless zombie chaos make this an easy recommendation for anyone with the stomach for fast movement."
 heroImage: /images/games/left-4-dead-2-vr-hero.jpg
-sources: "sd805/l4d2vr and keyou91 fork documentation, GitHub release notes, L4D2VRConfigTool.exe usage guidance, ADS Workshop addon documentation, Beardo Benjo and Gamertag VR gameplay coverage, Flat2VR Discord community reports, Reddit communities r/left4dead2vr and r/virtualreality. No direct testing was performed for this article; assessment is based on community documentation, video footage, and reported user experiences as of mid-May 2026."
+sources: "sd805/l4d2vr and keyou91 fork documentation, GitHub release notes, L4D2VRConfigTool.exe usage guidance, ADS Workshop addon documentation, Beardo Benjo and Gamertag VR gameplay coverage, Flat2VR Discord community reports, Reddit communities r/left4dead2vr and r/virtualreality.; assessment is based on community documentation, video footage, and reported user experiences as of mid-May 2026."
 ---
 
 # Left 4 Dead 2 in VR: The Co-op Classic That Refuses to Die

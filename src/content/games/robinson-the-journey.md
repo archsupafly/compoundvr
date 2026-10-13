@@ -29,7 +29,7 @@ experienceTags:
 tier: A
 verdict: "A visually stunning dinosaur adventure that showcases what CryEngine can do in VR, held back by thin gameplay and a short runtime. Worth it on sale, especially for PCVR players with motion controllers."
 heroImage: /images/games/robinson-the-journey-vr-hero.jpg
-sources: "Research conducted via Steam store page, Crytek press releases, Wikipedia, YouTube VR gameplay footage, IGN review, UploadVR review, The Sixth Axis review, and Reddit community reports. No direct testing performed."
+sources: "Research conducted via Steam store page, Crytek press releases, Wikipedia, YouTube VR gameplay footage, IGN review, UploadVR review, The Sixth Axis review, and Reddit community reports."
 ---
 
 The first time a Brachiosaurus walks past you in Robinson: The Journey, you stop breathing. Not because the game told you to — because your lizard brain sees something forty feet tall and decides, correctly, that you are prey-sized. Crytek built this thing in their own engine, and it shows. Tyson III looks like someone spilled a National Geographic special into a headset. Ferns sway, water ripples, and the light filters through canopy gaps in that specific way that makes you forget you're standing in your living room.

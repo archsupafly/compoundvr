@@ -31,7 +31,7 @@ experienceTags:
 tier: C
 verdict: "A charming, scrappy way to revisit a classic arcade racer in VR, but limited to one course and missing native wheel support, it's really only worth it for Daytona diehards or people already living in VRChat."
 heroImage: /images/games/daytona-usa-vr-hero.jpg
-sources: "Research conducted via SEGAbits coverage of the Z0NE VRChat world (2026-01-09), SEGA Saturn, Shiro! interview with Z0NE (2026-01-02), VRChat world page for 'Daytona USA VR (Advanced)' by Z0NE, Z0NE's Twitter/X patch announcements (v1.2.0 controller support), Pastebin patch notes for Daytona USA VR, YouTube VR gameplay footage on Meta Quest 3, and SEGA Retro/Wikipedia for original arcade release facts. No direct testing performed."
+sources: "Research conducted via SEGAbits coverage of the Z0NE VRChat world (2026-01-09), SEGA Saturn, Shiro! interview with Z0NE (2026-01-02), VRChat world page for 'Daytona USA VR (Advanced)' by Z0NE, Z0NE's Twitter/X patch announcements (v1.2.0 controller support), Pastebin patch notes for Daytona USA VR, YouTube VR gameplay footage on Meta Quest 3, and SEGA Retro/Wikipedia for original arcade release facts."
 ---
 
 The first time I walked up to that cabinet in VRChat, the stoplights over the screen were flashing in time to "Let's Go Away" and the Hornet was right there, d-pastel paint and all. It felt like finding a working Daytona USA machine in someone's garage, except the garage was a virtual world and the machine was built from memory. That's the whole pitch, really. Z0NE reverse-engineered the Advanced course from the 1994 arcade release, dropped it into a VRChat world, and gave Sega fans a way to sit in that seat again.

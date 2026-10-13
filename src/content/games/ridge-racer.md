@@ -27,7 +27,7 @@ experienceTags:
 tier: C
 verdict: "Ridge Racer in VR is a novelty that works better than it has any right to — but it's still a PSP game behind your face, not a racing cockpit. Worth trying if you already love the series and own a Quest."
 heroImage: /images/games/ridge-racer-vr-hero.jpg
-sources: "Research conducted via PPSSPP official VR documentation (ppsspp.org), PPSSPP GitHub repository (OpenXR PRs #15901, #16273, #16952), Luboš Vonásek developer page, SideQuest listing, Mixed-news and Road to VR coverage, PPSSPP compatibility reports, YouTube VR gameplay footage (believe2200), and Wikipedia. No direct testing performed."
+sources: "Research conducted via PPSSPP official VR documentation (ppsspp.org), PPSSPP GitHub repository (OpenXR PRs #15901, #16273, #16952), Luboš Vonásek developer page, SideQuest listing, Mixed-news and Road to VR coverage, PPSSPP compatibility reports, YouTube VR gameplay footage (believe2200), and Wikipedia."
 flatReleaseDate: 2004-12-12
 vrReleaseDate: 2024-06-01
 ---

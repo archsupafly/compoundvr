@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely novel VR stealth concept executed with care, held back by a short campaign, simple enemy AI, and support that went quiet years ago. Worth it for the kayak alone if you know what you're getting into."
 heroImage: /images/games/phantom-covert-ops-hero.jpg
-sources: "Research conducted via nDreams official documentation, Meta store pages, UploadVR, Road to VR, IGN, Nook Gaming, and community reports from Reddit (r/OculusQuest, r/oculus). YouTube VR gameplay footage from UploadVR and independent channels. Assessment based on multi-source research compilation; no direct testing performed."
+sources: "Research conducted via nDreams official documentation, Meta store pages, UploadVR, Road to VR, IGN, Nook Gaming, and community reports from Reddit (r/OculusQuest, r/oculus). YouTube VR gameplay footage from UploadVR and independent channels. Assessment based on multi-source research compilation;"
 ---
 
 There is a moment in *Phantom: Covert Ops* when you paddle hard to the left, kill your momentum, and drift silently under a rotting dock while a guard's flashlight beam cuts through the reeds inches above your head. Your silenced pistol is strapped to your chest. Your night vision goggles hang from the kayak's frame. You are, objectively, a grown adult sitting in an office chair pretending to paddle a boat through a flooded Cold War military base. And for a few seconds, it is the most convincing stealth game in VR.

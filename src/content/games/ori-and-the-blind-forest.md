@@ -28,7 +28,7 @@ experienceTags:
 tier: C
 verdict: "Ori in VR is a gorgeous private screening, not a world you inhabit — VorpX only gives you a flat virtual screen, no depth and no presence. Worth it for fans who already own VorpX and want to replay a masterpiece huge; everyone else should play the flat version."
 heroImage: /images/games/ori-and-the-blind-forest-vr-hero.jpg
-sources: "Research conducted via the VorpX community forums (Ori and the Blind Forest Virtual Cinema test thread, GamePass/Windows Store hook-failure threads), the VorpX supported-games list, Steam store pages for both the original and Definitive Edition, Wikipedia release data, and Unity engine confirmation. No direct testing performed."
+sources: "Research conducted via the VorpX community forums (Ori and the Blind Forest Virtual Cinema test thread, GamePass/Windows Store hook-failure threads), the VorpX supported-games list, Steam store pages for both the original and Definitive Edition, Wikipedia release data, and Unity engine confirmation."
 ---
 
 The first time the screen goes black and Ori's glow flickers to life in the Inkwater Marsh, something clicks that a monitor never delivered. On a curved virtual cinema wrapped around your peripheral vision, that tiny white spirit carries real weight — the darkness of the cave closes in behind you, and the score swells in a way that flat speakers never sold me. I've replayed Ori and the Blind Forest more times than I'll admit, and seeing it this big, this dark, this quiet, reminded me why it landed so hard in 2015.

@@ -28,7 +28,7 @@ vrReleaseDate: "2017-10-10"
 tier: A
 verdict: "One of the most essential VR arcade experiences ever made. Jeff Minter's tunnel shooter delivers a hypnotic, high-speed rush designed from the ground up for headsets, and it remains unmatched for pure sensory flow."
 heroImage: /images/games/polybius-vr-hero.jpg
-sources: "Research conducted via Steam store page, Metacritic aggregate scores, Wikipedia entry, VR Grid coverage, UploadVR PCVR announcement, PC Gamer coverage, Jeff Minter developer interviews (Game Developer, Llamasoft blog), Reddit community reports, and YouTube VR gameplay footage (The VR Grid, Nathie). No direct testing performed."
+sources: "Research conducted via Steam store page, Metacritic aggregate scores, Wikipedia entry, VR Grid coverage, UploadVR PCVR announcement, PC Gamer coverage, Jeff Minter developer interviews (Game Developer, Llamasoft blog), Reddit community reports, and YouTube VR gameplay footage (The VR Grid, Nathie)."
 ---
 
 The first time you hit a boost gate in *Polybius*, something clicks in your brain that flat games never reach. The tunnel tightens, the neon strobes harder, the tempo of the techno-trance soundtrack kicks up a notch, and your ship — if you can still call it that — is suddenly moving faster than your eyes can comfortably track. And yet you're grinning. Jeff Minter has spent decades making games that assault the senses in the best possible way, and in *Polybius* he finally has a medium that can keep up with him.

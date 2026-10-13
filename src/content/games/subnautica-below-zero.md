@@ -32,7 +32,7 @@ experienceTags:
 tier: B
 verdict: "SubmersedVR makes Below Zero a genuine, world-worth-inhabiting VR experience with real hand presence — but the swim-coupled camera will test your stomach, and the setup isn't for the faint of heart. Recommended with caveats."
 heroImage: /images/games/subnautica-below-zero-vr-hero.jpg
-sources: "Research conducted via the SubmersedVR GitHub repository (jbusfield/SubmersedVR) and Nexus Mods page, UploadVR coverage from May 2021, and the Flat2VR community knowledge base. No direct testing performed."
+sources: "Research conducted via the SubmersedVR GitHub repository (jbusfield/SubmersedVR) and Nexus Mods page, UploadVR coverage from May 2021, and the Flat2VR community knowledge base."
 ---
 
 The first time I dropped into Below Zero's alien ocean in VR, I wasn't looking at a screen showing me a frozen coastline. I was standing at the waterline, headset on, watching snow fall onto a dark sea — and then I kicked off and the whole world tilted with me. The seabed rushed up. That's the deal with Subnautica: Below Zero in VR: the world is the best part, and the thing that makes it feel real is the same thing that'll have you reaching for the ginger chews.

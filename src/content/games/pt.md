@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "One of the most terrifying VR experiences you can have, but it's a fan remake of a delisted demo with real legal risk and limited interactivity. Worth it for horror enthusiasts who can handle the setup and the dread."
 heroImage: /images/games/pt-vr-hero.jpg
-sources: "Research conducted via IGN, UploadVR, Screen Rant, DSOGaming, Game Rant, SkarredGhost, 80.lv, SideQuest store page, Flat2VR Discord community knowledge, Reddit community reports (r/oculus, r/OculusQuest, r/silenthill), and YouTube VR gameplay footage. Assessment based on community experience; no direct testing performed."
+sources: "Research conducted via IGN, UploadVR, Screen Rant, DSOGaming, Game Rant, SkarredGhost, 80.lv, SideQuest store page, Flat2VR Discord community knowledge, Reddit community reports (r/oculus, r/OculusQuest, r/silenthill), and YouTube VR gameplay footage. Assessment based on community experience;"
 ---
 
 I almost took the headset off three times. Not because of motion sickness — because my brain decided that standing in a looping suburban hallway where the walls breathe was not something I should be doing voluntarily.

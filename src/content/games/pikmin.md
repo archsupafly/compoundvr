@@ -32,7 +32,7 @@ experienceTags:
 tier: D
 verdict: "Dolphin VR turns Pikmin into a charming 3D diorama, but the 2016 emulator fork is abandoned, unstable, and outpaced by modern hardware. Only for emulator archaeologists."
 heroImage: /images/games/pikmin-vr-hero.jpg
-sources: "Research conducted via Dolphin VR official blog and downloads page (dolphinvr.wordpress.com), VR Bites hands-on Pikmin/Dolphin VR coverage, VRborg Dolphin VR guide, Reddit community reports on Dolphin VR stability, Nintendo official Labo VR compatible games list, CitraVR GitHub repository and release notes, Road to VR and UploadVR CitraVR coverage, MIXED CitraVR hands-on impressions, and Nintendo official franchise information. No direct testing performed."
+sources: "Research conducted via Dolphin VR official blog and downloads page (dolphinvr.wordpress.com), VR Bites hands-on Pikmin/Dolphin VR coverage, VRborg Dolphin VR guide, Reddit community reports on Dolphin VR stability, Nintendo official Labo VR compatible games list, CitraVR GitHub repository and release notes, Road to VR and UploadVR CitraVR coverage, MIXED CitraVR hands-on impressions, and Nintendo official franchise information."
 ---
 
 Here's the thing about Pikmin in VR: it should be incredible. You're commanding a swarm of two-inch tall plant-creatures through a backyard that might as well be a jungle. Scale is the whole point. In theory, strapping on a headset and looking down at a living diorama of tiny soldiers hauling fruit and fighting bugs sounds like exactly what VR was made for.

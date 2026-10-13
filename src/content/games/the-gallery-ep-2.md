@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A well-crafted VR-native adventure puzzle game that significantly improves on its predecessor in scope, length, and mechanical ambition. Still worth playing for fans of atmospheric VR exploration, though its age, occasional repetition, and placement in an unfinished series are real considerations."
 heroImage: /images/games/the-gallery-ep-2-vr-hero.jpg
-sources: "Research conducted via Steam store page, Cloudhead Games official site, Wikipedia, Metacritic, Road to VR review, UploadVR hands-on and preview coverage, and HowLongToBeat user data. No direct testing performed."
+sources: "Research conducted via Steam store page, Cloudhead Games official site, Wikipedia, Metacritic, Road to VR review, UploadVR hands-on and preview coverage, and HowLongToBeat user data."
 ---
 
 There is a moment early in *The Gallery Episode 2: Heart of the Emberstone* when you pull a cassette tape from a crevice in alien stone, thumb it into a player clipped to your backpack, and hear a voice from another world crackle into your ears. It is a deliberate gesture — physically picking up the tape, turning it over, slotting it home — and it tells you exactly what Cloudhead Games is aiming for. This is not a game that happens *around* you. It is a game that asks you to reach into it.

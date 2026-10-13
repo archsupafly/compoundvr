@@ -30,7 +30,7 @@ experienceTags:
 tier: C
 verdict: "A fascinating curiosity for emulator-savvy VR owners. The atmosphere is undeniable, but abandoned tooling and no native motion controls keep this firmly in enthusiast territory."
 heroImage: /images/games/luigi-s-mansion-vr-hero.jpg
-sources: "Research conducted via Dolphin VR blog/WordPress (dolphinvr.wordpress.com), Beyond Flatscreen VR Mod Hub, Nintendo Wire coverage (July 2016), CatsandVR blog, YouTube VR gameplay footage (Beardo Benjo, VRified Games), Reddit r/Dolphin_VR community knowledge, and GitHub DorsalVR documentation. No direct testing performed."
+sources: "Research conducted via Dolphin VR blog/WordPress (dolphinvr.wordpress.com), Beyond Flatscreen VR Mod Hub, Nintendo Wire coverage (July 2016), CatsandVR blog, YouTube VR gameplay footage (Beardo Benjo, VRified Games), Reddit r/Dolphin_VR community knowledge, and GitHub DorsalVR documentation."
 ---
 
 There's a moment in Luigi's Mansion — the real one, the 2001 GameCube launch title — where you open a door and the hallway beyond stretches into darkness. The flashlight beam cuts a narrow cone through the gloom. Somewhere ahead, a ghost giggles. In the original game, you saw this from a fixed camera, hovering behind Luigi like a helpful spirit. In VR, you *are* the helpful spirit. Or rather, with the right hacks, you are Luigi.

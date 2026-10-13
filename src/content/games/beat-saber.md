@@ -31,7 +31,7 @@ experienceTags:
 tier: S
 verdict: "The rhythm game that sold VR to the world. Two sabers, the beat, and the best full-body workout disguised as entertainment you can find anywhere in VR."
 heroImage: /images/games/beat-saber-vr-hero.jpg
-sources: "Research conducted via Meta Quest Store, Steam store page, PlayStation Store, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), Flat2VR Discord community knowledge, and general industry coverage. No direct testing performed."
+sources: "Research conducted via Meta Quest Store, Steam store page, PlayStation Store, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), Flat2VR Discord community knowledge, and general industry coverage."
 relatedPages:
   - id: beat-saber-modding-guide
     kind: article

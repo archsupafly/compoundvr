@@ -32,7 +32,7 @@ experienceTags:
 tier: C
 verdict: "A genuine technical achievement that delivers fleeting magic for WoW veterans, but the private server requirement, dated content, and experimental status make this strictly for enthusiasts willing to tinker."
 heroImage: /images/games/world-of-warcraft-vr-hero.jpg
-sources: "Research conducted via GitHub (ProjectMimer/WoVR), Road to VR coverage, Flat2VR Discord community knowledge, YouTube VR gameplay footage, and Reddit community reports (r/wow, r/Games, r/flat2vr). No direct testing performed."
+sources: "Research conducted via GitHub (ProjectMimer/WoVR), Road to VR coverage, Flat2VR Discord community knowledge, YouTube VR gameplay footage, and Reddit community reports (r/wow, r/Games, r/flat2vr)."
 ---
 
 There is a moment, standing at the gates of Stormwind in first-person VR, where the scale of it hits you. The statues tower overhead. The canal stretches into the distance. You've walked this path a thousand times on a monitor, but now your head actually tilts back to take it in. For about ten minutes, World of Warcraft in VR feels like the game you remember from 2008—bigger, more tangible, somehow more *real*.

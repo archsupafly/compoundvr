@@ -29,7 +29,7 @@ experienceTags:
 tier: D
 verdict: "If you already own the SEGA Genesis Classics collection on Steam, the VR mode is a cute way to revisit Vectorman 2. If you don't, it's been delisted — and even when it was available, the 'VR' was just a virtual bedroom with a CRT TV. No stereoscopic 3D, no motion controls, no meaningful immersion. For everyone else, there are better ways to play this game."
 heroImage: /images/games/vectorman-2-vr-hero.jpg
-sources: "Research conducted via Wikipedia (Sega Genesis Classics game list), UploadVR coverage of the May 2018 VR update, Ars Technica coverage of SegaVR-DGenSDL emulator project, Rich Whitehouse blog post on Sega VR emulation, SteamDB and Steam store pages for App ID 34270 and 211208, GitHub repositories for SegaVR-DGenSDL and VirtualGens, and Steam Community discussions. No direct testing performed."
+sources: "Research conducted via Wikipedia (Sega Genesis Classics game list), UploadVR coverage of the May 2018 VR update, Ars Technica coverage of SegaVR-DGenSDL emulator project, Rich Whitehouse blog post on Sega VR emulation, SteamDB and Steam store pages for App ID 34270 and 211208, GitHub repositories for SegaVR-DGenSDL and VirtualGens, and Steam Community discussions."
 ---
 
 # Vectorman 2: The VR Bedroom That Time Forgot

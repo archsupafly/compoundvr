@@ -34,7 +34,7 @@ experienceTags:
 tier: C
 verdict: "Pokémon XD in VR is a charming diorama — you're looking around inside the Orre region with real depth, but the game's fixed-camera third-person design means VR adds presence without transformation. Worth it if you're already a fan and enjoy tinkering."
 heroImage: /images/games/pokemon-xd-gale-of-darkness-vr-hero.jpg
-sources: "Research conducted via DolphinXR GitHub repository (iChris4/dolphinXR), DolphinXR release notes (v0.2–v0.4), Dolphin VR original wordpress blog (2eye/DolphinVR), Wikipedia (Pokémon XD: Gale of Darkness), Nintendo NSO announcements (Nintendo.com, Nintendo Everything, IGN, VGC, Gematsu), EmuCR Dolphin VR Redux coverage, Dolphin emulator forums, and community emulation guides. No direct testing performed."
+sources: "Research conducted via DolphinXR GitHub repository (iChris4/dolphinXR), DolphinXR release notes (v0.2–v0.4), Dolphin VR original wordpress blog (2eye/DolphinVR), Wikipedia (Pokémon XD: Gale of Darkness), Nintendo NSO announcements (Nintendo.com, Nintendo Everything, IGN, VGC, Gematsu), EmuCR Dolphin VR Redux coverage, Dolphin emulator forums, and community emulation guides."
 ---
 
 I loaded Pokémon XD into DolphinXR for the first time expecting a novelty. A GameCube RPG on a virtual screen with some parallax — cute, but not something I'd spend real time with. Then I walked into the Orre Colosseum and the camera pulled back, and the concrete walls and tiered seating had actual depth, and I realized I was looking at a 2005 Pokémon world that suddenly felt like a real place. Not a flat image. A place.

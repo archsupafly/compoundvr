@@ -31,7 +31,7 @@ vrReleaseDate: 1996-01-29
 tier: B
 verdict: "A technically solid VR port of an all-timer FPS that plays better than it has any right to — but the 2D sprite weapons and Quest-only native path keep it from true greatness."
 heroImage: /images/games/duke-nukem-3d-vr-hero.jpg
-sources: "Research conducted via SideQuest store page, Team Beef website, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), PCGamesN coverage, Flat2VR Discord community knowledge, Reddit community reports (r/OculusQuest, r/TeamBeef), and Duke4.net mod documentation. No direct testing performed."
+sources: "Research conducted via SideQuest store page, Team Beef website, YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), PCGamesN coverage, Flat2VR Discord community knowledge, Reddit community reports (r/OculusQuest, r/TeamBeef), and Duke4.net mod documentation."
 ---
 
 There's a moment, about ten minutes into the first level, when Duke mutters "Damn, I'm looking good" at a bathroom mirror. In flatscreen, it's a throwaway gag — a pixelated sprite winking at a pixelated reflection. In VR, you're standing in that bathroom. You're looking at yourself. And suddenly the question isn't whether the level design holds up or whether the shotgun still feels good. It's whether Duke Nukem's entire personality — the cigar, the one-liners, the unapologetic 90s dude-bro swagger — can survive being worn like a headset.

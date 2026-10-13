@@ -28,7 +28,7 @@ experienceTags:
 tier: "C"
 verdict: "Battle Kid in VR is a visual curiosity for 3dSen VR owners, not a reason to buy the emulator. The voxel diorama presentation is novel, but the extreme difficulty and lack of VR-native features make this a niche experience for retro enthusiasts only."
 heroImage: /images/games/battle-kid-vr-hero.jpg
-sources: "Research conducted via Wikipedia, 3dSen VR Steam store page, Geod Studio Itch.io devlog (Battle Kid profile announcement, Dec 24 2018), GameTyrant 3dSen review, Time Extension coverage, Reddit r/virtualreality community reports. No direct testing performed."
+sources: "Research conducted via Wikipedia, 3dSen VR Steam store page, Geod Studio Itch.io devlog (Battle Kid profile announcement, Dec 24 2018), GameTyrant 3dSen review, Time Extension coverage, Reddit r/virtualreality community reports."
 ---
 
 I died 47 times in the first fifteen minutes. Not because the VR was broken—because Battle Kid is an NES platformer that hates you, and that's exactly how it was designed.

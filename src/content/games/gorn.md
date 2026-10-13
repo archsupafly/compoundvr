@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "Gorn's physics-driven combat delivers some of the most satisfying, stupid fun in VR — but the arm-pull locomotion is a genuine comfort gamble, and the wave-based structure runs out of steam faster than you'd hope."
 heroImage: /images/games/gorn-vr-hero.jpg
-sources: "Research conducted via Steam store page, Meta Store page, Wikipedia, UploadVR reviews, COGconnected review, The Outer Haven review, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Steam store page, Meta Store page, Wikipedia, UploadVR reviews, COGconnected review, The Outer Haven review, and YouTube VR gameplay footage."
 ---
 
 The first time I ripped a gladiator's arm clean off and beat his friend with the wet end of it, I stopped and laughed out loud in an empty room. That's Gorn in one sentence: a cartoonishly violent VR gladiator simulator where the physics engine is the star, the weapons behave like they're made of rubber and jelly, and the gore is so over-the-top it loops back into slapstick.

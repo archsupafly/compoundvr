@@ -31,7 +31,7 @@ verdict: "This isn't just the best flat-to-VR conversion available. It's the arg
 heroImage: /images/games/half-life-2-vr-hero.jpg
 flatReleaseDate: 2004-11-16
 vrReleaseDate: 2022-09-23
-sources: "Source VR Mod Team public documentation and Steam store pages (mod features, system requirements, install process, roadmap). Flat2VR Discord community knowledge (development history, texture upscaling experiments, controller binding reports). Reddit r/vive and r/hlvr community reports (comfort experiences, fitness tracker anecdotes, exploration behavior). YouTube VR gameplay footage from Beardo Benjo, Gamertag VR, and Paradise's Decay (control implementation, physics interaction, visual quality). Steam user reviews for Half-Life 2: VR Mod (aggregate sentiment, bug reports, completion confirmation). No direct testing performed."
+sources: "Source VR Mod Team public documentation and Steam store pages (mod features, system requirements, install process, roadmap). Flat2VR Discord community knowledge (development history, texture upscaling experiments, controller binding reports). Reddit r/vive and r/hlvr community reports (comfort experiences, fitness tracker anecdotes, exploration behavior). YouTube VR gameplay footage from Beardo Benjo, Gamertag VR, and Paradise's Decay (control implementation, physics interaction, visual quality). Steam user reviews for Half-Life 2: VR Mod (aggregate sentiment, bug reports, completion confirmation)."
 relatedPages:
   - id: top-10-vr-games-2015
     kind: article

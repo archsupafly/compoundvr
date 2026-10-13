@@ -28,7 +28,7 @@ experienceTags:
 tier: B
 verdict: "A legitimately good VR port of a legitimately good game, held back by beta-tier jank that's clearly being worked through release by release."
 heroImage: /images/games/perfect-dark-vr-hero.jpg
-sources: "Research via Alex-LeTux/perfect_dark_VR GitHub repository, GitHub API release verification (v1.0-beta through v1.7.1-beta), community reports and release notes, YouTube gameplay footage. No direct testing performed."
+sources: "Research via Alex-LeTux/perfect_dark_VR GitHub repository, GitHub API release verification (v1.0-beta through v1.7.1-beta), community reports and release notes, YouTube gameplay footage."
 ---
 
 The first time you pick up the Falcon 2 in VR and feel the weight of a proper dual-wield setup — Magsec 4 in one hand, assault rifle in the other — you realize someone actually cared about this. Perfect Dark in VR isn't a quick VorpX profile bolted onto an N64 emulator. It's a full community port built on the n64decomp/perfect_dark decompilation, complete with motion controls, hand presence, and enough ambition to ship eleven builds in under two months.

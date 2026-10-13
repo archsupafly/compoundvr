@@ -35,7 +35,7 @@ modDownload:
   url: "https://github.com/CactusVRStudios/KHARVOX-ARGENT"
   label: "Download Doom Eternal VR Mod"
   note: "Created by CactusVRStudios"
-sources: "Assessment based on the KHARVOX: ARGENT GitHub repository and README, GitHub Releases API data, and YouTube VR coverage (Beardo Benjo, VR DaD, LunchAndVR, PCVR Gamer, JShodanVR, NotAGameAddict). Reddit and Flat2VR Discord were attempted without usable reception data. No direct testing performed."
+sources: "Assessment based on the KHARVOX: ARGENT GitHub repository and README, GitHub Releases API data, and YouTube VR coverage (Beardo Benjo, VR DaD, LunchAndVR, PCVR Gamer, JShodanVR, NotAGameAddict). Reddit and Flat2VR Discord were attempted without usable reception data."
 history:
   - date: 2026-09-29
     note: "KHARVOX: ARGENT released v1.0, a native Vulkan VR conversion of Doom Eternal with full motion controls, Virtual Gunstock two-hand support, snap turning and optional bHaptics and PSVR2 haptics."

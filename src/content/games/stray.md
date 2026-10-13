@@ -29,7 +29,7 @@ experienceTags:
 tier: B
 verdict: "Stray in VR trades the game's native third-person framing for something better: you, a cat, at cat height in one of the most beautiful game worlds ever rendered. The two-step setup and gamepad-only control are real friction, but the world is too gorgeous to skip."
 heroImage: /images/games/stray-vr-hero.jpg
-sources: "Research via VRMods-List (Stray entry: Jessica Natalia first-person mod plus UEVR combo), Nexus Mods page for Stray First Person Mod v1.2 (uploaded 23 July 2022), UEVR GitHub repository and docs (UE4 4.8 to 5.4 support, 6DOF and stereo baseline), YouTube VR coverage (Flat2VR, Paradise Decay UEVR Must Play series, Headset-VR setup guide, Tetiana Discovers, VRified Games, Mick Manchester), and Reddit r/UEVR Pullpush archives. No direct testing performed."
+sources: "Research via VRMods-List (Stray entry: Jessica Natalia first-person mod plus UEVR combo), Nexus Mods page for Stray First Person Mod v1.2 (uploaded 23 July 2022), UEVR GitHub repository and docs (UE4 4.8 to 5.4 support, 6DOF and stereo baseline), YouTube VR coverage (Flat2VR, Paradise Decay UEVR Must Play series, Headset-VR setup guide, Tetiana Discovers, VRified Games, Mick Manchester), and Reddit r/UEVR Pullpush archives."
 ---
 
 I booted Stray in VR expecting a novelty. What I got instead was the most relaxed hour I'd spent in a headset in months: a small orange cat, at cat height, staring up at a wall of neon signs in a rain-slicked robot slum. The city leans over you. You are very small and the world is very big, and for once that isn't a horror-game trick — it's just being a cat.

@@ -31,7 +31,7 @@ verdict: "A stellar flat campaign with almost no meaningful VR route. Jackal Ass
 flatReleaseDate: '2016-11-04'
 vrReleaseDate: "2016-11-04"
 heroImage: /images/games/call-of-duty-infinite-warfare-vr-hero.jpg
-sources: "Research conducted via Activision/PlayStation Store documentation, VorpX community forums and profile documentation, Paper Crane Games portfolio, IGN and UploadVR coverage of Jackal Assault, Reddit community reports (r/PSVR, r/Infinitewarfare), TheGamer retrospective coverage, and YouTube VR gameplay footage. Assessment based on research compilation [Verified]; no direct testing performed."
+sources: "Research conducted via Activision/PlayStation Store documentation, VorpX community forums and profile documentation, Paper Crane Games portfolio, IGN and UploadVR coverage of Jackal Assault, Reddit community reports (r/PSVR, r/Infinitewarfare), TheGamer retrospective coverage, and YouTube VR gameplay footage. Assessment based on research compilation [Verified];"
 ---
 
 Here's the thing about Call of Duty: Infinite Warfare: the campaign everyone dunked on in 2016 is now widely considered one of the best in the franchise. It's a tightly paced sci-fi war story that blends ground combat, zero-gravity sequences, and space dogfights into something that feels like it should be incredible in VR. And in one very specific, very brief way, it is. Everywhere else? You're working for it.

@@ -34,7 +34,7 @@ heroImage: /images/games/vtol-vr-vr-hero.jpg
 history:
   - date: 2026-09-11
     note: "v1.13.0 shipped after a development hiatus, resuming active updates with broad mechanic improvements and new Steam features."
-sources: "Steam store page (store.steampowered.com/app/667970/VTOL_VR, fetched 2026-10-05); SteamDB patchnotes for v1.13.0 (11 Sept 2026); YouTube coverage survey (OperatorDrewski, Capachili, SpyCakes, Tuuvas) via yt-dlp search 2026-10-05; best-of-VR-flight-sim roundups (flyawaysimulation.com, gg.deals, simracingcockpit.gg, 5thscape.com); r/vtolvr and r/hotas community threads via web-search; Steam community discussions. No direct testing performed."
+sources: "Steam store page (store.steampowered.com/app/667970/VTOL_VR, fetched 2026-10-05); SteamDB patchnotes for v1.13.0 (11 Sept 2026); YouTube coverage survey (OperatorDrewski, Capachili, SpyCakes, Tuuvas) via yt-dlp search 2026-10-05; best-of-VR-flight-sim roundups (flyawaysimulation.com, gg.deals, simracingcockpit.gg, 5thscape.com); r/vtolvr and r/hotas community threads via web-search; Steam community discussions."
 ---
 
 There's a specific moment in VTOL VR that ruins flat flight sims for you. You spawn cold on the ramp, reach down with your actual hand, and grab the throttle. The throttle is a physical object in a cockpit you're sitting inside, and when you push it forward the engines spool up and the airframe shudders under you. Twenty minutes later you're flipping a half-dozen switches with one hand while you crane your neck to keep a bandit in sight, and you realize your body is doing the job a four-hundred-dollar HOTAS was supposed to do.

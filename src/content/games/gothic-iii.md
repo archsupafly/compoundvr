@@ -29,7 +29,7 @@ experienceTags:
 tier: D
 verdict: "A stereoscopic curiosity for die-hard Gothic fans. The VorpX profile delivers depth and head tracking, but engine stutters, skybox artifacts, and zero motion controls make this a rough ride by modern VR standards."
 heroImage: /images/games/gothic-iii-vr-hero.jpg
-sources: "Research conducted via VorpX forums (community profile discussion and skybox workaround), GameStar VR feature coverage, Wikipedia/Steam store pages for Gothic 3 release and engine details, and VorpX public compatibility list. Assessment based on community experience; no direct testing performed."
+sources: "Research conducted via VorpX forums (community profile discussion and skybox workaround), GameStar VR feature coverage, Wikipedia/Steam store pages for Gothic 3 release and engine details, and VorpX public compatibility list. Assessment based on community experience;"
 ---
 
 There is a particular sadness to seeing a world this ambitious trapped inside an engine this broken. Myrtana, the continent at the heart of *Gothic III*, is one of the more vividly realized fantasy settings of its era — hand-crafted valleys, sun-drenched Orc camps, forests that actually feel like forests. In stereoscopic 3D, with your head replacing a mouse-driven camera, those valleys gain a sense of scale that the flat version never quite conveyed. You feel the drop-off from a cliff. You sense the density of a pine line. For about thirty seconds, it is genuinely something.

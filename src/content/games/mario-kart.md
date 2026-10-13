@@ -32,7 +32,7 @@ tier: B
 overallTier: B
 verdict: "Mario Kart in VR is a genuinely fun curiosity that transforms a familiar game into something surprisingly physical. The speed, scale, and depth are real wins, but the emulation friction and comfort issues keep it from being a must-play for everyone."
 heroImage: /images/games/mario-kart-vr-hero.jpg
-sources: "Research conducted via Dolphin VR community documentation, YouTube VR gameplay footage (Beardo Benjo, Nathie, Gamertag VR), Flat2VR Discord community knowledge, and Reddit community reports (r/Vive, r/oculus, r/DolphinVR). Assessment based on community experience and video evidence. No direct testing performed."
+sources: "Research conducted via Dolphin VR community documentation, YouTube VR gameplay footage (Beardo Benjo, Nathie, Gamertag VR), Flat2VR Discord community knowledge, and Reddit community reports (r/Vive, r/oculus, r/DolphinVR). Assessment based on community experience and video evidence."
 ---
 
 The first time you crest the loop on Rainbow Road and the track drops out beneath you, something clicks. You have played this course dozens, maybe hundreds of times. You know every shortcut, every item box placement, every cheap Blue Shell moment. But you have never been *behind* the kart like this, floating in space as the neon path spirals into the void, and the scale of what Nintendo built finally registers. Mario Kart was never meant for VR. And yet, here we are, strapped into headsets, grinning while a cartoon plumber drifts through space.

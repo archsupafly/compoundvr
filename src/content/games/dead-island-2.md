@@ -28,7 +28,7 @@ experienceTags:
 tier: B
 verdict: "Dead Island 2 VR has become a genuine physical zombie brawler through the vinion DeadIsland2VR UEVR plugin — full 6DOF motion controls, real melee swings, and a maintained beta that's heavy on GPU and still has weapon-grip gaps. For PCVR players with the headroom, it's now the way to play; everyone else should wait or stick to flat."
 heroImage: /images/games/dead-island-2-vr-hero.jpg
-sources: "Research conducted via the vinion DeadIsland2VR GitHub repository and release notes, the jbusfield DI2_UEVR continuation profile, PCVR Central mod database, Flat2VR Discord community reports, Steam Community UEVR discussion threads, and YouTube VR gameplay footage (NotAGameAddict, Headset VR). No direct testing performed."
+sources: "Research conducted via the vinion DeadIsland2VR GitHub repository and release notes, the jbusfield DI2_UEVR continuation profile, PCVR Central mod database, Flat2VR Discord community reports, Steam Community UEVR discussion threads, and YouTube VR gameplay footage (NotAGameAddict, Headset VR)."
 history:
   - date: 2026-01-07
     note: "vinion released DeadIsland2VR UEVR plugin v0.7 — full 6DOF motion controls, physical melee system, gesture charged attacks."

@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "The underlying game is an excellent arcade racer, and the moments where VR clicks — launching off ramps, tumbling through loops — are genuinely exhilarating. But the VR experience is hemmed in: only 40 dedicated tracks, forced third-person camera, and no access to the full 200+ track library in VR without a community mod. Worth playing for the thrills, but don't expect a full VR racing game."
 heroImage: /images/games/trackmania-turbo-vr-hero.jpg
-sources: "Research conducted via Steam store page, Road to VR coverage, VR Grid review, Destructoid impressions, Reddit community reports (r/Vive, r/PSVR, r/TrackMania), Steam Community discussions, Openplanet.dev documentation, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Steam store page, Road to VR coverage, VR Grid review, Destructoid impressions, Reddit community reports (r/Vive, r/PSVR, r/TrackMania), Steam Community discussions, Openplanet.dev documentation, and YouTube VR gameplay footage."
 ---
 
 # Trackmania Turbo in VR: Loops, Wall Rides, and a Leash

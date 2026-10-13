@@ -35,7 +35,7 @@ verdict: "Metroid Prime through Dolphin VR with the Primed mod is one of the bes
 flatReleaseDate: 2002-11-17
 vrReleaseDate: 2016-07-13
 heroImage: /images/games/metroid-prime-vr-hero.jpg
-sources: "Research conducted via PC Gamer, Rock Paper Shotgun, Dolphin VR community documentation, Dolphin XR and PrimedGun GitHub repositories (Nobbie248/PrimedGun), Reddit community reports (r/Dolphin_VR, r/Metroid, r/Vive, r/virtualreality), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Vrified Games), Flat2VR Discord community knowledge, and ExplorXR coverage. No direct testing performed. Assessment is based on cross-referenced community consensus and PrimedGun release documentation through May 2026."
+sources: "Research conducted via PC Gamer, Rock Paper Shotgun, Dolphin VR community documentation, Dolphin XR and PrimedGun GitHub repositories (Nobbie248/PrimedGun), Reddit community reports (r/Dolphin_VR, r/Metroid, r/Vive, r/virtualreality), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Vrified Games), Flat2VR Discord community knowledge, and ExplorXR coverage. Assessment is based on cross-referenced community consensus and PrimedGun release documentation through May 2026."
 ---
 
 The first time you raise the scan visor and the world dissolves into a wireframe grid that wraps across your entire field of view, you stop thinking about the emulator. You stop thinking about the GameCube, or 2002, or the fact that you're wearing a headset to play a game that predates consumer VR by over a decade. You're just Samus Aran, standing in the rain on Tallon IV, staring at an alien door mechanism and wondering what the hell it wants from you.

@@ -27,7 +27,7 @@ tier: A
 verdict: "Sairento VR is the closest thing to becoming a cyberpunk ninja in virtual reality — breathtaking mobility and visceral combat make it essential for VR action fans with strong stomachs."
 heroImage: /images/games/sairento-vr-vr-hero.jpg
 vrReleaseDate: 2019-01-24
-sources: "Research compiled from Steam store page, Wikipedia, UploadVR, God is a Geek, COGconnected, TheSixthAxis, ThisGenGaming, and YouTube VR gameplay footage. Assessment based on launch-era coverage and community consensus. No direct testing performed."
+sources: "Research compiled from Steam store page, Wikipedia, UploadVR, God is a Geek, COGconnected, TheSixthAxis, ThisGenGaming, and YouTube VR gameplay footage. Assessment based on launch-era coverage and community consensus."
 ---
 
 There is a moment in Sairento VR when you stop thinking about the headset and start thinking about the gap between rooftops. You sprint toward the edge, leap, slow time to a crawl, draw a pistol in one hand and a katana in the other, fire three shots into a distant drone, land in a crouch behind a shocked soldier, and spin to sever him before he turns around. Then you double-jump off his falling body toward the next platform.

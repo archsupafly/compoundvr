@@ -33,7 +33,7 @@ heroImage: /images/games/kayak-vr-mirage-vr-hero.jpg
 history:
   - date: 2023-02-22
     note: "Released as a PSVR2 launch title with Sense controller haptics and adaptive triggers."
-sources: "Research conducted via Steam store page (app 1683340), SteamDB info and patch notes, official site (kayakvr.com), VR & AR Wiki, UploadVR PSVR2 review, GameSpew PSVR2 review, Push Square PSVR2 review, PSU PSVR2 review, Reddit community threads (r/VRGaming, r/PS5, r/KayakVR), and YouTube coverage (Beardo Benjo, The VR GRID, Virtual Josh, A Wolf in VR, official PlayStation Soča Valley trailer). No direct testing performed."
+sources: "Research conducted via Steam store page (app 1683340), SteamDB info and patch notes, official site (kayakvr.com), VR & AR Wiki, UploadVR PSVR2 review, GameSpew PSVR2 review, Push Square PSVR2 review, PSU PSVR2 review, Reddit community threads (r/VRGaming, r/PS5, r/KayakVR), and YouTube coverage (Beardo Benjo, The VR GRID, Virtual Josh, A Wolf in VR, official PlayStation Soča Valley trailer)."
 ---
 
 I've paddled a lot of virtual water in my time in the headset, and most of it looks like a screensaver with current. Then I launched Kayak VR: Mirage, pushed off from an Antarctic shoreline, and sat there for a full minute just taking in the size of the ice behind me. The scale is wrong in the best way — meaning it's right, and my brain believed it. That's the whole pitch in one frozen moment: this is what a kayak actually feels like, not what a trailer tells you it feels like.

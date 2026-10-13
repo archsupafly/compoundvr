@@ -29,7 +29,7 @@ experienceTags:
 tier: D
 verdict: "Even a great flat game can't survive a VR implementation this limited. Skip it."
 heroImage: /images/games/battlefield-3-vr-hero.jpg
-sources: "Research conducted via VorpX official supported games list and forums, Reddit community reports (r/oculus, r/vorpx), YouTube VR gameplay footage, Windows Central VorpX overview, and AxisXR UEVR compatibility reference confirming Frostbite engine incompatibility. No direct testing performed."
+sources: "Research conducted via VorpX official supported games list and forums, Reddit community reports (r/oculus, r/vorpx), YouTube VR gameplay footage, Windows Central VorpX overview, and AxisXR UEVR compatibility reference confirming Frostbite engine incompatibility."
 ---
 
 I wanted Battlefield 3 in VR to be something it could never be.

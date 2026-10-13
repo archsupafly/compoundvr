@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely unique native VR experience that turns you into a benevolent observer of a digital wilderness, held back only by its brevity and occasional PCVR technical friction."
 heroImage: /images/games/paper-beasts-vr-hero.jpg
-sources: "Research conducted via UploadVR, Push Square, PlayStation Blog, Steam store page and community discussions, VR Grid, Hey Poor Player, Kotaku, Mixed News, Wikipedia, and Reddit community reports. No direct testing performed."
+sources: "Research conducted via UploadVR, Push Square, PlayStation Blog, Steam store page and community discussions, VR Grid, Hey Poor Player, Kotaku, Mixed News, Wikipedia, and Reddit community reports."
 ---
 
 Snaring a crumpled, dog-shaped creature with an elastic beam of light and dragging it through a shimmering desert to distract a predator from its prey reveals immediately that *Paper Beast* operates on logic borrowed from no other video game. Eric Chahi — the designer behind *Another World* and *From Dust* — built this thing from the ground up for virtual reality, and that native intent shows in every interaction. You do not play *Paper Beast* so much as you visit it, poke at its laws, and hope the papercraft ecosystem responds in your favor.

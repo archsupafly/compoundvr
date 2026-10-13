@@ -32,7 +32,7 @@ experienceTags:
 tier: B
 verdict: "A polished and genuinely comfortable official VR port with a compelling surveillance narrative. The mobile origins show, but the concept translates to VR better than expected."
 heroImage: /images/games/republique-vr-hero.jpg
-sources: "Research compiled from Camouflaj official site, Meta Quest Store page, Steam VR store page, UploadVR review, Meta developer blog post on VR optimization, Reddit r/OculusQuest community reports, YouTube VR gameplay footage, Wikipedia, and IGN/Eurogamer base game reviews. Assessment based on developer documentation cross-referenced with independent community reports. No direct testing performed."
+sources: "Research compiled from Camouflaj official site, Meta Quest Store page, Steam VR store page, UploadVR review, Meta developer blog post on VR optimization, Reddit r/OculusQuest community reports, YouTube VR gameplay footage, Wikipedia, and IGN/Eurogamer base game reviews. Assessment based on developer documentation cross-referenced with independent community reports."
 ---
 
 There's a very specific feeling that happens about thirty minutes into Republique VR. You're sitting in a chair, headset on, physically leaning forward to peer around the edge of a security camera's view, watching a young woman named Hope crouch behind a filing cabinet while a guard patrols past. You hold your breath. She holds hers. The camera angle is tight, the audio is crisp, and for a moment you forget you're in your living room because you are the surveillance system — the invisible eye guiding someone through a nightmare.

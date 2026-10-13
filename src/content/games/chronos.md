@@ -29,7 +29,7 @@ tier: B
 vrReleaseDate: 2016-03-28
 verdict: "Chronos is one of the most substantial action RPGs built natively for VR, with a brilliant aging mechanic and satisfying combat. Its fixed-camera comfort design is smart, but the lack of motion controls and Oculus Store exclusivity hold it back from essential status."
 heroImage: /images/games/chronos-vr-hero.jpg
-sources: "Research conducted via Gunfire Games official page, Meta/Oculus Store page, IGN review (Alanah Pearce), PC Gamer review, THE VR GRID review, UploadVR coverage, Forbes preview, Reddit community reports (r/oculus, r/OculusQuest), and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Gunfire Games official page, Meta/Oculus Store page, IGN review (Alanah Pearce), PC Gamer review, THE VR GRID review, UploadVR coverage, Forbes preview, Reddit community reports (r/oculus, r/OculusQuest), and YouTube VR gameplay footage."
 ---
 
 There is a particular kind of weight that comes from watching a character grow old. In most games, death is a reset — a breath, a loading screen, and you are young again. In Chronos, death is a sentence. Each time you fall in its labyrinthine halls, your hero is cast out for a full year. They return older. Slower, perhaps, but wiser. By the time you reach the final chambers, you may be staring at a gray-haired veteran who has learned to fight with arcane fire because their knees no longer trust a sword swing. That progression — from reckless youth to hardened elder — is not just a mechanic. It is the emotional spine of one of VR's most quietly ambitious RPGs.

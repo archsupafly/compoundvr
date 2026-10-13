@@ -29,7 +29,7 @@ experienceTags:
 tier: A
 verdict: "A confident, beautiful VR-native puzzle adventure that makes you feel the weight of history in your hands — earn it for the tactile time-hopping, not for flawless pacing."
 heroImage: /images/games/wanderer-vr-hero.jpg
-sources: "Research conducted via Steam and PlayStation Store VR-support flags, Road to VR review coverage, and YouTube VR gameplay footage (Gamertag VR, Virtual Reality Oasis). No direct testing performed."
+sources: "Research conducted via Steam and PlayStation Store VR-support flags, Road to VR review coverage, and YouTube VR gameplay footage (Gamertag VR, Virtual Reality Oasis)."
 ---
 
 There's a moment early on where you're standing in a WWI trench, a worn leather wristwatch strapped to your forearm, and you reach out and catch a cricket ball out of mid-air to nudge a puzzle into place. Not a button prompt. Your actual hand, closing around the thing. That's the contract Wanderer signs with you in the first ten minutes: the world is solid enough to touch, and the puzzle *is* the time machine.

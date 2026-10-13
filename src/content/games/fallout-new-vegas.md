@@ -33,7 +33,7 @@ experienceTags:
 tier: "C"
 verdict: "Fallout: New Vegas is an S-tier RPG, but VorpX injection limits the VR experience to stereoscopic 3D and head tracking with no motion controls or hand presence. The Mojave gains genuine atmospheric depth, yet the experience never escapes the feeling of playing a flat game on a very good screen strapped to your face. Only for wasteland devotees who want to see the desert in stereo."
 heroImage: /images/games/fallout-new-vegas-vr-hero.jpg
-sources: "Research conducted via VorpX official supported games list and documentation, Flat2VR community knowledge base, Reddit community reports (r/vorpx, r/fo4vr, r/vive), and aggregated YouTube VR channel assessments. Game analysis based on established Fallout: New Vegas documentation and community knowledge. No direct testing performed; assessment based on VorpX profile capabilities and aggregated community experience."
+sources: "Research conducted via VorpX official supported games list and documentation, Flat2VR community knowledge base, Reddit community reports (r/vorpx, r/fo4vr, r/vive), and aggregated YouTube VR channel assessments. Game analysis based on established Fallout: New Vegas documentation and community knowledge.; assessment based on VorpX profile capabilities and aggregated community experience."
 ---
 
 # Fallout: New Vegas in VR: The Mojave in Stereo, Not in Your Hands

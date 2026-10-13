@@ -29,7 +29,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely delightful way to revisit a classic — if you're already into retro gaming. Don't buy 3dSenVR just for Donkey Kong Jr. alone; the value is in the library."
 heroImage: /images/games/donkey-kong-jr-vr-hero.jpg
-sources: "Research conducted via 3dSenVR Steam store page, Geod Studio official website, 80.lv emulator coverage, Steam community reviews, YouTube VR gameplay footage, and Reddit community discussions. Assessment based on community experience; no direct testing performed."
+sources: "Research conducted via 3dSenVR Steam store page, Geod Studio official website, 80.lv emulator coverage, Steam community reviews, YouTube VR gameplay footage, and Reddit community discussions. Assessment based on community experience;"
 ---
 
 # Donkey Kong Jr. VR

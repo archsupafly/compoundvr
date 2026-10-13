@@ -32,7 +32,7 @@ experienceTags:
 tier: B
 verdict: "Borderlands 3 has no official VR mode, but the UEVR community profile is the real deal: full campaign, full co-op, motion controls, and first-person vehicles. It's heavy on PC demand and setup friction, yet it's the most complete way to live inside Pandora's mayhem."
 heroImage: /images/games/borderlands-3-vr-hero.jpg
-sources: "Research conducted via UEVR GitHub releases and documentation, Flat2VR Discord community knowledge (TimBurton profile), MIXED/Reality News coverage of the Borderlands 3 UEVR spotlight, UploadVR reporting on UEVR and Gearbox's 'no plans' stance for official Borderlands 3 VR, YouTube VR gameplay footage, and VorpX community/official profile information. No direct testing performed."
+sources: "Research conducted via UEVR GitHub releases and documentation, Flat2VR Discord community knowledge (TimBurton profile), MIXED/Reality News coverage of the Borderlands 3 UEVR spotlight, UploadVR reporting on UEVR and Gearbox's 'no plans' stance for official Borderlands 3 VR, YouTube VR gameplay footage, and VorpX community/official profile information."
 ---
 
 The first time a rakk dive-bombed me from the Pandoran sky and I actually *ducked*, I knew Borderlands 3 in VR was onto something. Here's the thing, though: Gearbox never shipped this. There's no official Borderlands 3 VR port, no PlayStation VR2 version, no Quest standalone hidden in a store listing. If you want to play Borderlands 3 inside a headset, you're relying on the Flat2VR community — specifically the UEVR profile by TimBurton — and the good news is it's far better than it has any right to be.

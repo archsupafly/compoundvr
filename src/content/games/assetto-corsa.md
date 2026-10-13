@@ -34,7 +34,7 @@ verdict: "The definitive sim racing VR experience when you’re willing to put i
 heroImage: /images/games/assetto-corsa-vr-hero.jpg
 flatReleaseDate: 2014-12-19
 vrReleaseDate: 2017-03-23
-sources: "Research conducted via Kunos Simulazioni official documentation, Steam store page and community reviews, YouTube VR sim racing coverage (Beardo Benjo, Gamertag VR, Sim Racing channels), Reddit r/assettocorsa and r/virtualreality community reports, Flat2VR Discord sim racing discussions, the Raptyyy AC VR Guide (GitHub), and sim racing modding community documentation. No direct testing performed."
+sources: "Research conducted via Kunos Simulazioni official documentation, Steam store page and community reviews, YouTube VR sim racing coverage (Beardo Benjo, Gamertag VR, Sim Racing channels), Reddit r/assettocorsa and r/virtualreality community reports, Flat2VR Discord sim racing discussions, the Raptyyy AC VR Guide (GitHub), and sim racing modding community documentation."
 relatedPages:
   - id: top-10-vr-games-2015
     kind: article

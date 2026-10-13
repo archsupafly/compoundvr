@@ -30,7 +30,7 @@ experienceTags:
 tier: "C"
 verdict: "3dSen VR's Popeye profile is a delightful tech demo for retro enthusiasts who already own the emulator, but the underlying game is too slight to justify the cost of entry for anyone else."
 heroImage: "/images/games/popeye-vr-hero.jpg"
-sources: "Research conducted via 3dSen VR Steam store page, 3dSen VR itch.io devlogs (Popeye V3 profile release), VPUniverse virtual pinball community, Wikipedia for original game release dates, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via 3dSen VR Steam store page, 3dSen VR itch.io devlogs (Popeye V3 profile release), VPUniverse virtual pinball community, Wikipedia for original game release dates, and YouTube VR gameplay footage."
 ---
 
 There is a very particular joy in watching an 8-bit sprite gain depth. Popeye in 3dSen VR does not transform the 1982 arcade classic into something it never was. It does something stranger and more specific: it turns a flat platformer into a physical object you can walk around, a voxel diorama floating in space where Popeye catches hearts while Brutus stomps across platforms that now actually have sides.

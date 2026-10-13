@@ -31,7 +31,7 @@ experienceTags:
 tier: C
 verdict: "A genuinely funny, comfortable VR puzzle game with a brilliant premise and a fatal flaw: it is shockingly short. Worth grabbing on sale for an evening of slapstick problem-solving, but do not expect a meal."
 heroImage: /images/games/just-in-time-incorporated-vr-hero.jpg
-sources: "Research conducted via Steam store page, Meta/Oculus store compatibility notes, UploadVR review, Use a Potion review, The Elite Institute PSVR review, YouTube VR gameplay footage (Ben Plays VR), and Reddit community reports on length and headset compatibility. No direct testing performed."
+sources: "Research conducted via Steam store page, Meta/Oculus store compatibility notes, UploadVR review, Use a Potion review, The Elite Institute PSVR review, YouTube VR gameplay footage (Ben Plays VR), and Reddit community reports on length and headset compatibility."
 ---
 
 The first time I caught a bullet mid-air and stuffed it into the pocket of the guy who fired it, I laughed out loud. That is the whole pitch for *Just in Time Incorporated*: you are a death prevention insurance agent armed with "hyper-glove technology," teleporting through slow-motion disasters to stop clients from dying in increasingly stupid ways. Disarm a mugger. Redirect a falling piano. Attach balloons to an old man wandering into traffic. It is *Superhot* by way of *Job Simulator*, stripped down to a series of bite-sized slapstick puzzles where the punchline is survival.

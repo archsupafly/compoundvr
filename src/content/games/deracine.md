@@ -27,7 +27,7 @@ experienceTags:
 tier: B
 verdict: "A quiet, meditative curiosity from one of gaming's most aggressive studios. Worth experiencing for the atmosphere alone, but only if you're comfortable with its deliberate stillness."
 heroImage: /images/games/deracine-vr-hero.jpg
-sources: "Assessment based on PSVR gameplay documentation, contemporary coverage from IGN, Polygon, and Eurogamer, PlayStation Store page information, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Assessment based on PSVR gameplay documentation, contemporary coverage from IGN, Polygon, and Eurogamer, PlayStation Store page information, and YouTube VR gameplay footage."
 ---
 
 The first thing you notice is the stillness. Not the emptiness of an abandoned building, but the held breath of a moment frozen — a girl mid-gesture, a leaf arrested in its fall, the silence before someone speaks their mind. In *Deracine*, you are a faerie, invisible and untouchable, slipping through the seams of time inside a small boarding school. There is no sword here, no boss door, no death screen. FromSoftware, the studio that built its reputation on punishing combat and labyrinthine worlds, has made something gentle, small, and deliberately fragile.

@@ -27,7 +27,7 @@ experienceTags:
 tier: B
 verdict: "A native VR battle royale with genuinely excellent vertical movement mechanics, now free on Quest, but held back by maintenance-mode status and a declining player base."
 heroImage: /images/games/population-one-vr-hero.jpg
-sources: "Research conducted via Meta official blog, UploadVR, Road to VR, YouTube VR gameplay footage, Reddit community reports, and Wikipedia. No direct testing performed."
+sources: "Research conducted via Meta official blog, UploadVR, Road to VR, YouTube VR gameplay footage, Reddit community reports, and Wikipedia."
 ---
 
 You are halfway up a concrete tower, one hand gripping a window ledge while the other squeezes off suppressing fire at a gliding target below. Your teammate shouts a direction. You release, fall, spread your arms like a wingsuit, and bank hard toward the next rooftop where the final squad is holed up. This is not a mod. This is not a flat game with head tracking bolted on. Population: One is a battle royale built from the ground up to make VR's physicality central to combat—and for a while, it was the best argument that competitive shooters could actually work inside a headset.

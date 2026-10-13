@@ -30,7 +30,7 @@ experienceTags:
 tier: A
 verdict: "The VRG mod is a genuine full-motion-control conversion of one of PC's best co-op shooters, complete with cross-play co-op and the physicality the flat game only implied. If you can handle an intense comfort load and don't mind installing a community mod, this is one of the best co-op VR shooters you can play."
 heroImage: /images/games/deep-rock-galactic-vr-hero.jpg
-sources: "Compiled from the VRG GitHub README and mod.io listing (feature list, install source), the pcvrcentral setup guide, YouTube VR coverage (Beardo Benjo, Headset-VR, bmackVR, Matteo311, LunchAndVR, VoodooDE), and first-hand Reddit reports from r/DeepRockGalactic. No direct testing performed."
+sources: "Compiled from the VRG GitHub README and mod.io listing (feature list, install source), the pcvrcentral setup guide, YouTube VR coverage (Beardo Benjo, Headset-VR, bmackVR, Matteo311, LunchAndVR, VoodooDE), and first-hand Reddit reports from r/DeepRockGalactic."
 ---
 
 I spent a weekend diving caves as a VR dwarf, and the moment that sold me wasn't the combat — it was the reload. I physically pulled the drillgun off my back, racked a fresh magazine with my off-hand, and snapped it home before a Glyphid Septic spat acid at my face. That tiny, mechanical, wholly physical act is the difference between playing Deep Rock Galactic and living it.

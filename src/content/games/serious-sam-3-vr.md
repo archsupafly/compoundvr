@@ -28,7 +28,7 @@ experienceTags:
 tier: A
 verdict: "One of the better official VR ports from the early era—full motion controls, dual-wielding chaos, and the complete campaign. If you want Serious Sam in VR, this is the real thing."
 heroImage: /images/games/serious-sam-3-vr-hero.jpg
-sources: "Steam store page and Croteam official documentation, YouTube VR gameplay footage, Steam Community reviews and discussions, Serious Sam Fandom wiki, Road to VR coverage from 2017. Research conducted via public sources; no direct testing performed."
+sources: "Steam store page and Croteam official documentation, YouTube VR gameplay footage, Steam Community reviews and discussions, Serious Sam Fandom wiki, Road to VR coverage from 2017. Research conducted via public sources;"
 ---
 
 Here's something that shouldn't feel as novel as it does: a developer actually rebuilt their game for VR instead of just checking a box.

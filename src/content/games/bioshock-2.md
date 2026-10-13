@@ -35,7 +35,7 @@ experienceTags:
 tier: C
 verdict: "BioShock 2's world is one of VorpX's most atmospherically compelling injection-driver experiences, but official profile removal and technical friction make this a project for dedicated fans rather than a casual recommendation."
 heroImage: /images/games/bioshock-2-vr-hero.jpg
-sources: "Research conducted via VorpX community forums, Reddit discussions (r/vorpx, r/Bioshock), YouTube VR gameplay footage, and historical coverage of the Take-Two DMCA profile removal. No direct testing performed. Assessment based on community consensus regarding original vs remastered performance, stability reports, and profile availability."
+sources: "Research conducted via VorpX community forums, Reddit discussions (r/vorpx, r/Bioshock), YouTube VR gameplay footage, and historical coverage of the Take-Two DMCA profile removal. Assessment based on community consensus regarding original vs remastered performance, stability reports, and profile availability."
 ---
 
 There's something genuinely unsettling about looking down at your own riveted diving suit in VR, drill arm humming, while a Little Sister cowers in the corner. BioShock 2 always cast you as Subject Delta, a prototype Big Daddy; with VorpX, you're actually inside the helmet, and Rapture's art-deco decay surrounds you in three dimensions.

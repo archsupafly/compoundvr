@@ -35,7 +35,7 @@ experienceTags:
 tier: D
 verdict: "A mediocre wave shooter with genuinely great VR hero powers that no one can play anymore — killed by always-online architecture and a publisher that would rather delete it than preserve it."
 heroImage: /images/games/marvel-powers-united-vr-hero.jpg
-sources: "Research via UploadVR (shutdown report, review, resurrection article), Road to VR (shutdown coverage, revival shutdown, hands-on preview), Video Gamer (revival playability report), IGN (release date confirmation), Destructoid (review/MSRP), Marvel.com (official game page), Sanzaru Games (developer page), Reddit community threads (r/oculus, r/OculusQuest — shutdown and revival discussion), Stop Killing Games initiative. No direct testing performed — game is unplayable since March 1, 2021."
+sources: "Research via UploadVR (shutdown report, review, resurrection article), Road to VR (shutdown coverage, revival shutdown, hands-on preview), Video Gamer (revival playability report), IGN (release date confirmation), Destructoid (review/MSRP), Marvel.com (official game page), Sanzaru Games (developer page), Reddit community threads (r/oculus, r/OculusQuest — shutdown and revival discussion), Stop Killing Games initiative.game is unplayable since March 1, 2021."
 ---
 
 Put on a headset in 2018, pick Hulk, and charge your fists. The controllers vibrate, the green hands fill your vision, and you swing. The sound design sells every collision — walls crumble, enemies scatter. For a few minutes, you believe you're the strongest there is.

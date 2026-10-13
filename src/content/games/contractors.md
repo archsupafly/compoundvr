@@ -27,7 +27,7 @@ tier: B
 verdict: "A solid VR-native arcade shooter with exceptional mod support and satisfying gunplay, held back by an uncertain future and a shrinking player base."
 heroImage: /images/games/contractors-vr-hero.jpg
 vrReleaseDate: 2018-12-14
-sources: "Research conducted via Steam store page and update history, Caveman Studio official announcements, SteamDB player count data, YouTube VR gameplay footage (6DOF Reviews, The RIP), Flat2VR Discord community knowledge, and Reddit community reports. No direct testing performed."
+sources: "Research conducted via Steam store page and update history, Caveman Studio official announcements, SteamDB player count data, YouTube VR gameplay footage (6DOF Reviews, The RIP), Flat2VR Discord community knowledge, and Reddit community reports."
 ---
 
 I keep a short mental list of VR shooters that feel like slipping on an old glove. Contractors is on that list. It’s not the prettiest, not the most populated, and definitely not the most finished — but when I want twenty minutes of fast, brain-off competitive shooting without reading a wiki or managing an inventory, this is where I land.

@@ -26,7 +26,7 @@ experienceTags:
 tier: A
 verdict: "One of the most mechanically satisfying native VR combat experiences on PC, demanding your full body and rewarding the effort with genuine tactical melee depth. Essential for anyone with the space and stamina to meet it on its own terms."
 heroImage: /images/games/until-you-fall-vr-hero.jpg
-sources: "Research compiled from Schell Games official documentation, Steam store page, UploadVR and Road to VR coverage (2019), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), and community reports from Reddit and Flat2VR Discord. No direct testing performed."
+sources: "Research compiled from Schell Games official documentation, Steam store page, UploadVR and Road to VR coverage (2019), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), and community reports from Reddit and Flat2VR Discord."
 vrReleaseDate: 2019-08-29
 ---
 

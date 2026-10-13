@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "YUKI turns your whole body into a bullet-dodging action figure, and that physical novelty carries a fun but repetitive roguelite further than its thin world-building ever could."
 heroImage: /images/games/yuki-vr-hero.jpg
-sources: "Research conducted via Steam Store page (app 1184500), Meta Quest Store listing (app 2886115781495034), PlayStation Store listing, UploadVR launch and hands-on coverage (July 2021), Games Press launch announcement, Metacritic listing, and Game Brain play-time data. No direct testing performed."
+sources: "Research conducted via Steam Store page (app 1184500), Meta Quest Store listing (app 2886115781495034), PlayStation Store listing, UploadVR launch and hands-on coverage (July 2021), Games Press launch announcement, Metacritic listing, and Game Brain play-time data."
 ---
 
 I spent a Sunday afternoon leaning, ducking, and spinning in my living room like I was dodging rain, and for the first twenty minutes I felt like a kid who'd just realized his action figures were alive.

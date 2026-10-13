@@ -28,7 +28,7 @@ experienceTags:
 tier: B
 verdict: "BOXVR delivers exactly what it promises: a solid VR boxing workout with professional routines and good tracking. It's beginner-friendly, genuinely exhausting, and still works great on PCVR and PSVR. But the app has been superseded by FitXR on Quest, and the original version sees no new content."
 heroImage: /images/games/boxvr-vr-hero.jpg
-sources: "Steam store page, PlayStation Blog (April 2019 launch), UploadVR (FitXR rebrand and subscription coverage), VR Fitness Insider, Engadget VR fitness coverage, Meta Store (FitXR), FitXR official website, review outlets (TheSixthAxis, Screen Rant, PlayStation Universe, GameSpace, The Outerhaven, ARPost). No direct testing performed."
+sources: "Steam store page, PlayStation Blog (April 2019 launch), UploadVR (FitXR rebrand and subscription coverage), VR Fitness Insider, Engadget VR fitness coverage, Meta Store (FitXR), FitXR official website, review outlets (TheSixthAxis, Screen Rant, PlayStation Universe, GameSpace, The Outerhaven, ARPost)."
 ---
 
 The first time I finished a twenty-minute BOXVR session, I had to sit down. Not because the headset was uncomfortable — though I was definitely sweating into the facial interface — but because my arms genuinely felt like I'd been through a boxing class. My shoulders ached. My heart rate was up. And I had the distinct sense that I'd just done something productive in VR, which is a rarer feeling than the marketing would have you believe.

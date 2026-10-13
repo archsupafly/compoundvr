@@ -34,7 +34,7 @@ heroImage: /images/games/hard-bullet-vr-hero.jpg
 history:
   - date: 2026-10-08
     note: "Developer roadmap teaser — finger physics, new animations, and new locations announced; HARD BULLET remains in active Early Access development through 2026."
-sources: "Steam store API (AppID 1294760) for developer, publisher, categories, and Early Access launch date; Steam reviews API for reception; developer news feed for update cadence; YouTube VR coverage (Downloadable Content, Fudgy, Verociity, MrDeathwishVR, The Gaming Alwin) for gameplay framing and community standing. No direct testing performed; assessment built from product facts and training knowledge of the title."
+sources: "Steam store API (AppID 1294760) for developer, publisher, categories, and Early Access launch date; Steam reviews API for reception; developer news feed for update cadence; YouTube VR coverage (Downloadable Content, Fudgy, Verociity, MrDeathwishVR, The Gaming Alwin) for gameplay framing and community standing.; assessment built from product facts and training knowledge of the title."
 ---
 
 I squeezed the trigger on the pistol in my left hand while my right hand racked the slide on a fresh one, and the guy in front of me lost an arm at the shoulder, stumbled, and got launched backward into a wall by the round I put through his chest a half-second later. Nobody told me to do any of that. The game just handed me two guns, a slow-mo button, and a room full of men built out of wet noodles and consequences. That's HARD BULLET in one exhale.

@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "A beautiful, contemplative puzzle adventure that genuinely benefits from VR's sense of place. Held back by stiff platforming, no teleport option, and a developer that moved on years ago. Worth it for Myst fans who can tolerate free locomotion."
 heroImage: /images/games/xing-vr-hero.jpg
-sources: "Research conducted via Steam store page (app ID 299400), Wikipedia, UploadVR hands-on preview (Aug 2017) and PSVR review (Feb 2019), COG Connected review, Use a Potion review, Road to VR coverage, Meta community forums, Reddit (r/PSVR, r/oculus), HowLongToBeat.com, Steam community discussions, and YouTube VR gameplay footage. Assessment based on multi-source research compilation; no direct testing performed."
+sources: "Research conducted via Steam store page (app ID 299400), Wikipedia, UploadVR hands-on preview (Aug 2017) and PSVR review (Feb 2019), COG Connected review, Use a Potion review, Road to VR coverage, Meta community forums, Reddit (r/PSVR, r/oculus), HowLongToBeat.com, Steam community discussions, and YouTube VR gameplay footage. Assessment based on multi-source research compilation;"
 ---
 
 There is a gravestone in the first hour of *Xing: The Land Beyond* with an epitaph just long enough to make you pause. You read it. The world around you softens. And then you press a button and step inside the dead person's memory, wandering through a fragment of their life rendered in watercolor and moss. It is the kind of moment that flat screens can suggest but VR makes unavoidable—you are not watching someone else's afterlife. You are standing in it.

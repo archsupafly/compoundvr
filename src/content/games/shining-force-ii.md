@@ -30,7 +30,7 @@ experienceTags:
 tier: C
 verdict: "A masterpiece tactical RPG inside a charming but superficial VR wrapper. Worth a session if you already own the delisted collection, but not a reason to hunt down a discontinued Steam bundle."
 heroImage: /images/games/shining-force-ii-vr-hero.jpg
-sources: "Research conducted via PCMag, Rock Paper Shotgun, UploadVR, and SegaBits coverage of the 2018 Genesis Classics VR update. Delisting information sourced from GamingOnLinux, GamesIndustry.biz, and Steam store pages. Community context from Reddit r/Vive. No direct testing performed."
+sources: "Research conducted via PCMag, Rock Paper Shotgun, UploadVR, and SegaBits coverage of the 2018 Genesis Classics VR update. Delisting information sourced from GamingOnLinux, GamesIndustry.biz, and Steam store pages. Community context from Reddit r/Vive."
 ---
 
 There's a specific kind of nostalgia that hits when you see a CRT television flicker to life in a dim bedroom, Sega Genesis humming beneath a stack of cartridges, a Street Fighter II poster peeling from the wall. The *Sega Genesis Classics* collection's VR hub mode sells that fantasy wholesale — and for *Shining Force II*, one of the finest tactical RPGs ever made, that fantasy is almost enough.

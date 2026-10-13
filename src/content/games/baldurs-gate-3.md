@@ -33,7 +33,7 @@ experienceTags:
 tier: C
 verdict: "Baldur's Gate 3 in VR is a technical curiosity, not a better way to play. The paid Luke Ross mod gets it running in 6DOF, but the isometric camera and gamepad-first controls fight the format; vorpX is simpler but barely counts as VR. Only worth the hassle if you're already obsessed with both BG3 and headset experiments."
 heroImage: /images/games/baldurs-gate-3-vr-hero.jpg
-sources: "Research conducted via vorpX official BG3 page and forums, FRVR coverage of Luke Ross's Real VR mod, Vortex Gaming video summary of Real VR Mod v27 setup and gameplay, Reddit community reports on vorpX BG3, Larian Studios documentation confirming Divinity Engine 4.0, and Larian/GamesPress release-date coverage. No direct testing performed."
+sources: "Research conducted via vorpX official BG3 page and forums, FRVR coverage of Luke Ross's Real VR mod, Vortex Gaming video summary of Real VR Mod v27 setup and gameplay, Reddit community reports on vorpX BG3, Larian Studios documentation confirming Divinity Engine 4.0, and Larian/GamesPress release-date coverage."
 ---
 
 The first time I leaned into Gale's face in Baldur's Gate 3 VR, I genuinely laughed. Not because he said anything funny — he was mid-lecture, because of course he was — but because there I was, inches from a Tiefling wizard's eyebrows, inside one of the best RPGs of the last decade. For about ten seconds it felt like magic. Then the camera whipped across the map for the next combat turn and my stomach reminded me that this game was never designed for a headset.

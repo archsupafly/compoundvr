@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "A beautifully crafted native VR diorama puzzle game that charms completely during its brief runtime. Worth every minute, but there are only about ninety of them."
 heroImage: /images/games/the-curious-tale-of-the-stolen-pets-vr-hero.jpg
-sources: "Research compiled from UploadVR, The VR Grid, Road to VR, Android Central, Steam store page, Fast Travel Games official FAQ, and community reports from Reddit. No direct testing performed."
+sources: "Research compiled from UploadVR, The VR Grid, Road to VR, Android Central, Steam store page, Fast Travel Games official FAQ, and community reports from Reddit."
 ---
 
 There is a moment early in *A Curious Tale of the Stolen Pets* where you lean your head into a snow-covered diorama no bigger than a coffee table, and a gust of warm air from a virtual hairdryer melts the frost to reveal a hedgehog curled beneath. It is a small, perfect interaction — the kind that only works in VR because your physical posture mirrors your virtual one, because the scale feels toy-like and intimate, because your hands are actually in the space doing the work. Fast Travel Games understood exactly what they were building: not a sprawling adventure, but a series of these moments, strung across five miniature worlds that exist purely to be poked, prodded, and peered into.

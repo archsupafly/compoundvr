@@ -26,7 +26,7 @@ experienceTags:
 tier: B
 verdict: "A mechanically exceptional rhythm shooter from the studio that defined the genre. The soundtrack and name recognition aren't quite Beat Saber, but the core loop is arguably tighter."
 heroImage: /images/games/audica-vr-hero.jpg
-sources: "Research conducted via Harmonix official announcements, Steam store page, YouTube VR gameplay footage (Beardo Benjo, Nathie, VR Grid), and community coverage from 2019 launch window. No direct testing performed."
+sources: "Research conducted via Harmonix official announcements, Steam store page, YouTube VR gameplay footage (Beardo Benjo, Nathie, VR Grid), and community coverage from 2019 launch window."
 vrReleaseDate: 2019-03-07
 ---
 

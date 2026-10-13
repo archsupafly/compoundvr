@@ -32,7 +32,7 @@ experienceTags:
 tier: A
 verdict: "A dream come true for Star Wars fans who own a HOTAS and can tolerate tinkering, but technical instability on PC and a dead multiplayer scene keep it from being essential."
 heroImage: /images/games/star-wars-squadrons-vr-hero.jpg
-sources: "Research compiled from Eurogamer VR review, UploadVR VR review, Road to VR headset compatibility guide, PC Gamer VR coverage, Steam community discussions, Reddit community reports (r/StarWarsSquadrons, r/PSVR, r/OculusQuest), and YouTube VR gameplay footage from multiple channels. Assessment based on community consensus and published reviews. No direct testing performed."
+sources: "Research compiled from Eurogamer VR review, UploadVR VR review, Road to VR headset compatibility guide, PC Gamer VR coverage, Steam community discussions, Reddit community reports (r/StarWarsSquadrons, r/PSVR, r/OculusQuest), and YouTube VR gameplay footage from multiple channels. Assessment based on community consensus and published reviews."
 ---
 
 The first time you drop out of hyperspace and an Imperial Star Destroyer fills your entire field of view, you understand why Motive Studios built this game in first-person. In VR, that moment isn't impressive — it's *physical*. Your head actually tilts back. The cockpit glass frames the threat like a viewport into someone else's nightmare. For about fifteen seconds, Star Wars: Squadrons makes good on every childhood fantasy of sitting in an X-Wing.

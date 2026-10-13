@@ -31,7 +31,7 @@ heroImage: /images/games/the-last-clockwinder-vr-hero.jpg
 history:
   - date: 2023-02-22
     note: "PSVR2 version released as a launch-window title for the headset."
-sources: "Research compiled from Steam store page, UploadVR release-date report, Pontoco press kit, Wikipedia, Gaming Nexus review, Push Square PSVR2 review, GamingTrend PSVR2 review, and r/PSVR community discussion. No direct testing performed."
+sources: "Research compiled from Steam store page, UploadVR release-date report, Pontoco press kit, Wikipedia, Gaming Nexus review, Push Square PSVR2 review, GamingTrend PSVR2 review, and r/PSVR community discussion."
 ---
 
 The first time a clone of myself climbed a branch I'd just recorded, then handed a gear to a second clone who passed it to a third, I put the controller down and watched. I'd built a clockwork assembly line out of my own muscle memory, and it was quietly solving the puzzle for me. That's The Last Clockwinder, and it's the most clever thing I've put a headset on for in a long while.

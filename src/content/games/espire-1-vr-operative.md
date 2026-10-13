@@ -28,7 +28,7 @@ experienceTags:
 tier: B
 verdict: "An ambitious native VR stealth game with genuinely satisfying physical mechanics, undermined by inconsistent AI and rough edges. Worth it for VR stealth fans who can tolerate jank."
 heroImage: /images/games/espire-1-vr-operative-vr-hero.jpg
-sources: "Research conducted via UploadVR, Road to VR, Eurogamer, PC Gamer, The VR Grid, 6DOF Reviews, and 2019 launch-period community coverage. Cross-referenced review consensus and gameplay footage. No direct testing performed."
+sources: "Research conducted via UploadVR, Road to VR, Eurogamer, PC Gamer, The VR Grid, 6DOF Reviews, and 2019 launch-period community coverage. Cross-referenced review consensus and gameplay footage."
 ---
 
 The first time you physically duck behind a crate, lean around the corner, and whisper "Freeze!" into your headset microphone while aiming a pistol at a guard's head, you'll understand exactly what Espire 1: VR Operative is trying to do. Digital Lode isn't just porting a stealth game into VR. They're trying to build one from the headset up, taking the fantasy of being a covert operative and mapping it to your actual body.

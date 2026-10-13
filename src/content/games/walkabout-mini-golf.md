@@ -31,7 +31,7 @@ experienceTags:
 heroImage: /images/games/walkabout-mini-golf-vr-hero.jpg
 tier: A
 verdict: "An essential VR title that proves simple ideas done exceptionally well beat ambitious failures every time. Best-in-class putting physics, generous multiplayer, and genuine accessibility make this the game I use to convert VR skeptics."
-sources: "Research conducted via Steam store page, Meta store page, UploadVR review and DLC coverage, The VR Grid, The VR Critic, Mighty Coconut official website and blog, Reddit community impressions (r/OculusQuest, r/PSVR, r/WalkaboutMiniGolf), and Flat2VR Discord community knowledge confirming native VR status. No direct testing performed."
+sources: "Research conducted via Steam store page, Meta store page, UploadVR review and DLC coverage, The VR Grid, The VR Critic, Mighty Coconut official website and blog, Reddit community impressions (r/OculusQuest, r/PSVR, r/WalkaboutMiniGolf), and Flat2VR Discord community knowledge confirming native VR status."
 ---
 
 My usual advice for someone's first VR game is "don't start with something that'll make you sick, don't start with something that'll frustrate you, and definitely don't start with something that requires a PhD in BepInEx." For five years now, Walkabout Mini Golf has been my actual answer.

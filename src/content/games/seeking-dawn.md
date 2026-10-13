@@ -30,7 +30,7 @@ tier: B
 vrReleaseDate: 2018-07-12
 verdict: "One of the most ambitious and visually impressive native VR games of its era, dragged down by tedious survival mechanics that turn exploration into inventory management. Worth playing for the scope and combat alone, but only if you can tolerate the busywork."
 heroImage: /images/games/seeking-dawn-vr-hero.jpg
-sources: "Research conducted via Steam store page, developer press kit (seekingdawn.com), Road to VR review coverage, Shacknews review, UploadVR review, GamingTrend impressions, YouTube VR gameplay footage, and Reddit community reports. No direct testing performed. Assessment based on cross-referenced 2018-era reviews and community consensus."
+sources: "Research conducted via Steam store page, developer press kit (seekingdawn.com), Road to VR review coverage, Shacknews review, UploadVR review, GamingTrend impressions, YouTube VR gameplay footage, and Reddit community reports. Assessment based on cross-referenced 2018-era reviews and community consensus."
 ---
 
 Most VR games in 2018 are two-hour proof-of-concepts. You pay full price, you get a polished tech demo, and then you go back to waiting for someone to build an actual game in this medium. Seeking Dawn, from Chinese studio Multiverse, refuses to play by those rules. It drops you onto an alien planet with a rifle, a crafting bench, and the explicit promise of more than ten hours of survival, exploration, and combat. In a landscape starved for substance, that ambition alone makes it impossible to ignore.

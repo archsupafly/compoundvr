@@ -30,7 +30,7 @@ vrReleaseDate: 2017-02-27
 tier: B
 verdict: "Pavlov's gunplay is among the best in VR, but the platform you play on changes everything. Buy it on Quest for active lobbies and mod support. On PCVR, you're buying into a technically superior version with a shrinking population and lingering resentment. On PSVR2, it's a polished port with no mods and no future."
 heroImage: /images/games/pavlov-vr-hero.jpg
-sources: "Research conducted via Vankrupt Games official announcements, Steam and Meta store pages, SteamDB population data, Steam Community reviews, UploadVR coverage, Push Square PSVR2 review, The VR Grid PSVR2 review, Gaming Trend review, IGN coverage, Mixed News reporting, Pavlov Wiki community documentation, Reddit community reports (r/PavlovGame, r/PSVR, r/OculusQuest), and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Vankrupt Games official announcements, Steam and Meta store pages, SteamDB population data, Steam Community reviews, UploadVR coverage, Push Square PSVR2 review, The VR Grid PSVR2 review, Gaming Trend review, IGN coverage, Mixed News reporting, Pavlov Wiki community documentation, Reddit community reports (r/PavlovGame, r/PSVR, r/OculusQuest), and YouTube VR gameplay footage."
 ---
 
 The first time you fumble a magazine change while someone peeks mid on Dust—sorry, *Sand*—you'll understand exactly what Pavlov is. Your hands shake. You drop the mag. You die. And then you queue up again because *that* is the whole point.

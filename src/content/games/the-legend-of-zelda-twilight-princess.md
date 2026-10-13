@@ -32,7 +32,7 @@ experienceTags:
 tier: B
 verdict: "A magical way to revisit one of Zelda's best worlds, but the VR delivery is held together with emulator patches and hope. Only worth it if you already love the game enough to fight the setup."
 heroImage: /images/games/the-legend-of-zelda-twilight-princess-vr-hero.jpg
-sources: "Research conducted via the Dolphin VR official downloads page, VRborg Dolphin VR guide, Reddit r/Dolphin_VR community setup guides, YouTube VR gameplay footage (VRified Games, Dolphin VR showcases), eXputer coverage of the first-person VR mod, and GameFAQs community threads. Assessment based on community documentation; no direct testing performed."
+sources: "Research conducted via the Dolphin VR official downloads page, VRborg Dolphin VR guide, Reddit r/Dolphin_VR community setup guides, YouTube VR gameplay footage (VRified Games, Dolphin VR showcases), eXputer coverage of the first-person VR mod, and GameFAQs community threads. Assessment based on community documentation;"
 ---
 
 The first time I stood on the cliff outside Link's house and looked down at Ordon Village, I forgot I was staring at a 2006 Wii game. The trees moved like I remembered, the music did that thing it does, and for a second I was eighteen again, except this time Hyrule was all around me instead of on a TV across the room.

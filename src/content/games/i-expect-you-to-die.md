@@ -28,7 +28,7 @@ tier: A
 verdict: "One of the best puzzle games built specifically for VR. Clever, comfortable, and genuinely thrilling — though you may wish there were more of it."
 vrReleaseDate: 2016-12-06
 heroImage: /images/games/i-expect-you-to-die-vr-hero.jpg
-sources: "Research conducted via Schell Games official site, Steam store page, Meta store page, Wikipedia, UploadVR coverage, GameSpot review, YouTube VR gameplay footage, and Reddit community discussion. No direct testing performed."
+sources: "Research conducted via Schell Games official site, Steam store page, Meta store page, Wikipedia, UploadVR coverage, GameSpot review, YouTube VR gameplay footage, and Reddit community discussion."
 ---
 
 The first time a poison gas canister hisses open three feet from your face, you reach for it. Your real hands flail. Your virtual hands stay planted on the armrests of a leather chair, because in *I Expect You to Die*, you are a seated secret agent with telekinetic powers, and reaching across the room is exactly what your mind is supposed to do.

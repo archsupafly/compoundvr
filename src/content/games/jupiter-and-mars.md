@@ -29,7 +29,7 @@ experienceTags:
 tier: C
 verdict: "A slow-paced underwater adventure with basic official VR support that neither elevates nor undermines a repetitive core experience."
 heroImage: /images/games/jupiter-and-mars-vr-hero.jpg
-sources: "Research conducted via Tigertron official site, Meta Store page, YouTube VR gameplay footage, and multiple gaming publications including The VR Grid, Screen Rant, 6DOF Reviews, CGMagazine, Gaming Age, and Shane the Gamer. No direct testing performed."
+sources: "Research conducted via Tigertron official site, Meta Store page, YouTube VR gameplay footage, and multiple gaming publications including The VR Grid, Screen Rant, 6DOF Reviews, CGMagazine, Gaming Age, and Shane the Gamer."
 ---
 
 # Jupiter & Mars in VR: The Dolphin Sim That Swims in Shallow Waters

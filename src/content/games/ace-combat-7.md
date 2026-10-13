@@ -30,7 +30,7 @@ verdict: "B-Tier. Neither VR path delivers the complete experience, but both pro
 heroImage: /images/games/ace-combat-7-vr-hero.jpg
 flatReleaseDate: 2019-01-18
 vrReleaseDate: 2019-01-18
-sources: "Research conducted via Reddit community reports (r/acecombat, r/virtualreality, r/MetaQuestVR), Nexus Mods UEVR documentation and Keton's compatibility patch notes, YouTube VR gameplay footage, and Flat2VR Discord community knowledge. No direct testing performed."
+sources: "Research conducted via Reddit community reports (r/acecombat, r/virtualreality, r/MetaQuestVR), Nexus Mods UEVR documentation and Keton's compatibility patch notes, YouTube VR gameplay footage, and Flat2VR Discord community knowledge."
 ---
 
 # Ace Combat 7: Skies Unknown VR

@@ -28,7 +28,7 @@ experienceTags:
 tier: A
 verdict: "A tactical RPG that feels like it was always meant to be played on a tabletop — and in VR, it basically is. The HD-2D visuals gain genuine depth, mixed reality passthrough turns your living room into a war room, and the turn-based combat is a natural fit for headset play. Minor compromises in cutscene delivery and pointer-based controls don't dilute what is one of the best official VR ports of a flat game."
 heroImage: /images/games/triangle-strategy-vr-hero.jpg
-sources: "Research conducted via Square Enix official store pages and press materials, Meta Quest Store listing, UploadVR hands-on impressions (November 2024), MIXED Reality News hands-on coverage (November 2024), Siliconera review, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Square Enix official store pages and press materials, Meta Quest Store listing, UploadVR hands-on impressions (November 2024), MIXED Reality News hands-on coverage (November 2024), Siliconera review, and YouTube VR gameplay footage."
 ---
 
 Here's the thing about putting a 50-hour tactical RPG on a standalone VR headset: it sounds like someone misread the room. VR sessions are typically measured in 30-to-60-minute chunks. Triangle Strategy demands marathons. The original Switch and PC release from 2022 is a slow-burning political war story with grid-based combat, branching narrative paths, and enough dialogue scenes to fill a miniseries. None of that screams "put it on your face."

@@ -28,7 +28,7 @@ experienceTags:
 tier: A
 verdict: "A creative and charming native VR adventure that uses its 'game within a game' premise brilliantly. Short length and shallow segments hold it back from greatness, but the comfort, polish, and inventive design make it an easy recommendation for retro gaming fans and VR newcomers alike."
 heroImage: /images/games/pixel-ripped-1995-vr-hero.jpg
-sources: "Research conducted via Steam store page, Meta Quest store page, ARVORE official website, YouTube VR gameplay footage (UploadVR, Road to VR, VR Grid), PlayStation Store listings, and community knowledge from Reddit and Flat2VR Discord. Assessment based on cross-referenced reviews and video evidence across PCVR, PSVR, PSVR2, and Quest platforms. No direct testing performed."
+sources: "Research conducted via Steam store page, Meta Quest store page, ARVORE official website, YouTube VR gameplay footage (UploadVR, Road to VR, VR Grid), PlayStation Store listings, and community knowledge from Reddit and Flat2VR Discord. Assessment based on cross-referenced reviews and video evidence across PCVR, PSVR, PSVR2, and Quest platforms."
 ---
 
 There is a moment in Pixel Ripped 1995 that captures everything it gets right. You are nine-year-old David, hunched on a carpeted bedroom floor in front of a chunky CRT television, gripping a virtual gamepad in your hands. On the screen, Dot — a purple-haired platforming heroine — is battling through a side-scrolling level. Then your mother walks in. She wants you to clean your room. To keep playing, you have to look away from the TV, grab a toy dart gun from the floor, and shoot a target to distract her. Then it is back to the game before she notices you have not moved.

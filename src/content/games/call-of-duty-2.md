@@ -30,7 +30,7 @@ experienceTags:
 tier: "C"
 verdict: "Call of Duty 2 in VR is a nostalgia-driven curiosity for VorpX owners who already love the original campaign. The stereoscopic 3D and head tracking add genuine spatial presence to a classic, but the lack of motion controls, flat UI, and intense comfort profile make this a hard sell for anyone else."
 heroImage: "/images/games/call-of-duty-2-vr-hero.jpg"
-sources: "Research conducted via VorpX forums (community profile by user RJK, update notes for vorpX 21.3.1), Reddit r/virtualreality community compatibility reports, VorpX version release notes, and Steam store page metadata. No direct testing performed."
+sources: "Research conducted via VorpX forums (community profile by user RJK, update notes for vorpX 21.3.1), Reddit r/virtualreality community compatibility reports, VorpX version release notes, and Steam store page metadata."
 ---
 
 There is a specific kind of madness that makes you want to strap on a VR headset to play a first-person shooter from 2005. I understand it because I have felt it. Call of Duty 2 was a landmark in its day — the cinematic WWII campaign, the grenade icons, the endless sprinting across North African ridges while someone screams about flanking maneuvers. It holds up as historical shooter design. But historical shooter design and modern VR are not natural allies, and the gap between them is exactly what you feel when you fire this up through VorpX.

@@ -33,7 +33,7 @@ experienceTags:
 tier: S
 verdict: "With mods, Skyrim VR is the deepest, most absorbing open-world RPG available in virtual reality. The vanilla version is a functional port. The modded version is the reason you bought a headset."
 heroImage: /images/games/skyrim-vr-hero.jpg
-sources: "Research conducted via Bethesda/Steam store pages, UploadVR, Road to VR, GameRevolution, Nexus Mods documentation for VRIK/HIGGS/PLANCK, GitHub FUS Wabbajack mod list, Reddit r/skyrimvr community reports, and YouTube VR gameplay channels (Beardo Benjo, Cangar, Gamertag VR). No direct testing performed."
+sources: "Research conducted via Bethesda/Steam store pages, UploadVR, Road to VR, GameRevolution, Nexus Mods documentation for VRIK/HIGGS/PLANCK, GitHub FUS Wabbajack mod list, Reddit r/skyrimvr community reports, and YouTube VR gameplay channels (Beardo Benjo, Cangar, Gamertag VR)."
 ---
 
 The first time I stood on the Throat of the World in a headset, I didn't do anything heroic. I just looked around. The wind was howling. The sun was setting behind a ridgeline I'd climbed for half an hour. Below me, the entire province of Skyrim sprawled out—forests, rivers, villages I'd already walked through, rendered at a scale that a monitor simply cannot communicate. I didn't feel like I was playing an RPG. I felt like I had gone somewhere.

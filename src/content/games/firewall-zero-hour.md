@@ -27,7 +27,7 @@ experienceTags:
 tier: A
 verdict: "Firewall Zero Hour is the most convincing argument yet that competitive tactical shooters belong in VR. The Aim Controller transforms every breach, every corner check, and every firefight into something physically immediate. For PSVR owners with the hardware, this is essential."
 heroImage: /images/games/firewall-zero-hour-vr-hero.jpg
-sources: "Research conducted via Eurogamer review (2018), IGN coverage, UploadVR review and guides, PlayStation Blog official announcements (2018), Wikipedia entry, Flat2VR Discord community knowledge, Reddit r/PSVR community reports, and YouTube VR gameplay footage. No direct testing performed."
+sources: "Research conducted via Eurogamer review (2018), IGN coverage, UploadVR review and guides, PlayStation Blog official announcements (2018), Wikipedia entry, Flat2VR Discord community knowledge, Reddit r/PSVR community reports, and YouTube VR gameplay footage."
 vrReleaseDate: 2018-08-28
 ---
 

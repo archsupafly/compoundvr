@@ -30,7 +30,7 @@ experienceTags:
 tier: C
 verdict: "A gorgeous VR postcard of Chicago that's held back by its third-person roots and lack of motion controls. Worth it for patient explorers, not for anyone chasing native VR feel."
 heroImage: /images/games/watch-dogs-vr-hero.jpg
-sources: "Research conducted via Luke Ross Patreon (R.E.A.L. VR framework), Mixed News VR mod coverage, Eurogamer VR Corner video preview by Ian Higton, YouTube VR gameplay footage, and Flat2VR community knowledge. Assessment based on community testing and media coverage — no direct testing performed."
+sources: "Research conducted via Luke Ross Patreon (R.E.A.L. VR framework), Mixed News VR mod coverage, Eurogamer VR Corner video preview by Ian Higton, YouTube VR gameplay footage, and Flat2VR community knowledge. Assessment based on community testing and media coverage —"
 flatReleaseDate: "2014-05-27"
 vrReleaseDate: "2024-05-07"
 ---

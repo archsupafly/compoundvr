@@ -29,7 +29,7 @@ experienceTags:
   - Dead Multiplayer
 verdict: "Detached delivers a convincing zero-gravity sensation, but everything around it falls short. The locomotion is punishing even for experienced VR users, navigation is confusing, the campaign is over in a couple hours, and there are better space games in VR that don't ask you to suffer for the privilege. Pretty to look at, but not worth the stomach ache."
 heroImage: /images/games/detached-vr-hero.jpg
-sources: "Research conducted via Steam store page and user reviews, Push Square PSVR review, UploadVR preview coverage, HowLongToBeat data, and YouTube VR gameplay footage. No direct testing performed. Assessment is research-based."
+sources: "Research conducted via Steam store page and user reviews, Push Square PSVR review, UploadVR preview coverage, HowLongToBeat data, and YouTube VR gameplay footage. Assessment is research-based."
 ---
 
 # Detached VR

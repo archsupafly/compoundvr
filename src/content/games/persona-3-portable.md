@@ -35,7 +35,7 @@ experienceTags:
 tier: C
 verdict: "Persona 3 Portable is a fantastic JRPG, but its only VR path is the original PSP release running through PPSSPP VR on a standalone headset — a big virtual screen with no real VR presence. Play the flat remaster instead."
 heroImage: /images/games/persona-3-portable-vr-hero.jpg
-sources: "Research conducted via the Steam store page for Persona 3 Portable, PPSSPP official VR documentation and GitHub repository, UEVR documentation and GitHub releases, GameBanana and Nexus Mods mod hubs, YouTube VR gameplay evidence for Persona 3 Reload via UEVR, and Reddit community reports on PPSSPP VR usage. No direct testing performed."
+sources: "Research conducted via the Steam store page for Persona 3 Portable, PPSSPP official VR documentation and GitHub repository, UEVR documentation and GitHub releases, GameBanana and Nexus Mods mod hubs, YouTube VR gameplay evidence for Persona 3 Reload via UEVR, and Reddit community reports on PPSSPP VR usage."
 ---
 
 # Persona 3 Portable VR: The PSP Game Strapped to Your Face

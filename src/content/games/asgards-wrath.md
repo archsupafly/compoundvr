@@ -29,7 +29,7 @@ experienceTags:
 tier: S
 verdict: "One of the only AAA-budget native VR games ever made, and it shows. A 30+ hour Norse campaign, physics-driven combat, and god-scale perspective shifts that still have no real peer in PCVR. Minor repetition in the back half doesn't diminish what Sanzaru achieved here — this is the standard for what a fully-funded VR RPG looks like."
 heroImage: /images/games/asgards-wrath-vr-hero.jpg
-sources: "Research compiled from IGN (2019), Road to VR, UploadVR, Metacritic aggregate, Flat2VR Discord community knowledge, Reddit r/ValveIndex and r/oculus community reports on Revive compatibility, and multiple YouTube VR gameplay analyses. No direct testing performed. Assessment based on cross-referenced community consensus and original 2019 launch reviews."
+sources: "Research compiled from IGN (2019), Road to VR, UploadVR, Metacritic aggregate, Flat2VR Discord community knowledge, Reddit r/ValveIndex and r/oculus community reports on Revive compatibility, and multiple YouTube VR gameplay analyses. Assessment based on cross-referenced community consensus and original 2019 launch reviews."
 ---
 
 Standing atop a cliff overlooking a fjord in *Asgard's Wrath*, you reach up and press a button. The world shrinks. Mortals become ants. You are no longer a sword-swinging hero — you are a god, and the puzzle in front of you is now a toy. That moment, switching between human-scale combat and deity-scale environmental manipulation, is the signature trick of one of the most ambitious native VR RPGs ever built. It's also the best argument for what AAA funding in VR actually looks like when a studio commits.

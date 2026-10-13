@@ -29,7 +29,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely funny action-platformer that uses VR's unique perspective to amplify its bizarre comedy, though basic platforming and imperfect motion controller support keep it from essential status."
 heroImage: /images/games/trover-saves-the-universe-vr-hero.jpg
-sources: "Research conducted via IGN review (2019), UploadVR review (2019), PlayStation Store page, Steam store page, VR Grid review, Meta Quest store page, and developer interviews with Squanch Games. No direct testing performed."
+sources: "Research conducted via IGN review (2019), UploadVR review (2019), PlayStation Store page, Steam store page, VR Grid review, Meta Quest store page, and developer interviews with Squanch Games."
 ---
 
 The first thing that hits you in *Trover Saves the Universe* is the voice. Not the tutorial voice, not the atmospheric score — Justin Roiland's voice, babbling out of every character, breaking the fourth wall, making fun of you for sitting in a headset, and generally refusing to let the game be a normal video game. This is not a subtle experience. This is a comedy grenade dressed up as a platformer, and in VR, that grenade goes off about six inches from your face.

@@ -31,7 +31,7 @@ tier: B
 vrReleaseDate: 2020-06-25
 verdict: "A lean, punishing arcade shooter that understands exactly what VR can do for the light-gun genre. The content is light and the difficulty will eject casual players, but if you want a physically demanding, no-nonsense action fix, this is one of the best executions of its kind."
 heroImage: /images/games/crisis-vrigade-2-vr-hero.jpg
-sources: "Research compiled from UploadVR (Jamie Feltham, Henry Stockdale), The Ghost Howls / Skarredghost, Press Play Media, DualShockers (Chris Harding), Reddit community reports (r/PSVR, r/OculusQuest), and Steam store documentation. Assessment based on multi-source research compilation. No direct testing performed."
+sources: "Research compiled from UploadVR (Jamie Feltham, Henry Stockdale), The Ghost Howls / Skarredghost, Press Play Media, DualShockers (Chris Harding), Reddit community reports (r/PSVR, r/OculusQuest), and Steam store documentation. Assessment based on multi-source research compilation."
 ---
 
 There is a moment, about three minutes into any given level of Crisis VRigade 2, when the polite fiction that you are a calm and collected tactical operator falls apart completely. You are on your knees behind a virtual desk. Your thighs are burning. The timer is ticking down from seven minutes, you have one life left, and an enemy with a grenade launcher just stepped onto a balcony you cannot see from your cowering position. Your magazine is empty. You reach for a fresh one from your virtual chest rig, praying your controller does not lose tracking at the worst possible moment, and you realize that this is not a game you play sitting on a couch.

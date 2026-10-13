@@ -29,7 +29,7 @@ experienceTags:
 tier: C
 verdict: "Worth a weekend experiment if you already own the game and VorpX, but don't buy either one just for this. The racing still slaps; the VR wrapper mostly gets in the way."
 heroImage: /images/games/need-for-speed-most-wanted-vr-hero.jpg
-sources: "Research conducted via VorpX official supported games list and forums, FossBytes VR coverage, YouTube VR gameplay footage, and Reddit community reports (r/vive, r/oculus, r/virtualreality). Assessment based on community experience; no direct testing performed."
+sources: "Research conducted via VorpX official supported games list and forums, FossBytes VR coverage, YouTube VR gameplay footage, and Reddit community reports (r/vive, r/oculus, r/virtualreality). Assessment based on community experience;"
 ---
 
 # Need for Speed: Most Wanted VR

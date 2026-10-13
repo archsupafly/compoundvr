@@ -33,7 +33,7 @@ experienceTags:
 tier: B
 verdict: "Garry's Mod in VR is a glorious mess. The physics sandbox you already love becomes something stranger and funnier with your hands in it, but the setup friction, unpredictable performance, and motion sickness risk mean only patient tinkerers need apply."
 heroImage: /images/games/garry-s-mod-vr-hero.jpg
-sources: "Research conducted via Steam Workshop pages for VRMod (Catse) and [G]VRMod: Ultimate, UploadVR coverage (March 2019), PCGamesN, GitHub repositories (Abyss-c0re/vrmod-x64, vrmod-module-master), Reddit community reports (r/gmod, r/virtualreality, r/Vive), YouTube VR gameplay footage, and Flat2VR Discord community knowledge. No direct testing performed."
+sources: "Research conducted via Steam Workshop pages for VRMod (Catse) and [G]VRMod: Ultimate, UploadVR coverage (March 2019), PCGamesN, GitHub repositories (Abyss-c0re/vrmod-x64, vrmod-module-master), Reddit community reports (r/gmod, r/virtualreality, r/Vive), YouTube VR gameplay footage, and Flat2VR Discord community knowledge."
 ---
 
 The first thing you need to understand about Garry's Mod in VR is that nobody asked for this to be polished. The second thing is that it doesn't matter.

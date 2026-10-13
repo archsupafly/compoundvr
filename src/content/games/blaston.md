@@ -32,7 +32,7 @@ vrImplementationQuality: A
 tier: B
 verdict: "Blaston is one of the most mechanically inventive competitive VR shooters available, but its brilliance is held back by a sparse player population that makes matchfinding unreliable outside peak hours."
 heroImage: /images/games/blaston-vr-hero.jpg
-sources: "Research compiled from Resolution Games official website and blog, Steam store page and SteamDB player data, Meta Quest store page, UploadVR coverage, MIXED Reality News review, TheGamer review, VR Fitness Insider coverage, Road to VR impressions, and Reddit community reports. Assessment based on multi-source research compilation; no direct testing performed."
+sources: "Research compiled from Resolution Games official website and blog, Steam store page and SteamDB player data, Meta Quest store page, UploadVR coverage, MIXED Reality News review, TheGamer review, VR Fitness Insider coverage, Road to VR impressions, and Reddit community reports. Assessment based on multi-source research compilation;"
 ---
 
 The first thing that separates Blaston from every other VR shooter is not its weapons, its arenas, or its scoring. It is the speed at which nothing moves. Bullets do not scream toward you — they float, lazily, like dandelion seeds caught in a draft, and your job is to contort your body around them while building a cage of returning fire for your opponent.

@@ -30,7 +30,7 @@ experienceTags:
 tier: B
 verdict: "A genuinely novel, native-VR comedy built entirely around moving your head to head balls — funny, physical, and longer than you'd expect, but the one-joke concept wears thin if you're not already laughing at the writing."
 heroImage: /images/games/headmaster-vr-hero.jpg
-sources: "PlayStation Store product page, Steam store page, Headmaster official site and press kit, Metacritic and OpenCritic aggregate pages, UploadVR (PSVR and PC launch) coverage, Push Square review, Deku Deals, Meta Quest Blog, GameSpew PC launch coverage, DLC press kit and Steam DLC page, Perp Games physical edition announcement. No direct testing performed; assessment based on documented launch-era coverage and the research file."
+sources: "PlayStation Store product page, Steam store page, Headmaster official site and press kit, Metacritic and OpenCritic aggregate pages, UploadVR (PSVR and PC launch) coverage, Push Square review, Deku Deals, Meta Quest Blog, GameSpew PC launch coverage, DLC press kit and Steam DLC page, Perp Games physical edition announcement.; assessment based on documented launch-era coverage and the research file."
 ---
 
 The first ball hit me square in the face, and the robot voice on the intercom said, deadpan, "That was not a header. That was a personal failure." I was in the headset, on a wooden bench in a concrete room that is absolutely not a prison, being retrained as a footballer by an AI with the comedic timing of a spiteful HR department. I laughed, reset my stance, and let the next ball bounce off my forehead with intent. Headmaster is the only game I've played where the core verb is literally moving your skull.

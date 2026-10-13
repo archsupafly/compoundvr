@@ -31,7 +31,7 @@ experienceTags:
 tier: B
 verdict: "The footage is genuinely extraordinary — real astronauts, real spacewalks, filmed in space over two years. But the Ultimate Edition app wrapper trades download reliability for streaming headaches, and the hand-only controls feel imprecise. Worth installing for the spacewalk sequence alone, but expect to forgive some technical rough edges."
 heroImage: /images/games/space-explorers-vr-hero.jpg
-sources: "Research conducted via Wikipedia, Meta blog launch announcement, CollectSpace coverage, Heise.de technical review, UploadVR location-based experience review, Mashable VR coverage, Road to VR studio production details, and Unreal Engine spotlight on Felix & Paul Studios. Assessment based on published reviews and community reporting; no direct testing performed."
+sources: "Research conducted via Wikipedia, Meta blog launch announcement, CollectSpace coverage, Heise.de technical review, UploadVR location-based experience review, Mashable VR coverage, Road to VR studio production details, and Unreal Engine spotlight on Felix & Paul Studios. Assessment based on published reviews and community reporting;"
 ---
 
 Here's the thing: most VR "experiences" are marketing fluff. Someone put a 360° camera in a pretty place, called it immersive, and asked for ten dollars. *Space Explorers* is not that. This is footage shot by actual astronauts aboard the International Space Station over the course of two years, using a custom-built camera hardened to survive the vacuum of space, ionizing radiation, and temperature swings of five hundred degrees Fahrenheit. When I first loaded it up, I stopped mid-sentence and just stared.

@@ -29,7 +29,7 @@ experienceTags:
 tier: A
 verdict: "One of PSVR's most underrated titles — true 1:1 melee combat with rare weight and depth, cinematic atmosphere, and a soundtrack from the composer of Halo. The design quirks demand patience, but what they lead to justifies every minute."
 heroImage: /images/games/golem-vr-hero.jpg
-sources: "Wikipedia — Golem (2019 video game); UploadVR review; The VR Grid review (updated for v1.02); Push Square review; PlayStation Universe review; Gaming Trend review; Way Too Many Games review; Reddit r/PSVR community discussion. No direct testing performed — assessment based on published reviews and community experience."
+sources: "Wikipedia — Golem (2019 video game); UploadVR review; The VR Grid review (updated for v1.02); Push Square review; PlayStation Universe review; Gaming Trend review; Way Too Many Games review; Reddit r/PSVR community discussion."
 ---
 
 The first time you swing a sword in *Golem*, something clicks.

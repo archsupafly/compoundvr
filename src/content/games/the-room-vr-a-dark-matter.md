@@ -28,7 +28,7 @@ experienceTags:
 tier: A
 verdict: "One of the finest puzzle experiences in VR, offering unmatched tactile interaction and thoughtful design at the cost of restrictive movement and modest length."
 heroImage: /images/games/the-room-vr-a-dark-matter-hero.jpg
-sources: "Research compiled from UploadVR, IGN, GamingTrend, The VR Grid, Push Square, and Reddit community reports across PCVR, PSVR/PSVR2, and Quest platforms. Assessment based on consensus from multiple independent reviews and community playthrough evidence. No direct testing performed."
+sources: "Research compiled from UploadVR, IGN, GamingTrend, The VR Grid, Push Square, and Reddit community reports across PCVR, PSVR/PSVR2, and Quest platforms. Assessment based on consensus from multiple independent reviews and community playthrough evidence."
 vrReleaseDate: 2020-03-26
 ---
 

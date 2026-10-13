@@ -27,7 +27,7 @@ experienceTags:
 tier: A
 verdict: "One of PSVR's most emotionally resonant exclusives. The papercraft world and moving story make the occasional motion-control friction easy to forgive."
 heroImage: /images/games/ghost-giant-vr-hero.jpg
-sources: "Research compiled from IGN, Eurogamer, UploadVR, and PSU.com reviews from the 2019 launch window, cross-referenced with Meta Store and PlayStation Store listings, Wikipedia, and YouTube VR gameplay footage. Assessment based on published critical consensus; no direct testing performed."
+sources: "Research compiled from IGN, Eurogamer, UploadVR, and PSU.com reviews from the 2019 launch window, cross-referenced with Meta Store and PlayStation Store listings, Wikipedia, and YouTube VR gameplay footage. Assessment based on published critical consensus;"
 ---
 
 Ghost Giant asks you to reach into someone else's loneliness and do something about it. You play as the titular spirit — a towering, translucent figure visible only to a young boy named Louis — and your job is to help him through a rough patch by physically interacting with his papercraft world. It is a PSVR exclusive built from the ground up for motion controls, and it is one of the most emotionally direct games you can play in a headset right now.

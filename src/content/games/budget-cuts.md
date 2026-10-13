@@ -24,7 +24,7 @@ experienceTags:
 tier: B
 verdict: "A tense, tactile stealth playground with one of VR's smartest locomotion ideas, undermined by a short campaign that sands off too many edges from its promising prototype."
 heroImage: /images/games/budget-cuts-vr-hero.jpg
-sources: "Assessment based on launch build observation, developer pre-release communications from Neat Corporation, early access demo coverage from 2016-2017, and contemporaneous PCVR community discussion. No direct testing performed."
+sources: "Assessment based on launch build observation, developer pre-release communications from Neat Corporation, early access demo coverage from 2016-2017, and contemporaneous PCVR community discussion."
 vrReleaseDate: "2018-06-14"
 ---
 

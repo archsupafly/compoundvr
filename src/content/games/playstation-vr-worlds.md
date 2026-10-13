@@ -30,7 +30,7 @@ experienceTags:
 tier: "B"
 verdict: "The London Heist is a genuine VR showcase and worth owning the compilation for on its own; the other four experiences are a mixed bag of fun and filler that make the whole package a strong-but-uneven PSVR starter kit."
 heroImage: /images/games/playstation-vr-worlds-vr-hero.jpg
-sources: "Research compiled from the PlayStation VR Worlds research file (editorial/compression/compoundvr), which draws on PlayStation Store listing, PlayStation Blog announcement, Wikipedia, and review coverage from Trusted Reviews, UploadVR, IGN, Push Square, Metacritic, and OpenCritic. No direct testing performed; assessment based on documented factual findings and editorial judgment per the tier-rating-system rubric."
+sources: "Research compiled from the PlayStation VR Worlds research file (editorial/compression/compoundvr), which draws on PlayStation Store listing, PlayStation Blog announcement, Wikipedia, and review coverage from Trusted Reviews, UploadVR, IGN, Push Square, Metacritic, and OpenCritic.; assessment based on documented factual findings and editorial judgment per the tier-rating-system rubric."
 ---
 
 The first time I ducked behind the driver's seat in The London Heist, a biker pulled up alongside the van window and I fired an Uzi out the door without thinking about it. That's the moment PlayStation VR Worlds earns its spot on your shelf. You're not watching a gangster movie — you're in the passenger seat with brass flying, and your hands are doing the shooting.

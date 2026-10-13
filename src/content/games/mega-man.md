@@ -30,7 +30,7 @@ experienceTags:
 tier: "C"
 verdict: "There is no good way to play real Mega Man in VR. VorpX on Mega Man 11 is the only mainline path that works, and it's a 3D screen in a headset, not a transformed experience. Most readers should play the flat version or grab the fan-made homage System Critical instead."
 heroImage: /images/games/mega-man-vr-hero.jpg
-sources: "Research conducted via vorpX forums, UEVR documentation, Dolphin VR project pages, PPSSPP VR documentation, Capcom/Steam store pages, PCGamingWiki, and the Steam/Meta store pages for System Critical: The Race Against Time. No direct testing performed."
+sources: "Research conducted via vorpX forums, UEVR documentation, Dolphin VR project pages, PPSSPP VR documentation, Capcom/Steam store pages, PCGamingWiki, and the Steam/Meta store pages for System Critical: The Race Against Time."
 ---
 
 I wanted to be wrong about Mega Man in VR. I really did. I wanted to find some hidden community mod, some slick UEVR profile, some emulator trick that dropped me into Dr. Wily's castle with a blaster in my hand. Instead I found the truth every nostalgic VR owner eventually faces: **Capcom never made this work, and the fans haven't either.**

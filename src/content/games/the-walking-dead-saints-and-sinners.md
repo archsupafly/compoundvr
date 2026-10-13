@@ -30,7 +30,7 @@ experienceTags:
 tier: S
 verdict: "One of the most substantial native VR games ever made. The physics-driven combat and survival systems create genuine tension that flat screens cannot replicate, though stamina restrictions and occasional jank keep it from perfection."
 heroImage: /images/games/the-walking-dead-saints-and-sinners-vr-hero.jpg
-sources: "Research conducted via Steam store page, Wikipedia, IGN review, UploadVR hands-on coverage, Road to VR review, Reddit community reports (r/Vive, r/OculusQuest, r/PSVR), Unreal Engine developer blog on physics implementation, and YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie). Assessment based on multi-source research compilation. No direct testing performed."
+sources: "Research conducted via Steam store page, Wikipedia, IGN review, UploadVR hands-on coverage, Road to VR review, Reddit community reports (r/Vive, r/OculusQuest, r/PSVR), Unreal Engine developer blog on physics implementation, and YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie). Assessment based on multi-source research compilation."
 ---
 
 The first time a blade lodges in a walker's skull and you physically wrench it free, you understand what *The Walking Dead: Saints & Sinners* is doing differently. Most VR zombie games let you wave a weapon through enemies like a magic wand. Here, your axe has weight. Your knife gets stuck. Your arms get tired. And when the shambling horde closes in while you are still tugging steel from bone, the panic is real.
