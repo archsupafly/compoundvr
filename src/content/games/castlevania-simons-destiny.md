@@ -55,12 +55,6 @@ On PC, you run the game's files through a GZDoom build with OpenVR support — t
 
 Both deliver full 6DOF head tracking, stereo depth, and motion-controlled weapons. The Quest build trims normal and specular maps and drops a few props to keep the framerate honest on standalone hardware, which sounds like a bigger compromise on paper than it is in practice — mid-whip, you will not be counting texture layers.
 
-## How to install Simon's Destiny VR
-
-Getting in takes patience, and this is the honest tax on the whole thing. The game is a GZDoom total conversion, which means it needs the GZDoom engine and a Doom II IWAD file to launch — you are expected to own Doom.
-
-On PC that means manual file placement and pointing the OpenVR build at the correct folder. On Quest it means sideloading QuestZDoom through SideQuest and then pulling the mod from inside the launcher. None of it is difficult, and the community documentation is decent, but if you have never touched a Doom engine port, budget an afternoon of reading and folder management before the castle doors open.
-
 ## Playing it: the whip, the castle, the combat
 
 The whip is the whole game, and it translates better than you'd expect. In first person you get reach, a wind-up you have to commit to, and a crack that lands where you aimed it — which turns Castlevania's most distinctive mechanic into something physical rather than something you time against a sprite sheet.
