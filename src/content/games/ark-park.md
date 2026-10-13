@@ -30,6 +30,11 @@ tier: B
 verdict: "A genuinely beautiful VR dinosaur park let down by a combat half that never coheres — worth it for exploration and dino fans who know what they're getting, skippable for everyone else."
 heroImage: /images/games/ark-park-vr-hero.jpg
 sources: "Research compiled from Wikipedia (dates, engine, platforms, Metacritic summary), the Steam store page and Steam Web API (VR support, tracked controller categories, system requirements, user review summary), UploadVR's launch review 'Ark Park Review: Disappointasaurus', the survivetheark.com launch-day post, ark.wiki.gg (delay from December 2017), PSVR Without Parole's video review, and a 2018 r/PSVR launch thread. Assessment based on documented launch-era coverage and the game's native VR implementation."
+relatedPages:
+  - id: ark-survival-evolved
+    kind: game
+    note: "The survival game's own official VR mode — seated, gamepad, and a very different proposition."
+
 ---
 
 I spent my first ten minutes in ARK Park with my neck craned straight up at a brachiosaur. Not a flat-screen render of one — a creature the size of a house, chewing leaves twenty feet over my head, completely indifferent to me standing there like an idiot on the jungle floor. That's the pitch, and for those few minutes it absolutely lands.

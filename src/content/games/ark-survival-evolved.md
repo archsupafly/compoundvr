@@ -30,6 +30,11 @@ tier: C
 verdict: "ARK's own official VR mode sells the scale of the island better than any flat screen could, then gets in its own way: no motion controls, a flat HUD in front of your face, and an implementation the developers stopped updating within months of shipping it. Worth a look if you already own ARK and want to walk the island once; everyone else should stay flat."
 heroImage: /images/games/ark-survival-evolved-vr-hero.jpg
 sources: "Research compiled from UploadVR's 'Ark: Survival Evolved VR Review — Life In Jurassic Park' (official Oculus Rift support, seated gamepad or keyboard-and-mouse play, no Oculus Touch), Reality Remake's ARK VR review and setup guide, ARK patch 245.94 release notes and the accompanying Steam community thread restoring Oculus support, and the Virtual Reality Wiki entry. No direct hands-on testing performed."
+relatedPages:
+  - id: ark-park
+    kind: game
+    note: "Snail Games' standalone VR dinosaur park — the native-VR alternative to ARK's own seated mode."
+
 ---
 
 I woke up naked on a beach again, with a stubby dinosaur staring at me like I owed it rent. That's ARK: Survival Evolved's opening beat, and it lands differently with a headset on — the island spreads out around you, and the first thing that registers isn't the danger. It's how much of the place there is.
