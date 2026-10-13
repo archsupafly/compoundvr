@@ -33,6 +33,9 @@ verdict: "DiRT Rally in VR is a demanding, often nauseating experience with limi
 heroImage: '/images/games/dirt-rally-vr-hero.jpg'
 gameQuality: 7
 vrImplementation: 6
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # DiRT Rally VR

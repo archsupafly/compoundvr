@@ -31,6 +31,9 @@ verdict: "Elite Dangerous in VR delivers one of the most convincing presence exp
 heroImage: /images/games/elite-dangerous-hero.jpg
 flatReleaseDate: 2014-12-16
 vrReleaseDate: 2014-12-16
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # Elite Dangerous VR: The Cockpit Gold Standard

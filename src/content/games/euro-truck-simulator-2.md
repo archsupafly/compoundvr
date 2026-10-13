@@ -29,6 +29,9 @@ verdict: "ETS2 VR is the full game in virtual reality — every map, every truck
 heroImage: /images/games/euro-truck-simulator-2-hero.jpg
 flatReleaseDate: 2012-10-19
 vrReleaseDate: 2017-01-01
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # Euro Truck Simulator 2 VR: The Long Haul Finally Comes to VR

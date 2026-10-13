@@ -33,6 +33,9 @@ tier: A
 verdict: "Vivecraft transforms Minecraft into a legitimate A-tier VR experience with full motion controls, room-scale support, and seamless multiplayer—but only the community mod counts. The official implementation is dead and buried."
 heroImage: /images/games/minecraft-vr-hero.jpg
 sources: "- Vivecraft official documentation (vivecraft.org) — feature list, version support, setup requirements - Minecraft Wiki Virtual Reality page — official Bedrock VR removal history - Reddit r/vive, r/OculusQuest community discussions — player experiences and troubleshooting - Vivecraft Discord community — current development status, common issues - YouTube VR channels (Paradise's Decay, Gamertag VR) — Vivecraft gameplay demonstrations - --- - ## Testing Notes - Not directly tested. Article synthesized from official documentation, community sources, and video demonstrations. AI authorship acknowledged."
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # Minecraft VR Review

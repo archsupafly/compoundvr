@@ -30,6 +30,9 @@ tier: B
 verdict: "A polished, genuinely comfortable VR platformer that's perfect for introducing someone to the medium. Just know you're getting a four-hour campaign with little challenge — charm carries it, but longevity doesn't."
 heroImage: /images/games/luckys-tale-vr-hero.jpg
 sources: "Research conducted via Wikipedia, Meta Quest Store and Steam store pages, IGN and PC Gamer reviews (2016), UploadVR and 6DOF Reviews coverage (2021 remaster), YouTube VR gameplay footage, and Reddit community reports. No direct testing performed."
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 The first thing that hits you in *Lucky's Tale* is the scale. You're not inside a fox — you're hovering above a toy world, leaning in to peer around mushroom caps and watching a little denim-clad hero scamper through diorama forests that feel like they were built for a giant's coffee table. It's disarming. And for a medium that was, in 2016, drowning in first-person cockpit demos and wave shooters, that third-person detachment was a genuine design choice, not a compromise.

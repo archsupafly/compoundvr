@@ -28,6 +28,9 @@ tier: B
 verdict: "One of the best social VR party games you can own — if you have the friends to play it with. If you don't, there's nothing here for you."
 heroImage: /images/games/keep-talking-and-nobody-explodes-vr-hero.jpg
 sources: "Research conducted via Steel Crate Games official website and FAQ, Steam store page, Meta Quest store, PlayStation store, YouTube VR gameplay footage, and community knowledge from Reddit and gaming forums. No direct testing performed."
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 The first time you cut the wrong wire and your friend shouts "NO, THE RED ONE" while the timer hits zero, you understand exactly what this game is.

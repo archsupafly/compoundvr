@@ -37,6 +37,9 @@ history:
     note: "'Crash Site' update: usable in-headset menus — the peak of the abandoned official VR implementation."
   - date: 2022-06-01
     note: "SubmersedVR community mod; the definitive route today."
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # Subnautica VR Review

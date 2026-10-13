@@ -29,6 +29,9 @@ verdict: "Historically important as one of the first serious racing simulations 
 heroImage: /images/games/project-cars-vr-hero.jpg
 flatReleaseDate: 2015-05-07
 vrReleaseDate: 2016-03-28
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # The First Lap: Project CARS and the Birth of Racing VR

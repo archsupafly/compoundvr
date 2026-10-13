@@ -32,6 +32,9 @@ heroImage: /images/games/half-life-2-vr-hero.jpg
 flatReleaseDate: 2004-11-16
 vrReleaseDate: 2022-09-23
 sources: "Source VR Mod Team public documentation and Steam store pages (mod features, system requirements, install process, roadmap). Flat2VR Discord community knowledge (development history, texture upscaling experiments, controller binding reports). Reddit r/vive and r/hlvr community reports (comfort experiences, fitness tracker anecdotes, exploration behavior). YouTube VR gameplay footage from Beardo Benjo, Gamertag VR, and Paradise's Decay (control implementation, physics interaction, visual quality). Steam user reviews for Half-Life 2: VR Mod (aggregate sentiment, bug reports, completion confirmation). No direct testing performed."
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 The phrase gets thrown around a lot in VR: "it's like playing it for the first time again." Usually that's just enthusiasm talking. But the Half-Life 2 VR mod actually delivers on the promise. It doesn't merely adapt a classic—it transports you back to 2004, when this game rewired what first-person shooters could be, only now you're physically standing inside it. The time machine metaphor isn't hype here. It's literal: you're experiencing a twenty-year-old game through technology that didn't exist when it was made, and the dissonance somehow collapses into something that feels both familiar and newly possible.

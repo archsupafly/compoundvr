@@ -29,6 +29,9 @@ heroImage: /images/games/team-fortress-2-vr-hero.jpg
 flatReleaseDate: 2007-10-10
 vrReleaseDate: 2013-05-01
 sources: "- Official TF2 Wiki Oculus Rift User Guide — detailed documentation of the 2013 VR implementation - Road to VR coverage of Valve's 2013 GDC presentation on TF2 VR - Virtual Fortress 2 GitHub repository and itch.io page - Steam Community discussions on activating legacy VR mode - Flat2VR Discord — community knowledge on current state of TF2 VR"
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # Team Fortress 2 in VR: A Beloved Shooter Lost in Translation

@@ -31,6 +31,9 @@ tier: A
 verdict: "The deepest military flight simulator available becomes physically present in a headset, but only if you're willing to invest in hardware, a HOTAS, and the patience to tune it into submission."
 heroImage: /images/games/dcs-world-vr-hero.jpg
 sources: "Research conducted via Eagle Dynamics official documentation and FAQ, Steam community discussions, Reddit communities (r/hoggit, r/dcsworld), YouTube VR gameplay analysis (Beardo Benjo, Gamertag VR), and specialized sim hardware guides (Gamers By Night, Pimax, VR4DCS). Assessment based on community reports and verified technical documentation; no direct hands-on testing performed."
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 The first time I strapped into an F/A-18 cockpit in DCS World, I just sat there for a minute, looking around. The ejection seat handle was right there, inches from my knee. The HUD was floating exactly where it should be. I leaned forward, and the instrument panel came closer. I leaned back, and I could see the canopy rails behind me. This is what people mean when they say VR transforms a game. In DCS, it transforms the whole genre.

@@ -32,6 +32,9 @@ verdict: "The game itself earns an A on its own merits - brilliant AI, immaculat
 heroImage: /images/games/alien-isolation-vr-hero.jpg
 flatReleaseDate: 2014-10-07
 vrReleaseDate: 2017-08-01
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 # The Horror They Promised, The Horror We Got: Sevastopol in VR

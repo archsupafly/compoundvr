@@ -36,6 +36,9 @@ tier: B
 verdict: "A genuinely compelling way to experience War Thunder's air battles in Sim mode, held back by rough edges, comfort issues, and VR support that never expanded beyond aircraft. For flight sim enthusiasts with the right hardware, it's worth the download. For everyone else, the flat screen is probably the better call."
 heroImage: /images/games/war-thunder-vr-hero.jpg
 sources: "Research conducted via War Thunder official wiki (VR mode documentation), Steam community discussions, War Thunder official forums, Reddit communities (r/WarthunderSim, r/virtualreality, r/hotas), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR), and Flat2VR Discord community knowledge. No direct testing performed."
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 There's a moment in War Thunder's Sim Battles when you pull up hard from a dive and the landscape tilts beneath you — trees, rivers, enemy aircraft all sliding across your vision as G-force pins you to the seat. In VR, that moment doesn't feel like a camera trick. It feels like you're actually there, canopy frame rattling, engine screaming, desperately scanning for the bandit that just dropped off your six.
