@@ -35,7 +35,6 @@ It shipped as a launch title for the HTC Vive in April and immediately became th
 The limitation is depth. Once you've exhausted the three job scenarios — office worker, gourmet chef, and convenience store clerk — there's not much reason to return. The 2016 version is a proof of concept dressed up as a comedy game. But it's an extremely effective proof of concept. It proved that VR didn't need violence or complexity to be compelling. Sometimes it just needs a good throwing arm and a room full of breakable objects.
 
 [Read the full Job Simulator VR review](/games/job-simulator)
-Also read: [Best PSVR Launch Games](/articles/best-psvr-launch-games)
 
 ---
 
@@ -52,7 +51,6 @@ Eagle Flight's brilliance is its steering system. You turn by tilting your head,
 The problem is content. The single-player campaign is short, the multiplayer population peaked early, and the world, while beautiful, doesn't offer much to do outside of the structured flight paths. Ubisoft proved that a major studio could ship a polished VR exclusive. They just didn't prove that it could hold your attention for more than a weekend.
 
 [Read the full Eagle Flight VR review](/games/eagle-flight)
-Also read: [Best PSVR Launch Games](/articles/best-psvr-launch-games)
 
 ---
 
@@ -69,7 +67,6 @@ The game's central loop is as elegant as it is repetitive: dual pistols that swi
 It's thin. There are no levels, no campaign, no narrative framework. Just you, two pistols, and a high-score table. But in 2016, that was enough. Space Pirate Trainer became the game Vive owners loaded up to show off what room-scale tracking could do in an action context. It was the arcade staple that every VR platform needed. Simple, immediate, and genuinely exhilarating.
 
 [Read the full Space Pirate Trainer VR review](/games/space-pirate-trainer)
-Also read: [Best Quest Launch Games](/articles/best-quest-launch-games)
 
 ---
 
@@ -86,7 +83,6 @@ The scale is what breaks you. Undocking from a station and watching the slot shr
 The compromises are still there. The UI text is too small for comfort in many menus. The frame rate demands serious hardware. And the game's famously steep learning curve isn't made any gentler by wearing a headset. But none of that matters when you're looking out at a nebula through your canopy window. Elite: Dangerous was already the best VR experience of 2015. In 2016, with Horizons and full consumer support, it became something closer to essential infrastructure — the game that justified the hardware for sim fans and sci-fi lovers alike.
 
 [Read the full Elite: Dangerous VR review](/games/elite-dangerous)
-Also read: [Top 10 VR Games to Play in 2015](/articles/top-10-vr-games-2015)
 
 ---
 
@@ -103,7 +99,6 @@ The activities themselves are simple but well-executed. Paintball works because 
 Rec Room's real significance isn't any individual game mode. It's the proof that VR could sustain a persistent online community. In a year when most VR multiplayer experiences struggled to find populations, Rec Room had one — because it was free, because it ran on every headset, and because it understood that VR's social killer app might just be hanging out.
 
 [Read the full Rec Room VR review](/games/rec-room)
-Also read: [Best Quest Launch Games](/articles/best-quest-launch-games)
 
 ---
 
@@ -136,7 +131,6 @@ The camera system shouldn't work in VR. Fixed-position third-person cameras are 
 It's an Oculus exclusive, which limits its reach. It requires a gamepad, which felt old-fashioned in a year when motion controllers were the headline feature. But Chronos demonstrated that VR's future wasn't going to be only first-person room-scale experiences. Sometimes the right answer is to adapt what already works and let the headset add something that wasn't there before.
 
 [Read the full Chronos VR review](/games/chronos)
-Also read: [Oculus Rift CV1 Review](/articles/oculus-rift-cv1-review)
 
 ---
 
@@ -169,7 +163,6 @@ The game launched alongside PlayStation VR in October, but the non-VR version is
 The difficulty is relentless. Thumper is not a casual rhythm game. It demands precision, pattern memorization, and the willingness to fail dozens of times before a section clicks. The VR mode adds intensity without adding comfort — this is a game that moves fast, turns hard, and doesn't care about your vestibular system. But for players who can handle it, Thumper in VR is one of the most visceral audiovisual experiences available on any platform.
 
 [Read the full Thumper VR review](/games/thumper)
-Also read: [Best Rhythm Games to Play in VR](/articles/best-vr-rhythm-games)
 
 ---
 
@@ -202,7 +195,6 @@ The graphical ambition is staggering for a 2016 PSVR title. Crytek's engine rend
 The gameplay is lighter than the visuals suggest. Puzzles are simple. Exploration is guided. The narrative is straightforward. Robinson: The Journey is more of a walking safari than a traditional game, and it asks you to be content with looking at beautiful things rather than mastering complex systems. For players who wanted that, it delivered something no other 2016 title could match: wonder.
 
 [Read the full Robinson: The Journey VR review](/games/robinson-the-journey)
-Also read: [The Top 50 PSVR Games of All Time](/articles/top-50-psvr-games-all-time)
 
 ---
 
@@ -219,7 +211,6 @@ The gunplay is the star. Pistols, shotguns, rifles, and submachine guns all requ
 The campaign runs several hours and supports co-op multiplayer, which transforms the experience from solitary survival into coordinated defense. The writing is sharper than it needs to be — the protagonist's internal monologue delivers genuine humor and pathos through the radio. Arizona Sunshine isn't the most innovative game on this list, but it's the one that proved VR shooters could carry a full game's worth of content without feeling like an extended tech demo.
 
 [Read the full Arizona Sunshine VR review](/games/arizona-sunshine)
-Also read: [Best Quest Launch Games](/articles/best-quest-launch-games)
 
 ---
 
@@ -236,7 +227,6 @@ The answer, delivered in first-person VR, is surprisingly intimate. You stand in
 The emotional payload comes from the moments between the mechanics. Visiting Wayne Manor as Bruce. Standing at the spot where your parents died. Looking in a mirror and seeing Batman stare back. Rocksteady understood that VR's superpower isn't scale — it's proximity. Being close to things that matter. Arkham VR is short, but it's the most psychologically dense experience of the year, and the one that made the strongest case for licensed VR content.
 
 [Read the full Batman: Arkham VR review](/games/batman-arkham-vr)
-Also read: [The Top 50 PSVR Games of All Time](/articles/top-50-psvr-games-all-time)
 
 ---
 
@@ -253,7 +243,6 @@ The original five areas play in a virtual theater mode that surrounds you with t
 Rez Infinite is the argument for VR as an artistic medium, not just a technological one. Every other game on this list justifies the headset through mechanics, immersion, or social connection. Rez Infinite justifies it through pure aesthetic experience. It's the game you play when you want to remember why VR matters beyond the bullet points and the sales figures. PlayStation VR's most essential launch title, and the best music game in any format.
 
 [Read the full Rez Infinite VR review](/games/rez-infinite)
-Also read: [Best Rhythm Games to Play in VR](/articles/best-vr-rhythm-games)
 
 ---
 
@@ -270,7 +259,6 @@ In VR, the mechanics become physical. You don't press a button to dodge — you 
 SUPERHOT VR launched in December alongside the Oculus Touch controllers, and it immediately became the title that justified the entire motion controller ecosystem. It was later ported to Vive and PlayStation VR, but the core design doesn't change: this is a game that can only exist in VR, because its mechanics are built around the specific capabilities of tracked hands in a physical play space. It's the most innovative shooter in years, the best VR game of 2016, and the first game that made players feel like VR had arrived not as a peripheral, but as a new way to play.
 
 [Read the full SUPERHOT VR review](/games/superhot-vr)
-Also read: [The Best VR Games of 2015–2020](/articles/best-vr-games-2015-2020)
 
 ---
 
@@ -278,11 +266,11 @@ Also read: [The Best VR Games of 2015–2020](/articles/best-vr-games-2015-2020)
 
 **The Lab** — Valve's free collection of mini-experiences became the default introduction to room-scale VR for every new Vive owner, packing more mechanical ideas into one download than most studios explored all year.
 
-**Vanishing Realms** — An indie action RPG that proved room-scale combat could work outside the wave shooter format, with sword-and-shield fights that demanded physical positioning and timing. [Read the full Vanishing Realms VR review](/games/vanishing-realms) Also read: [HTC Vive Review](/articles/htc-vive-review)
+**Vanishing Realms** — An indie action RPG that proved room-scale combat could work outside the wave shooter format, with sword-and-shield fights that demanded physical positioning and timing. [Read the full Vanishing Realms VR review](/games/vanishing-realms)
 
-**Fantastic Contraption** — The classic puzzle game rebuilt from scratch for room-scale, letting you physically build machines in 3D space and watch them solve problems you designed. Also read: [HTC Vive Review](/articles/htc-vive-review)
+**Fantastic Contraption** — The classic puzzle game rebuilt from scratch for room-scale, letting you physically build machines in 3D space and watch them solve problems you designed.
 
-**The Climb** — Crytek's rock climbing sim delivered vertigo-inducing vistas and a surprisingly meditative experience, using grip-based locomotion that turned a controller into two virtual hands on virtual rock. [Read the full The Climb VR review](/games/the-climb) Also read: [The Top 50 Quest 1 Games of All Time](/articles/best-quest-1-games-all-time)
+**The Climb** — Crytek's rock climbing sim delivered vertigo-inducing vistas and a surprisingly meditative experience, using grip-based locomotion that turned a controller into two virtual hands on virtual rock. [Read the full The Climb VR review](/games/the-climb)
 
 ---
 
