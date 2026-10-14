@@ -3,7 +3,7 @@ title: "Call of Duty 4: Modern Warfare VR"
 description: "A community OpenXR mod drops you into the original 2007 campaign with motion-controlled rifles and a real scope — a legendary shooter finally playable in VR, warts and all."
 flatReleaseDate: 2007-11-05
 vrReleaseDate: 2026-07-30
-lastUpdated: 2026-07-30
+lastUpdated: 2026-09-23
 featured: false
 routeType: Multi-Route Coverage
 platforms: ['PCVR']
@@ -26,8 +26,15 @@ experienceTags:
   - Single-Player Campaign
   - Set-Piece Shooter
 tier: B
+history:
+  - date: 2026-09-23
+    note: CallOfDuty4_VR v0.10.0-beta.19 released — the mod's latest update.
 verdict: "The KisakCOD VR mod turns one of the best campaigns ever made into a proper 6DoF shooter — beta bugs and single-player-only scope included, it's still the way to actually be inside Modern Warfare."
 heroImage: /images/games/call-of-duty-4-modern-warfare-vr-hero.jpg
+modDownload:
+  url: https://github.com/jplakon/CallOfDuty4_VR/releases
+  label: Download CoD4 VR Mod
+  note: Created by jplakon
 sources: "KisakCOD VR GitHub repository and release notes; vorpX community forum profile for Call of Duty 4: Modern Warfare; Wikipedia and Giant Bomb for original release dates."
 ---
 
