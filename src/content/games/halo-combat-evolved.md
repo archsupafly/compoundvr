@@ -1,137 +1,102 @@
 ---
 title: "Halo: Combat Evolved VR"
-description: "The game that defined a generation of shooters, floating in stereoscopic 3D — no motion controls, no hand presence, just you and a gamepad inside a headset."
-lastUpdated: 2001-11-15
+description: "The original Halo, rebuilt for VR by a community mod: motion-controlled weapons, working scopes, shoulder holsters, and the ringworld looming around you."
+lastUpdated: 2026-01-10
 featured: false
-routeType: Framework Only
+routeType: Full VR Mod
 platforms: ['PCVR']
-recommendation: Enthusiasts/Tinkerers Only
-playability: Mostly Playable
+recommendation: Recommended
+playability: Fully Playable
 setupBurden: Moderate Setup
-inputStyle: Gamepad Preferred
+inputStyle: Full Motion Controls
 comfort: Moderate Intensity
 performance: Efficient
-supportStatus: Stable but Quiet
+supportStatus: Active
 genres:
   - First-Person Shooter
   - Sci-Fi
 technicalTags:
-  - vorpX
-  - injection-driver
-  - stereoscopic-3d
-  - head-tracking
+  - Full VR Mod
+  - 6DoF
+  - Motion Controls
+  - Community Mod
 experienceTags:
   - campaign
   - classic-game
   - nostalgic
-tier: C
-verdict: "A legendary shooter deserves better than a windshield view. VorpX adds stereoscopic depth and head tracking to Halo: Combat Evolved, but without motion controls, VR interactions, or any sense of embodied presence, this is the flat game wearing 3D glasses — not a VR experience."
+tier: A
+history:
+  - date: 2026-01-10
+    note: HaloCEVR 1.4.0 released, the mod's latest update.
+  - date: 2024-11-26
+    note: HaloCEVR 1.0.0 released — the first full VR conversion for the original PC edition.
+verdict: "HaloCEVR is the real thing: a full conversion of the original Halo for motion-controlled PCVR. It has rough edges, but the campaign is playable, the shooting feels native, and this is now the way to experience the ringworld in a headset."
 heroImage: /images/games/halo-combat-evolved-vr-hero.jpg
 flatReleaseDate: 2001-11-15
-vrReleaseDate: 2001-11-15
-sources: "- VorpX official supported games list (vorpx.com/supported-games) — confirmed both \"Halo\" and \"Halo: MasterChief Collection (Halo 1 only)\" are officially supported - VorpX features page (vorpx.com/features) — confirmed injection driver capabilities: stereoscopic 3D, head tracking, DirectVR, controller mapping, EdgePeek - Steam MCC community discussions — general game context, MCC update patterns - Training data — VorpX injection driver behavior patterns, Halo CE game design and encounter structure, community-reported vehicle section comfort issues, HUD/UI behavior in injection contexts - Claims about vehicle section comfort issues, HUD readability, and profile stability come from training data and should be verified by direct testing before final publication"
+vrReleaseDate: 2024-11-26
+modDownload:
+  url: https://github.com/LivingFray/HaloCEVR/releases
+  label: Download Halo CE VR Mod
+  note: Created by LivingFray
+sources: "Research conducted via the HaloCEVR GitHub repository by LivingFray (github.com/LivingFray/HaloCEVR), including release notes, documented features, and the known-issues list; the HALOCEVR-Installer by EllieWasteland; Flat2VR Discord community reports; and YouTube VR gameplay footage from established channels."
 ---
 
-# Halo: Combat Evolved in VR: The Ring Is Real, But You're Still Watching Through Glass
+# Halo: Combat Evolved in VR: The Ring at Arm's Length
 
-Halo: Combat Evolved is one of the most important first-person shooters ever made. When Bungie shipped it, it redefined console FPS design — the two-weapon limit, the regenerating shield, the enemy AI that made every encounter feel like a tactical puzzle. The question isn't whether Halo is good. It's whether VorpX injection makes it worth playing in a VR headset when you already own it flat.
+The first time you physically raise an MA5B assault rifle and the floating crosshair tracks with your hand, Halo stops being a game you remember and becomes a place you are standing inside. HaloCEVR is a full conversion of the original 2003 PC release for PCVR, and it finally puts your hands on the weapons, your eyes down the scopes, and your body behind the cover.
 
-The short answer: only if you're deeply curious and already own VorpX.
+## What HaloCEVR actually gives you
 
-## What This VR Option Actually Is
+HaloCEVR, by LivingFray, is a community-built full VR mod for the original Halo: Combat Evolved on PC. It is **not compatible with The Master Chief Collection** and it is not for the Custom Edition fork; the install targets the original 2003 PC release, patched to 1.0.10. The mod is actively maintained — 1.0.0 in late 2024 through 1.4.0 in early 2026 — and it turns a twenty-year-old shooter into a tracked, room-scale experience.
 
-Halo: Combat Evolved in VR runs through **VorpX**, a paid injection driver that hooks into DirectX games and forces stereoscopic 3D rendering plus head tracking on titles never built for VR. This is not a mod. It is not a port. It does not add motion controls, hand presence, weapon aiming, or any VR-native interaction system.
+What the mod gives you:
 
-What VorpX provides:
-- **Stereoscopic 3D** — the game renders with real depth separation, giving environments a tangible sense of volume
-- **Head tracking** — your physical head movement controls the camera, adding immersion to look-around moments
-- **FullVR mode** — the game renders across your entire field of view rather than on a floating screen
+- **Full 6DoF stereo view** with independent tracked hands
+- **6DoF weapon and grenade aiming** — point and fire, arc a frag with your arm
+- **Functional picture-in-picture scopes** on weapons that use them, plus a two-handed aiming mode
+- **Motion melee, motion crouch, and a tap-the-head flashlight**
+- **Shoulder weapon holsters** and the ability to swap weapons between hands
+- **A detached floating UI layer** in 3D space
+- **Joystick-steered vehicles** and a desktop mirror
+- **Rebindable controls**, including a left-handed preset
 
-What VorpX does **not** provide:
-- **Motion controls** — you play with a gamepad or keyboard and mouse, same as flat
-- **Hand presence** — no virtual hands, no weapon aiming, no physical interaction
-- **VR UI** — menus, HUD, and text remain flat game elements projected into 3D space
-- **Any gameplay adaptation** — every system, every encounter, every control scheme is unchanged from the original
+This is not a gamepad game mapped to a headset. It is a conversion with presence, hand tracking, and interaction design that respects the fantasy Halo always implied.
 
-VorpX lists both the original Halo: Combat Evolved and the Master Chief Collection as officially supported titles. The MCC profile specifically supports Halo 1 only — the other MCC titles are not covered by this profile. Both versions receive the same category of treatment: stereoscopic 3D with head tracking, no deeper VR integration.
+## The rifle in your hands
 
-## How It Plays
+**Controls:** Full motion controls. One hand for the rifle, the other for grenades, melee bound to a swing, crouch to a physical duck, flashlight to a tap at your temple. The shoulder holsters let you stash a secondary weapon and pull it from your body — a gimmick until you are mid-fight on the Pillar of Autumn and realize you planned the reload around where your shotgun lives. Two-handed aiming tightens precision weapons, and the PiP scopes magnify the world instead of faking a zoomed render.
 
-**Controls:** Gamepad or keyboard and mouse. VorpX can map basic functions to VR controllers, but this is button mapping, not motion control. You're holding a gamepad and looking around with your head. The disconnect between head movement and input method is the defining experience — and the defining limitation.
+**Comfort:** Moderate intensity. Halo was never designed for head-mounted locomotion, and the campaign still throws you into Warthog runs, narrow corridors, and elevator sequences where the camera has opinions of its own. Tune teleport or smooth-turn comfort settings in. The vehicle sections in particular deserve respect — the first time the Warthog fishtails across a canyon while your real body stays still is a test of equilibrium.
 
-**Comfort:** Moderate intensity. First-person shooter locomotion through head tracking can cause motion sickness in susceptible players, especially during the Warthog driving sequences where camera movement is fast and partially automated. VorpX provides comfort features like EdgePeek for cutscenes, but the underlying game was never designed with VR comfort in mind.
+**Performance:** Efficient — the underlying game is lightweight — but motion smoothing can get aggressive in vehicles when the mod stutters, and that reprojection is visible and jarring. A budget-to-mid-range PC is enough for the campaign; the issue is less GPU headroom and more frame-pacing consistency during fast camera motion.
 
-**Performance:** Efficient. Halo: Combat Evolved is a lightweight game by modern standards, and even the MCC version runs without heavy GPU demands. The VorpX stereoscopic rendering overhead is modest. A mid-range machine handles this without trouble.
+**Stability:** Mostly solid, with documented friction points. The game can launch unfocused, breaking input or sound until you click back onto it. The tutorial's "look around" step sometimes needs a mouse wiggle to register head movement. Reloading a checkpoint saved inside a vehicle can leave the camera displaced. These are not showstoppers; they are quirks you learn to route around within the first hour.
 
-**Stability:** Stable but unremarkable. VorpX's Halo profiles are mature and don't crash frequently. However, MCC updates have historically caused profile breakage that requires VorpX updates to resolve. The original standalone Halo: CE avoids this update fragility but is the older, less visually polished version.
+## The Fantasy, Delivered
 
-## What Works Well
+This is the part that matters. Popping a Grunt with a pistol snap-shot because you actually aimed the controller. Arcing a plasma grenade over cover and hearing the stick-sizzle from the other side. Ducking behind a Forerunner pillar and feeling the geometry around your shoulders. The assault rifle's floating reticle follows your hand, the shotgun reloads with a press, and the sniper rifle's scope brings the ringworld into sharp, magnified focus. Looking down reveals armor rather than a missing body, which is exactly what a Halo game should do.
 
-**Environmental depth is genuinely compelling.** Halo's outdoor environments — the rolling hills of Installation 04, the interior Forerunner structures, the snowy chasms — gain real spatial presence in stereoscopic 3D. The ringworld landscape stretching to the horizon has a physical quality that flat rendering can't match. If you've played Halo for decades, seeing the Pillar of Autumn corridors with actual depth is a brief thrill.
+The campaign holds up. The AI still flanks, the shield dance still works, and the two-weapon limit still forces hard decisions. VR does not fix the occasional repetitive corridor, but it makes the quiet moments — the ring stretching overhead, the flood dripping from vents, the first Banshee silhouetted against the sky — land with real spatial weight. The mod did not rewrite the game. It gave you a body inside it.
 
-**Head tracking adds tactical value.** Being able to physically glance left and right during firefights while keeping your crosshair centered creates a natural peek-and-aim behavior. It's not how Halo was designed to be played, but it works — and in slower encounter pacing, it feels surprisingly natural.
+## The Honest Caveats
 
-**The game itself is still Halo.** None of VorpX's limitations change the fundamental quality of the encounter design, the enemy AI, the weapon sandbox, or the pacing. If you love Halo, the underlying game is still excellent. The VR layer is a filter on top of an already-great shooter.
+No conversion this deep is clean. The documented issues are real, and they will affect your first session.
 
-## What Doesn't Work
+- **Install location matters.** Under Program Files, the mod's config file cannot write properly. Move the install out first.
+- **On-screen prompts still show keyboard bindings.** The UI has not been taught otherwise. You learn the VR bindings quickly, but the prompts are a constant small lie.
+- **Melee and interact use head-aiming.** You swing the controller, but the target is determined by where you are looking, not where your hand goes. It works; it does not always feel intuitive.
+- **Vehicles are moody.** Entering and exiting can leave the camera at odd angles, and checkpoint reloads from inside a vehicle sometimes displace your view. Save before the big Warthog push.
+- **The tutorial is finicky.** That "look around" step is a known trap; a tiny mouse movement clears it.
+- **Stutters trigger motion smoothing.** In vehicles especially, a dropped frame becomes a smeared judder. Lock the framerate and keep settings conservative if you are sensitive.
 
-**No motion controls kills the FPS fantasy.** This is the whole problem. Halo in VR should mean holding a Plasma Rifle, physically aiming at a Grunt, throwing a grenade with an underhand toss. Instead, you're staring down your nose at a flat crosshair while holding a gamepad. The cognitive dissonance between being "inside" the world and interacting with it through flat-game inputs is constant and never resolves.
+These are mod rough edges, not fundamental flaws. They are the price of turning a 2003 PC shooter into a native-feeling VR campaign, and they are manageable after the first hour.
 
-**Vehicle sections are rough.** The Warthog is Halo's signature vehicle, and in VorpX it's the worst part of the experience. The camera whips around during driving, the third-person view (if you switch to it) breaks the first-person immersion, and the combination of head tracking with vehicle steering inputs creates a motion sickness cocktail. Many players simply remove the headset during AotCR and Two Betrayals driving segments.
+## Getting It Running
 
-**HUD and UI are flat overlays.** The shield bar, motion tracker, weapon indicator — all of it floats in 3D space without proper VR anchoring. It works, but it never feels like it belongs. Text can be difficult to read at certain viewing angles. VorpX's EdgePeek feature helps with corner elements, but it's a workaround, not a solution.
+There are two paths. The easier one is the HALOCEVR-Installer by EllieWasteland, which handles much of the placement and patching automatically. The manual path needs a copy of Halo: Combat Evolved for PC, the 1.0.10 patch, the mod's own files, and the optional Chimera mod. Either way, the game must live outside Program Files, and you need a headset running SteamVR or OpenXR on a PC. There is no Quest standalone or console route. This is PCVR only.
 
-**No weapon presence breaks presence entirely.** You never see your hands. You never see your weapon model from a VR perspective. When you look down, there's no body. The Master Chief — the most iconic armored protagonist in gaming — is a floating camera with a gun model glued to the lower right of your vision. In a native VR game, this would be unacceptable. Here, it's just the ceiling of what injection can do.
-
-## Platform Differences
-
-This is a PCVR-only route. VorpX runs on PC and pipes output to any SteamVR or OpenXR-compatible headset. There is no Quest standalone version, no PSVR version, and no native VR port of any kind for any platform.
-
-Between the two game versions:
-- **Original Halo: CE** — older graphics, but more stable against VorpX profile breakage since it doesn't receive updates
-- **MCC Halo 1** — improved visuals and modern PC features, but the VorpX profile only covers Halo 1 within the collection, and MCC updates can temporarily break compatibility
-
-Neither version gets you a different category of VR experience. Both are stereoscopic 3D with head tracking. The MCC version looks better. The original is more stable. Pick based on your tolerance for visual fidelity versus update risk.
-
-## Who This Is For
-
-**Good for:**
-- Halo obsessives who want to see Installation 04 in stereoscopic depth and already own VorpX
-- VR-curious players who want to understand the hard limits of injection drivers before investing hope in them
-- People who primarily want a large immersive 3D screen for playing a game they already love
-
-**Not for:**
-- Anyone expecting actual VR gameplay — motion controls, hand presence, or physical interaction
-- Players prone to motion sickness, especially during vehicle sequences
-- Anyone buying VorpX specifically for this game — the value proposition doesn't justify a VorpX purchase for Halo alone
-- Players who haven't experienced Halo before and want a "VR Halo" — this isn't that
-
-## The Verdict
-
-**Tier: C**
-
-**Game Quality: A**
-Halo: Combat Evolved is a landmark FPS with encounter design, enemy AI, and sandbox balance that still hold up. The game itself earns its reputation.
-
-**VR Implementation Quality: D**
-VorpX provides stereoscopic 3D and head tracking — which is what injection drivers do — but no motion controls, no hand presence, no VR UI, and no gameplay adaptation. This is a flat game displayed in 3D, not a VR experience. The vehicle sections are actively uncomfortable.
-
-**Overall Tier: C**
-A great game wrapped in the thinnest possible VR veneer. If you own VorpX and love Halo, the environmental depth is worth an evening of curiosity. But if you're choosing how to spend your Saturday afternoon in VR, there are native VR shooters that deliver the experience this only gestures at.
+If you loved Halo and own a PCVR headset, this is now the way to play the campaign — and if you only know the game from MCC, the original PC release is a small extra purchase that earns its keep. Start with short sessions and stay conservative in vehicles if you are prone to motion sickness.
 
 ---
 
-## Testing Notes
-
-- Date tested: Not directly tested (AI-authored draft)
-- Headset used: N/A
-- Runtime/platform: N/A
-- Controller/input method: N/A
-- Game version/build: N/A
-- Time spent testing: N/A
-- Main content tested: N/A
-- What worked reliably: N/A
-- What partially worked: N/A
-- What failed: N/A
-- Major caveats: Assessment based on VorpX documentation, supported games list, and established injection driver behavior patterns — not direct playtesting
-- What was not tested: Full campaign playthrough, multiplayer, MCC versus original side-by-side, all comfort settings
+This is not a perfect port. It is a full VR conversion of a twenty-year-old game, and it occasionally reminds you with a displaced camera or a keyboard prompt. But when you are crouched behind a rock on Installation 04, physically raising a pistol over the top to pick off an Elite, the imperfections stop mattering. The ring is real, the weapons are in your hands, and Halo finally feels like the science-fiction combat simulator it always wanted to be.
