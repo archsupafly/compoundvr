@@ -34,7 +34,7 @@ experienceTags:
 heroImage: /images/games/serious-sam-the-first-encounter-vr-hero.jpg
 tier: B
 verdict: "A solid official VR port that delivers the core Serious Sam experience with genuine motion controls and dual-wielding, but the aging engine and fast-paced horde combat create comfort challenges that limit its appeal."
-sources: "- Steam Store API (app 552450) — product details, features, system requirements, categories, release date - Wikipedia — Serious Sam: The First Encounter article — game history, engine details, platform information - Steam community data — user review volume (~704 reviews), support status inference - Training data — gameplay impressions, VR locomotion assessment, comfort evaluation, multiplayer population status - Note: No direct hands-on testing. Evidence is research compilation [Verified] from Steam documentation, Wikipedia, and aggregated community reports."
+sources: "- Steam Store API (app 552450) — product details, features, system requirements, categories, release date - Wikipedia — Serious Sam: The First Encounter article — game history, engine details, platform information - Steam community data — user review volume (~704 reviews), support status inference - Training data — gameplay impressions, VR locomotion assessment, comfort evaluation, multiplayer population status - Note:"
 ---
 
 # Serious Sam: The First Encounter in VR: Dual-Wielding Hordes in Ancient Egypt

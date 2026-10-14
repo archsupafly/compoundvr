@@ -31,7 +31,7 @@ heroImage: /images/games/sonic-the-hedgehog-3-knuckles-vr-hero.jpg
 flatReleaseDate: "1994-02-02"
 vrReleaseDate: "2018-07-26"
 score: 58
-sources: "- Wikipedia — Sega Genesis Classics: Collection details, Hub description, VR support confirmation, delisting timeline (December 2024), Sonic titles removal (May 2022) [Verified] - Wikipedia — Sonic the Hedgehog 3 & Knuckles: Game design, lock-on mechanics, critical reception, development history [Verified] - Steam Community / User Reports: Hub VR mode functionality, gamepad input during VR play, CRT filter behavior, Workshop ROM hack support [Community Reports — Hearsay] - Training data: Sega Genesis Classics Hub VR bedroom design details, room interaction model, CRT scanline simulation quality, performance characteristics [Training Data — unverified against current build]"
+sources: "- Wikipedia — Sega Genesis Classics: Collection details, Hub description, VR support confirmation, delisting timeline (December 2024), Sonic titles removal (May 2022) - Wikipedia — Sonic the Hedgehog 3 & Knuckles: Game design, lock-on mechanics, critical reception, development history - Steam Community / User Reports: Hub VR mode functionality, gamepad input during VR play, CRT filter behavior, Workshop ROM hack support [Community Reports — Hearsay] - Training data: Sega Genesis Classics Hub VR bedroom design details, room interaction model, CRT scanline simulation quality, performance characteristics [Training Data — unverified against current build]"
 ---
 
 # Sonic the Hedgehog 3 & Knuckles in VR: The Blue Blur on a Bedroom CRT
