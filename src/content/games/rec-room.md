@@ -37,6 +37,10 @@ tier: B
 verdict: "Rec Room was one of VR's best social platforms — native, accessible, and genuinely fun. But it's shutting down June 1, 2026. New accounts are already closed. If you have one, these are your last weeks. If you don't, this is what you missed."
 heroImage: /images/games/rec-room-vr-hero.jpg
 sources: "Research conducted via Rec Room official blog, GamesIndustry.biz coverage, UploadVR and Road to VR reporting, Wikipedia, LA Times/Snap Specs Inc. coverage, Reddit community reports (r/RecRoom), Voices of VR podcast interview with co-founders, and multiple independent review sources."
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 Here's the thing about Rec Room: in three weeks, it will be gone. Not delisted, not forgotten, not updated into irrelevance — gone. Servers off. Logins rejected. The rec.net website dark. After June 1, 2026, exactly ten years to the day it launched, the virtual rec centers, paintball arenas, dodgeball courts, user-built quest dungeons, and late-night hangout rooms will all cease to exist. Half the team was laid off in August 2025. New account creation ended March 31, 2026. Some assets and talent were picked up by Snap's XR subsidiary Specs Inc. The rest is evaporating.

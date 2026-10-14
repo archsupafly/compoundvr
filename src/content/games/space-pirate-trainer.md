@@ -30,6 +30,10 @@ verdict: "A foundational VR experience that remains mechanically perfect for new
 heroImage: /images/games/space-pirate-trainer-vr-hero.jpg
 flatReleaseDate: 2016-04-05
 vrReleaseDate: 2016-04-05
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Space Pirate Trainer: The Seminal VR Wave Shooter That Still Delivers

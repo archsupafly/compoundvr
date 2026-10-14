@@ -30,6 +30,10 @@ verdict: "Rez Infinite is excellent and highly recommended. It's what native VR 
 heroImage: /images/games/rez-infinite-vr-hero.jpg
 flatReleaseDate: 2001-11-22
 vrReleaseDate: 2016-10-13
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Rez Infinite in VR: The Synesthesia Shooter Perfected

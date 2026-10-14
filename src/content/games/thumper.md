@@ -29,6 +29,10 @@ verdict: "A unique and intense rhythm experience that's better in VR, but the un
 heroImage: /images/games/thumper-vr-hero.jpg
 flatReleaseDate: 2016-10-10
 vrReleaseDate: 2016-10-10
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Thumper in VR: Rhythm Violence Perfected

@@ -30,6 +30,10 @@ verdict: "A historically important VR adventure that pioneered teleport locomoti
 vrReleaseDate: 2016-04-05
 heroImage: /images/games/the-gallery-ep-1-vr-hero.jpg
 sources: "Research conducted via Steam store page, Wikipedia, Road to VR review, Destructoid review, The VR Grid coverage, VG247 preview, UploadVR coverage on Blink locomotion, Voices of VR podcast interview with Cloudhead Games, Game Developer and UploadVR reporting on Cloudhead Games January 2026 layoffs. Assessment based on historical coverage and community consensus;"
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 I remember the first time I blinked across a virtual beach and didn't feel like I was going to vomit. That sounds like a low bar, but in April 2016 it was revolutionary.

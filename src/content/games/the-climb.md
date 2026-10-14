@@ -30,6 +30,10 @@ tier: A
 verdict: "The Climb remains one of VR's most effective presence engines, translating the physicality and danger of free solo climbing with minimal friction and maximum visual impact."
 heroImage: /images/games/the-climb-vr-hero.jpg
 sources: "Wikipedia, UploadVR, Road to VR, Forbes, Hardcore Gamer, Rock Paper Shotgun, Meta developer documentation, Reddit VR communities, YouTube VR channels (Beardo Benjo, Gamertag VR), Crytek official resources."
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # The Climb in VR: The Drop That Changes Everything

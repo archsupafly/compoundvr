@@ -30,6 +30,10 @@ verdict: "A polished, atmospheric VR experience that perfectly captures the sens
 heroImage: /images/games/batman-arkham-vr-hero.jpg
 vrReleaseDate: 2016-10-13
 sources: "- IGN review (October 2016) - UploadVR review (PSVR launch coverage) - Metacritic aggregate reviews and user feedback - Steam Community discussions (2024-2025 player experiences) - Rocksteady Studios official documentation - Kevin Conroy voice acting credits (IMDb, Arkham Wiki)"
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Batman: Arkham VR: The Batman Fantasy, Compressed

@@ -28,6 +28,10 @@ tier: S
 verdict: "Not a VR mode tacked onto a flat game — this is a separate, purpose-built VR experience. The time-moves-when-you-move mechanic translates flawlessly to motion controllers, turning each level into a bullet-time puzzle you physically inhabit. Short but essential."
 heroImage: /images/games/superhot-vr-hero.jpg
 vrReleaseDate: 2016-05-25
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # SUPERHOT VR: The Bullet-Time You Inhabit

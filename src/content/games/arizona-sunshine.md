@@ -31,6 +31,10 @@ tier: B
 verdict: "The Remake is the only version worth your time — a solid, modernized zombie shooter with great gunplay and frustrating jank in equal measure. Play it for the co-op and Horde mode, not the three-hour campaign."
 heroImage: /images/games/arizona-sunshine-vr-hero.jpg
 sources: "Research conducted via Vertigo Games official announcements, Steam and Meta store pages, UploadVR impressions, Road to VR coverage, The Sixth Axis review, Gaming Trend review, One More Level PSVR2 review, and community reports from Reddit (r/PSVR, r/VRGaming) and Steam Community reviews."
+relatedPages:
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 The original Arizona Sunshine arrived in 2016 when VR was still figuring out what a "full game" even looked like. It was one of the first titles to prove that shooting zombies in a headset could feel like more than a tech demo — that it could sustain a campaign, support co-op, and deliver the kind of gunplay that made you want to tell your friends. Eight years later, the Remake doesn't just honor that legacy. It replaces it.

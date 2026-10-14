@@ -34,6 +34,9 @@ vrReleaseDate: 2014-12-16
 relatedPages:
   - id: top-10-vr-games-2015
     kind: article
+  - id: top-15-vr-games-2016
+    kind: article
+    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Elite Dangerous VR: The Cockpit Gold Standard
