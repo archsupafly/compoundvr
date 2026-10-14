@@ -2,8 +2,8 @@
 title: "Star Citizen VR"
 description: "Cloud Imperium's experimental native VR mode finally drops you into the cockpit of your own ship — here's what Alpha 4.5 actually delivers, and what it quietly leaves out."
 flatReleaseDate: 2015-12-01
-vrReleaseDate: 2026-02-01
-lastUpdated: 2026-10-13
+vrReleaseDate: 2026-02-15
+lastUpdated: 2026-02-15
 featured: false
 routeType: Native VR
 platforms: ['PCVR']
@@ -37,9 +37,6 @@ relatedPages:
     kind: game
   - id: vorpx-injection-driver-guide
     kind: article
-history:
-  - date: 2026-10-13
-    note: "Corrected the VR release date, added section headings, cluster links, and a link to the VorpX guide."
 sources: "RSI support article 'Enabling Virtual Reality (VR) in Star Citizen'; Spectrum announcement thread 'Star Citizen VR Support - Experimental Release (4.5 PTU)'; Alpha 4.5.0 patch notes; Elyxir and MMOPIXEL setup and limitations guides; Neowin and Nydus coverage of Alpha 4.5 LIVE with VR support; OpenMR VorpX guide and VorpX forum index; YouTube coverage from Morphologis, VoodooDE VR, SekinVR, SarxVR, Paradise Decay, Captain Katarn, and CMDR Quattro; r/starcitizen VorpX setup threads. Assessment drawn from official CIG documentation and published creator gameplay footage."
 ---
 
