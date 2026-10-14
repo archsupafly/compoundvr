@@ -1,17 +1,17 @@
 ---
 title: "Star Wars Jedi: Fallen Order VR"
-description: "One of the best Star Wars games of the past decade gains a new dimension through UEVR — a compelling third-person VR experience that puts you beside a Jedi, not in his boots."
+description: "The closest a full Star Wars action-adventure has come to putting a lightsaber in your hand, through UEVR and a first-person motion-control profile built on top of it."
 lastUpdated: 2024-02-01
 featured: false
 routeType: Framework Only
 platforms: ['PCVR']
-recommendation: Recommended with Caveats
-playability: Mostly Playable
+recommendation: Recommended
+playability: Fully Playable
 setupBurden: Moderate Setup
-inputStyle: Gamepad Preferred
+inputStyle: Full Motion Controls
 comfort: Moderate Intensity
 performance: Moderate Demand
-supportStatus: Recently Updated
+supportStatus: Active
 genres:
   - Action-Adventure
   - Soulslike
@@ -19,108 +19,63 @@ genres:
 technicalTags:
   - UEVR
   - Praydog Framework
-  - Third-Person VR
-  - Full 6DOF
-  - Spatial Audio
+  - First-Person VR
+  - 6DOF Motion Controls
 experienceTags:
   - Lightsaber Combat
   - Exploration
   - Platforming
   - Star Wars Universe
-score: 78
-tier: B
-verdict: "A solid B-tier VR experience: an excellent flat game that translates well to headset through UEVR, with the expected framework caveats around third-person combat and occasional traversal quirks."
+tier: A
+verdict: "A top-tier UEVR experience: Respawn's excellent Jedi adventure, elevated by a custom profile that finally puts the lightsaber in your hand with real 6DOF motion combat."
 heroImage: /images/games/star-wars-jedi-fallen-order-vr-hero.jpg
+modDownload:
+  url: "https://www.nexusmods.com/starwarsjedifallenorder/mods/"
+  label: "Download UEVR 6DOF Motion Combat Profile"
+  note: "Created by the UEVR modding community; first-person toggle also available on Nexus Mods, with early access via HeadsetVR's Patreon"
 flatReleaseDate: 2019-11-15
 vrReleaseDate: 2024-02-01
+sources: "Praydog's UEVR framework documentation and community profiles; Nexus Mods UEVR Profile 6DOF Motion Combat and first-person toggle listings for Star Wars Jedi: Fallen Order; HeadsetVR Patreon and YouTube coverage; Flat2VR community reports and video evidence from VR creators including Beardo Benjo and Gamertag VR."
 ---
 
-# Star Wars Jedi: Fallen Order in VR: Becoming a Jedi in Full Scale
+# Star Wars Jedi: Fallen Order in VR: The Lightsaber Fantasy, Delivered
 
-The idea of wielding a lightsaber in virtual reality has driven VR adoption since headsets first hit consumer shelves. While Beat Saber and Vader Immortal scratched that itch, Star Wars Jedi: Fallen Order offers something different: a full, narrative-driven action-adventure where you play as a genuine Jedi Padawan-turned-Knight with force powers, wall-running, and meaningful exploration through the Star Wars galaxy. Through Praydog's Universal Unreal Engine VR Mod (UEVR), this third-person adventure transforms into something surprisingly immersive — though it remains a third-person experience at its core.
+For as long as consumer VR has existed, the obvious thing everyone wanted was a real lightsaber. Not a rhythm baton, not a scripted quick-time event, but a proper Star Wars action-adventure where you hold the blade, swing it, parry with your own hands, and feel like a Jedi. Star Wars Jedi: Fallen Order gets closer than anything that came before it, not because it shipped with VR support, but because the modding community built a UEVR profile that drops the camera into Cal Kestis's head and maps the combat to 6DOF motion controls. The result is the most complete lightsaber combat experience VR has had outside of bespoke native titles, running on top of one of the better Star Wars games of the past decade.
 
-## What This VR Option Actually Is
+## The Profile That Puts the Blade in Your Hand
 
-This is a **Framework Only** VR implementation via [UEVR](https://flat2vr.com), Praydog's Universal Unreal Engine injection mod that converts Unreal Engine 4 and 5 games into full stereoscopic VR experiences. [Verified] Unlike injection drivers like VorpX that only provide head tracking and stereoscopic 3D, UEVR delivers full 6DOF (six degrees of freedom) tracking, proper world scale, and — in the case of Jedi: Fallen Order — a compelling third-person VR perspective that puts you directly behind Cal Kestis.
+This is a **Framework Only** route through Praydog's Universal Unreal Engine VR mod, UEVR, which injects full stereoscopic VR with 6DOF head tracking into Unreal Engine 4 and 5 games. For Fallen Order, the base framework has been customized with a first-person profile and a 6DOF motion-combat profile that replaces the standard gamepad combat with controller-driven swings, parries, and blaster fire. You are no longer watching Cal from behind his shoulder; you are seeing the world from inside his helmet, with your own arms representing his.
 
-UEVR support for Jedi: Fallen Order is stable and well-documented within the framework community. [Verified] The game runs on Unreal Engine 4, making it compatible with UEVR's injection methods. [Verified] As a framework-based route, it receives ongoing updates and refinements from the UEVR community, though it will always carry the inherent characteristics of third-person VR: you're inhabiting the space alongside your character, not through their eyes.
+The core files are on Nexus Mods: a "UEVR Profile 6DOF Motion Combat" entry and a separate first-person toggle mod. HeadsetVR also distributes early or alternate builds through their Patreon. Both routes require owning the base game on PC, running UEVR as the injection layer, and applying the profile on top. It is still a framework-based conversion, so it carries the usual UEVR dependencies: you need a PCVR setup, some patience with UEVR's launcher and config, and a willingness to accept that the UI and some camera transitions were designed for a flat screen.
 
-## How It Plays
+## How the Motion Combat Feels
 
-### Controls and Input
+The first time you block a purge trooper's strike by physically raising your blade, the whole premise of the game changes. Fallen Order's Soulslike combat is built around timed parries, directional attacks, and stamina management. In the motion-control profile, those parries become literal arm movements. You swing the lightsaber with your controller, fire Cal's blaster by aiming and pulling the trigger, and use the force through mapped gestures rather than button presses. It is not a 1:1 sword simulator, but it is far closer than the gamepad version ever was.
 
-Jedi: Fallen Order in VR works best with a gamepad. [Verified] While UEVR supports various input methods, the game's combat system — built around precise timing, directional parrying, and combo-based lightsaber attacks — demands the reliability of traditional controller input. The camera follows Cal from a dynamic third-person perspective that places you just behind and above him, creating a compelling "action figure" scale where the world feels tangible and the lightsaber glows with genuine presence.
+Because the base combat was tuned for animation windows and lock-on timing, the motion profile has quirks. Enemies still attack on the game's own rhythms, so your physical parry has to meet the game's idea of a parry rather than pure collision physics. Some attacks read better than others. The blaster, on the other hand, maps naturally: aim with your hand, shoot with your finger. That simple translation is enough to make every encounter feel more like a Jedi fight than a third-person action game with head tracking.
 
-Motion controller support is not natively implemented for this game. [Verified] Attempting to map lightsaber swings or force powers to hand tracking would be a mismatch anyway — the game's combat is designed around specific animation states and timing windows that don't translate cleanly to gestural input. The gamepad-plus-headset combination is the intended experience, and it works well for what it is.
+Head tracking does the heavy lifting for awareness. In first person, group fights become easier to read because you can glance around naturally, track off-screen enemies by turning your head, and judge distance by actual stereoscopic depth. The Soulslike camera, which can be claustrophobic on a monitor, becomes an asset in VR. Platforming and traversal are more mixed: wall-running and climbing still move Cal along predetermined paths, and some forced camera motions from the flat game can pull your view in ways VR stomachs notice. It is not unplayable, but you learn to brace for the scripted moments.
 
-### Comfort and Locomotion
+## Performance and Stability
 
-As a third-person VR experience, Jedi: Fallen Order sidesteps many of the comfort issues that plague first-person VR action games. [Verified] The camera maintains a consistent distance from Cal, and the game's platforming sequences — which include wall-running, climbing, and force-assisted jumps — are more comfortable to execute when you're not experiencing them from a first-person perspective that might induce vertigo.
+Fallen Order was already moderately demanding as a flat Unreal Engine 4 release. UEVR adds the usual VR rendering overhead, and the first-person profile pushes it harder because you are closer to the geometry, effects, and enemy models. A mid-range PC can run it, but a high-end card is the safer home for smooth 90Hz with reasonable supersampling. Budget rigs will need to drop settings and accept some reprojection.
 
-That said, the game does feature some forced camera movements during certain traversal sequences and dramatic moments. [Verified] The Soulslike combat can also involve rapid camera repositioning when locking onto enemies. These are manageable for experienced VR users but may cause mild discomfort for newcomers. The game includes accessibility options for motion sickness that can be adjusted, though they were designed for flat-screen play.
+UEVR itself provides the standard suite of rendering options: different projection modes, performance tweaks, and profile-specific overrides. Stability is good once the profile is loaded, but this is still an injected conversion. Menus occasionally render at odd depths, some UI elements float at screen-space distances, and the occasional flat-game camera override will remind you that the original title was never meant for a headset. None of it is severe enough to break the campaign; it is the kind of friction that framework-based VR players already expect.
 
-### Performance
+## The Scale of a Star Wars Galaxy
 
-Jedi: Fallen Order is moderately demanding as a flat game, and running it through UEVR adds rendering overhead. [Verified] Expect to need a mid-to-high range graphics card to maintain stable framerates. The game scales reasonably well — you can reduce settings to prioritize VR performance — but the combination of detailed environments, particle effects during lightsaber combat, and force power visuals can strain systems.
+What sells the experience more than any individual mechanic is the sense of place. Fallen Order already had strong environmental art, from crashed Star Destroyers on Zeffo to the overgrown temples of Bogano. In first-person VR, those spaces become genuinely large. Standing at the foot of a half-buried destroyer, looking up at its hull from inside the world rather than from a floating camera behind a character model, gives the Star Wars fantasy a weight that flat screens flatten out. The same applies to the smaller moments: BD-1 chirping beside you, the hum of your lightsaber filling the audio space, the way enemy blades look when they are actually swinging at your face.
 
-UEVR itself includes various performance profiles and rendering options that can help optimize the experience. [Verified] Most users report finding a stable balance with reasonable fidelity, though you'll likely need to spend time in the UEVR configuration to dial in settings that work for your specific hardware.
+The audio design translates especially well. Fallen Order uses detailed positional sound, and proper headphones or headset audio make the hum of sabers, the snap of blasters, and the orchestral score feel anchored in the 3D space around you. Spatial audio was already a strength of the flat game; VR makes it central to the experience.
 
-## What Works Well
+## Where the Profile Still Shows
 
-**World Presence:** The third-person perspective actually benefits the Star Wars fantasy in unexpected ways. [Verified] You're not Cal Kestis — you're standing beside him, watching a Jedi move through the world. This creates a curious hybrid experience: part action figure diorama, part immersive adventure. The scale of Star Wars environments — from crashed Star Destroyers to ancient Jedi temples — reads convincingly in VR in a way that flat screens can't match.
+The motion-control profile is a community customization, not a native VR mode. That means no official support, future game patches could require profile updates, and the setup is not plug-and-play. You are installing UEVR, downloading the right profile, toggling first person, and tuning performance. This is a tinkerer's route, not a store-bought VR edition.
 
-**Combat Readability:** The Soulslike combat system works surprisingly well in VR. [Verified] Being able to track enemy movements with natural head movement improves situational awareness during group encounters. The telegraphing of attacks — crucial for the parry-based combat — is easier to read when you have full spatial awareness of the encounter space.
+The combat also inherits Soulslike timing. Motion parrying is satisfying, but it is still bound to the game's underlying parry window. Players expecting Blade and Sorcery physics will be disappointed. Players expecting a meaningful step up from gamepad Fallen Order will not be. The campaign remains the same strong, linear-Metroidvania Star Wars story it always was; the VR profile does not add content, it changes how you inhabit it.
 
-**Exploration:** The game's Metroidvania elements shine in VR. [Verified] Returning to previously explored planets with new force powers to access hidden areas feels more rewarding when you can actually look around and appreciate the environmental design at scale. BD-1, your droid companion, becomes more endearing when you're sharing the virtual space with him.
+## The Blade Is Finally Yours
 
-**Audio Design:** Fallen Order already features excellent spatial audio that translates beautifully to VR. [Verified] The hum of lightsabers, the ambient sounds of alien worlds, and the orchestral score all benefit from proper headphone-based spatialization.
+Most UEVR games give you a headset view of a flat game with head tracking and maybe some controller tweaks. Fallen Order's motion-combat profile does something rarer: it reimagines how the core action feels. The base game is already excellent, with tight combat, rewarding exploration, and a story that respects the source material without becoming fan fiction. The custom profile does not have to carry a weak game; it gets to elevate a strong one. That combination, a genuinely good Star Wars action-adventure plus real first-person lightsaber combat, is why this sits in the top tier of framework VR experiences.
 
-## What Doesn't Work
-
-**Third-Person Limitations:** You are not the Jedi — you're watching him. [Verified] This is the fundamental limitation of any third-person VR experience. The lightsaber is not in your hand; it's in his. The force powers aren't yours to command; you're pressing buttons to trigger his animations. This creates a persistent distance between player and action that some VR enthusiasts will find unsatisfying.
-
-**Camera Behavior:** While generally stable, the camera can occasionally behave oddly during specific traversal sequences or when the game uses its more cinematic framing. [Verified] UEVR does its best to maintain a stable view, but moments where the flat game would take camera control — such as during certain wall-running sequences — can produce jarring perspective shifts.
-
-**UI Elements:** Some HUD elements and menus don't translate perfectly to VR. [Verified] They remain readable and functional, but the flat-screen design assumptions occasionally produce UI that feels distant or awkwardly positioned in the 3D space. The map screen, in particular, can be finicky to navigate with head tracking.
-
-**Framework Maintenance:** As with any UEVR title, you're dependent on framework updates for ongoing compatibility. [Verified] While Jedi: Fallen Order is not a live-service game receiving frequent patches, any future updates could require UEVR profile adjustments. This is the nature of framework-based VR.
-
-## Who This Is For
-
-**Good for:**
-- Star Wars fans who want to experience the game's worlds at proper scale
-- Players who already own Jedi: Fallen Order and want to revisit it with added immersion
-- Soulslike enthusiasts curious about third-person VR combat
-- Players comfortable with moderate setup requirements and framework-based solutions
-- Those who appreciate the "action figure" scale of third-person VR perspectives
-
-**Not for:**
-- Players seeking first-person lightsaber combat with motion controls
-- VR newcomers who want a plug-and-play experience
-- Those with motion sensitivity to third-person camera movement
-- Players unwilling to spend time in UEVR configuration
-- Anyone expecting native VR polish and optimization
-
-## The Verdict
-
-**Tier: B**
-
-**Game Quality: A**
-Star Wars Jedi: Fallen Order is an excellent action-adventure. Respawn crafted a compelling Soulslike experience wrapped in Star Wars atmosphere, with satisfying lightsaber combat, meaningful exploration, and a story that respects the source material. The game holds up beautifully, with tight combat mechanics and thoughtful level design that rewards curiosity. As a flat game, it's easy to recommend to any action-adventure fan.
-
-**VR Implementation Quality: B**
-The UEVR framework delivers a solid third-person VR experience that adds genuine value to the base game. Full 6DOF tracking, proper world scale, and the ability to naturally look around during combat and exploration elevates the experience meaningfully. However, it remains a third-person perspective, and the limitations of framework-based implementation — UI quirks, occasional camera oddities, and the need for gamepad input — keep it from feeling like a native VR title.
-
-**Overall Tier: B**
-This is a worthwhile VR experience for Star Wars enthusiasts and Soulslike fans who already love the base game. The UEVR implementation is stable and respectful of the source material, adding immersion without breaking what made the original excellent. It's not the lightsaber-combat simulator VR owners might dream of, but it is a genuinely enjoyable way to experience one of the better Star Wars games of the past decade. The B rating reflects a good experience with notable caveats: the framework dependency, third-person perspective, and moderate setup burden mean this isn't for everyone, but those who engage with it will find hours of compelling VR gaming.
-
----
-
-*Last verified: April 2026. UEVR support for Jedi: Fallen Order is stable and actively maintained by the framework community. Evidence compiled from UEVR documentation, Flat2VR community reports, and YouTube VR coverage channels.*
-
-**Evidence Log:**
-- [Verified] UEVR compatibility and feature set — UEVR documentation and Flat2VR community consensus
-- [Verified] Gamepad recommendation — Multiple community reports and framework documentation
-- [Verified] Third-person perspective characteristics — Video evidence from VR YouTube channels (Beardo Benjo, Gamertag VR)
-- [Verified] Performance expectations — Community reports across hardware configurations
-- [Verified] Stability and maintenance status — Flat2VR Discord community monitoring
+It is for the VR player who already owns the game, is comfortable with UEVR, and wants the lightsaber fantasy in something deeper than an arena fighter. It is not for someone who wants a five-minute install or a nausea-free platformer. For the right audience, though, this is exactly the Star Wars VR experience the platform has been waiting for: not a diorama, not a rhythm game, but a full Jedi campaign where the blade is finally yours.
