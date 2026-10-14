@@ -33,7 +33,6 @@ sources: "Research conducted via Gunfire Games official page, Meta/Oculus Store 
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 There is a particular kind of weight that comes from watching a character grow old. In most games, death is a reset — a breath, a loading screen, and you are young again. In Chronos, death is a sentence. Each time you fall in its labyrinthine halls, your hero is cast out for a full year. They return older. Slower, perhaps, but wiser. By the time you reach the final chambers, you may be staring at a gray-haired veteran who has learned to fight with arcane fire because their knees no longer trust a sword swing. That progression — from reckless youth to hardened elder — is not just a mechanic. It is the emotional spine of one of VR's most quietly ambitious RPGs.

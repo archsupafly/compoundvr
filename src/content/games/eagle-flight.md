@@ -32,7 +32,6 @@ sources: "- Game mechanics, controls, and comfort systems compiled from aggregat
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Eagle Flight in VR: Soaring Over Paris in One of VR's Most Polished Early Titles

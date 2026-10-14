@@ -33,7 +33,6 @@ vrReleaseDate: 2016-04-05
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Space Pirate Trainer: The Seminal VR Wave Shooter That Still Delivers

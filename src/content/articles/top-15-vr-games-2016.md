@@ -12,6 +12,13 @@ tags:
   - history
   - 'early VR'
 heroImage: /images/articles/top-15-vr-games-2016-hero.jpg
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
+  - id: top-vr-modding-news-2016
+    kind: article
+  - id: top-10-vr-games-2015
+    kind: article
 ---
 
 Consumer VR actually happened this year. After four years of development kits, trade show demos, and crowdfunding campaigns, three major headsets shipped to real customers. The Oculus Rift CV1 arrived in March. The HTC Vive followed in April with room-scale tracking and motion controllers in the box. PlayStation VR hit shelves in October, bringing the price of entry down to a console plus a headset. For the first time, you could walk into a store and walk out with a VR system that worked without command-line tweaks or community patches.

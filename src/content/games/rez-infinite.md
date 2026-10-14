@@ -33,7 +33,6 @@ vrReleaseDate: 2016-10-13
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 # Rez Infinite in VR: The Synesthesia Shooter Perfected

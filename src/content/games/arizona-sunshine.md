@@ -34,7 +34,6 @@ sources: "Research conducted via Vertigo Games official announcements, Steam and
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 The original Arizona Sunshine arrived in 2016 when VR was still figuring out what a "full game" even looked like. It was one of the first titles to prove that shooting zombies in a headset could feel like more than a tech demo — that it could sustain a campaign, support co-op, and deliver the kind of gunplay that made you want to tell your friends. Eight years later, the Remake doesn't just honor that legacy. It replaces it.

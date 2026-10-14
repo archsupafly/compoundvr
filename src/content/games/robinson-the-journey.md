@@ -33,7 +33,6 @@ sources: "Research conducted via Steam store page, Crytek press releases, Wikipe
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 The first time a Brachiosaurus walks past you in Robinson: The Journey, you stop breathing. Not because the game told you to — because your lizard brain sees something forty feet tall and decides, correctly, that you are prey-sized. Crytek built this thing in their own engine, and it shows. Tyson III looks like someone spilled a National Geographic special into a headset. Ferns sway, water ripples, and the light filters through canopy gaps in that specific way that makes you forget you're standing in your living room.

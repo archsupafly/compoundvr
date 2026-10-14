@@ -37,7 +37,6 @@ sources: "Research conducted via Steam store page, developer blog and official w
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 The first time a skeleton swings a rusted blade at your head and you physically duck, you understand what Vanishing Realms was trying to prove. Released in 2016 as one of the earliest room-scale VR titles and graduating from Early Access in 2019, this native PCVR dungeon crawler from solo developer Kelly Bailey asked a simple question: what if a fantasy RPG actually required your body to play it?

@@ -32,7 +32,6 @@ sources: "Research conducted via Schell Games official site, Steam store page, M
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 The first time a poison gas canister hisses open three feet from your face, you reach for it. Your real hands flail. Your virtual hands stay planted on the armrests of a leather chair, because in *I Expect You to Die*, you are a seated secret agent with telekinetic powers, and reaching across the room is exactly what your mind is supposed to do.

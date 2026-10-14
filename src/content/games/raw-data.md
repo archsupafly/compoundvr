@@ -32,7 +32,6 @@ sources: "Research compiled from Steam store page and SteamDB player metrics, St
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 Raw Data was the game that proved VR could sell. In July 2016, when most VR titles were glorified tech demos priced like full games, Survios dropped a co-op wave shooter onto Steam Early Access and made a million dollars in a month. It hit number one on Steam's overall best-sellers chart — the first VR-only title to do so, a feat that earned it a Guinness World Record. For a brief moment, Raw Data was the proof of concept the entire industry needed.

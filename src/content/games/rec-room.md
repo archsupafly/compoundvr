@@ -40,7 +40,6 @@ sources: "Research conducted via Rec Room official blog, GamesIndustry.biz cover
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 Here's the thing about Rec Room: in three weeks, it will be gone. Not delisted, not forgotten, not updated into irrelevance — gone. Servers off. Logins rejected. The rec.net website dark. After June 1, 2026, exactly ten years to the day it launched, the virtual rec centers, paintball arenas, dodgeball courts, user-built quest dungeons, and late-night hangout rooms will all cease to exist. Half the team was laid off in August 2025. New account creation ended March 31, 2026. Some assets and talent were picked up by Snap's XR subsidiary Specs Inc. The rest is evaporating.

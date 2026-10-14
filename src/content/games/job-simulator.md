@@ -43,7 +43,6 @@ relatedPages:
     note: "Sony's $399 bet on console VR — Job Simulator shipped with the headset."
   - id: top-15-vr-games-2016
     kind: article
-    note: "Ranked in our Top 15 VR Games of 2016."
 ---
 
 On April 5, 2016, HTC Vive shipped to the first wave of consumer pre-orders. Inside the box, alongside the headset, two wands, and a tangle of lighthouse cables, was a code for a game about making photocopies and burning toast. That game was *Job Simulator*. And if you want to understand why early VR evangelists believed hand-tracked controllers were going to change everything, you could do worse than spending twenty minutes in its office level.
