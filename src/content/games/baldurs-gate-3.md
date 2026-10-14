@@ -46,7 +46,7 @@ Luke Ross's R.E.A.L. VR mod is the closest thing BG3 has to "real" VR. The insta
 
 But this is still a framework injection into a flat game, not a native VR mode. There are no motion controls, no hand presence, no rebuilt interaction. You are playing Larian's PC game through a stereoscopic lens, and the engine knows nothing about VR. The mod has to trick the camera, the UI, and the rendering pipeline into behaving like a headset experience. That it works at all is a testament to Ross's framework; that it still feels like a compromise is the fault of the source material.
 
-There is a lighter fallback if the framework mod sounds like too much: vorpX's immersive-screen profile puts the game on a large virtual monitor with stereoscopic depth, not a transformed VR experience. It does not solve the camera problem; it simply makes it bigger. That is worth one sentence and nothing more.
+There is a lighter fallback if the framework mod sounds like too much: vorpX's immersive-screen profile puts the game on a large virtual monitor with stereoscopic depth, not a transformed VR experience. It does not solve the camera problem; it simply makes it bigger.
 
 ## A Pulled-Back Camera, Forced Forward
 
@@ -54,11 +54,11 @@ The interesting question is not whether BG3 can run in VR. It can. The interesti
 
 That transformation is exactly what makes the mod tempting. Standing in the Emerald Grove and looking up at the trees, or leaning over a cliff to see the Underdark below, gives the world a physical presence that the flat version cannot match. The art direction — already one of BG3's strengths — gains weight when it surrounds you. Conversations with companions become closer, more theatrical, almost intrusive in the best way.
 
-But the same camera that works beautifully on a monitor becomes a liability in a headset. In exploration you can look around freely, but the game still expects to control framing for dialogue and cinematics. The result is a constant negotiation between your head and Larian's direction. Sometimes the mod wins and you get a stunning moment of presence. Sometimes the game wins and yanks your view to where it thinks the camera should be.
+But the same camera that works beautifully on a monitor becomes a liability in a headset. In exploration you can look around freely, but the game still expects to control framing for dialogue and cinematics. The result is a constant negotiation between your head and Larian's direction: sometimes the mod wins and you get a moment of real presence, sometimes the game wins and yanks your view where it thinks the camera should be.
 
 ## Turns at Eye Level
 
-Combat is where the friction turns into a real design problem. BG3's turn-based battles were designed to be read from above. You need to see positioning, area-of-effect shapes, cover lines, and elevation. R.E.A.L. VR lets you lean in and study the diorama, which is genuinely cool for the first few encounters. You can peer at spell effects, watch a Fireball bloom at eye level, and feel the scale of a Mind Flayer up close.
+Combat is where the friction turns into a real design problem. BG3's turn-based battles were designed to be read from above. You need to see positioning, area-of-effect shapes and elevation. R.E.A.L. VR lets you lean in and study the diorama, which is genuinely cool for the first few encounters. You can peer at spell effects, watch a Fireball bloom at eye level, and feel the scale of a Mind Flayer up close.
 
 The trouble starts when the game snaps the camera between turns, or re-centers on the active character, or swings to a cinematic kill animation. In flat BG3 those transitions are clean and readable. In VR each cut lands like someone grabbed your skull and pointed it elsewhere. After an hour of this, the discomfort stacks up. Players with strong VR legs report treating combat like a slow strategy session rather than an action sequence, which is honest to the turn-based design but also means you are spending a lot of time waiting for the camera to stop moving.
 
