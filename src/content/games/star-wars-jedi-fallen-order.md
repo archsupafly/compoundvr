@@ -30,9 +30,9 @@ tier: A
 verdict: "A top-tier UEVR experience: Respawn's excellent Jedi adventure, elevated by a custom profile that finally puts the lightsaber in your hand with real 6DOF motion combat."
 heroImage: /images/games/star-wars-jedi-fallen-order-vr-hero.jpg
 modDownload:
-  url: "https://www.nexusmods.com/starwarsjedifallenorder/mods/"
+  url: "https://www.nexusmods.com/starwarsjedifallenorder/mods/828"
   label: "Download UEVR 6DOF Motion Combat Profile"
-  note: "Created by the UEVR modding community; first-person toggle also available on Nexus Mods, with early access via HeadsetVR's Patreon"
+  note: "Community UEVR profile; a first-person toggle is also on Nexus Mods, with early access via HeadsetVR's Patreon"
 flatReleaseDate: 2019-11-15
 vrReleaseDate: 2024-02-01
 sources: "Praydog's UEVR framework documentation and community profiles; Nexus Mods UEVR Profile 6DOF Motion Combat and first-person toggle listings for Star Wars Jedi: Fallen Order; HeadsetVR Patreon and YouTube coverage; Flat2VR community reports and video evidence from VR creators including Beardo Benjo and Gamertag VR."
