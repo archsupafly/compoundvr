@@ -7,6 +7,13 @@ author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2016-hero.jpg
 tags: ['2016', 'vr-modding', 'vorpx', 'dolphin-vr', 'htc-vive', 'oculus-rift', 'fallout-4', 'skyrim', 'gta-v', 'witcher-3', 'minecraft', 'doom-3', 'flat-to-vr']
+relatedPages:
+  - id: top-vr-modding-news-2015
+    kind: article
+  - id: top-15-vr-games-2016
+    kind: article
+  - id: top-vr-modding-news-2017
+    kind: article
 ---
 
 2015 proved the flat-to-VR modding scene was real. 2016 proved it was about to get a lot more complicated.
