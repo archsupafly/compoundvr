@@ -7,6 +7,11 @@ author: Richard
 category: news
 heroImage: /images/articles/top-vr-modding-news-2015-hero.jpg
 tags: ['2015', 'vr-modding', 'vorpx', 'dolphin-vr', 'oculus-dk2', 'vireio', 'retro', 'flat-to-vr']
+relatedPages:
+  - id: top-10-vr-games-2015
+    kind: article
+  - id: top-vr-modding-news-2016
+    kind: article
 ---
 
 2015 was the year flat-to-VR modding stopped being a curiosity and started being a scene.
