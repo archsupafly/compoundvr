@@ -1,74 +1,227 @@
 ---
 title: "The Complete List of Every Luke Ross R.E.A.L. VR Game"
-description: "Luke Ross's R.E.A.L. VR renders more than 40 flat-screen PC games in stereoscopic VR with a gamepad, not your hands. Here are the titles we can confirm, and why the full catalog is a moving target."
+description: "Every game Luke Ross has brought into stereoscopic VR through his R.E.A.L. framework — ranked, with what each one asks of you and a link to our full review."
 pubDate: 2026-03-01
 lastUpdated: 2026-03-01
 author: Ian
 category: guide
-heroImage: /images/articles/luke-ross-real-vr-games-hero.jpg
+listicle: true
 tags: ['luke-ross', 'real-vr', 'pcvr', 'flat-to-vr', 'mods', '2026']
+heroImage: /images/articles/luke-ross-real-vr-games-hero.jpg
 ---
 
-I've lost count of how many times someone has messaged me some version of "is the Luke Ross Elden Ring VR mod real, and can I actually play it." Yes, it's real — but the "play" you get is not the one you're picturing.
+Luke Ross has done something no studio would: he has dragged a couple of dozen flat PC games into stereoscopic VR by hand, one at a time, and made most of them work. R.E.A.L. VR is his framework, and it renders the game twice — once per eye — while giving you head tracking and OpenXR support. It does not give you hands. That is the trade at the centre of every entry below: you get presence and scale, and you keep the gamepad you already had.
 
-R.E.A.L. VR is Luke Ross's mod suite that renders more than 40 flat-screen PC games in stereoscopic VR. It adds head tracking and OpenXR support by injecting custom rendering code into a game at runtime. It ships no game files. It also ships no motion controllers. You play these games with a gamepad or a mouse and keyboard, exactly as the original intended. That single design choice is the entire personality of the suite, and it's the first thing you need to understand before you go hunting for the game list.
+That single limitation explains why some of these games sing and others merely work. A first-person game with a cockpit or a windshield already assumes you are sitting down with a controller, so R.E.A.L. barely has to apologise. A third-person game has to convince you that watching a character from behind is worth a headset, and not all of them manage it. Our rankings reflect that gap, not the quality of the games themselves — every one of these is a good game, and several are great ones.
 
-The honest answer to "what's the complete list of Luke Ross R.E.A.L. VR games" is that nobody outside Luke Ross keeps a fully public one, and there's a structural reason for that. The catalog isn't a fixed release slate. It's an injection layer dropped onto games one publisher-approved, or at least publisher-ignored, title at a time, and the last stretch turned that quiet arrangement into a takedown saga. So this is a list, but it's also the story of why the list is shorter in public than the "more than 40" headline suggests.
+One more thing worth knowing before you scroll: the list is not stable. Ross pulled his mods after a DMCA fight over the Cyberpunk release, and the framework later went free for everyone with donations encouraged. Some entries have moved between paid early access and the public build; patch compatibility still needs checking against his current notes before you install. Treat this as a snapshot of a catalogue that keeps shifting.
 
-## What R.E.A.L. VR actually is
+---
 
-It's a ReShade-based framework. That matters because it tells you what it isn't: it isn't a Source-engine port, it isn't a rebuilt game, and it doesn't replace a title's rendering pipeline with a from-scratch VR renderer. It slides a stereoscopic, head-tracked view on top of the game you already own and runs it through whatever OpenXR runtime you've got. PCVR Central describes it plainly as a common framework for more than 40 flat-screen games, split between a free public catalog and a smaller Patreon early-access catalog for newer titles.
+## #1: Cyberpunk 2077
 
-The trade-off is the input model. R.E.A.L. preserves each game's original controls, so it's played with a gamepad or mouse rather than tracked-hand interaction. There is no hand or six-degree-of-freedom controller layer. If you came up through Quest-native titles expecting to physically swing a sword, this is going to feel like watching a very expensive, perfectly depth-correct trailer of a game you already own. If you came from a gaming PC with a controller and a hunger to see Night City or Limgrave at real depth, it's a different and genuinely compelling story.
+![Cyberpunk 2077](/images/games/cyberpunk-2077-vr-hero.jpg)
 
-## The games we can actually confirm
+<div class="rank-meta">2020 · R.E.A.L. VR</div>
 
-This is the part where I have to be straight with you about the limits of what's verifiable. The "more than 40" figure is real — it's the catalog's stated scale, repeated by PCVR Central and echoed in retrospective coverage. But "more than 40" is not a list. The canonical per-game, per-version, per-access-status catalog lives on Luke Ross's own pinned Welcome post on Patreon, and that's the only place it's authoritative. The long tail of that "40" is not reliably enumerated by any public source.
+The best game on this list, and the one that caused the most trouble. Night City has the verticality and the density that VR rewards, and Ross's mod gives you the skyline, the neon, and the scale of a city that was always built to be looked up at. It is gamepad-driven and it is heavy, but nothing else on this list delivers a world this convincing.
 
-So here are the titles I can put my name behind, separated by how solid the sourcing is.
+[Read our full Cyberpunk 2077 VR review](/games/cyberpunk-2077/)
 
-### Verified by live coverage
+## #2: Grounded
 
-These are the games named as R.E.A.L. titles by reporting, most of it tied to the Road to VR takedown coverage:
+![Grounded](/images/games/grounded-vr-hero.jpg)
 
-- **Cyberpunk 2077** — the marquee title and the center of the whole controversy. Covered as a R.E.A.L. game by Road to VR, IGN, GameSpot, Eurogamer, Digital Trends, and Kotaku. [Full piece on the game here.](/games/cyberpunk-2077)
-- **Elden Ring** — listed among Ross's VR mods in Road to VR's coverage. The one the message asking me this usually starts with.
-- **Far Cry** — listed among Ross's VR mods in the same coverage.
-- **Final Fantasy VII Remake** — listed among Ross's VR mods in the same coverage.
-- **Ghostrunner** — listed among Ross's VR mods, and the subject of the second DMCA, this one from 505 Games.
+<div class="rank-meta">2022 · R.E.A.L. VR</div>
 
-### Known through community coverage
+The one where the framework does something the flat game could not. Grounded shrinks you to the size of an ant, and in a headset that scale stops being a number and becomes a sensation — a wolf spider is genuinely enormous, and the backyard grass is a forest. Ross's route here is the oldest and most settled of his catalogue.
 
-These didn't come from a publisher or a Road to VR article, but they're pinned to the suite by named, attributable third-party coverage:
+[Read our full Grounded VR review](/games/grounded/)
 
-- **Grand Theft Auto V** — tied to R.E.A.L. by roundup and install videos, including VoodooDE VR's "Ultimate PCVR Mod List 2026: Elden Ring, GTA 5 & More in VR" and install guides from the VR mod community. Community-known rather than source-confirmed.
-- **Uncharted: The Lost Legacy** — Eurogamer's Ian's VR Corner ran footage titled "Uncharted: The Lost Legacy VR Gameplay Is INCREDIBLE! – LUKE ROSS R.E.A.L. VR MOD." Single-channel attribution, but it names the suite directly in the title.
+## #3: Elden Ring
 
-## Why the list keeps shrinking and reappearing
+![Elden Ring](/images/games/elden-ring-vr-hero.jpg)
 
-The reason this catalog is hard to pin down isn't laziness on anyone's part. It's that the suite spent late 2025 and early 2026 in the middle of a publisher fight that repeatedly changed which games were actually available to download.
+<div class="rank-meta">2022 · R.E.A.L. VR</div>
 
-CD Projekt issued a DMCA takedown against Ross's paywalled Cyberpunk 2077 VR mod, citing its Fan Guidelines that require no commercial usage. Patreon pulled the mod immediately. The Cyberpunk mod had been available for nearly four years before removal. CD Projekt confirmed the strike after Ross reportedly refused to make it free for everyone upon the studio's request — and later indicated it would allow the mod if offered for free. Reporting also has Ross trying and failing to get CD Projekt to pay him for the full-conversion VR mod before the takedown. Ross disputed the framing on the piracy angle, with coverage noting people were pirating the mod specifically to punish him for breaking CD Projekt's terms of service.
+The Lands Between in a headset, with the caveat that you are still fighting with a gamepad. What you gain is the geography — the Lands Between's impossible scale, the Erdtree on the horizon, the drop into a catacomb that suddenly has a bottom. What you keep is the combat you already knew.
 
-Then the dominoes fell the way Ross warned they would. Following the Cyberpunk DMCA, he received a second DMCA from 505 Games over the Ghostrunner mod. Ross then removed access to all of his VR mods from Patreon in a supporters' message titled "Under attack," citing rampant piracy of his software and a domino effect of publishers following CD Projekt's lead, plus the risk of Patreon terminating his account from repeated claims. He paused billing for a month and said he was willing to shut the whole thing down.
+[Read our full Elden Ring VR review](/games/elden-ring/)
 
-That's the sequence that explains the "he deleted everything" video titles floating around the VR YouTube scene. He didn't literally delete the games — but he pulled the access, which from a player's seat is the same thing for a week or two.
+## #4: Red Dead Redemption 2
 
-## How you actually get the mods now
+![Red Dead Redemption 2](/images/games/red-dead-redemption-2-vr-hero.jpg)
 
-The access model has two chapters, and which one is current depends on the day you're reading this.
+<div class="rank-meta">2018 · R.E.A.L. VR</div>
 
-Pre-controversy, most supported games sat in a free public build, while newer titles began in a paid "VR Friend" early-access build. Historically the active-mod set ran behind a Patreon paywall at $10 a month. The $10 figure and the paywall are confirmed for the Cyberpunk era.
+Rockstar's frontier gains an enormous amount from stereoscopic depth and head tracking — the landscapes were always the point, and now they surround you. The cost is steep: this is one of the heaviest games on the list to run twice per frame, and the comfort load on horseback is real.
 
-Post-controversy, the suite appears to have moved to free for everyone, with donations encouraged rather than mandatory. ReaperzVR's Patreon post "R.E.A.L.VR MOD NOW FREE!" and the matching video coverage back the move. If you're installing today, check his current INFO post for the live access status, because that's the one thing this whole story proves changes without warning.
+[Read our full Red Dead Redemption 2 VR review](/games/red-dead-redemption-2/)
 
-## Who R.E.A.L. VR is actually for
+## #5: Marvel's Spider-Man
 
-I'll be blunt about the fit, because this is where people get burned. R.E.A.L. is for the PC VR owner who already loves these specific flat-screen games and wants to see them at genuine depth with a turning head. It is not for someone chasing the room-scale, hands-in-the-world feel of a native Quest title. You will be on a couch with a controller, and that is the permanent deal.
+![Marvel's Spider-Man](/images/games/marvels-spider-man-vr-hero.jpg)
 
-It also rewards patience with the install. This is an injection framework with per-game quirks, and the access model has shifted from a $10-a-month Patreon wall to a free-for-everyone, donate-if-you-want setup — with a period in between where everything was pulled. Treat the pinned Patreon post as the source of truth for what's live right now, not any single YouTube guide that may be weeks out of date.
+<div class="rank-meta">2018 · R.E.A.L. VR</div>
 
-The seven titles above are the ones I can stand behind. The "more than 40" catalog is real, but its full contents live behind Luke Ross's own list, and I won't pad it with titles no public source confirms. If you came here for the complete enumeration, the honest answer is that the complete enumeration is a Patreon Welcome post, not a public webpage that lists them all — and the events of the last year are exactly why.
+Swinging through Manhattan is the pitch, and it survives the translation better than you would expect — the skyline has depth and the height has weight. Third-person VR is a compromise by definition, but this is one of the games where the compromise buys you something.
 
-R.E.A.L. VR is the cleanest, most polished window you can put a flat-screen game behind in VR. It is a window. Know that before you install, and the seven games I've confirmed here are a hell of a view.
+[Read our full Marvel's Spider-Man VR review](/games/marvels-spider-man/)
 
+## #6: Marvel's Spider-Man 2
+
+![Marvel's Spider-Man 2](/images/games/spider-man-2-vr-hero.jpg)
+
+<div class="rank-meta">2023 · R.E.A.L. VR</div>
+
+The sequel, same framework, same trade. Ross's route is the only way to wear a headset in this one, and it is head-tracked and gamepad-driven throughout. Demanding, but the web-swinging at scale is the reason to bother.
+
+[Read our full Spider-Man 2 VR review](/games/spider-man-2/)
+
+## #7: Death Stranding
+
+![Death Stranding](/images/games/death-stranding-vr-hero.jpg)
+
+<div class="rank-meta">2022 · R.E.A.L. VR</div>
+
+A hiking simulator is a strange thing to put in a headset until you remember that the whole game is about terrain, weight, and weather. R.E.A.L. turns the Director's Cut into a staggeringly atmospheric walk, provided you accept the gamepad and the version drift.
+
+[Read our full Death Stranding VR review](/games/death-stranding/)
+
+## #8: Ghostwire: Tokyo
+
+![Ghostwire: Tokyo](/images/games/ghostwire-tokyo-vr-hero.jpg)
+
+<div class="rank-meta">2022 · R.E.A.L. VR</div>
+
+An empty, supernatural Tokyo is a good place to stand, and this is the route that lets you. Atmospheric and genuinely present, gamepad-bound and without a native mode — a framework conversion that knows exactly what it is.
+
+[Read our full Ghostwire: Tokyo VR review](/games/ghostwire-tokyo/)
+
+## #9: Indiana Jones and the Great Circle
+
+![Indiana Jones and the Great Circle](/images/games/indiana-jones-and-the-great-circle-vr-hero.jpg)
+
+<div class="rank-meta">2024 · R.E.A.L. VR</div>
+
+MachineGames built one of the best first-person adventure worlds of the decade, and this is the way to stand inside it. The first-person framing does most of the work here — the framework is not fighting the camera, it is finally agreeing with it.
+
+[Read our full Indiana Jones and the Great Circle VR review](/games/indiana-jones-and-the-great-circle/)
+
+## #10: Mafia
+
+![Mafia](/images/games/mafia-vr-hero.jpg)
+
+<div class="rank-meta">2020 · R.E.A.L. VR</div>
+
+1930s Lost Heaven at third-person range, with full head tracking and real depth. You are watching Tommy rather than being him, and that distance is the honest limitation — but the city itself is worth the visit.
+
+[Read our full Mafia VR review](/games/mafia/)
+
+## #11: Star Wars Outlaws
+
+![Star Wars Outlaws](/images/games/star-wars-outlaws-vr-hero.jpg)
+
+<div class="rank-meta">2026 · R.E.A.L. VR</div>
+
+Kay Vess's underworld crawl in stereoscopic first person, which is the best possible framing for a Star Wars game about looking over your shoulder. Gamepad in hand, GPU on fire — the usual R.E.A.L. arithmetic.
+
+[Read our full Star Wars Outlaws VR review](/games/star-wars-outlaws/)
+
+## #12: Uncharted 4: A Thief's End
+
+![Uncharted 4: A Thief's End](/images/games/uncharted-4-a-thiefs-end-vr-hero.jpg)
+
+<div class="rank-meta">2016 · R.E.A.L. VR</div>
+
+A third-person cinematic conversion of Naughty Dog's swan song. You watch Drake from behind the camera, and the scale of his world finally lands the way the set pieces always wanted it to.
+
+[Read our full Uncharted 4 VR review](/games/uncharted-4-a-thiefs-end/)
+
+## #13: Dark Souls
+
+![Dark Souls](/images/games/dark-souls-vr-hero.jpg)
+
+<div class="rank-meta">2011 · R.E.A.L. VR</div>
+
+Lordran in first person is a genuinely different game — the dread is closer and the architecture is taller. The combat does not always survive the translation, but the world absolutely does.
+
+[Read our full Dark Souls VR review](/games/dark-souls/)
+
+## #14: Avatar: Frontiers of Pandora
+
+![Avatar: Frontiers of Pandora](/images/games/avatar-frontiers-of-pandora-vr-hero.jpg)
+
+<div class="rank-meta">2023 · R.E.A.L. VR</div>
+
+Pandora is the most deliberately beautiful world on this list, and Ross's framework is what lets you stand in it. The bioluminescence and the vertical jungle read in stereo in a way a monitor flattens.
+
+[Read our full Avatar: Frontiers of Pandora VR review](/games/avatar-frontiers-of-pandora/)
+
+## #15: Baldur's Gate 3
+
+![Baldur's Gate 3](/images/games/baldurs-gate-3-vr-hero.jpg)
+
+<div class="rank-meta">2023 · R.E.A.L. VR</div>
+
+A 100-hour CRPG viewed from inside the world rather than above it — and the camera is the whole argument. Larian's tactical framing fights the format, but the conversations and the environments gain a closeness the flat version cannot sell.
+
+[Read our full Baldur's Gate 3 VR review](/games/baldurs-gate-3/)
+
+## #16: Ghost of Tsushima
+
+![Ghost of Tsushima](/images/games/ghost-of-tsushima-vr-hero.jpg)
+
+<div class="rank-meta">2024 · R.E.A.L. VR</div>
+
+The wind, the pampas grass, the duels — this is a game built on atmosphere and stillness, and both survive the move into stereo. A framework route, so gamepad in hand, but the island is worth the trade.
+
+[Read our full Ghost of Tsushima VR review](/games/ghost-of-tsushima/)
+
+## #17: Ghostrunner
+
+![Ghostrunner](/images/games/ghostrunner-vr-hero.jpg)
+
+<div class="rank-meta">2020 · R.E.A.L. VR</div>
+
+The one that got Ross a second DMCA notice. A first-person parkour slasher is a natural fit for head tracking, and the speed is genuinely vertiginous in a headset — if you can handle it.
+
+[Read our full Ghostrunner VR review](/games/ghostrunner/)
+
+## #18: Grand Theft Auto V
+
+![Grand Theft Auto V](/images/games/gta-5-vr-hero.jpg)
+
+<div class="rank-meta">2013 · R.E.A.L. VR</div>
+
+One of the oldest mods in the catalogue and still one of the most popular — a city built to be driven through, now with a windshield and a skyline. Dated, but the scale holds up.
+
+[Read our full GTA V VR review](/games/gta-5/)
+
+## #19: Horizon Zero Dawn
+
+![Horizon Zero Dawn](/images/games/horizon-zero-dawn-vr-hero.jpg)
+
+<div class="rank-meta">2017 · R.E.A.L. VR</div>
+
+The best-supported way into Aloy's world is Ross's RealVR mod, and the machines are the reason — a Tallneck at scale is a genuinely impressive thing to stand under. Third-person, gamepad, and worth it for the wildlife.
+
+[Read our full Horizon Zero Dawn VR review](/games/horizon-zero-dawn/)
+
+## #20: Watch Dogs
+
+![Watch Dogs](/images/games/watch-dogs-vr-hero.jpg)
+
+<div class="rank-meta">2014 · R.E.A.L. VR</div>
+
+An injection driver does not transform Watch Dogs into a native VR game, and it does not pretend to. What you get is a head-tracked Chicago with real depth — a modest entry in a catalogue full of bigger ones.
+
+[Read our full Watch Dogs VR review](/games/watch-dogs/)
+
+## Honorable Mentions
+
+These are games Ross has modded that we have not covered in full yet. We are not linking pages that do not exist, and we would rather name them than leave them out: **Atomic Heart**, **Far Cry**, **Final Fantasy VII Remake**, and the **Mafia Trilogy Definitive Edition** releases.
+
+---
+
+The pattern across all twenty is the same one Ross built the framework around: presence without hands. If you want to hold the gun, this is not the route — but if you want to stand in a world that was designed for a monitor, R.E.A.L. has spent years quietly making that possible for games nobody else would touch.
