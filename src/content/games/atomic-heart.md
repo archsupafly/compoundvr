@@ -5,7 +5,7 @@ flatReleaseDate: 2023-02-21
 vrReleaseDate: 2025-11-11
 lastUpdated: 2025-12-21
 featured: false
-routeType: Native VR
+routeType: Framework Only
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable
