@@ -29,6 +29,9 @@ tier: A
 verdict: "An interesting official VR experiment with genuinely inventive combat mechanics, held back by control compromises, short length, and lack of modern platform support. Worth it for Doom fans willing to tinker."
 heroImage: /images/games/doom-vfr-vr-hero.jpg
 sources: "Research conducted via Bethesda/Steam store pages, IGN review, UploadVR review, Road to VR coverage, PCWorld review, Doom Wiki, Steam community reviews and controller binding discussions, Reddit community reports (r/PSVR, r/VRGaming, r/SteamVR), and YouTube VR gameplay footage."
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 The first time you teleport through a charging pinky and watch it erupt in a shower of gore and health pickups, you understand the central gamble of Doom VFR. id Software did not port Doom 2016 into a headset. They built a new game around a single, violent idea: that moving in VR should be as aggressive as shooting.

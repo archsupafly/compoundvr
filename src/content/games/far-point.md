@@ -27,6 +27,9 @@ verdict: "Farpoint is one of the best arguments for PSVR and easily among the to
 heroImage: /images/games/far-point-vr-hero.jpg
 sources: "Research conducted via IGN review (2017), GameSpot review (2017), Road to VR coverage, PlayStation Blog official announcements, Wikipedia entry, Flat2VR Discord community knowledge, Reddit r/PSVR community reports, and YouTube VR gameplay footage."
 vrReleaseDate: 2017-05-16
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 There is a moment in Farpoint, early in the campaign, where you raise the PSVR Aim Controller to your shoulder and the in-game rifle snaps into place with a mechanical click. The holographic sight lines up. An alien creature skitters across the rocky terrain. You squeeze the trigger, and the recoil rumbles through the controller's body in a way that feels designed, not simulated. That moment is exactly what PSVR was built for.

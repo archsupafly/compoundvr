@@ -34,6 +34,9 @@ tier: B
 verdict: "An exceptional social VR experience with some of the best motion-control integration in the genre, but its delisted status and narrow scope make it a treasure hunt rather than a safe recommendation."
 heroImage: /images/games/star-trek-bridge-crew-vr-hero.jpg
 sources: "Research conducted via Wikipedia, IGN review, UploadVR review, Road to VR coverage, PlayStation Blog announcements, Steam Community announcements, and YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Nathie). Assessment based on community reports and historical coverage;"
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 There is a specific kind of panic that only happens in *Star Trek: Bridge Crew*. Your shields are buckling, a Klingon battle cruiser is coming about for another pass, and the person playing your engineer — your actual friend, in another state, wearing a headset — is too busy laughing at your captain voice to route power to the phaser banks. You have about four seconds to decide whether to scream at them or laugh with them. That tension, that absurd social pressure of pretending to be competent officers while clearly being neither, is the entire reason this game exists.

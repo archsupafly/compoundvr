@@ -29,6 +29,9 @@ tier: A
 verdict: "A rare narrative experience built with genuine respect for VR as a medium — comfortable, replayable, and entirely unlike anything else in your library."
 heroImage: /images/games/the-invisible-hours-vr-hero.jpg
 sources: "Research conducted via Steam store page (Tequila Works / Game Trust), UploadVR review, The VR Grid review, The VR Critic review, Use a Potion review, GamePitt PSVR review, Reddit community reports (r/PSVR, r/virtualreality), and YouTube VR gameplay footage (Paradise's Decay, VR Grid)."
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 The first thing that strikes you is the silence of your own presence. In *The Invisible Hours*, you do not arrive as a detective, a hero, or even a named character. You are a ghost — a spectator with no body, no voice, and no ability to change what is about to happen. Nikola Tesla is already dead when you get there, slumped in his mansion's foyer, and the seven people in the house are already moving through their private griefs, schemes, and secrets. Your only power is the one that makes this worth experiencing: you can walk through walls, eavesdrop on whispers, and, most importantly, rewind time.

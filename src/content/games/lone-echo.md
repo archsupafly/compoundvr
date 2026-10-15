@@ -28,6 +28,9 @@ tier: S
 verdict: "One of the most accomplished native VR games ever made. The zero-gravity movement and hand presence are still reference-grade, though its PCVR-only, Meta Store-locked status makes it harder to access than it should be."
 heroImage: /images/games/lone-echo-vr-hero.jpg
 sources: "Research conducted via Meta Store page, Wikipedia, IGN review (2017), CogConnected review, Road to VR coverage on hand presence and UI design, UploadVR coverage on Ready At Dawn closure, Flat2VR Discord community knowledge, and Reddit community reports (r/virtualreality, r/OculusQuest)."
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 The first time you push off a bulkhead and drift through the Kronos II mining station, something clicks that doesn't click in other VR games. Your virtual hand reaches out, grabs a pipe, and you shove off with your arm — not a thumbstick, not a teleport button, but your actual body generating momentum. You float. You correct with wrist thrusters. You grab another surface and redirect. It's not "locomotion" as VR usually means it. It's propulsion. And in 2017, nobody had done it like this.

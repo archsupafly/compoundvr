@@ -35,6 +35,8 @@ vrReleaseDate: 2017-08-01
 relatedPages:
   - id: top-10-vr-games-2015
     kind: article
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 # The Horror They Promised, The Horror We Got: Sevastopol in VR

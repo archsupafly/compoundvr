@@ -35,6 +35,9 @@ heroImage: /images/games/project-cars-2-vr-hero.jpg
 flatReleaseDate: 2017-09-22
 vrReleaseDate: 2017-09-22
 sources: "Research conducted via Slightly Mad Studios official documentation, Bandai Namco press materials, Steam store page and community discussions, UploadVR hands-on preview (July 2017), BabelTechReviews VR performance evaluation, YouTube VR gameplay footage from Gamertag VR and Ian from Eurogamer, and Reddit community reports from r/Vive, r/oculus, and r/pcars. Assessment based on research compilation from multiple independent sources; no direct hands-on testing performed."
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 There is a specific moment in Project CARS 2 that sells the whole thing. You're three laps into a GT3 race at Spa, the sky has opened up, and a river is forming across the apex at La Source. In a flat-screen racing game, you'd see the puddle as a texture change and adjust your line from memory. In VR, you see the depth of it. You see how it catches the light differently from the dry asphalt around it. You feel the car get light as the tires hydroplane, and you correct not because a meter told you to, but because your inner ear demanded it.

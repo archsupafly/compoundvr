@@ -31,6 +31,9 @@ verdict: "A landmark VR shooter whose tactile gunplay and absurd physical combat
 heroImage: /images/games/robo-recall-vr-hero.jpg
 vrReleaseDate: 2017-03-01
 sources: "Research conducted via Meta store pages, Wikipedia, Road to VR review, IGN review, Rock Paper Shotgun review, UploadVR coverage of mod support and Arcano influence, Shacknews mod kit announcement, and community mod repository roborecallmods.com. Assessment based on historical coverage and community experience rather than direct testing."
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 The first time you pluck a rocket out of midair and throw it back at the robot that fired it, you understand what Epic Games was going for. *Robo Recall* is not a tactical shooter. It is not trying to be realistic. It is a playground of escalating absurdity where you are the most dangerous thing in the room, and the robots are just waiting to be disassembled.

@@ -35,6 +35,8 @@ sources: "Research conducted via Steam store page and Meta Quest Store, YouTube 
 relatedPages:
   - id: top-10-vr-games-2015
     kind: article
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 The first time you launch out of a crumbling tower, both grappling hooks anchored to distant green canopies, arcing through a sky filled with floating islands and ruined bridges, you understand why Windlands became an early VR touchstone. Psytec Games didn't just build a platformer with motion controls. They built a kinetic argument for what first-person VR movement could be — risky, physical, genuinely thrilling — at a time when most developers were still treating virtual reality like a seated viewing experience with a gamepad in your lap.

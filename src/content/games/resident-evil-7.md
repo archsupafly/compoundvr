@@ -32,6 +32,9 @@ verdict: "Resident Evil 7 offers two exceptional VR experiences: the plug-and-pl
 heroImage: /images/games/resident-evil-7-vr-hero.jpg
 flatReleaseDate: 2017-01-24
 vrReleaseDate: 2017-01-24
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 # Resident Evil 7 in VR: Two Paths to the Baker Estate

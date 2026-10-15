@@ -33,6 +33,9 @@ verdict: "One of the best arguments for VR as a storytelling medium. Short, but 
 vrReleaseDate: 2018-02-27
 heroImage: /images/games/moss-vr-hero.jpg
 sources: "Research conducted via Wikipedia, PlayStation Blog developer posts, UploadVR coverage, Push Square and PSU PSVR2 reviews, Reddit community reports (r/PSVR, r/oculus), Kotaku and IGN historical coverage, and multiple independent review sources."
+relatedPages:
+  - id: top-20-vr-games-2017
+    kind: article
 ---
 
 Moss doesn't try to put you inside the hero's head. It puts you beside her — a towering spirit leaning over a storybook forest, watching a tiny mouse look up at you and wave. That moment, when Quill first acknowledges your presence, is the entire game in miniature. You're not the protagonist. You're the guardian. And that relationship is why Moss remains one of the most convincing cases for VR as a storytelling medium, years after its release.
