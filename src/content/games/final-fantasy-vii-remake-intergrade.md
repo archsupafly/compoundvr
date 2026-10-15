@@ -5,7 +5,7 @@ flatReleaseDate: 2021-06-10
 vrReleaseDate: 2022-07-15
 lastUpdated: 2024-02-23
 featured: false
-routeType: Full VR Mod
+routeType: Multi-Route Coverage
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable
@@ -18,10 +18,10 @@ genres:
   - Action RPG
   - JRPG
 technicalTags:
-  - Full VR Mod
+  - UEVR
+  - R.E.A.L. VR
   - Unreal Engine 4
   - Third-Person
-  - Alternate Eye Rendering
 experienceTags:
   - Cinematic
   - Story-Driven

@@ -194,6 +194,8 @@ Lothric is the most consistently gothic of the Souls settings, and standing in i
 
 Midgar is the most deliberately vertical setting Square has built, and standing in it — even at third-person range — is the appeal. A cinematic game given a cinema you can turn your head inside.
 
+[Read our full Final Fantasy VII Remake Intergrade VR review](/games/final-fantasy-vii-remake-intergrade/)
+
 ## #20: Far Cry New Dawn
 
 ![Far Cry New Dawn](/images/games/far-cry-new-dawn-vr-hero.jpg)
