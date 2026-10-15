@@ -12,6 +12,11 @@ tags:
   - history
   - early VR
 heroImage: /images/articles/top-10-vr-games-2015-hero.jpg
+relatedPages:
+  - id: top-vr-modding-news-2015
+    kind: article
+  - id: top-15-vr-games-2016
+    kind: article
 ---
 
 Consumer VR is almost here. The Oculus Rift CV1 ships in months. The Vive is behind glass at trade shows. PlayStation VR is still "Project Morpheus." But people are already playing VR — on development kits, through hacked command lines, via mods held together with community patches and hope. These aren't polished launch titles. They're proofs of concept, engineering marvels, and in some cases, happy accidents that happened because someone left a VR mode in the code.
