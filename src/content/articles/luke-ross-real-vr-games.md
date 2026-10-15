@@ -4,7 +4,7 @@ description: "Every game Luke Ross has brought into stereoscopic VR through his 
 pubDate: 2026-03-01
 lastUpdated: 2026-03-01
 author: Ian
-category: guide
+category: opinion
 listicle: true
 tags: ['luke-ross', 'real-vr', 'pcvr', 'flat-to-vr', 'mods', '2026']
 heroImage: /images/articles/luke-ross-real-vr-games-hero.jpg
@@ -220,7 +220,7 @@ An injection driver does not transform Watch Dogs into a native VR game, and it 
 
 ## Honorable Mentions
 
-These are games Ross has modded that we have not covered in full yet. We are not linking pages that do not exist, and we would rather name them than leave them out: **Atomic Heart**, **Far Cry**, **Final Fantasy VII Remake**, and the **Mafia Trilogy Definitive Edition** releases.
+These are games Ross has modded that we have not covered in full yet. We are not linking pages that do not exist, and we would rather name them than leave them out: **Atomic Heart**, **Final Fantasy VII Remake**, and the **Mafia Trilogy Definitive Edition** releases.
 
 ---
 
