@@ -5,7 +5,7 @@ flatReleaseDate: 2020-05-19
 vrReleaseDate: 2021-11-09
 lastUpdated: 2026-03-15
 featured: false
-routeType: Native VR
+routeType: Full VR Mod
 platforms: ['PCVR']
 recommendation: Recommended with Caveats
 playability: Fully Playable
