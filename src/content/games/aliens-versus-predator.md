@@ -3,7 +3,7 @@ title: "Aliens versus Predator VR"
 description: "A 1999 sci-fi horror classic rebuilt in OpenXR, where the Alien finally climbs walls with your arms and the Marine's motion tracker pings behind your shoulder."
 flatReleaseDate: 1999-01-01
 vrReleaseDate: 2026-05-25
-lastUpdated: 2026-10-13
+lastUpdated: 2026-09-27
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR', 'Quest']
@@ -36,10 +36,10 @@ modDownload:
   note: "Created by Bassquake"
 sources: "Research drawn from the Bassquake GitHub repository for the Aliens Versus Predator (1999) OpenXR source port (atsb/NakedAVP), the VRMods-List index, YouTube VR coverage from TheGeekCrabb, CleXor, Valentin Kozin, Bassquake, YouGotColdYogurt, and For The Love Of Games, and the Flat2VR Discord for peer setup notes."
 history:
-  - date: 2026-10-13
-    note: "AvP Classic 1999 VR port reaches v1.2 with 120Hz mode and tunable melee range."
-  - date: 2026-05-25
-    note: "Bassquake publishes the OpenXR source port of Aliens Versus Predator (1999), the first full VR path for the franchise."
+  - date: 2026-09-27
+    note: "The port reaches v1.0 — the first complete release of the OpenXR rebuild."
+  - date: 2026-06-24
+    note: "Bassquake publishes the first public build of the OpenXR source port of Aliens Versus Predator (1999)."
 ---
 
 I spent a stupid amount of time this week crawling across a bulkhead as the Alien, claws out, the Marine's motion tracker squealing somewhere below me. That tracker ping lands behind your right shoulder; your body reads it before your ears do. That's the version of Aliens versus Predator I wanted for twenty years, and it finally exists as a community port rather than a studio's afterthought.
@@ -50,7 +50,7 @@ This page is about the 1999 original — the one everyone calls AvP Classic — 
 
 There is no official VR version of Aliens versus Predator (1999). What we have instead is, in the important ways, better than a lazy studio port: a from-scratch VR rebuild of the 1999 game using OpenXR, with motion controls, standalone Quest builds, and PCVR support. The modder going by Bassquake took the atsb/NakedAVP source port and recompiled it around a real VR renderer.
 
-That matters because the 1999 game was built on an engine that treated the camera as a gun with a face. Rebuilding it for tracked controllers and stereo vision is not a wrapper job. The port handles six-degrees-of-freedom head tracking, per-specity controller mapping, and a standalone Quest build that runs at 120Hz. It is actively maintained — the v1.2 update shipped days before this review with a 120Hz mode and tunable melee range. This is a living project, not a one-and-done upload that rots.
+That matters because the 1999 game was built on an engine that treated the camera as a gun with a face. Rebuilding it for tracked controllers and stereo vision is not a wrapper job. The port handles six-degrees-of-freedom head tracking, per-specity controller mapping, and a standalone Quest build that runs at 120Hz. It is actively maintained, with a steady run of releases since the first public build. This is a living project, not a one-and-done upload that rots.
 
 The port ships no game assets. You supply the Gold Edition of the 1999 game yourself, lowercase the filenames with the supplied script, and drop them in. On Quest you sideload the APK; on PCVR you run an installer batch. Budget half an hour if you've modded a game before, longer if this is your first sideload. That friction is the cost of playing a 1999 PC cult classic inside a modern headset.
 
