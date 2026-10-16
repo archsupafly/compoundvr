@@ -186,6 +186,8 @@ Kyrat's mountains and verticality suit a headset well, and this is one of the ol
 
 Lothric is the most consistently gothic of the Souls settings, and standing in its ruins — even at a distance — is the appeal. The combat translation is the same story as every action game here: the world gains more from VR than the fighting does.
 
+[Read our full Dark Souls III VR review](/games/dark-souls-iii/)
+
 ## #19: Final Fantasy VII Remake Intergrade
 
 ![Final Fantasy VII Remake Intergrade](/images/games/final-fantasy-vii-remake-intergrade-vr-hero.jpg)
