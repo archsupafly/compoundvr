@@ -107,6 +107,8 @@ Empire Bay in the 1940s and 50s, and the most film-like of the Mafia games — a
 
 New Bordeaux is the most atmospheric of the three Mafia cities, and the least well-served by its own game — which makes the VR route a more interesting proposition than it first looks. The setting does work the mechanics cannot.
 
+[Read our full Mafia III VR review](/games/mafia-3/)
+
 ## #10: Cyberpunk 2077
 
 ![Cyberpunk 2077](/images/games/cyberpunk-2077-vr-hero.jpg)
@@ -308,6 +310,8 @@ The ruined American cityscape is the draw, and stereo depth makes the overgrowth
 
 The Ishimura is a corridor game, which makes it one of the better structural fits on this list — tight spaces, deliberate pacing, and dread that only gets closer in stereo. Early access, and a horror experience worth taking seriously in a headset.
 
+[Read our full Dead Space VR review](/games/dead-space/)
+
 ## #30: Atomic Heart
 
 ![Atomic Heart](/images/games/atomic-heart-vr-hero.jpg)
@@ -437,6 +441,8 @@ An empty, supernatural Tokyo is a good place to stand, and this is the route tha
 
 The same machines and the same tall grass, with the remaster's cleaner lighting feeding the stereo image. If you are choosing between the two Horizon Zero Dawn entries, this is the one the framework renders best.
 
+[Read our full Horizon Zero Dawn VR review](/games/horizon-zero-dawn/)
+
 ## #44: Avatar: Frontiers of Pandora
 
 ![Avatar: Frontiers of Pandora](/images/games/avatar-frontiers-of-pandora-vr-hero.jpg)
@@ -473,6 +479,8 @@ Bohemia's forests and villages are the sell here — a first-person medieval wor
 
 The medieval prequel, and a slower, heavier DOOM than Eternal — which arguably suits a seated headset better. Still early access, so the usual caveat applies: the conversion is newer than the game.
 
+[Read our full DOOM: The Dark Ages VR review](/games/doom-the-dark-ages/)
+
 ## #48: Death Stranding 2: On the Beach
 
 ![Death Stranding 2: On the Beach](/images/games/death-stranding-2-on-the-beach-vr-hero.jpg)
@@ -481,6 +489,8 @@ The medieval prequel, and a slower, heavier DOOM than Eternal — which arguably
 
 Kojima's sequel is, like the first, fundamentally about terrain and weather — which is to say it is fundamentally about looking at a landscape, and that is exactly what this framework is good at. Early access.
 
+[Read our full Death Stranding 2 VR review](/games/death-stranding-2-on-the-beach/)
+
 ## #49: Crimson Desert
 
 ![Crimson Desert](/images/games/crimson-desert-vr-hero.jpg)
@@ -488,6 +498,8 @@ Kojima's sequel is, like the first, fundamentally about terrain and weather — 
 <div class="rank-meta">Early access · R.E.A.L. VR</div>
 
 One of the newest entries and the most ambitious open world Ross has taken on — a vast, systems-heavy fantasy sandbox that was never designed with a headset in mind. Early access, so expect the rough edges that come with a fresh conversion.
+
+[Read our full Crimson Desert VR review](/games/crimson-desert-enhanced/)
 
 ## #50: 007 First Light
 
