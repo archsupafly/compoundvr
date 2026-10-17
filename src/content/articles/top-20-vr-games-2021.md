@@ -239,13 +239,13 @@ Ready at Dawn closed out Jack and Liv's story with the most gorgeous zero-gravit
 
 ## #2: Hitman World of Assassination VR
 
-![Hitman World of Assassination VR](/images/games/hitman-world-of-assassination-vr-hero.jpg)
+![Hitman World of Assassination VR](/images/games/hitman-3-world-of-assassination-vr-hero.jpg)
 
 <div class="rank-meta">Official Hybrid</div>
 
 Hitman 3 launched with VR on PSVR and turned twenty-two dense sandbox levels into places you could stand inside. The fantasy is the appeal: walking a crowded Dubai tower, then physically snapping a target's neck or shoving them off a ledge when no one is looking. IO Interactive built the whole 1-2-3 campaign to be playable headset-on, a scope no other VR stealth game attempts. The launch limits were real, Move controllers and no smooth locomotion at first, but the later PCVR version added full motion controls and fixed the biggest complaints. UploadVR called it a mostly clean kill, and they were right. For delivering a complete, official stealth sandbox in VR, Hitman is the year's most ambitious hybrid and a blueprint for what studios should attempt next.
 
-[Read the full Hitman World of Assassination VR review](/games/hitman-world-of-assassination-vr)
+[Read the full Hitman World of Assassination VR review](/games/hitman-3-world-of-assassination-vr)
 
 ---
 

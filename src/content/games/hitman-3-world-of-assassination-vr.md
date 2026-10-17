@@ -1,5 +1,5 @@
 ---
-title: "Hitman: World of Assassination VR"
+title: "Hitman 3: World of Assassination VR"
 description: "After years of half-measures, IO Interactive finally turned its stealth trilogy into a proper VR sandbox — and the assassination fantasy is strong enough to justify the headset on its own."
 featured: false
 flatReleaseDate: "2021-01-20"

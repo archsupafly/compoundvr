@@ -628,7 +628,7 @@ You lean around a corner in Sapienza with a controller in hand, and IO Interacti
 
 ---
 
-[Read the full Hitman 3 review](/games/hitman-world-of-assassination-vr)
+[Read the full Hitman 3 review](/games/hitman-3-world-of-assassination-vr)
 
 ## #3: The Elder Scrolls V: Skyrim VR
 
