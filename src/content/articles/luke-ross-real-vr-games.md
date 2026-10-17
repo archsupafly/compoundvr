@@ -96,6 +96,9 @@ The reboot that made the case for fast, first-person DOOM all over again — and
 
 Empire Bay in the 1940s and 50s, and the most film-like of the Mafia games — a period city that a headset makes genuinely period. Withdrawn from distribution, which is a shame, because the setting suits the treatment.
 
+[Read our full Mafia II VR review](/games/mafia-ii-definitive-edition/)
+
+[Read our full Mafia II VR review](/games/mafia-ii-definitive-edition/)
 ## #9: Mafia III: Definitive Edition
 
 ![Mafia III: Definitive Edition](/images/games/mafia-iii-definitive-edition-vr-hero.jpg)
@@ -152,6 +155,9 @@ Lordran in first person is a genuinely different game — the dread is closer an
 
 Drangleic is the most melancholic of the Souls worlds, and a headset makes the distance between its landmarks feel real. Same combat caveat as its siblings — the world gains more from VR than the fighting does.
 
+[Read our full Dark Souls II VR review](/games/dark-souls-ii-scholar-of-the-first-sin/)
+
+[Read our full Dark Souls II VR review](/games/dark-souls-ii-scholar-of-the-first-sin/)
 ## #15: Far Cry 6
 
 ![Far Cry 6](/images/games/far-cry-6-vr-hero.jpg)
@@ -160,6 +166,9 @@ Drangleic is the most melancholic of the Souls worlds, and a headset makes the d
 
 Yara is a tropical open world with a first-person framework, which is close to an ideal shape for this treatment — long views, dense vegetation, and a camera that already assumes you are the one holding the gun.
 
+[Read our full Far Cry 6 VR review](/games/far-cry-6/)
+
+[Read our full Far Cry 6 VR review](/games/far-cry-6/)
 ## #16: Far Cry Primal
 
 ![Far Cry Primal](/images/games/far-cry-primal-vr-hero.jpg)
@@ -168,6 +177,9 @@ Yara is a tropical open world with a first-person framework, which is close to a
 
 The stone-age Far Cry is the most stripped-back game in the series, and the emptiness works in its favour here — a world with no HUD clutter and a lot of open landscape to look across.
 
+[Read our full Far Cry Primal VR review](/games/far-cry-primal/)
+
+[Read our full Far Cry Primal VR review](/games/far-cry-primal/)
 ## #17: Far Cry 4
 
 ![Far Cry 4](/images/games/far-cry-4-vr-hero.jpg)
@@ -206,6 +218,9 @@ Midgar is the most deliberately vertical setting Square has built, and standing 
 
 The pink, overgrown post-apocalypse is the most colourful Far Cry, and colour reads well in stereo — a shorter, punchier entry in the series and a comfortable one to spend an evening inside.
 
+[Read our full Far Cry New Dawn VR review](/games/far-cry-new-dawn/)
+
+[Read our full Far Cry New Dawn VR review](/games/far-cry-new-dawn/)
 ## #21: Grounded
 
 ![Grounded](/images/games/grounded-vr-hero.jpg)
@@ -244,6 +259,9 @@ Swinging through Manhattan survives the translation better than you would expect
 
 San Francisco is the best city in the Watch Dogs series to simply exist in, and this is the entry that makes the most of it — a bright, dense, walkable map that reads well in stereo even though you are driving the camera rather than being it.
 
+[Read our full Watch Dogs 2 VR review](/games/watch-dogs-2/)
+
+[Read our full Watch Dogs 2 VR review](/games/watch-dogs-2/)
 ## #25: Far Cry 5
 
 ![Far Cry 5](/images/games/far-cry-5-vr-hero.jpg)
@@ -252,6 +270,9 @@ San Francisco is the best city in the Watch Dogs series to simply exist in, and 
 
 Montana at scale — wide sky, long sightlines, and a first-person shooter framework that suits the seated, head-tracked posture better than most. The open-world Far Crys are a natural fit for this treatment.
 
+[Read our full Far Cry 5 VR review](/games/far-cry-5/)
+
+[Read our full Far Cry 5 VR review](/games/far-cry-5/)
 ## #26: High on Life
 
 ![High on Life](/images/games/high-on-life-vr-hero.jpg)
@@ -260,6 +281,9 @@ Montana at scale — wide sky, long sightlines, and a first-person shooter frame
 
 The talking-gun comedy shooter, which sounds like an odd candidate until you remember it is first-person throughout — and a first-person game with a strong visual identity is exactly what this framework is built for.
 
+[Read our full High on Life VR review](/games/high-on-life/)
+
+[Read our full High on Life VR review](/games/high-on-life/)
 ## #27: Marvel's Spider-Man: Miles Morales
 
 ![Marvel's Spider-Man: Miles Morales](/images/games/marvels-spider-man-miles-morales-vr-hero.jpg)
@@ -292,6 +316,9 @@ The Ishimura is a corridor game, which makes it one of the better structural fit
 
 The most visually distinctive game on this list — a Soviet-utopia art direction that was always meant to be gawped at, and stereo depth is the right way to gawp. One of the stronger fits in the recent half of the catalogue.
 
+[Read our full Atomic Heart VR review](/games/atomic-heart/)
+
+[Read our full Atomic Heart VR review](/games/atomic-heart/)
 ## #31: Watch Dogs: Legion
 
 ![Watch Dogs: Legion](/images/games/watch-dogs-legion-vr-hero.jpg)
@@ -470,6 +497,9 @@ One of the newest entries and the most ambitious open world Ross has taken on �
 
 The newest game in the catalogue and the least proven. A first-person Bond origin story is an appealing shape for this treatment — the framework suits the posture — but it is early access, and early access means unfinished.
 
+[Read our full 007 First Light VR review](/games/007-first-light/)
+
+[Read our full 007 First Light VR review](/games/007-first-light/)
 ## #51: Marvel's Spider-Man 2
 
 ![Marvel's Spider-Man 2](/images/games/spider-man-2-vr-hero.jpg)
