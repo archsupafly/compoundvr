@@ -2,7 +2,7 @@
 title: "Luke Ross R.E.A.L. VR Mod: 53 Games, Setup, Optimization & Free Download Guide"
 description: "Complete guide to Luke Ross R.E.A.L. VR: what it is, how to install it, which games work, system requirements, optimization tips, and troubleshooting. 53 games covered — now free."
 pubDate: 2022-01-15
-lastUpdated: 2026-10-18
+lastUpdated: 2026-03-11
 author: Ian
 category: guide
 heroImage: /images/articles/luke-ross-real-vr-guide-hero.jpg
@@ -46,7 +46,7 @@ Compare that to what Praydog's REFramework delivers with Resident Evil 2, Reside
 
 And then there's the Patreon question. R.E.A.L. has been paywalled for years. You subscribe to Luke Ross's Patreon, you download the mod for the game you want, and if you cancel, you lose access to updates. In a community built on open-source tools and free mods, this model has always felt... odd. Not wrong, exactly — the man has put in thousands of hours of reverse engineering, and the results speak for themselves. But it means R.E.A.L. exists in a gated garden while the rest of the flat-to-VR ecosystem, fragmented as it is, mostly doesn't. There's something slightly unsettling about the best implementation of a concept being the one you have to keep paying for, indefinitely.
 
-**Update (2026):** R.E.A.L. VR is now free. Following a DMCA takedown by CD Projekt for the Cyberpunk 2077 VR mod in early 2022, Luke Ross pulled all VR mods from his Patreon. Shortly after, 505 Games issued a similar takedown for Ghostrunner. Ross subsequently re-released the R.E.A.L. VR mod suite on his Patreon for free — anyone can download and use the current version without a subscription. Supporters still get advanced access to new features, but the core mods are free. The Cyberpunk 2077 mod is notably excluded for now, as Ross is not including any games that could violate DMCA claims. Prior to this change, mods were only available to Patreon subscribers paying $10/month.
+**Update (2026):** R.E.A.L. VR is now free. Following a DMCA takedown by CD Projekt for the Cyberpunk 2077 VR mod in early 2026, Luke Ross pulled all VR mods from his Patreon. Shortly after, 505 Games issued a similar takedown for Ghostrunner. Ross subsequently re-released the R.E.A.L. VR mod suite on his Patreon for free — anyone can download and use the current version without a subscription. Supporters still get advanced access to new features, but the core mods are free. The Cyberpunk 2077 mod is notably excluded for now, as Ross is not including any games that could violate DMCA claims. Prior to this change, mods were only available to Patreon subscribers paying $10/month.
 
 ## R.E.A.L. VR vs VorpX
 
