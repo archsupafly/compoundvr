@@ -8,13 +8,15 @@ category: opinion
 listicle: true
 tags: ['luke-ross', 'real-vr', 'pcvr', 'flat-to-vr', 'mods', '2026']
 heroImage: /images/articles/luke-ross-real-vr-games-hero.jpg
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Full setup, optimization, and download guide for R.E.A.L. VR"
 ---
 
-Luke Ross has done something no studio would: he has dragged 53 flat PC games into stereoscopic VR by hand, one at a time, over roughly a decade, and made most of them work. R.E.A.L. VR is his framework, and it renders the game twice — once per eye — while adding head tracking and OpenXR support. It does not give you hands. That is the trade at the centre of every entry below: you get presence and scale, and you keep the gamepad you already had.
+Luke Ross has spent roughly a decade converting flat PC games into stereoscopic VR by hand, one title at a time. His R.E.A.L. VR framework renders the game twice—once for each eye—while adding head tracking and OpenXR support, but it leaves the original controls alone. You play seated with a gamepad, looking around with your head. That gives you real presence and scale without motion controllers or hand tracking. The list below follows his actual release order, oldest first, so you can see the early games he learned on and the more recent, demanding ones where the framework has to do more of the work.
 
-The order here is **mod release date**, oldest first — the sequence in which he actually built them. That ordering tells a story the rankings would hide: the early entries are the games he taught himself on, and the recent ones are the ambitious, current-generation releases where the framework is doing the most work. It is also worth reading the status column. Ross pulled several mods after a DMCA fight over the Cyberpunk release, so some entries are **Withdrawn** and no longer distributed; others arrived through paid early access before reaching the **Public** build, and a few are still **Early access** only. Patch compatibility should be checked against his current notes before you install anything.
-
-One more thing: R.E.A.L. does not touch a game's controls. You play with a pad, from a seated position, with your head doing the looking. Where a first-person game already assumes that posture, the framework barely has to apologise. Where it does not, you are watching a character rather than being one — and that distance is the honest limitation of the entire catalogue.
+Some mods are no longer available. Ross pulled several after a DMCA dispute over the Cyberpunk release, so those are marked Withdrawn. Others started as paid early access before moving to the public build, and a few are still early access only. Always check his current notes for patch compatibility before installing. The approach works cleanest on first-person games that already assume a seated, gamepad-and-head posture. On third-person titles you're mostly watching the character rather than inhabiting them—an inherent limit of the whole catalogue. But hey at least you are getting AAA games in VR and Luke's mods have been one of the pioneers.
 
 ---
 

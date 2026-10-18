@@ -34,6 +34,8 @@ const articles = defineCollection({
       q: z.string(),
       a: z.string(),
     })).default([]),
+    // Sources/citations rendered below the body. Same contract as games.
+    sources: z.string().optional(),
     history: z.array(z.object({
       date: z.coerce.date(),
       note: z.string(),

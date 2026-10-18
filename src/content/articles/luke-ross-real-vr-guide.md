@@ -30,6 +30,10 @@ relatedPages:
   - id: horizon-zero-dawn
     kind: game
     note: "One of the best R.E.A.L. VR experiences"
+sources: "Luke Ross Patreon (patreon.com/lukeross); CompoundVR editorial testing across 53 R.E.A.L. VR profiles, 2022-2026."
+history:
+  - date: 2026-03-11
+    note: "Updated for R.E.A.L. VR going free after the Cyberpunk 2077 DMCA takedown. Removed Patreon paywall references, added free download link, updated conclusion to reflect UEVR/open-source competition."
 faq:
   - q: "Does R.E.A.L. VR have motion controls?"
     a: "No. R.E.A.L. VR provides head-tracked stereoscopic 3D with a gamepad. You look around with your head and play with an Xbox controller. There is no hand presence or 6DOF controller support. If you want motion controls, look at Praydog's REFramework (for RE Engine games) or UEVR (for Unreal Engine games)."

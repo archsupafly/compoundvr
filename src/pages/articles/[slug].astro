@@ -84,6 +84,13 @@ const jsonLd = JSON.stringify({
 
     <RelatedPages items={article.data.relatedPages} heading="Related articles" />
 
+    {article.data.sources && (
+      <div class="article-sources" style="margin-top:2rem;">
+        <h2>Sources</h2>
+        <div class="sources-content" style="font-size:0.9rem;color:var(--text-tertiary);">{article.data.sources}</div>
+      </div>
+    )}
+
     {article.data.history && article.data.history.length > 0 && (
       <details class="history-log" style="margin-top:1rem;">
         <summary>Article history</summary>
