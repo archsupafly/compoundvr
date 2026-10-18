@@ -24,6 +24,12 @@ relatedPages:
   - id: luke-ross-real-vr-games
     kind: article
     note: "All 53 games, ranked by release date, with links to our full reviews"
+  - id: vorpX-injection-driver-guide
+    kind: article
+    note: "VorpX injection driver — the other major flat-to-VR solution"
+  - id: uevr-guide
+    kind: article
+    note: "UEVR — free 6DOF motion controls for Unreal Engine games"
   - id: cyberpunk-2077
     kind: game
     note: "The game that triggered the DMCA takedown"
