@@ -294,6 +294,8 @@ The talking-gun comedy shooter, which sounds like an odd candidate until you rem
 
 The tighter, warmer Spider-Man game, and a good fit for the same reason as its siblings — the swing is the whole appeal and the skyline is the payoff. Winter Manhattan in stereo is a genuinely handsome thing to fly through.
 
+[Read our full Marvel's Spider-Man: Miles Morales VR review](/games/marvels-spider-man-miles-morales/)
+
 ## #28: The Last of Us Part I
 
 ![The Last of Us Part I](/images/games/the-last-of-us-part-i-vr-hero.jpg)
@@ -330,6 +332,8 @@ The most visually distinctive game on this list — a Soviet-utopia art directio
 <div class="rank-meta">Public · R.E.A.L. VR</div>
 
 London is the draw — a dense, recognisable city with the series' usual systems layered over it. The framework gives it depth and presence, and the play-anyone gimmick means there is always another reason to go back out into it.
+
+[Read our full Watch Dogs: Legion VR review](/games/watch-dogs-legion/)
 
 ## #32: Uncharted: The Lost Legacy
 
@@ -423,6 +427,8 @@ The bleaker, broader sequel, and the one where the environments do more of the w
 
 Rebirth opens Midgar out into a continent, and a continent is a better fit for a headset than a corridor — long sightlines, varied biomes, and a world that rewards looking around. The same third-person distance as Intergrade, with far more to point it at.
 
+[Read our full Final Fantasy VII Rebirth VR review](/games/final-fantasy-vii-rebirth/)
+
 ## #42: Ghostwire: Tokyo
 
 ![Ghostwire: Tokyo](/images/games/ghostwire-tokyo-vr-hero.jpg)
@@ -470,6 +476,8 @@ MachineGames built one of the best first-person adventure worlds of the decade, 
 <div class="rank-meta">Public · R.E.A.L. VR</div>
 
 Bohemia's forests and villages are the sell here — a first-person medieval world with no fantasy layer over it, which means the scale is entirely mundane and entirely convincing. One of the more natural fits on the list.
+
+[Read our full Kingdom Come: Deliverance II VR review](/games/kingdom-come-deliverance-ii/)
 
 ## #47: DOOM: The Dark Ages
 
