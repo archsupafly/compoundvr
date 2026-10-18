@@ -21,27 +21,6 @@ const articles = defineCollection({
       label: z.string().optional(),
       note: z.string().optional(),
     }).optional(),
-    // Same contract as the games collection; lets an article link to a mod
-    // download outside the body. Rendered by the article template.
-    modDownload: z.object({
-      url: z.string(),
-      label: z.string().optional(),
-      note: z.string().optional(),
-    }).optional(),
-    // Same contract as the games collection; lets an article link to a mod
-    // download outside the body. Rendered by the article template.
-    modDownload: z.object({
-      url: z.string(),
-      label: z.string().optional(),
-      note: z.string().optional(),
-    }).optional(),
-    // Same contract as the games collection; lets an article link to a mod
-    // download outside the body. Rendered by the article template.
-    modDownload: z.object({
-      url: z.string(),
-      label: z.string().optional(),
-      note: z.string().optional(),
-    }).optional(),
     heroImage: z.string().optional(),
     // Contextual related links rendered below the body. Editorial only — never
     // a reason to rewrite prose. See components/RelatedPages.astro.
