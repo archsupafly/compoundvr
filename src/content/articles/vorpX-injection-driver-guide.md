@@ -16,6 +16,13 @@ tags:
   - PCVR
   - guide
 featured: true
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "R.E.A.L. VR — free per-game flat-to-VR mods"
+  - id: uevr-guide
+    kind: article
+    note: "UEVR — free 6DOF motion controls for Unreal Engine games"
 ---
 
 # VorpX: The Honest Guide to VR Injection Drivers

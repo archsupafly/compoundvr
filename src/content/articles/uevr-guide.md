@@ -14,6 +14,13 @@ tags:
   - guide
   - praydog
   - flat-to-vr
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "R.E.A.L. VR — per-game flat-to-VR with head tracking"
+  - id: vorpX-injection-driver-guide
+    kind: article
+    note: "VorpX injection driver — the other major flat-to-VR solution"
 ---
 
 # UEVR: Play Unreal Engine Games in VR

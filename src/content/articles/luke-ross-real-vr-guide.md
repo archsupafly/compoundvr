@@ -36,6 +36,7 @@ relatedPages:
   - id: horizon-zero-dawn
     kind: game
     note: "One of the best R.E.A.L. VR experiences"
+
 sources: "Luke Ross Patreon (patreon.com/lukeross); CompoundVR editorial testing across 53 R.E.A.L. VR profiles, 2022-2026."
 history:
   - date: 2026-03-11
