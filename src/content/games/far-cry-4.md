@@ -31,6 +31,13 @@ tier: C
 verdict: Far Cry 4 in VorpX gives you a beautiful, demanding open world in stereoscopic 3D with head tracking, but the injection-driver limitations and DRM friction mean it is only worth the effort for dedicated fans who already love the flat game.
 heroImage: /images/games/far-cry-4-vr-hero.jpg
 sources: Research conducted via the Far Cry 4 Steam store page, VorpX official forums and technical support threads, the Far Cry VR project site and GitHub releases, Eurogamer coverage of the original Far Cry VR mod, Dunia Engine documentation, UEVR project documentation, and RPCS3/Xenia compatibility trackers.
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 # Far Cry 4 VR

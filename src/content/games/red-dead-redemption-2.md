@@ -32,6 +32,13 @@ verdict: "An extraordinary game viewed through a demanding lens. The scale is un
 heroImage: /images/games/red-dead-redemption-2-vr-hero.jpg
 flatReleaseDate: 2018-10-26
 vrReleaseDate: 2022-06-15
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 # Red Dead Redemption 2 in VR: The West at a Price

@@ -28,6 +28,13 @@ tier: B
 verdict: "007 First Light in VR is a great Bond campaign made better by being inside it: stereoscopic, head-tracked, and genuinely globe-spanning, even if you're a camera operator rather than 007 himself. Recommended with caveats for anyone who already owns the PC version and doesn't mind the Patreon gate."
 heroImage: /images/games/007-first-light-vr-hero.jpg
 sources: "PCVR Central mod listing for 007 First Light (Luke Ross R.E.A.L. VR framework), Patreon post bond-159956522 from Luke Ross / realvr, the LukeRossVR PCVR Hub README (generic R.E.A.L. ground truth), YouTube VR coverage from NotAGameAddict, TheVRSector, YouGotColdYogurt, and BubbleGamesVR, IO Interactive's launch announcement, and Wikipedia/IGN platform listings. Assessment based on framework documentation and community VR-mod coverage."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a Tuesday evening in a safehouse in Prague, watching a younger James Bond slip a listening device under a diplomat's desk. I was standing in the room, craning my head to track the chandelier as he worked the crowd. That's the trick IO Interactive's 007 First Light pulls off in VR, and it's a better trick than you'd expect from a game that was never built for a headset.

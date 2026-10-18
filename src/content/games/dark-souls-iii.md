@@ -34,6 +34,13 @@ modDownload:
   label: "Download Dark Souls III VR Mod"
   note: "Created by Luke Ross (R.E.A.L. VR)"
 sources: "Research compiled from Luke Ross R.E.A.L. VR framework coverage and setup guide (PCVR Central), YouTube VR gameplay footage (Beardo Benjo multi-video DS3 VR coverage, Quel Tizio In VR), Reddit community threads (r/oculus 2016 VorpX + first-person camera recipe, r/darksouls3 75-hour VR playthrough), and Flat2VR community knowledge. Assessment based on documented community experience of the R.E.A.L. conversion and the game's design."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I died to the Crystal Sage about forty times before I admitted the real problem was that I'd been playing Dark Souls III on a monitor like a coward. Then I loaded Luke Ross's R.E.A.L. VR conversion, put the headset on, and watched a boss the size of a cathedral actually loom over me. That changes how a fight reads in a way no resolution bump ever did.

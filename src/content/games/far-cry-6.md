@@ -34,6 +34,13 @@ modDownload:
   label: "Download Far Cry 6 VR Mod"
   note: "Created by Luke Ross (R.E.A.L. VR)"
 sources: "Research drawn from Luke Ross's R.E.A.L. VR mod documentation and design notes, YouTube VR-mod coverage of Far Cry 6 in VR, the PCVR Mods Installer Hub and VRMods-List index entries, and Reddit API coverage checks (r/VRMods, r/UEVR)."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a morning climbing the hills above Esperanza with a headset on, and the first thing that hit me wasn't the gunplay — it was the space. Yara is huge, and flat screens flatten it. Put the world in stereoscopic 3D and suddenly the distance between you and the smoking sugar mill across the valley actually means something.

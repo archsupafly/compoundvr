@@ -35,6 +35,13 @@ modDownload:
   label: "Download Mafia 3 VR Mod"
   note: "Created by Luke Ross (R.E.A.L. VR)"
 sources: "Research compiled from UploadVR's November 2021 release report, Eurogamer's Ian's VR Corner hands-on coverage, the PCVR Mods Installer Hub LukeRossVR README, arvrtips setup guide, Luke Ross Patreon / RVR GitHub releases, and 2026 community still-works verification videos."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 ## New Bordeaux, Through a Headset

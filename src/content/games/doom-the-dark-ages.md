@@ -34,6 +34,13 @@ modDownload:
   label: "Download DOOM: The Dark Ages VR Mod"
   note: "Created by Luke Ross"
 sources: "Luke Ross Patreon (R.E.A.L. VR mod release post), Wccftech and IGN India news coverage of the mod launch, PCVR Central mod page and installation guide, plus YouTube VR coverage from Beardo Benjo, Paradise Decay, LunchAndVR, Headset-VR, Viper VR & Tech, and NotAGameAddict."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I strapped in expecting a novelty — a flat game wearing a VR skin — and the first thing that happened was a cybernetic demon the size of a pickup truck wound up to smash me, and I ducked. Not because the game told me to. Because it was right there. That's the whole pitch for DOOM: The Dark Ages in VR, and Luke Ross's launch-week mod delivers it without asking you to learn a single new reflex.

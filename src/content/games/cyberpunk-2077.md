@@ -40,6 +40,13 @@ history:
   - date: "2026-09-29"
     note: "CyberpunkVR Port RED4ext plugin reaches v0.1.7, adding motion-controlled hands, VRIK body, and roomscale combat."
 sources: "Research via CyberpunkVR Port GitHub repository and README (dariulone), Luke Ross R.E.A.L. VR Patreon and GitHub releases, Road to VR coverage of the 2022 RealVR mod release, Mixed News on R.E.A.L. VR DLSS Ray Reconstruction updates, Helix Mod RealVR/VRto3D profile, vorpX Cyberpunk VR profile page, and YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, GingasVR, Haldis VR, Cas & Chary)."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I stood on a rooftop in Night City, looked up, and forgot I was wearing a headset for about four seconds. A holographic billboard flickered, a hovercar scraped past, and then I glanced down at my own two hands — they were there, gripping the railing — and the spell broke. Those four seconds were enough. Cyberpunk 2077 wants to be inside your head, and the CyberpunkVR Port finally puts you inside the city for real.

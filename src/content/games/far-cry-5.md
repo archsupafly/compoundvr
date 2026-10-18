@@ -31,6 +31,13 @@ history:
   - date: 2026-01-01
     note: "R.E.A.L. VR framework release repaired Far Cry 5 co-op camera handling (head-locked view after level loads, fast travel, and multiplayer transitions)."
 sources: "Luke Ross R.E.A.L. VR framework (Patreon and GitHub RVR releases), PCVR Mods Installer Hub Core/LukeRossVR listing, pcvrcentral Far Cry 5 VR guide and mod page, Far Cry 5 Wikipedia for flat release facts, and YouTube VR coverage from Beardo Benjo, LunchAndVR, Obscure Nerd, TheReclusiveGamer, and Mick Manchester. Assessment built from framework documentation, setup guides, and community gameplay footage; no direct hands-on testing performed."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 ## The Ridge Line You Actually Stand On

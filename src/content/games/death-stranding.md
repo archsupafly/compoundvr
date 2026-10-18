@@ -36,6 +36,13 @@ history:
   - date: 2026-04-15
     note: "Luke Ross published the current R.E.A.L. VR entry for Death Stranding Director's Cut v1.004, tested on Epic with the same Steam game version expected to work; Game Pass compatibility was reported as inconsistent."
 sources: "Luke Ross R.E.A.L. VR framework documentation and current supported-game listing; PCVR Central R.E.A.L. VR and Death Stranding Director's Cut guides (2026); Steam store page for DEATH STRANDING DIRECTOR'S CUT; Wikipedia release data; community compatibility reports."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 # Death Stranding in VR

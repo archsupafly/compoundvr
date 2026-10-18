@@ -39,6 +39,13 @@ sources: "Assessment based on the KHARVOX: ARGENT GitHub repository and README, 
 history:
   - date: 2026-09-29
     note: "KHARVOX: ARGENT released v1.0, a native Vulkan VR conversion of Doom Eternal with full motion controls, Virtual Gunstock two-hand support, snap turning and optional bHaptics and PSVR2 haptics."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 There is a moment in Doom Eternal when a Marauder fills your entire field of view, shield glowing green, eyes locked on, and for a split second you stop thinking about controllers and start thinking about survival. That is the kind of presence ARGENT now sells for real. Not as a stereoscopic curiosity. As a shooter you can actually play in a headset.

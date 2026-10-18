@@ -31,6 +31,13 @@ sources: "Research conducted via PCVR Central mod page and install/optimization 
 history:
   - date: 2026-01-13
     note: "Luke Ross updated the R.E.A.L. VR mod for the From the Ashes expansion; community confirmed running the DLC in VR."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I strapped into Pandora expecting a tech demo with leaves. What I got instead was the closest thing I've felt to standing inside a nature documentary that hates me a little.

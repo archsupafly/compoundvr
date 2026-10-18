@@ -37,6 +37,13 @@ history:
   - date: 2024-02-23
     note: "praydog shipped the official FF7R-UEVR plugin, opening a second VR path through the UEVR framework."
 sources: "Research drawn from Eurogamer's VR Corner coverage of the Luke Ross R.E.A.L. VR mod for Final Fantasy VII Remake Intergrade, PCVR Central's FF7R R.E.A.L. VR setup guide, praydog's FF7R-UEVR plugin repository on GitHub, and Flat2VR community knowledge."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 ## The moment Midgar opened up

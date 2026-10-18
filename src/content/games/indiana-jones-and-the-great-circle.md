@@ -37,6 +37,13 @@ history:
   - date: 2026-04-15
     note: "Framework update adds a stereo-aware DLSS Ray Reconstruction fix explicitly referencing Indiana Jones, improving VR image quality on the path-traced pipeline."
 sources: "Research compiled from the Luke Ross Patreon / R.E.A.L. VR release notes, the PCVR Mods Installer Hub LukeRossVR README, the pcvrcentral Indiana Jones VR guide, and YouTube VR coverage (Beardo Benjo, Eurogamer, VoodooDE VR, ReaperzVR, TheReclusiveGamer). No direct hands-on testing performed."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 There's a moment early on where you walk into the Vatican museum wearing a stolen guard's uniform, and the hall opens up around you — marble floors, frescoes forty feet overhead, light cutting across the stone. On a monitor that's a pretty picture. In the headset, the ceiling is actually above you, and you catch yourself craning your neck the way you would in the real place. That's the whole pitch for playing Indiana Jones and the Great Circle in VR: you stop looking at one of the best-built adventure worlds of the last few years and start standing inside it.

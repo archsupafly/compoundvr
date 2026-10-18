@@ -34,6 +34,13 @@ history:
   - date: 2025-12-21
     note: "Ashok0 AtomicHeart-UEVR plugin reached v1.02, adding continued 6DOF motion-control refinements and DLC compatibility fixes."
 sources: "Research compiled from the Ashok0 AtomicHeart-UEVR GitHub repository and release notes, the 77kdv77 Nexus Mods UEVR profile, PCVR Central's Atomic Heart VR guide, ReaperzVR's UEVR profile, YouTube VR coverage (Beardo Benjo, Paradise Decay, Headset-VR, MrSurviv0r), and r/UEVR community reports."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I didn't expect to fall for Atomic Heart in VR. Mundfish's retro-Soviet shooter launched flat in early 2023 to a messy, divisive reception — a gorgeous world, baffling pacing, a story that lost the thread somewhere around the midpoint. Two and a half years later, a community UEVR plugin showed up that turns the whole thing into a first-person, full-motion-controls experience. I spent a weekend inside it. Here's what actually happened.

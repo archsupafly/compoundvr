@@ -34,6 +34,13 @@ modDownload:
   label: "Download Death Stranding 2 VR Mod"
   note: "Created by Luke Ross (R.E.A.L. VR)"
 sources: "Sources: PCVR Central Death Stranding 2 R.E.A.L. VR entry and upstream Luke Ross Patreon post; Kojima Productions PC port announcement and Steam store page for platform and release facts; community VR coverage from NotAGameAddict, Haldis VR, Paradise Decay, and YouGotColdYogurt for reception signals; predecessor Luke Ross Death Stranding Director's Cut R.E.A.L. mod coverage for pattern continuity. Assessment based on documented mod status, source-page tags, and community reception signals rather than direct hands-on testing."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I've lost count of how many sunburned afternoons I've spent hauling cargo across Death Stranding 2's version of Australia on a flat screen. The second I got the PC port and the Luke Ross VR mod running, the first thing I did wasn't a delivery — it was stand still on a cliff edge and just turn my head. The tar coastline drops away under you. The wind moves the grass. A mouth-shaped hole in the sky puckers in the distance. None of that is new information, but your body reacts like it is, because for the first time you're standing in it instead of watching it.

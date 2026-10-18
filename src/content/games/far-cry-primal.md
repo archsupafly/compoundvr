@@ -32,6 +32,13 @@ tier: B
 verdict: "Far Cry Primal's R.E.A.L. VR conversion puts you inside the Stone Age with real stereoscopic presence and head-tracked aiming — a genuinely fun world to hunt and tame, even with a gamepad in your hands and injection-mod edges around the UI. Open-world VR fans who don't mind rough edges will get real mileage here."
 heroImage: /images/games/far-cry-primal-vr-hero.jpg
 sources: "YouTube VR coverage from Paradise Decay, YouGotColdYogurt, ReaperzVR, TheReclusiveGamer, Hoopermation VR, and Oculus Gamer documenting Far Cry Primal R.E.A.L. VR and injector play; GitHub PCVR-Mods-Installer-Hub and VRMods-List cross-checks (the Far Cry 1 VR mod was excluded); Pullpush Reddit API (no Primal threads surfaced); realvr.net fetched and confirmed unrelated to Luke Ross. Assessment built from community VR-mod coverage and engine/class knowledge of the Dunia Engine 2 title and the R.E.A.L. injector framework."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a weekend in Oros with a spear, a bow, and a headset clamped to my face. Far Cry Primal was never built for VR — Ubisoft shipped it flat in 2016 and never looked back — but the R.E.A.L. framework doesn't ask a publisher for permission. It takes the game you already own and rebuilds it as a stereoscopic, head-tracked world you stand inside.

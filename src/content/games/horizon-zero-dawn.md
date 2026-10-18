@@ -42,6 +42,13 @@ history:
     note: "Luke Ross RealVR mod updated to full-framerate AER with adjusted FoV and depth/convergence."
   - date: 2025-07-01
     note: "Luke Ross RealVR mod updated with VRto3D and WibbleWobbleVR 3D-display support."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I put the headset on expecting to finally be Aloy. I wasn't. I was a very expensive, very stable camera floating about six feet behind her, watching her scramble up a rockslide while a Sawtooth circled below. And here's the weird part: even as a spectator, the frozen valleys of Horizon Zero Dawn in stereoscopic 3D nearly stopped me mid-climb. The world is that good. The VR, though? That's the catch.

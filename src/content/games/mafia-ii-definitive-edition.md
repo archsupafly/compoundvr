@@ -39,6 +39,13 @@ sources: "Research conducted via UploadVR launch coverage, arvrtips Mafia trilog
 history:
   - date: 2026-03-15
     note: "R.E.A.L. VR mod suite relaunched as an authorized free public release after the 2022 Take-Two DMCA takedown; Mafia II support carried in the relaunched catalog."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 ## Empire Bay hits different in stereoscopic 3D

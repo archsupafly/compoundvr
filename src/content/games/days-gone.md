@@ -33,6 +33,13 @@ tier: C
 verdict: "A competent VorpX injection for a third-person open world — big, readable, and smooth to ride, but you're watching Deacon through a 3D window rather than living the apocalypse. For fans of the game who already own VorpX, it's an easy yes; for everyone else, the flat version is the better call."
 heroImage: /images/games/days-gone-vr-hero.jpg
 sources: "VorpX community forums (Days Gone thread, May–October 2021) and VorpX supported-games documentation. Assessment based on reported VorpX injection-driver behavior for Unreal Engine 4 third-person titles."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I booted Days Gone on PC the day it landed, pointed VorpX at it, and spent my first hour in the headset watching Deacon St. John carve through post-apocalyptic Oregon like he was a detailed action figure someone had parked on my coffee table. That's the whole deal with this one: you're not Deacon. You're the guy holding the camera that follows him around.

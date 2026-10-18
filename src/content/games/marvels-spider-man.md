@@ -30,6 +30,13 @@ experienceTags:
 tier: B
 verdict: "An exceptional game running through an abandoned injection driver. The swinging alone makes this worth experiencing for VR enthusiasts, but instability and comfort issues keep it from broader recommendation."
 heroImage: /images/games/marvels-spider-man-vr-hero.jpg
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 # Marvel's Spider-Man in VR: The City That Never Sleeps—Now All Around You

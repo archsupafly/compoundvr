@@ -30,6 +30,13 @@ tier: C
 verdict: "The Last of Us Part I is a modern classic, and the R.E.A.L. mod lets you stand inside its ruined world with real depth — but as a third-person, gamepad injection conversion it's a way to watch a great game in a headset, not live it. Get it if you're already a fan who wants to walk that road in stereoscopic 3D; skip it if you're hoping VR changes how it plays."
 heroImage: /images/games/the-last-of-us-part-i-vr-hero.jpg
 sources: "Research drawn from the Steam community thread on the R.E.A.L. VR mod, the PCVR Central mod listing for The Last of Us Part I (Luke Ross R.E.A.L. VR), the Helix Mod setup notes (August 2025), and Luke Ross's Patreon (TLOU1 post). Assessment reflects the structured mod findings and CompoundVR's tier rubric."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I slipped the headset on for the prologue and the first thing that landed wasn't the clicker in the dark — it was the moss. The way morning light cuts through the collapsed overpass in Boston, now with genuine depth between the rust and the weeds, turns a game I'd already finished twice into a place I'm standing inside rather than a rectangle I'm watching. The Last of Us Part I was always going to be a tough one to bring to VR. Naughty Dog's remake is a tightly directed, third-person, over-the-shoulder story about two people crossing a dead America. It is not a game built to be lived in first person. So when the headset version showed up, it arrived the only way a game like this can: through Luke Ross's R.E.A.L. framework, a hand-built conversion that bolts stereoscopic rendering and head tracking onto the flat PC release.

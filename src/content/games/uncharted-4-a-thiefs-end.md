@@ -27,6 +27,13 @@ tier: B
 verdict: "A strong cinematic way to revisit Uncharted 4's world in VR if you already own a VR-ready PC — stable and full-scale, but still gamepad-only and without a dedicated motion-control mod. Skip it if you need to be the one holding the gun."
 heroImage: /images/games/uncharted-4-a-thiefs-end-vr-hero.jpg
 sources: "Research compiled from PCVR Central's Uncharted Legacy of Thieves R.E.A.L. VR mod page and setup guide, the Luke Ross RVR GitHub releases (framework repository), Helix Mod's REAL VR entry, and independent gameplay coverage across Gamertag VR, Ian's VR Corner (Eurogamer), Mox VR, Stereoscopic Gameplay, and VIRTUAL BRO. Assessment reflects the conversion's documented behavior and coverage standing; no direct hands-on testing performed."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a weekend climbing Madagascar cliffs behind Nathan Drake's back, and the first thing that hit me wasn't the gunplay or the puzzle — it was the drop. You're standing at the edge of a ruined clock tower, Drake's boots scuffing loose rock, and the coastline below opens up in a way the flat screen never gave me. The game is seven years old on console, but in VR it reads as a place.

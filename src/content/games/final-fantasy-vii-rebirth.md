@@ -32,6 +32,13 @@ history:
   - date: 2025-02-18
     note: "praydog shipped the FF7RB-UEVR plugin, fixing the broken flat UI so menus and HUD render correctly in stereoscopic VR"
 sources: "Research compiled from praydog/FF7RB-UEVR GitHub repo and releases, pcvrcentral mod listings for the FF7RB-UEVR plugin and markmon community profile, Paradise Decay and LunchAndVR UEVR gameplay guides on YouTube, Square Enix PC launch press, and Flat2VR/UEVR community coverage. No direct hands-on testing performed; assessment is based on the documented UEVR implementation and community reception."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I stood on the salt flats outside Junon and watched the sun climb over a coastline that actually had depth to it, and realized I was finally inside the Rebirth overworld instead of squinting at it through a monitor. That feeling — the moment a world you already loved suddenly has volume — is the entire argument for putting this game on in VR.

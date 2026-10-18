@@ -31,6 +31,13 @@ tier: "B"
 verdict: "Luke Ross's free mod puts Cate Archer's full campaign inside the headset with real depth and head tracking, and the spy world carries it — but gamepad-only aiming in a first-person shooter keeps this good rather than great. Worth it if you already love NOLF2 and can tolerate sticks in VR."
 heroImage: /images/games/no-one-lives-forever-2-vr-hero.jpg
 sources: "LukeRoss R.E.A.L. mod GitHub repository and README (github.com/LukeRoss00/nolf2-real-mod), UploadVR launch coverage (January 2018), Steam Community VR setup guide, and the Oculus/Meta community discussion thread."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a weekend as Cate Archer, and the moment I leaned around a crate to line up a silenced pistol shot on a H.A.R.M. goon, the game stopped feeling like a 2002 relic. The office around me had real depth. The goon was occupying actual space. I was standing inside a spy movie, and the smug little thrill of being a fashionable secret agent with a hairspray flamethrower finally landed the way it always should have.

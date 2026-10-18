@@ -34,6 +34,13 @@ modDownload:
   label: "Download High On Life VR Mod"
   note: "Created by CYB3R-JUNKI3 (UEVR profile + VR fix mod)"
 sources: "Research conducted via the CYB3R-JUNKI3/High-on-Life-VR GitHub profile (README and releases), praydog's UEVR framework documentation, VR-mod YouTube coverage (LunchAndVR, ReaperzVR, VR DaD, GingasVR, STEVIEtheSAVAGE), and the r/virtualreality UEVR thread from January 2024. No direct testing performed."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a weekend with High On Life strapped to my face, and here's the thing: the game was always about the guns. Not the shooting — the guns. Kenny screams at you, Gatling Jr. mocks your aim, the knife has abandonment issues. On a flat screen that's a great comedy bit. In VR, with Kenny literally in your right hand and the knife strapped to your left, it stops being a bit and becomes a weird little world you're standing inside of.

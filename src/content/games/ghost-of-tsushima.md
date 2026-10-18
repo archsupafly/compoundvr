@@ -30,6 +30,13 @@ tier: C
 verdict: "A gorgeous way to revisit Tsushima in 3D if you already love the game and own a strong PCVR rig — but it's a watch-don't-wield experience. No motion-controlled katana, just you, a gamepad, and one of the best-looking worlds in gaming rendered in depth."
 heroImage: /images/games/ghost-of-tsushima-vr-hero.jpg
 sources: "Compiled from the PCVR Central mod listing and setup guide for the Luke Ross R.E.A.L. VR conversion, the creator's Patreon (realvr), ReaperzVR's free-announcement and settings guides, the PlayStation Blog PC announcement confirming the Sucker Punch in-house engine and PC date, Wikipedia for game background, and YouTube VR coverage across Ian's VR Corner, MRTV, ReaperzVR, YouGotColdYogurt, TheVRSector, Rames VR, and VrMANIA Brasil."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 The first time I stood behind Jin Sakai on a windswept cliff and watched the grass bend in stereoscopic 3D, I got it. This is what Luke Ross's R.E.A.L. VR conversion of Ghost of Tsushima is for — not to reinvent the samurai power fantasy, but to put you inside the frame of one of the most photogenic open worlds ever shipped and let you look around it with your own head.

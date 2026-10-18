@@ -34,6 +34,13 @@ history:
   - date: 2026-04-15
     note: "R.E.A.L. VR profile updated and re-verified for current Watch Dogs: Legion builds."
 sources: "Research conducted via pcvrcentral R.E.A.L. VR mod page and setup guide, Luke Ross Patreon posts, VorpX forum threads, and Nexus Mods vehicle first-person camera page. Assessment based on documented community experience and the framework's class behavior for proprietary-engine open-world titles."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 ## London Looks Huge When It Wraps Around You

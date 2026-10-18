@@ -30,6 +30,13 @@ tier: B
 verdict: "An exceptional Manhattan to swing through in head-tracked 3D, delivered through an injection driver that keeps your hands on a gamepad. If you're a Spider-Man fan with a strong PC and the R.E.A.L. framework, it's a genuine thrill; if you need motion controls or a clean VR UI, this isn't your wall-crawl."
 heroImage: /images/games/marvels-spider-man-miles-morales-vr-hero.jpg
 sources: "Research compiled from PCVR Central mod and setup-guide pages, the norfmare first-person camera GitHub repository, Wccftech's Luke Ross R.E.A.L. VR release coverage, LunchAndVR and Nathie gameplay footage, and Luke Ross's Patreon distribution page. Assessment reflects documented community experience of the injection-driver route alongside the base game's known strengths."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 There's a specific moment in Miles Morales that the flat screen never quite sells: you launch off the top of the Avengers Tower, the camera kicks into that slow arc, and the whole of Manhattan unspools beneath you in toy-block detail. I've played this game on a monitor. It's pretty. In the headset, with Luke Ross's R.E.A.L. VR injector running, that same launch hits different — your neck actually tilts back to take in the fall, and the city reads as a place you're above rather than a picture you're watching.

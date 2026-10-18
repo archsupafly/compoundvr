@@ -34,6 +34,13 @@ tier: C
 verdict: "Baldur's Gate 3 in VR is a costly curiosity. R.E.A.L. VR gets the world into your headset, but the isometric camera, gamepad controls, and performance tax make it a worse way to experience one of the best CRPGs of the decade. Only worth the trouble if you are already obsessed with both BG3 and headset experiments."
 heroImage: /images/games/baldurs-gate-3-vr-hero.jpg
 sources: "Luke Ross R.E.A.L. VR documentation and community reports; FRVR coverage of R.E.A.L. VR for Baldur's Gate 3; Vortex Gaming setup and gameplay summary for the R.E.A.L. VR mod; Reddit community reports on R.E.A.L. VR and vorpX profiles for Baldur's Gate 3; Larian Studios documentation confirming Divinity Engine 4.0 and DirectX 11 support."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 The first time I leaned into Gale's face in Baldur's Gate 3 VR, I genuinely laughed. Not because he said anything funny — he was mid-lecture, because of course he was — but because there I was, inches from a Tiefling wizard's eyebrows, inside one of the best RPGs of the last decade. For about ten seconds it felt like magic. Then the camera whipped across the map for the next combat turn and my stomach reminded me that this game was never designed for a headset.

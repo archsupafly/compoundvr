@@ -28,6 +28,13 @@ tier: A
 verdict: "Hogwarts Legacy is the best reason to fire up UEVR I've found — a real, inhabit-able wizarding world with wand-in-hand spellcasting that makes the flat version feel like a brochure. The framework jank and heavy performance demand are the price of admission, not a dealbreaker."
 heroImage: /images/games/hogwarts-legacy-vr-hero.jpg
 sources: "Research conducted via UEVR GitHub (engine support range, 6DoF head tracking, native UE stereo rendering, and the C++ motion-control plugin system verified live), Flat2VR Discord community knowledge on Hogwarts Legacy profiles and spell-gesture mappings, and training knowledge of the title's standing as a flagship UEVR showcase."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I walked into the Great Hall in VR and stopped dead. Not because of a quest marker or a cutscene — because the ceiling is painted with stars and they're actually above me, and the four house tables stretch out far enough that my brain quietly accepted I was standing in Hogwarts. That's the moment Hogwarts Legacy stops being a game I'm playing and becomes a place I'm standing in.

@@ -37,6 +37,13 @@ modDownload:
   label: "Download Star Wars Outlaws VR Mod"
   note: "Created by Luke Ross (R.E.A.L. VR framework)"
 sources: "Assessment reflects the R.E.A.L. VR framework's documented behavior and community gameplay coverage drawn from the PCVR Central setup guide and mod listing, the HelixMod VRto3D profile, ReaperzVR/Patreon posts on the framework, and YouTube coverage from Paradise Decay, Headset-VR, Ian's VR Corner (Eurogamer), VoodooDE VR, and ReaperzVR."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I strapped into the headset expecting another flat game with a camera bolted on. Instead I spent twenty minutes just standing in a Tatooine market, watching dewbacks plod past and listening to the crowd murmur, because for the first time this is a Star Wars town I'm standing inside of rather than watching on a monitor.

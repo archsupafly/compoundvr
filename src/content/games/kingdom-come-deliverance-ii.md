@@ -40,6 +40,13 @@ sources: "VR coverage verified via pcvrcentral KCD2 VR mod guide and mod page, M
 history:
   - date: 2026-09-09
     note: "Free KCD2VR OpenXR mod (full motion controls) released as a second VR path alongside the mature R.E.A.L. conversion."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent the first hour of Kingdom Come Deliverance II flat on my back in the dirt of 1403 Bohemia, getting beaten for stealing a horse. In VR, that same humiliation lands differently — you're not watching Henry get tossed; you're standing in the mud watching it happen around you, the village smoke drifting past your peripheral vision. That's the hook Warhorse's medieval RPG has been missing on a monitor, and PCVR finally delivers it.

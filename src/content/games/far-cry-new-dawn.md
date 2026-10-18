@@ -32,6 +32,13 @@ modDownload:
   label: "Download Far Cry New Dawn VR Mod"
   note: "Created by Luke Ross"
 sources: "Research compiled from the Luke Ross R.E.A.L. VR README and supported-games list (github.com/LukeRoss00/RVR), the PCVR Mods Installer Hub LukeRossVR entry, pcvrcentral's Far Cry New Dawn R.E.A.L. VR guide, the vorpX forums' Far Cry New Dawn G3D profile thread, and YouTube VR coverage from Ian's VR Corner (Eurogamer), Beardo Benjo, and TheReclusiveGamer. No direct hands-on testing performed; assessment based on documented mod behavior and community coverage."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a stupid amount of 2019 in Hope County on a monitor, and I'll be honest: Far Cry New Dawn never quite earned the obsession its older siblings did. It's the shorter, brighter, more cartoonish sequel to Far Cry 5 — twin fanatics named Mickey and Lou, a Highwaymen faction, and a map you've basically already driven. But the moment I dropped into it through a VR headset, the thing I'd been missing clicked. This is an open world built to be stood inside.

@@ -34,6 +34,13 @@ modDownload:
   label: "Download Dark Souls II: Scholar of the First Sin VR Mod"
   note: "Created by the DS2VR project (Nexus Mods)"
 sources: "Research compiled from the DS2VR Nexus Mods listing (#1745), PCVR Central listings for the Luke Ross R.E.A.L. and VorpX paths, the Luke Ross R.E.A.L. Patreon and RVR GitHub, VorpX forum threads, Steam Community VR-mod discussions, Wikipedia (release dates), and YouTube VR coverage (Beardo Benjo, Ian's VR Corner, TheReclusiveGamer). Assessment based on documented mod capabilities and community reception; no direct hands-on testing. The Nexus mod page was Cloudflare-blocked at draft time, so vrReleaseDate reflects the earliest verifiable public motion-control coverage (Beardo Benjo video published 2025-02-18) rather than the exact Nexus upload date."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 Dark Souls II has always been the black sheep of the trilogy. I get it — the level design is looser than the other two, the adaptability stat was a genuine mistake, and the enemy placement in places feels like a personal dare. But there's a version of this game I did not expect to actually play: one where I'm standing in the Things Betwixt fog with a greatsword in my actual hands, and when that dog-headed thing lunges, I'm the one swinging.

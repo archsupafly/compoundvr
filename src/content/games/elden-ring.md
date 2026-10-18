@@ -36,6 +36,13 @@ history:
   - date: "2025-04-14"
     note: "R.E.A.L. VR framework v19.2.0; maintained into 2025, paywall removed (free/donation), Erdtree-compatible."
 sources: "Elden Ring VR research drawn from Nexus Mods listings for Ilya's Elden Ring VR (mods/10711 and alpha 10659), the Luke Ross R.E.A.L. VR framework GitHub releases (LukeRoss00/RVR), PCVR Central's Elden Ring VR mod guide and listing, and YouTube VR coverage including Beardo Benjo, Hotbite, Headset-VR, LunchAndVR, ReaperzVR, and Ilya Mezerov. Assessment reflects the documented community experience and the reception record."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I stepped out of the Stranded Graveyard and into Limgrave, and for the first time in a hundred hours with this game, I was standing in it instead of watching a puppet from behind.

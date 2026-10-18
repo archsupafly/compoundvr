@@ -28,6 +28,13 @@ verdict: "The game itself is an A-tier survival horror classic with brilliant AI
 heroImage: /images/games/dead-space-vr-hero.jpg
 flatReleaseDate: 2008-10-14
 vrReleaseDate: 2008-10-14
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 # Dead Space in VR: The Ishimura at Arm's Length

@@ -29,6 +29,13 @@ tier: B
 verdict: "The Luke Ross mod turns Dark Souls Remastered into a breathtaking sightseeing tour of Lordran, but first-person combat is punishing in ways the developers never intended. Play it in third-person for the best balance of immersion and playability."
 heroImage: /images/games/dark-souls-vr-hero.jpg
 sources: "Research conducted via Eurogamer VR Corner coverage (Ian Higton), Mixed News, Reddit community reports (r/virtualreality, r/darksouls, r/Vive), Luke Ross Patreon and free release announcements, Flat2VR Discord community knowledge, and YouTube VR gameplay footage. Assessment based on community experience and media coverage;"
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 Standing on the ramparts of Undead Burg and looking down at the Kiln for the first time, I finally understood why people bother with VR mods for games this old. The architecture of Lordran — those impossible spires, the cathedral-sized hollows, the sheer verticality of Blighttown — was always impressive on a monitor. In a headset, at true scale, it's genuinely humbling. You don't just see the world. You feel small inside it.

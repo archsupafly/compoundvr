@@ -30,6 +30,13 @@ tier: B
 verdict: "Mafia: Definitive Edition in VR is a genuine way to inhabit one of the best-built crime worlds ever written — but it's spectator VR, third-person and gamepad-bound, so you visit Lost Heaven rather than live it. Worth it for fans of the game; skip it if you need first-person presence."
 heroImage: /images/games/mafia-vr-hero.jpg
 sources: "Research compiled from UploadVR coverage of the Luke Ross R.E.A.L. Mafia VR mod (Sept–Nov 2021), Eurogamer's hands-on impression of the Definitive Edition VR mod, and the Luke Ross Patreon (patreon.com/realvr).; assessment based on documented community experience and published reporting."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 The first time I dropped into Lost Heaven through the Luke Ross mod, I did something stupid: I stopped playing and just stood there. Not because the game froze. Because the city was *there*. The 1930s skyline, the trams, the rain on the hood of a stolen sedan — it had depth I never got from a monitor. For a few minutes I wasn't playing Mafia. I was standing in it.

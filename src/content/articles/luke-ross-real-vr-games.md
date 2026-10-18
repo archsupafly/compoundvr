@@ -100,7 +100,6 @@ Empire Bay in the 1940s and 50s, and the most film-like of the Mafia games — a
 
 [Read our full Mafia II VR review](/games/mafia-ii-definitive-edition/)
 
-[Read our full Mafia II VR review](/games/mafia-ii-definitive-edition/)
 ## #9: Mafia III: Definitive Edition
 
 ![Mafia III: Definitive Edition](/images/games/mafia-iii-definitive-edition-vr-hero.jpg)
@@ -161,7 +160,6 @@ Drangleic is the most melancholic of the Souls worlds, and a headset makes the d
 
 [Read our full Dark Souls II VR review](/games/dark-souls-ii-scholar-of-the-first-sin/)
 
-[Read our full Dark Souls II VR review](/games/dark-souls-ii-scholar-of-the-first-sin/)
 ## #15: Far Cry 6
 
 ![Far Cry 6](/images/games/far-cry-6-vr-hero.jpg)
@@ -172,7 +170,6 @@ Yara is a tropical open world with a first-person framework, which is close to a
 
 [Read our full Far Cry 6 VR review](/games/far-cry-6/)
 
-[Read our full Far Cry 6 VR review](/games/far-cry-6/)
 ## #16: Far Cry Primal
 
 ![Far Cry Primal](/images/games/far-cry-primal-vr-hero.jpg)
@@ -183,7 +180,6 @@ The stone-age Far Cry is the most stripped-back game in the series, and the empt
 
 [Read our full Far Cry Primal VR review](/games/far-cry-primal/)
 
-[Read our full Far Cry Primal VR review](/games/far-cry-primal/)
 ## #17: Far Cry 4
 
 ![Far Cry 4](/images/games/far-cry-4-vr-hero.jpg)
@@ -224,7 +220,6 @@ The pink, overgrown post-apocalypse is the most colourful Far Cry, and colour re
 
 [Read our full Far Cry New Dawn VR review](/games/far-cry-new-dawn/)
 
-[Read our full Far Cry New Dawn VR review](/games/far-cry-new-dawn/)
 ## #21: Grounded
 
 ![Grounded](/images/games/grounded-vr-hero.jpg)
@@ -265,7 +260,6 @@ San Francisco is the best city in the Watch Dogs series to simply exist in, and 
 
 [Read our full Watch Dogs 2 VR review](/games/watch-dogs-2/)
 
-[Read our full Watch Dogs 2 VR review](/games/watch-dogs-2/)
 ## #25: Far Cry 5
 
 ![Far Cry 5](/images/games/far-cry-5-vr-hero.jpg)
@@ -276,7 +270,6 @@ Montana at scale — wide sky, long sightlines, and a first-person shooter frame
 
 [Read our full Far Cry 5 VR review](/games/far-cry-5/)
 
-[Read our full Far Cry 5 VR review](/games/far-cry-5/)
 ## #26: High on Life
 
 ![High on Life](/images/games/high-on-life-vr-hero.jpg)
@@ -287,7 +280,6 @@ The talking-gun comedy shooter, which sounds like an odd candidate until you rem
 
 [Read our full High on Life VR review](/games/high-on-life/)
 
-[Read our full High on Life VR review](/games/high-on-life/)
 ## #27: Marvel's Spider-Man: Miles Morales
 
 ![Marvel's Spider-Man: Miles Morales](/images/games/marvels-spider-man-miles-morales-vr-hero.jpg)
@@ -326,7 +318,6 @@ The most visually distinctive game on this list — a Soviet-utopia art directio
 
 [Read our full Atomic Heart VR review](/games/atomic-heart/)
 
-[Read our full Atomic Heart VR review](/games/atomic-heart/)
 ## #31: Watch Dogs: Legion
 
 ![Watch Dogs: Legion](/images/games/watch-dogs-legion-vr-hero.jpg)
@@ -449,7 +440,6 @@ An empty, supernatural Tokyo is a good place to stand, and this is the route tha
 
 The same machines and the same tall grass, with the remaster's cleaner lighting feeding the stereo image. If you are choosing between the two Horizon Zero Dawn entries, this is the one the framework renders best.
 
-[Read our full Horizon Zero Dawn VR review](/games/horizon-zero-dawn/)
 
 ## #44: Avatar: Frontiers of Pandora
 
@@ -521,7 +511,6 @@ The newest game in the catalogue and the least proven. A first-person Bond origi
 
 [Read our full 007 First Light VR review](/games/007-first-light/)
 
-[Read our full 007 First Light VR review](/games/007-first-light/)
 ## #51: Marvel's Spider-Man 2
 
 ![Marvel's Spider-Man 2](/images/games/spider-man-2-vr-hero.jpg)

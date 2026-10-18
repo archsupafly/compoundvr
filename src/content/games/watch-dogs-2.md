@@ -30,6 +30,13 @@ tier: B
 verdict: "Watch Dogs 2 in VR is a B-tier joyride: Luke Ross's R.E.A.L. framework puts you inside a genuinely great open world with real depth and head tracking, even though you're still holding a gamepad and watching Marcus instead of being him."
 heroImage: /images/games/watch-dogs-2-vr-hero.jpg
 sources: "pcvrcentral mod page for Watch Dogs 2 (Luke Ross R.E.A.L. VR), YouTube coverage from Ian's VR Corner and Beardo Benjo, Luke Ross R.E.A.L. framework GitHub releases and setup guide, and Flat2VR Discord community knowledge."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I booted Watch Dogs 2 through Luke Ross's R.E.A.L. framework on a Tuesday night expecting a clever novelty. Forty minutes later I was leaning out of a stolen car over the Bay Bridge with the whole San Francisco skyline sitting in front of me in proper stereo depth, and I stopped caring that I was technically still holding a gamepad.

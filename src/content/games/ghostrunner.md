@@ -32,6 +32,13 @@ tier: C
 verdict: "Ghostrunner's parkour flow state is electrifying in VR, but the speed that makes it great in flat makes it punishing in a headset. Only for Ghostrunner fans with iron stomachs — everyone else should play the flat version."
 heroImage: /images/games/ghostrunner-vr-hero.jpg
 sources: "Research conducted via Steam store page (https://store.steampowered.com/app/1139900/Ghostrunner/), Wikipedia (https://en.wikipedia.org/wiki/Ghostrunner), UEVR GitHub repository (https://github.com/praydog/UEVR), CYB3R-JUNKI3 Ghostrunner-VR GitHub profile (https://github.com/CYB3R-JUNKI3/Ghostrunner-VR), PCVR Central CJ117 profile page (https://pcvrcentral.com/mods/ghostrunner-uevr-cj117), VorpX forum threads, Flat2VR YouTube channel (https://www.youtube.com/watch?v=TN3ngZmlNSw), Luke Ross Patreon and press coverage (Road to VR, PC Gamer, FRVR), and BlueSkyDefender Depth3D GitHub (https://github.com/BlueSkyDefender/Depth3D)."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 Here's the thing about Ghostrunner in VR: the first time you wall-run across a chasm, kill a guy mid-air, land on a narrow beam, and slow time to deflect a bullet back at someone — all in about three seconds — you'll understand why anyone bothered with this mod. The second time you do it, you'll understand why most people don't.

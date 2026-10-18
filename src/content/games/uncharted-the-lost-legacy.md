@@ -34,6 +34,13 @@ modDownload:
   label: "Download Uncharted: The Lost Legacy VR Mod"
   note: "Created by Luke Ross"
 sources: "Research drawn from YouTube VR coverage (Ian's VR Corner / Eurogamer, Paradise Decay, Gamertag VR, Headset-VR, Polish Paul VR, YouGotColdYogurt, EEEEYUKE, Mox VR), the Flat2VR Discord community, and Luke Ross's Patreon distribution. Assessment reflects community gameplay footage and the established behavior of the R.E.A.L. VR mod series."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 ## The ridge at golden hour

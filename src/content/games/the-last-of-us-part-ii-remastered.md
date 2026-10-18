@@ -31,6 +31,13 @@ tier: B
 verdict: "An exceptional story worth standing inside, delivered through a framework that gives you stereoscopic depth and head-tracked third-person presence but no motion controls. Put the headset on if you're a fan and you own a strong PC — just know you're watching, not wielding."
 heroImage: /images/games/the-last-of-us-part-ii-remastered-vr-hero.jpg
 sources: "Research compiled from the pcvrcentral mod page and setup guide for the Luke Ross R.E.A.L. VR TLOU2 entry, the R.E.A.L. framework overview, VoodooDE VR and Headset-VR YouTube coverage, the vrforum.de community thread, and the creator's Patreon entry. Engine class confirmed as proprietary Naughty Dog engine (UEVR/REFramework structurally inapplicable). Assessment based on documented framework capabilities and documented reception, not direct hands-on testing."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I've finished The Last of Us Part II twice on a monitor and called it done both times. The thing nobody warns you about with this game in a headset is that Naughty Dog already built it as a chain of tight, hand-authored rooms — Seattle apartments, overgrown theaters, flooded hospitals — and the moment the stereo image kicks in, you're standing inside one. Not watching a cutscene pan across it. Standing in it.

@@ -29,6 +29,13 @@ tier: B
 verdict: "Crimson Desert in VR is a visual showcase that puts you inside one of 2026's most ambition-driven open worlds, held back only by its gamepad-and-camera implementation. If you already own the game and a VR-ready PC, this is one of the most beautiful places you can stand inside right now."
 heroImage: /images/games/crimson-desert-enhanced-vr-hero.jpg
 sources: "Research compiled from the Luke Ross Patreon R.E.A.L. VR post for Crimson Desert, the PCVR Central mod listing, YouTube VR coverage (GingasVR, Nerd Corner, MikeGyVR, PTF, MrTechcat and others), and Pearl Abyss / Fextralife / The Gamer editorial sources on the game's launch. Assessment based on documented mod behavior and community showcase footage."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I have a confession: I loaded Crimson Desert into VR expecting to poke at a tech demo for ten minutes and move on. The game had only been out a couple of months, the flat launch had been a whole event, and I figured a third-person action game running through an injection framework would be a novelty at best. Then I spent an hour wandering a cliffside town at golden hour, watching gulls wheel over the harbor, and forgot I was looking at a modded flat game at all.

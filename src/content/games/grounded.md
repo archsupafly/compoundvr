@@ -40,6 +40,13 @@ sources: "PCVR Central mod listings (R.E.A.L. VR, UEVR/BROHONKY profile, Grounde
 history:
   - date: 2024-01-14
     note: "BROHONKY released the free UEVR profile for Grounded, adding a 6DOF motion-control path alongside the R.E.A.L. VR conversion."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 I spent a weekend crouched in a backyard that wanted me dead, and the thing that almost got me first wasn't a spider. It was a water droplet. I'd ducked under a blade of grass the size of a flagpole and there it was, hanging off a leaf, refracting the sun into a lens the width of my chest. In flat Grounded that's a pretty detail. In the headset it's a boulder with light bleeding through it, and my brain did not care that the game is stylized.

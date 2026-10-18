@@ -28,6 +28,13 @@ tier: C
 verdict: "A stunning stereoscopic 3D window into one of the best-looking open worlds ever made — but it's a window. Play it in VR only if you're already a Horizon fan who wants to stare at the Forbidden West in depth, not if you're chasing presence."
 heroImage: /images/games/horizon-forbidden-west-vr-hero.jpg
 sources: "Research compiled from YouTube VR coverage (LunchAndVR, Eurogamer's Ian's VR Corner, Mox VR, Billy's First Time Playing series, JayWay82), Luke Ross R.E.A.L. VR mod documentation and Patreon distribution, Flat2VR Discord community knowledge, and training data on Decima-engine flat-to-VR injection patterns."
+relatedPages:
+  - id: luke-ross-real-vr-guide
+    kind: article
+    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "All 53 R.E.A.L. VR games ranked by release date"
 ---
 
 ## I booted the PC port expecting a gimmick. It wasn't.
