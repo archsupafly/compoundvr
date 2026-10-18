@@ -54,6 +54,22 @@ const jsonLd = JSON.stringify({
       <Content />
     </article>
 
+    {article.data.modDownload && (
+      <div class="card mod-download-card" style="margin-top:2rem;">
+        <div class="mod-download-header">
+          <h3>🎮 Get the Mod</h3>
+        </div>
+        <p class="mod-download-body">
+          <a href={article.data.modDownload.url} class="mod-download-link" target={article.data.modDownload.url.startsWith('http') ? '_blank' : undefined} rel={article.data.modDownload.url.startsWith('http') ? 'noopener noreferrer' : undefined}>
+            {article.data.modDownload.label || 'Download the Mod'}
+          </a>
+          {article.data.modDownload.note && (
+            <span class="mod-download-note"> — {article.data.modDownload.note}</span>
+          )}
+        </p>
+      </div>
+    )}
+
     <RelatedPages items={article.data.relatedPages} heading="Related articles" />
 
     {article.data.history && article.data.history.length > 0 && (
