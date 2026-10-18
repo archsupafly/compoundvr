@@ -27,7 +27,7 @@ experienceTags:
   - Loot Grind
   - Sanctuary
   - Action RPG
-tier: B
+tier: A
 verdict: "An exceptional ARPG reborn as a first-person VR loot hunt with real motion controls — but the headline first-person mode is still experimental and the mod is offline-only. Put the headset on if you love Diablo and don't mind living on the bleeding edge."
 heroImage: /images/games/diablo-ii-resurrected-vr-hero.jpg
 modDownload:
