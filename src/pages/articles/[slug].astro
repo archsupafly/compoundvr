@@ -70,6 +70,18 @@ const jsonLd = JSON.stringify({
       </div>
     )}
 
+    {article.data.faq && article.data.faq.length > 0 && (
+      <div class="article-faq" style="margin-top:2rem;">
+        <h2>Frequently Asked Questions</h2>
+        {article.data.faq.map((item) => (
+          <details class="faq-item" style="margin-bottom:1rem;">
+            <summary class="faq-question" style="cursor:pointer;font-weight:600;">{item.q}</summary>
+            <div class="faq-answer" style="margin-top:0.5rem;padding-left:1rem;">{item.a}</div>
+          </details>
+        ))}
+      </div>
+    )}
+
     <RelatedPages items={article.data.relatedPages} heading="Related articles" />
 
     {article.data.history && article.data.history.length > 0 && (
