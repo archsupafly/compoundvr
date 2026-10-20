@@ -19,6 +19,25 @@ tags:
   - flat-to-vr
   - re-engine
   - capcom
+relatedPages:
+  - id: resident-evil-2-2019
+    kind: game
+    note: "The flagship REFramework VR experience — first-person mode, motion controls, IK body"
+  - id: resident-evil-3
+    kind: game
+    note: "Same excellent motion control implementation as RE2, tighter action-focused campaign"
+  - id: resident-evil-4
+    kind: game
+    note: "Most complex REFramework case — needs RE4VR addon for motion controls"
+  - id: resident-evil-7
+    kind: game
+    note: "The most natural VR conversion — already first-person by design"
+  - id: resident-evil-village
+    kind: game
+    note: "First-person with IK body, Castle Dimitrescu in VR is spectacular"
+  - id: devil-may-cry-5
+    kind: game
+    note: "Generic 6DOF VR — no motion controls, but playable in stereo 3D"
 ---
 
 # REFramework VR: Resident Evil and Beyond in VR
@@ -59,18 +78,18 @@ REFramework's monolithic DLL works across every supported RE Engine game. The sa
 
 | Game | VR Support | Motion Controls | Notes |
 |------|-----------|----------------|-------|
-| **Resident Evil 2 (2019)** | Full 6DOF | Yes | First-person mode, manual flashlight, IK body |
-| **Resident Evil 3 (2020)** | Full 6DOF | Yes | First-person mode, manual flashlight, IK body |
-| **Resident Evil 4 (2023)** | Full 6DOF | Via RE4VR addon (Talemann) | First-person via mod, no native IK |
-| **Resident Evil 7: Biohazard** | Full 6DOF | Yes | Already first-person — most natural VR conversion |
-| **Resident Evil Village (2021)** | Full 6DOF | Yes | IK body, body part toggles |
+| [**Resident Evil 2 (2019)**](/games/resident-evil-2-2019) | Full 6DOF | Yes | First-person mode, manual flashlight, IK body |
+| [**Resident Evil 3 (2020)**](/games/resident-evil-3) | Full 6DOF | Yes | First-person mode, manual flashlight, IK body |
+| [**Resident Evil 4 (2023)**](/games/resident-evil-4) | Full 6DOF | Via RE4VR addon (Talemann) | First-person via mod, no native IK |
+| [**Resident Evil 7: Biohazard**](/games/resident-evil-7) | Full 6DOF | Yes | Already first-person — most natural VR conversion |
+| [**Resident Evil Village (2021)**](/games/resident-evil-village) | Full 6DOF | Yes | IK body, body part toggles |
 | **Resident Evil Requiem (2026)** | Full 6DOF | Via RE9VR addon (Talemann) | Manual reloading, holsters with haptics, first VR mod with built-in manual reload |
 
 ### Other RE Engine Games
 
 | Game | VR Support | Motion Controls | Notes |
 |------|-----------|----------------|-------|
-| **Devil May Cry 5** | Full 6DOF | No | Generic VR, some UI issues |
+| [**Devil May Cry 5**](/games/devil-may-cry-5) | Full 6DOF | No | Generic VR, some UI issues |
 | **Monster Hunter Rise** | Full 6DOF | No | Generic VR, audio positioning issues |
 | **Monster Hunter Wilds** | Full 6DOF | No | Generic VR |
 | **Monster Hunter Stories 3** | Full 6DOF | No | Generic VR |
