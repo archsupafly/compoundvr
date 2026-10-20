@@ -31,6 +31,10 @@ tier: A
 verdict: "Call of the Mountain is the Horizon world rendered in VR the way it always should have been — a physically demanding, visually stunning climb-and-hunt showcase that's essential for PSVR2 owners despite a short, repetitive campaign."
 heroImage: /images/games/horizon-call-of-the-mountain-vr-hero.jpg
 sources: "CompoundVR research file (Wikipedia: Horizon Call of the Mountain — developer/publisher credits, Unreal Engine 4, PSVR2 eye-tracking and Sense controller input, critic reception, awards). YouTube coverage cadence: Wolvrik full-game walkthrough, indi Gameboy and God Tier VR gameplay, mstrthief00 technical analysis of reprojection and ghosting. Reception evidence weighed alongside documented playthroughs and critic consensus."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 ## The Mountain Owns You From the First Grip

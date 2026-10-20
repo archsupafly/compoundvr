@@ -30,6 +30,10 @@ tier: S
 verdict: "Capcom's free PSVR2 VR Mode is the definitive way to play Village—dual-wield aiming and real weapon handling make the horror land harder than flat ever could. PC players get a near-equal taste through praydog's REFramework mod, but the headset to own here is the PSVR2."
 heroImage: /images/games/resident-evil-village-vr-hero.jpg
 sources: "Research compiled from Capcom/PlayStation Store listing, praydog REFramework GitHub and documentation (reframework.praydog.com), PCVR Central mod listing and setup guide, Digital Foundry PSVR2 tech review, and YouTube VR coverage (Virtual Reality Oasis, jacksepticeye, wolf397). Assessment draws on first-party documentation, developer notes, and community reception."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 The first time Lady Dimitrescu leans down to peer through that wine-cellar door, I physically leaned back before my brain caught up. That's the moment Village stops being a game you're watching and becomes a place you're stuck in.

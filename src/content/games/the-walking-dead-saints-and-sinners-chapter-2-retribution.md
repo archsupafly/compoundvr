@@ -32,6 +32,10 @@ tier: A
 verdict: "Retribution is more of the best survival-horror VR we already had — same physics melee, same drowned New Orleans, now scaled up — and on PCVR and PSVR2 it's an easy recommend for anyone who finished Chapter 1. The catch is the Quest 2 launch build: heavier, rougher, and a step forward in size more than in invention."
 heroImage: /images/games/the-walking-dead-saints-and-sinners-chapter-2-retribution-vr-hero.jpg
 sources: "Platform and release data via Wikipedia. Gameplay and review coverage via YouTube VR channels (IGN, Without Parole, habie147, nuttyak2taps, The VR GRID, Matteo311, A_Random_N3rd VR)."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 The first walker I killed in Retribution went down to a rusted screwdriver, and I felt the tip catch on bone before it slid through. That half-second of resistance is the whole reason this series matters in VR. Skydance didn't bolt a headset onto a flat game — they built a melee system where stabbing, choking, and cracking skulls is the verb, and your arm is the weapon. Chapter 1 earned its spot on every best-of-VR list because of that feel. Chapter 2 hands you the same toolset, turns the city up, and introduces a man with an axe who wants you dead.

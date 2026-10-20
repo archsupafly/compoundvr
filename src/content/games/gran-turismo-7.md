@@ -31,6 +31,10 @@ tier: S
 verdict: "If you own a PS5 and a PSVR2, Gran Turismo 7 in VR is the single best reason to use them together — a complete, transformative racing experience that justifies the headset on its own."
 heroImage: /images/games/gran-turismo-7-vr-hero.jpg
 sources: "Official Polyphony Digital announcement (gran-turismo.com) and PlayStation Blog Update 1.29 notes; GTPlanet full PSVR2 review; Digital Foundry tech review; IGN VR review; PSU review; Motorsport.com hands-on; ongoing coverage from Digital Foundry and Gamertag VR on YouTube; community discussion across r/granturismo, r/PS5, and r/simracing. Assessment built from developer documentation, press reviews, and community experience."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 For thirty years, racing games have asked you to judge speed and distance on a flat rectangle. Gran Turismo 7 on PSVR2 ends that argument. I settled into the cockpit at Trial Mountain, glanced left at the driver who'd just overtaken me, and watched his rear tire flex as he powered out of the corner — a thing you simply cannot read on a television. That single glance is the whole pitch.
