@@ -29,6 +29,10 @@ tier: B
 verdict: "A physically intense boxing experience that makes most VR games feel sedentary by comparison, held back by a shallow career mode and multiplayer that never found its footing."
 heroImage: /images/games/creed-rise-to-glory-vr-hero.jpg
 sources: "Research conducted via Survios official announcements (Quest launch), PlayStation Store and Steam store pages, YouTube VR gameplay footage (Nathie, PSVR Without Parole, Beardo Benjo, UploadVR Quest/Rift comparison), and Reddit community reports (r/PSVR, r/Vive, r/oculus)."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 vrReleaseDate: 2019-05-21
 ---
 

@@ -48,6 +48,9 @@ relatedPages:
   - id: best-quest-1-games-all-time
     kind: article
     note: "The complete standalone VR library, ranked."
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 Here's the thing about Beat Saber: it's not trying to be a world. There's no open landscape to explore, no lore to uncover, no crafting system or dialogue trees or side quests. You stand in a dark void, two glowing sabers materialize in your hands, and blocks fly at your face in time with the music. You slice them. That's it. That's the whole game. And somehow, it's still the best argument for owning a VR headset.

@@ -35,6 +35,10 @@ tier: A
 verdict: "The best Batuu you can currently stand inside: polished native VR production, generous comfort options, and a genuinely memorable Jedi tale outweigh the short campaign and shallow shooting. For Star Wars fans with a Quest or PSVR2, this is an easy recommendation."
 heroImage: /images/games/star-wars-tales-from-the-galaxys-edge-vr-hero.jpg
 sources: "Meta Quest Store page, PlayStation Store page, Quest Store DB, UploadVR original review and PSVR2 hands-on preview, PlayStation.Blog PSVR2 feature, Road to VR Last Call DLC coverage, Star Wars Support movement/accessibility documentation, GameRant accessibility interview, SteamVR community discussion confirming no PC version, UEVR official site and documentation, vorpX official site, Gildor's UE Viewer asset-extraction thread, The VR Grid and GG.deals Enhanced Edition pricing context."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 # Star Wars: Tales from the Galaxy's Edge VR

@@ -44,6 +44,10 @@ tier: A
 verdict: "The rare sequel that doesn't dilute what it inherited — same diorama, same silent mouse, more room to move and one genuinely brilliant new verb. Best on PSVR2 or PCVR; original PSVR is held back by its tracking."
 heroImage: /images/games/moss-book-ii-vr-hero.jpg
 sources: "Wikipedia (Moss: Book II) for release dates, platform list, credits (Polyarc; director Argus Hulin, designer Joshua Stiksma, programmer Mike Felice, artist Mike Jensen, writer Shauna Sperry, composer Jason Graves), Unreal Engine, and mechanical additions (vine bridges, grip-destroy, Quill climbing, the hammer). Metacritic for reception (PS4 generally favorable, PS5 universal acclaim). Road to VR review for the diorama/lighting assessment. Android Central review for the PSVR tracking caveat. IGN review for combat and weapon-in-platforming. GamesIndustry.biz for the Polyarc closure (2026-09-11) and the Moss: The Forgotten Relic timeline. Quill's American Sign Language communication carries over from Moss and is established across prior coverage."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 The first time the hammer came out in Moss: Book II, I laughed out loud. Not because it was funny — because it made me throw a weapon over my own shoulder like a discus, which is not a thing I can do on a flat monitor with a sword. Quill carries the hammer. You throw it. It's a small, stupid, perfect demonstration of why Polyarc kept saying this game had to exist in a headset.
