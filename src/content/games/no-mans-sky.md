@@ -33,6 +33,9 @@ tier: S
 verdict: "No Man's Sky VR is one of the essential experiences in virtual reality: a complete universe rendered at scale, with motion controls that make piloting and exploration feel physically real. It is still demanding on PC, and the menus remain the weakest link, but the wonder outweighs the friction by a wide margin."
 heroImage: /images/games/no-mans-sky-vr-hero.jpg
 relatedPages:
+  - id: no-mans-sky-every-major-update
+    kind: article
+    note: "Every major update, and which ones matter in VR"
   - id: top-50-psvr-games-all-time
     kind: article
     note: "Where No Man's Sky VR ranks among the best PSVR games ever"
@@ -42,9 +45,6 @@ relatedPages:
   - id: top-20-psvr2-launch-titles
     kind: article
     note: "PSVR2 launch title that showcased the headset"
-  - id: psvr2-release-review
-    kind: article
-    note: "PSVR2 headset review and launch context"
   - id: top-20-vr-games-2019
     kind: article
     note: "Top VR games of 2019 — NMS VR launch year"
@@ -69,9 +69,6 @@ relatedPages:
   - id: hardspace-shipbreaker-vr
     kind: game
     note: "Space salvage sim in VR"
-  - id: no-mans-sky-every-major-update
-    kind: article
-    note: "Every major update, and which ones matter in VR"
 sources: "Research conducted via Hello Games official announcements and patch notes, Wikipedia release history, UploadVR coverage of Beyond, Fractal/PSVR2, Echoes foveated rendering, and the Cosmos update, Road to VR and PlayStation Blog VR deep dives from the 2019 Beyond launch, IGN VR preview material, YouTube VR gameplay from the PSVR2 and Cosmos eras (habie147, Jammyhero, laubox, Beardo Benjo, Gamertag VR), and community discussion on Reddit r/VirtualReality and r/PSVR. Assessment synthesises verified coverage and community experience."
 history:
   - date: 2026-09-09

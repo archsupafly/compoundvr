@@ -135,6 +135,18 @@ function formatNumericDate(date: Date): string {
         </div>
       )}
 
+      {game.data.faq && game.data.faq.length > 0 && (
+        <div class="game-faq" style="margin-top:2rem;">
+          <h2>Frequently Asked Questions</h2>
+          {game.data.faq.map((item) => (
+            <details class="faq-item" style="margin-bottom:1rem;">
+              <summary class="faq-question" style="cursor:pointer;font-weight:600;">{item.q}</summary>
+              <div class="faq-answer" style="margin-top:0.5rem;padding-left:1rem;">{item.a}</div>
+            </details>
+          ))}
+        </div>
+      )}
+
       <div class="tags-container" style="margin-top:1.5rem;">
         {[...game.data.genres, ...game.data.technicalTags, ...game.data.experienceTags].map((tag: string) => (
           <span class="pill">{tag}</span>
