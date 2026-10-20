@@ -48,6 +48,8 @@ history:
 sources: "Research conducted via projecthoneydew.com (downloads, changelog, install guide, VirusTotal link, SHA-256 checksums), the Project Honeydew YouTube channel and the 0.3.0 trailer 'Pikmin in VR, Now With Online Co-op', NotAGameAddict 'Pikmin VR Performance / Meta Quest 3 Standalone VR Mod with 6DOF Motion Controls', Topomx 'Pikmin VR! (Quest 3 Standalone)' livestream, r/ProjectHoneydew and the 0.3.0 launch cross-posts across r/Pikmin, r/OculusQuest, r/VRGaming, r/virtualreality and r/Emulationonquest, the Pikmin 4K texture pack by Henriko Magnifico, and Dolphin VR historical coverage via VR Bites, VRborg and the Dolphin VR blog."
 ---
 
+> **Related:** Looking for Pikmin 2 in VR via Dolphin emulator? Check out our [Pikmin 2 VR article](/games/pikmin-2/).
+
 The fantasy of Pikmin in VR has always been obvious. You're a tiny astronaut commanding an army of two-inch plant-creatures through a backyard that acts like a jungle. Scale is the whole point. Leaning down and seeing your swarm scurry through grass blades taller than they are is exactly the kind of thing a headset should do well.
 
 For years, the only way in was Dolphin VR, a 2016 fork of the GameCube emulator that bolted stereoscopic 3D and head tracking onto the original game. It turned Pikmin into a pretty overhead diorama, then stopped updating. That path is still technically around, but it is frozen in time and not the story anymore.
