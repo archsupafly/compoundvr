@@ -240,7 +240,7 @@ The launch window ran wider than 20 names. Worth knowing, in no particular order
 - **Dyschronia: Chronos Alternate** — anime time-travel mystery
 - **Fantavision 202X** — fireworks puzzle game, PSVR2 exclusive
 - **Garden of the Sea** — cozy island life and gardening
-- **GORN** — cartoonish gladiator brawling in VR
+- [**GORN**](/games/gorn) — cartoonish gladiator brawling in VR
 - [**Jurassic World Aftermath**](/games/jurassic-park-aftermath/) — stealth horror on Isla Nublar
 - [**Job Simulator**](/games/job-simulator/) — comedic workplace parody, still charming
 - [**Moss**](/games/moss) — the classic puzzle adventure, still lovely

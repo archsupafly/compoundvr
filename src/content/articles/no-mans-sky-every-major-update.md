@@ -5,6 +5,10 @@ pubDate: 2026-10-19
 lastUpdated: 2026-09-09
 author: Ian
 category: opinion
+relatedPages:
+  - id: no-mans-sky
+    kind: game
+    note: "The full No Man's Sky VR review"
 heroImage: /images/articles/no-mans-sky-every-major-update-hero.jpg
 tags: ['no-mans-sky', 'vr-update-history', 'playstation-vr2', 'steamvr', 'update-breakdown']
 ---
