@@ -33,6 +33,9 @@ vrReleaseDate: 2018-11-09
 relatedPages:
   - id: retro-games-top-10
     kind: article
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 # Tetris Effect: Connected VR Review

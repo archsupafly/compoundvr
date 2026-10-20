@@ -34,6 +34,10 @@ history:
   - date: 2026-08-17
     note: "Update 5.0 renames the game The Light Brigade: Definitive Edition and ships its final content update — new Lebes biome, 38 tarot cards, crystal attachments, custom/challenge runs, and Steam Frame support."
 sources: "Factual basis from the CompoundVR research file (editorial/research/the-light-brigade.research.md): Wikipedia, UploadVR (launch and Definitive Edition coverage), Rock Paper Shotgun (Rick Lane, 2023-03-07), Road to VR (gunplay and melee note), NME (class system), official lightbrigadevr.com store copy, Steam store page, and YouTube VR coverage (Reality Remake class guides, CJC96 runs, bmackVR Update 4.0). Assessment built from documented gameplay facts and critic/community reception."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 ## The first death teaches you the game

@@ -32,6 +32,10 @@ tier: B
 verdict: "A competent, often exciting co-op shooter that makes good use of VR, but its grindy economy and limited enemy variety mean the headset stays on longer than the novelty does."
 heroImage: /images/games/after-the-fall-vr-hero.jpg
 sources: "Steam store page, Road to VR (Quest 2/PCVR review), After the Fall Fandom wiki, PlayStation store page, Meta pre-order blog, PLAION/Vertigo Games press release (PSVR2 launch), PlayStation Universe (PSVR2 launch title), Vertigo Games Pico 4 announcement, VR Today Magazine, Eurogamer, COGconnected (PSVR2 Complete Edition review), MKAU Gaming (PSVR2 review), CyberPowerPC review. Assessment based on published VR reviews and developer documentation."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 # After the Fall in VR: The Closest Thing to Left 4 Dead in a Headset

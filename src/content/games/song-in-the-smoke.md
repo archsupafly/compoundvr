@@ -35,6 +35,10 @@ tier: A
 verdict: "A VR-native survival game that earns the headset — tactile crafting and a haunted, beautiful world make it one of the better reasons to own a Quest or PSVR, rough edges and all."
 heroImage: /images/games/song-in-the-smoke-vr-hero.jpg
 sources: "Research compiled from 17-BIT press materials (Plan of Attack), Meta Quest/Rift and Steam store listings, PlayStation Store Rekindled listing, UploadVR review and SteamVR launch coverage, Digital Foundry PSVR2 technical analysis, CGWORLD Unreal Engine 4 development breakdown, and aggregate data from Game Informer, OpenCritic, Metacritic, and Deku Deals."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 I spent a weekend in this headset, and the moment that hooked me wasn't the lion. It was striking a rock against a wall to spark a fire. Not a menu prompt, not a button hold — I raised a stone to a stone and scraped until a spark caught. Twenty minutes later I was genuinely annoyed that real flint doesn't work this intuitively. That's the deal with Song in the Smoke: it's a survival game that trusts the headset to do the work a flat screen would fake with a progress bar.
