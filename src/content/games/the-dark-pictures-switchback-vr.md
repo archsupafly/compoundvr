@@ -33,6 +33,10 @@ tier: B
 verdict: "A genuinely fun PSVR2 arcade rail shooter with excellent motion aiming, held back by a short campaign, a thin story, and horror dressing that never really scares. Recommended with caveats for arcade-shooter fans who already own the headset."
 heroImage: /images/games/the-dark-pictures-switchback-vr-hero.jpg
 sources: "Research compiled from Wikipedia (release date, developer, platform), The Dark Pictures Fandom (Rush of Blood successor framing), PlayStation Store page (PSVR2 feature framing), IGN review (motion-aiming and short-length/weak-story notes), UploadVR review (arcade horror framing), Metacritic critic consensus, and a YouTube coverage sweep (Gamertag VR, Without Parole, PlayStation Access, IGN, SHN Survival Horror Network) confirming PSVR2-native-only coverage."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 I almost missed the first scare because I was too busy lining up a headshot, and honestly that's the whole deal with Switchback VR in one careless moment. Supermassive built a rollercoaster that periodically stops being a rollercoaster so you can shoot the monsters off the track. You are not exploring a haunted house. You are being dragged through one at speed with a gun in your hand, and that is exactly the kind of dumb, specific fun this headset is for.

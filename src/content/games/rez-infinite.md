@@ -33,6 +33,9 @@ vrReleaseDate: 2016-10-13
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 # Rez Infinite in VR: The Synesthesia Shooter Perfected

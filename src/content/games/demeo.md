@@ -31,6 +31,10 @@ tier: A
 verdict: "Demeo turns a tactics grid into a table you're standing at — the smartest VR-native dungeon crawler on the platform, and an easy yes for co-op tactics fans, provided you want a board game's pace rather than action."
 heroImage: /images/games/demeo-vr-hero.jpg
 sources: "Research compiled from the Meta Quest launch announcement (Meta Blog), Resolution Games official Demeo resources, the Steam store pages for the Demeo VR edition and Demeo: PC Edition, UploadVR coverage of platform expansions (PSVR2, Pico cross-play, Apple Vision Pro, and hand tracking / mixed reality updates), the PlayStation Blog PSVR2 launch details, and the Quest Store DB listing. Assessment reflects the VR-native experience across Quest, SteamVR, PSVR2, and Pico."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 history:
   - date: 2024-05-23
     note: "Launched on Apple Vision Pro with fully immersive VR support."

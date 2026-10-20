@@ -30,6 +30,10 @@ tier: A
 verdict: "A PSVR2 essential for anyone who owns the headset — a 90-minute narrative that turns eye tracking into the entire experience. Short and passive, but what's there is sublime."
 heroImage: /images/games/before-your-eyes-vr-hero.jpg
 sources: "PlayStation Store and official PlayStation page (eye-tracking description), UploadVR review (sublime narrative, $15 launch price, 90-minute runtime, controller-free play), Push Square review (8/10, DualSense set aside), PlayStation Universe review (eye-tracking tear-jerker), GameSpew review (flawless eye tracking, short), The Verge (March 10 2023 PSVR2 date), Wikipedia (2021 flat release, Unity engine), r/PSVR community thread sharing the UploadVR review."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 I spent a Tuesday night on a ferryboat in the afterlife, and the only thing I did was blink. Before Your Eyes is the kind of game that sounds like a gimmick until you're in the headset — then it becomes one of the most genuinely moving things I've done in VR this generation.

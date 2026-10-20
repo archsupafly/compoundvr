@@ -29,6 +29,10 @@ tier: B
 verdict: "RUNNER is a loud, fast, anime-soaked arcade shooter that demands patience before it pays off — genuinely fun once the controls click, but the steep difficulty curve and thin arcade loop keep it from essential."
 heroImage: /images/games/runner-vr-hero.jpg
 sources: "PlayStation Store pages (US and AU) for RUNNER, OpenCritic aggregation and review summaries, UploadVR launch impressions, PSU review, Push Square review, THE VR DIMENSION review (March 2023), Honey's Anime PSVR2 review, r/PSVR community thread, Truant Pixel official channels (@runner_vr, YouTube), and community YouTube coverage including The VR GRID, Without Parole, SAVAGE GAMER ASYLUM, Jeremy Klinger, and iSpeedVirusxVR."
+relatedPages:
+  - id: top-20-psvr2-launch-titles
+    kind: article
+    note: "PSVR2 launch title ranked in the top 20"
 ---
 
 ## The bike, the drones, the '80s
