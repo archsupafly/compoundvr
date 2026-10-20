@@ -234,12 +234,12 @@ The launch window ran wider than 20 names. Worth knowing, in no particular order
 
 - **Altair Breaker** — anime sword-action RPG
 - **Cave Digger 2: Dig Harder** — mining roguelike with co-op
-- **Cities VR** — city-builder ported to VR
+- [**Cities VR**](/games/cities-vr) — city-builder ported to VR
 - **Cosmonious High** — colorful alien school adventure
 - **Drums Rock** — rhythm drumming with a rock twist
 - **Dyschronia: Chronos Alternate** — anime time-travel mystery
 - **Fantavision 202X** — fireworks puzzle game, PSVR2 exclusive
-- **Garden of the Sea** — cozy island life and gardening
+- [**Garden of the Sea**](/games/garden-of-the-sea) — cozy island life and gardening
 - [**GORN**](/games/gorn) — cartoonish gladiator brawling in VR
 - [**Jurassic World Aftermath**](/games/jurassic-park-aftermath/) — stealth horror on Isla Nublar
 - [**Job Simulator**](/games/job-simulator/) — comedic workplace parody, still charming
@@ -250,9 +250,9 @@ The launch window ran wider than 20 names. Worth knowing, in no particular order
 - **Puzzling Places** — 3D jigsaw puzzles in VR
 - **Ragnarock** — Viking drumming rhythm game
 - [**Swordsman VR**](/games/swordsman-vr/) — melee combat with motion-tracked blade swings
-- [**Startenders: Intergalactic Bartending**](/games/startenders-intergalactic-bartending/) — sci-fi cocktail mixing
+- **Startenders: Intergalactic Bartending** — sci-fi cocktail mixing
 - **Tentacular** — giant tentacle puzzle game
-- **The Last Clockwinder** — puzzle automation with a mechanical twist
+- [**The Last Clockwinder**](/games/the-last-clockwinder) — puzzle automation with a mechanical twist
 - **The Tale of Onogoro** — Japanese folklore adventure
 - [**Thumper**](/games/thumper/) — rhythm violence, still intense
 - **Townsmen VR** — medieval settlement builder
