@@ -38,6 +38,9 @@ relatedPages:
   - id: devil-may-cry-5
     kind: game
     note: "Generic 6DOF VR — no motion controls, but playable in stereo 3D"
+  - id: monster-hunter-rise
+    kind: game
+    note: "Generic 6DOF VR — no motion controls, audio positioning issues"
 ---
 
 # REFramework VR: Resident Evil and Beyond in VR
@@ -90,7 +93,7 @@ REFramework's monolithic DLL works across every supported RE Engine game. The sa
 | Game | VR Support | Motion Controls | Notes |
 |------|-----------|----------------|-------|
 | [**Devil May Cry 5**](/games/devil-may-cry-5) | Full 6DOF | No | Generic VR, some UI issues |
-| **Monster Hunter Rise** | Full 6DOF | No | Generic VR, audio positioning issues |
+| [**Monster Hunter Rise**](/games/monster-hunter-rise) | Full 6DOF | No | Generic VR, audio positioning issues |
 | **Monster Hunter Wilds** | Full 6DOF | No | Generic VR |
 | **Monster Hunter Stories 3** | Full 6DOF | No | Generic VR |
 | **Street Fighter 6** | Full 6DOF | No | Generic VR |
