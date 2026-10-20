@@ -7,6 +7,13 @@ author: Ian
 category: opinion
 heroImage: /images/articles/psvr2-release-review-hero.jpg
 tags: ['psvr2', 'playstation-5', 'vr-headset', 'sony', 'review', 'sense-controllers']
+relatedPages:
+  - id: best-psvr-launch-games
+    kind: article
+    note: "Top PSVR 1 launch games"
+  - id: top-50-psvr-games-all-time
+    kind: article
+    note: "Best PSVR 1 games of all time"
 ---
 
 PlayStation VR2 landed on February 22, 2023, at $549.99, and the PlayStation crowd did not react as one. It split. The people who already owned a PS5 and could afford the buy-in called it the best VR Sony has ever shipped. The people who owned the original PSVR and expected their library to follow them called it a wall. I've spent the launch window with this headset on my face, and I get both reactions — because PSVR2 is two arguments welded into one box.

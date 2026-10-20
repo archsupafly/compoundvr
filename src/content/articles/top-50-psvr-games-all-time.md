@@ -13,6 +13,13 @@ tags:
   - console-vr
   - opinion
 heroImage: /images/articles/top-50-psvr-games-all-time-hero.jpg
+relatedPages:
+  - id: best-psvr-launch-games
+    kind: article
+    note: "Top PSVR 1 launch games"
+  - id: psvr2-release-review
+    kind: article
+    note: "PSVR2 headset review"
 ---
 
 The PlayStation VR library is the widest spread of virtual reality experiences ever assembled on a single console. I've spent the better part of six years with the headset on, and what still gets me is the range: some of these are built for VR from the ground up, and some are full flat-AAA titles that shipped a VR mode alongside the disc, and both belong on the same shelf. This is the definitive ranking of all 50, counted from the bottom up, #50 to #1.

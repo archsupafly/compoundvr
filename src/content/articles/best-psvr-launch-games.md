@@ -8,6 +8,13 @@ category: guide
 listicle: true
 heroImage: /images/articles/best-psvr-launch-games-hero.jpg
 tags: ['psvr', 'playstation-vr', 'launch-games', 'best-of', '2016', 'console-vr', 'guide', 'ps4']
+relatedPages:
+  - id: top-50-psvr-games-all-time
+    kind: article
+    note: "Best PSVR 1 games of all time"
+  - id: psvr2-release-review
+    kind: article
+    note: "PSVR2 headset review"
 ---
 
 The Rift launched with Lucky's Tale and a prayer. The Vive launched with space-scale demos and a $1,500 PC requirement. The PSVR launched on October 13, 2016 with over 30 titles — and for the first time, the launch library was deep enough to matter.

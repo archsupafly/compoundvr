@@ -219,7 +219,7 @@ Runner is the launch's fast, arcade endless-runner — the kind of pick-up-and-p
 
 ## #20: The Dark Pictures: Switchback VR
 
-![The Dark Pictures: Switchback VR](/images/games/the-dark-pictures-switchback-vr-vr-hero.jpg)
+![The Dark Pictures: Switchback VR](/images/games/the-dark-pictures-switchback-vr-hero.jpg)
 
 <div class="rank-meta">2023 · Framework Only</div>
 The Dark Pictures: Switchback VR is the on-rails horror shooter that arrived in the launch window, riding the Dark Pictures Anthology name into VR. You ride a crashing train through set-piece scares with a gun in each hand, the Sense controllers standing in for the weapons. It's the last name on this list, but for a horror fan it's a fitting capstone to a launch that leaned hard on scares and shooters.
@@ -230,7 +230,38 @@ The Dark Pictures: Switchback VR is the on-rails horror shooter that arrived in 
 
 ## Honorable Mentions
 
-The launch window ran wider than 20 names. Worth knowing, in no particular order: [**Pavlov**](/games/pavlov/) (the addictive multiplayer shooter — one launch player couldn't put it down), [**Swordsman VR**](/games/swordsman-vr/), [**The Last Clockwinder**](/games/the-last-clockwinder/), **GORN**, [**Job Simulator**](/games/job-simulator/), [**Vacation Simulator**](/games/vacation-simulator/), **Garden of the Sea**, [**Jurassic World Aftermath**](/games/jurassic-park-aftermath/), **Zenith: The Last City**, **Nock**, **Drums Rock**, **Unplugged: Air Guitar**, **The Tale of Onogoro**, **Cities VR**, **Townsmen VR**, **Dyschronia: Chronos Alternate**, **Cave Digger 2: Dig Harder**, **Altair Breaker**, **Fantavision 202X**, **Startenders: Intergalactic Bartending**, [**NFL Pro Era**](/games/nfl-pro-era/), **Moss**, [**The Walking Dead: Saints & Sinners**](/games/the-walking-dead-saints-and-sinners/), [**Synth Riders**](/games/synth-riders/), **Zombieland: Headshot Fever Reloaded**, [**Thumper**](/games/thumper/), **Puzzling Places**, **Tentacular**, **What the Bat?**, **Ragnarock**, **Cosmonious High**.
+The launch window ran wider than 20 names. Worth knowing, in no particular order:
+
+- **Altair Breaker** — anime sword-action RPG
+- **Cave Digger 2: Dig Harder** — mining roguelike with co-op
+- **Cities VR** — city-builder ported to VR
+- **Cosmonious High** — colorful alien school adventure
+- **Drums Rock** — rhythm drumming with a rock twist
+- **Dyschronia: Chronos Alternate** — anime time-travel mystery
+- **Fantavision 202X** — fireworks puzzle game, PSVR2 exclusive
+- **Garden of the Sea** — cozy island life and gardening
+- **GORN** — cartoonish gladiator brawling in VR
+- [**Jurassic World Aftermath**](/games/jurassic-park-aftermath/) — stealth horror on Isla Nublar
+- [**Job Simulator**](/games/job-simulator/) — comedic workplace parody, still charming
+- [**Moss**](/games/moss) — the classic puzzle adventure, still lovely
+- **Nock** — archery-based competitive multiplayer
+- [**NFL Pro Era**](/games/nfl-pro-era/) — first-person football
+- [**Pavlov**](/games/pavlov/) — the addictive multiplayer shooter one launch player couldn't put down
+- **Puzzling Places** — 3D jigsaw puzzles in VR
+- **Ragnarock** — Viking drumming rhythm game
+- [**Swordsman VR**](/games/swordsman-vr/) — melee combat with motion-tracked blade swings
+- [**Startenders: Intergalactic Bartending**](/games/startenders-intergalactic-bartending/) — sci-fi cocktail mixing
+- **Tentacular** — giant tentacle puzzle game
+- **The Last Clockwinder** — puzzle automation with a mechanical twist
+- **The Tale of Onogoro** — Japanese folklore adventure
+- [**Thumper**](/games/thumper/) — rhythm violence, still intense
+- **Townsmen VR** — medieval settlement builder
+- **Unplugged: Air Guitar** — air-guitar rhythm game using Sense controllers
+- [**Vacation Simulator**](/games/vacation-simulator/) — Job Simulator's sunnier sibling
+- [**The Walking Dead: Saints & Sinners**](/games/the-walking-dead-saints-and-sinners/) — survival horror with physics combat
+- **What the Bat?** — silly bat-hand comedy
+- [**Zenith: The Last City**](/games/zenith-the-last-city/) — anime MMO with VR swordplay
+- **Zombieland: Headshot Fever Reloaded** — arcade zombie shooter
 
 ---
 
