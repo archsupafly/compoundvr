@@ -1,86 +1,93 @@
 ---
 title: "Pikmin VR"
-description: "The original Pikmin works in VR through an abandoned 2016 emulator fork. The diorama charm is real, but the setup friction and dead software make this a museum piece, not a recommendation."
+description: "Project Honeydew is a free native VR port of the original Pikmin that puts you on the garden floor at true scale, with tracked hands that pull, throw, pet and punch. It is an unofficial fan project, and coverage is still thin."
 flatReleaseDate: "2001-10-26"
 vrReleaseDate: "2016-07-13"
-lastUpdated: "2016-07-13"
+lastUpdated: "2026-10-15"
 featured: false
-routeType: Framework Only
-platforms: ['PCVR']
-recommendation: Not Recommended
-playability: Partially Playable
-setupBurden: Advanced Setup
-inputStyle: Gamepad Preferred
-comfort: Comfortable
-performance: Inconsistent / Unpredictable
-supportStatus: Abandoned
+routeType: "Multi-Route Coverage"
+platforms: ['PCVR', 'Quest']
+recommendation: "Recommended with Caveats"
+playability: "Fully Playable"
+setupBurden: "Moderate Setup"
+inputStyle: "Full Motion Controls"
+comfort: "Comfortable"
+performance: "Moderate Demand"
+supportStatus: "Active"
 genres:
   - Real-Time Strategy
   - Puzzle
+  - Adventure
 technicalTags:
+  - Full VR Mod
+  - Native 6DOF
+  - Motion Controls
+  - Hand Presence
+  - Online Co-op
+  - Monitor Play
   - Emulator
-  - Stereoscopic 3D
-  - Head Tracking
-  - Third-Person Camera
-  - Gamepad Required
 experienceTags:
+  - First-Person
+  - Hand Interaction
+  - Co-op
+  - Scale
   - Diorama Scale
-  - Overhead Strategy
+  - Puzzle Strategy
   - Nintendo
   - Retro
-  - Abandoned Software
-tier: D
-verdict: "Dolphin VR turns Pikmin into a charming 3D diorama, but the 2016 emulator fork is abandoned, unstable, and outpaced by modern hardware. Only for emulator archaeologists."
+tier: A
+verdict: "Project Honeydew finally delivers the Pikmin fantasy: you are standing in the garden, reaching into the dirt, commanding a swarm at real scale. The physicality is real, the game is complete, and the caveats are the honest kind — young project, thin third-party coverage, and a few untested platforms."
 heroImage: /images/games/pikmin-vr-hero.jpg
-sources: "Research conducted via Dolphin VR official blog and downloads page (dolphinvr.wordpress.com), VR Bites hands-on Pikmin/Dolphin VR coverage, VRborg Dolphin VR guide, Reddit community reports on Dolphin VR stability, Nintendo official Labo VR compatible games list, CitraVR GitHub repository and release notes, Road to VR and UploadVR CitraVR coverage, MIXED CitraVR hands-on impressions, and Nintendo official franchise information."
+modDownload:
+  url: https://projecthoneydew.com
+  label: "Download Project Honeydew VR Mod"
+  note: "Unofficial fan project by the Project Honeydew team — not affiliated with Nintendo"
+history:
+  - date: 2026-10-15
+    note: "Project Honeydew 0.3.0 released — native first-person VR port of the GameCube original with online co-op, Quest 3/3S standalone and Steam Frame builds."
+sources: "Research conducted via projecthoneydew.com (downloads, changelog, install guide, VirusTotal link, SHA-256 checksums), the Project Honeydew YouTube channel and the 0.3.0 trailer 'Pikmin in VR, Now With Online Co-op', NotAGameAddict 'Pikmin VR Performance / Meta Quest 3 Standalone VR Mod with 6DOF Motion Controls', Topomx 'Pikmin VR! (Quest 3 Standalone)' livestream, r/ProjectHoneydew and the 0.3.0 launch cross-posts across r/Pikmin, r/OculusQuest, r/VRGaming, r/virtualreality and r/Emulationonquest, the Pikmin 4K texture pack by Henriko Magnifico, and Dolphin VR historical coverage via VR Bites, VRborg and the Dolphin VR blog."
 ---
 
-Here's the thing about Pikmin in VR: it should be incredible. You're commanding a swarm of two-inch tall plant-creatures through a backyard that might as well be a jungle. Scale is the whole point. In theory, strapping on a headset and looking down at a living diorama of tiny soldiers hauling fruit and fighting bugs sounds like exactly what VR was made for.
+The fantasy of Pikmin in VR has always been obvious. You're a tiny astronaut commanding an army of two-inch plant-creatures through a backyard that acts like a jungle. Scale is the whole point. Leaning down and seeing your swarm scurry through grass blades taller than they are is exactly the kind of thing a headset should do well.
 
-In practice? You're digging up a fossil.
+For years, the only way in was Dolphin VR, a 2016 fork of the GameCube emulator that bolted stereoscopic 3D and head tracking onto the original game. It turned Pikmin into a pretty overhead diorama, then stopped updating. That path is still technically around, but it is frozen in time and not the story anymore.
 
-The only way to play any Pikmin game in VR is through Dolphin VR, an unofficial fork of the GameCube/Wii emulator that bolted stereoscopic 3D and head tracking onto Nintendo's 2001 original. That fork got its last update in July 2016. It is, by every reasonable definition, abandoned software.
+The story now is Project Honeydew, a free native VR port of the 2001 GameCube original that dropped in October 2026. It is built from the ground up around first-person scale and hand presence, and it plays like the thing I assumed was years away.
 
-## The Diorama You Can't Quite Touch
+## In the Dirt, Not Above It
 
-Dolphin VR does deliver on the core fantasy, at least visually. The original Pikmin's simple geometry and saturated colors actually hold up surprisingly well in stereoscopic 3D. When it works, you're hovering over a living terrarium — Olimar and his Pikmin look appropriately minuscule, the environmental details pop with depth, and the sense that you're peering into a tiny, bustling ecosystem is genuinely affecting. VR Bites tested this back in the DK2 era and called it "one of the best games we've played in the Oculus so far" despite the frame rate being "terrible" and the experience "buggy as hell."
+Honeydew switches the camera from overhead strategy view to first-person ground level. You are Olimar-sized now, standing in the garden with the Pikmin at your feet. The painted forest wall that normally boxes in the flat version is gone in VR — you see the open horizon beyond the level, which makes the space feel unexpectedly large.
 
-That tension — genuine charm under genuine jank — is the whole story.
+The hands are the center of the design. You reach down and pluck a Pikmin out of the dirt. You grab one by the stem, pull back, and throw it toward a target. A white ring at a Pikmin's feet shows which one your hand is about to grab, which keeps the action readable when the swarm clusters together. Whistling is aimed with your hand, not a cursor. You can pet a Pikmin — it waits under your palm and reacts to each stroke — or punch an enemy with a closed fist if you want Olimar to get personally involved.
 
-The camera is still the game's original overhead strategy view. You're not *in* the garden; you're a god hovering above it. Head tracking lets you lean around and examine the miniature world from different angles, which is neat for about twenty minutes. But there's no hand presence, no motion controls, no ability to physically point at Pikmin and direct them. You're playing with a gamepad (or Wiimote/Nunchuk if you're really committed to the bit) while your headset displays a pretty 3D view. It's a stereoscopic diorama viewer with controller input, not a VR-native strategy game.
+Hold the throwing stick up and the view deliberately blinks to roughly eight meters above Olimar, looking down on him like a toy. Let go and it snaps back. A tabletop view sits higher and tilted toward you like a drafting board, where everything looks 1.5× bigger by default and you can zoom by pulling both grips apart. The diorama fantasy is still there; it is just one mode among several, not the whole experience.
 
-## The Setup Reality
+The VR UI is thoughtful. A wristwatch shows radar, time of day and a mute badge. Enemy health bars drop to your eye level when they matter. An over-the-shoulder hand camera lets you photograph the squad without your own helmet in frame. Settings are laid out in a headset-friendly menu with tabs, a quick bar, and a render-resolution slider that auto-reverts after ten seconds so you can't accidentally brick your view. It is the kind of polish that suggests someone actually put the headset on while building it.
 
-Getting this running in 2016 required: a GameCube or Wii ISO dumped from your own disc, the Dolphin VR 5.0-250 build, an Oculus Rift CV1 or DK2 or HTC Vive, and patience for emulator configuration, VR runtime wrangling, and per-game tweaking. Some games needed AR cheat codes and "Hide Object Codes" to render correctly in VR.
+## The One Real Gate
 
-Getting this running now? You're trying to launch 2016 SDK code on modern hardware. The Dolphin VR fork is frozen in time, dozens of major Dolphin releases behind the mainline emulator. Modern headsets, modern Windows versions, and modern GPU drivers were not part of the design brief. You may be able to brute-force compatibility through SteamVR's legacy runtime support or OpenComposite wrappers, but you're in undocumented territory. The community knowledge from 2016 has decayed. Forum threads are stale. GitHub issues sit open unanswered.
+Setup is no longer emulator archaeology, but it still has one hard requirement: you need your own Pikmin GameCube disc image, USA Rev 1, as ISO, GCM, CISO or NKit. The mod reads the disc image and never touches or copies the game files. The launcher is straightforward — unzip, run `nectar-launcher`, install, point it at your disc image, then hit Play with SteamVR already running — but the disc requirement is the gate that decides whether you can play at all.
 
-This is not "moderate setup." This is emulator archaeology.
+Windows 64-bit is the main build and the most tested. Linux x86-64 is available for Steam Deck and Linux PCs, but it is untested on real hardware. There is an experimental Steam Frame ARM64 build and an experimental Meta Quest 3 / 3S standalone APK via SideQuest or `adb install`. The Quest build needs the disc image copied over USB as .iso or .gcm, with other formats converted first, and it cannot play online with the PC builds yet. The app is unsigned, so Windows SmartScreen will complain until you click through. The site publishes a SHA-256 checksum and a VirusTotal scan for every build.
 
-## What Works and What Doesn't
+Headset support is honest about its limits. The mod was built and tested on the original HTC Vive and tested on Meta Quest 3 through Link. Valve Index, Steam Frame streaming, Quest via Steam Link / Air Link / Virtual Desktop, and other SteamVR headsets are untested. If you are on a headset outside the Vive / Quest 3-via-Link pair, you are in early-adopter territory.
 
-The stereoscopic 3D is real when the emulator hooks correctly. The world scale feels correct — Pikmin are appropriately tiny, Bulborbs are appropriately intimidating, and the spatial relationships between units and obstacles are easier to read with actual depth perception. For a strategy game about precise positioning and hazard avoidance, that's not nothing.
+## What Works and What Is Still Young
 
-But performance is all over the place. The VR Bites review noted frame rate issues even on hardware of the era. On modern systems, you're running an unoptimized, abandoned emulator branch with none of the performance improvements that mainline Dolphin has accumulated over nine years. Stutter, judder, and frame time inconsistency are likely. For a game that requires no fast head movement, comfort stays manageable — there's no artificial locomotion, no forced camera spins, no vehicle sequences. You're just staring at a miniature world. But inconsistent frame pacing can still break presence.
+The physical scale works. Pikmin feel appropriately tiny, Bulborbs feel appropriately massive, and the spatial relationships that matter in combat and routing are easier to read when you are standing inside them rather than hovering above them. The motion controls map cleanly to the game's actions, and the quality-of-life touches add up: Olimar no longer slides down gentle slopes while idle, skipped cutscenes preserve the day-one Main Engine pickup, and a sleeping Pikmin may stir instead of every single one snapping to look at you on cue.
 
-Stability is the bigger concern. Crashes, rendering errors, games starting in non-VR mode, audio routing to wrong outputs — these were documented bugs in 2016, and nobody's fixed them since.
+Online co-op is built for two, mixed VR and monitor play, with proximity voice chat, high-fives and handoffs of Pikmin between players. Room codes are short so a friend behind a strict router can still join. Both players need the same version, and Windows, Linux and Steam Frame builds of the same version can play together.
 
-## What You're Actually Playing
+But the project is young. r/ProjectHoneydew was created on October 8, 2026 and currently holds a single post. The 0.3.0 launch was cross-posted to several subreddits and sits at score 1 with zero comments. Independent video coverage is thin: NotAGameAddict has a performance-focused Quest 3 standalone video, and Topomx streamed the Quest build. There is no established review record, no aggregate score, no long-term stability report. That is not a knock on the build quality; it is a reason to keep expectations calibrated.
 
-Worth clarifying: this route only covers the original Pikmin (2001) and Pikmin 2 (2004), plus their Wii "New Play Control!" re-releases. The modern Switch remasters? No VR pathway. Pikmin 3 Deluxe? No Labo VR support. Pikmin 4? No VR at all. Hey! Pikmin on 3DS? Technically you could run it through CitraVR on Quest, but that's a 2D side-scrolling spin-off with none of the overhead strategy DNA. If you want the actual Pikmin experience — commanding swarms, managing daylight timers, exploring sprawling environments — you're limited to two decades-old GameCube games through a frozen emulator.
+Performance is generally modest for a 2001 GameCube game. The optional Pikmin 4K texture pack by Henriko Magnifico adds VRAM load and can stutter briefly the first time an area's textures load, which is normal for a big pack. Base play is comfortable, seated mode and snap turn are supported, and the site is upfront that VR can cause motion discomfort in general.
 
-## Who Should Bother
+## What You Are Actually Playing
 
-Honestly? Almost nobody.
-
-If you're an emulator preservationist with a soft spot for early VR experiments and a dusty Rift CV1 in a closet, Dolphin VR is a fascinating time capsule. The diorama effect is real, and it's easy to imagine what a proper VR-native Pikmin could feel like. There's genuine inspiration here.
-
-If you're a regular VR owner looking for a new experience to justify your headset? Skip this entirely. The setup friction is extreme, the software is unsupported, the performance is unpredictable, and the actual gameplay hasn't been adapted for VR in any meaningful way. You're playing a 2001 strategy game with a gamepad while wearing a headset that displays it in 3D. That's it.
-
-For Pikmin fans specifically, the Switch remasters are the definitive way to play the originals. Pikmin 4 is the best entry point for newcomers. Neither has VR. Neither needs it. The franchise's top-down strategy DNA doesn't naturally map to immersive first-person VR without a ground-up redesign — something no mod or emulator can provide.
+This is the original Pikmin — not [Pikmin 2 in VR](/games/pikmin-2/), not Pikmin 3 Deluxe, not Pikmin 4, not the Switch remasters, not Hey! Pikmin on 3DS. Project Honeydew needs exactly that GameCube USA Rev 1 disc. If you do not own it, you cannot play. Pikmin 2 is its own product with its own page, and nothing else in the series currently has a meaningful VR path. The Switch remasters remain the definitive flat way to play the broader franchise.
 
 ## The Honest Bottom Line
 
-Dolphin VR was a cool experiment in 2016. In the current landscape, it's a dead end. The Pikmin franchise deserves a thoughtful VR adaptation — imagine physically pointing to direct your swarm, crouching down to examine a discovered treasure, or feeling the scale difference between your tiny captain and the massive creatures stalking the garden. That game does not exist. What exists is an abandoned emulator fork that renders two GameCube games in stereoscopic 3D with substantial friction and no ongoing support.
+The thing the old emulator path only hinted at — standing in the garden, hands in the dirt, actually directing a swarm at real scale — now exists and works. Project Honeydew is a real native VR port with real interaction design, real co-op, and a real respect for the original game. It is also two weeks old, unofficial, thin on independent coverage, and partly untested across headsets.
 
-The diorama charm is real. The recommendation is not.
+If you own the disc and have a Vive or a Quest 3 via Link, this is worth the moderate setup. If you do not own the disc, the question is moot until you source one. If you are betting on Quest standalone or an untested headset, you are buying into a promising early build. The garden is finally worth visiting in a headset. Just know you are visiting a fan project, not a Nintendo release.
