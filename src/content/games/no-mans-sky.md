@@ -76,6 +76,23 @@ sources: "Research conducted via Hello Games official announcements and patch no
 history:
   - date: 2026-09-09
     note: "Covered the PSVR2/Fractal era, the Worlds visual overhauls, and the Cosmos update."
+faq:
+  - q: "Is No Man's Sky VR good?"
+    a: "Yes. No Man's Sky VR is one of the most ambitious and visually impressive VR experiences available. It offers a complete procedurally generated universe with motion controls, and years of free updates have made it far better than its 2019 VR launch. The menus and performance remain rough edges, but the sense of scale and exploration is unmatched."
+  - q: "Does No Man's Sky VR have motion controls?"
+    a: "Yes. No Man's Sky VR supports full motion controls on both PCVR and PSVR2. You physically reach behind your back for your multi-tool, grab virtual joysticks in your starship cockpit, and interact with the quick-menu on your wrist. Ship piloting with motion controllers is particularly excellent."
+  - q: "No Man's Sky VR on PSVR2 — is it worth it?"
+    a: "Yes. PSVR2 is now the recommended way to play No Man's Sky VR. The headset's resolution, tracking, and foveated rendering (added in the Echoes update) deliver a stable, crisp image without the PC troubleshooting. The game was added free for PS5 owners in the Fractal update."
+  - q: "How to play No Man's Sky in VR"
+    a: "No Man's Sky VR is built into the base game — no separate purchase or mod required. On PC, launch the game and enable VR mode from the settings. On PS5, the VR mode is available automatically with a PSVR2 headset connected. The entire game is playable in VR."
+  - q: "No Man's Sky VR performance issues"
+    a: "Performance is the biggest caveat. On PC, you will likely need to reduce settings from where you would run the flat game. Dropped frames in VR are physically uncomfortable. PSVR2 handles the load more gracefully thanks to foveated rendering. Mid-range PCs can run it, but only with visual compromises."
+  - q: "Can you play No Man's Sky VR multiplayer?"
+    a: "Yes. No Man's Sky VR supports multiplayer. You can join friends in VR or play with flatscreen players. Base building, exploration, and combat all work in multiplayer VR sessions."
+  - q: "No Man's Sky VR vs Elite Dangerous VR"
+    a: "No Man's Sky VR offers a broader, more accessible experience with planetary exploration, crafting, and base building. Elite Dangerous VR is more simulation-focused with deeper flight mechanics and a more realistic cockpit experience. No Man's Sky is the better choice for casual exploration and wonder; Elite Dangerous is better for dedicated space sim enthusiasts."
+  - q: "No Man's Sky VR vs Starfield VR"
+    a: "Starfield does not have official VR support. No Man's Sky VR is the better choice for a native, fully playable VR space exploration experience. Starfield can be played in VR through mods, but the experience is unofficial and less polished."
 ---
 
 ## No Man's Sky VR Review: A Universe That Finally Makes Sense in a Headset
@@ -126,31 +143,6 @@ And when it all holds — when the framerate is steady, the menu is not fighting
 
 For patient explorers, base-building obsessives, and anyone who has ever wanted to physically sit in a cockpit and cruise toward an undiscovered planet, No Man's Sky VR offers something no other headset title can match. Players who want tight menus, flawless performance on modest hardware, or a polished native VR experience should know exactly what they are signing up for: a demanding, occasionally awkward game whose wonders more than earn their patience.
 
-## No Man's Sky VR: FAQ
-
-**Is No Man's Sky VR good?**
-Yes. No Man's Sky VR is one of the most ambitious and visually impressive VR experiences available. It offers a complete procedurally generated universe with motion controls, and years of free updates have made it far better than its 2019 VR launch. The menus and performance remain rough edges, but the sense of scale and exploration is unmatched.
-
-**Does No Man's Sky VR have motion controls?**
-Yes. No Man's Sky VR supports full motion controls on both PCVR and PSVR2. You physically reach behind your back for your multi-tool, grab virtual joysticks in your starship cockpit, and interact with the quick-menu on your wrist. Ship piloting with motion controllers is particularly excellent.
-
-**No Man's Sky VR on PSVR2 — is it worth it?**
-Yes. PSVR2 is now the recommended way to play No Man's Sky VR. The headset's resolution, tracking, and foveated rendering (added in the Echoes update) deliver a stable, crisp image without the PC troubleshooting. The game was added free for PS5 owners in the Fractal update.
-
-**How to play No Man's Sky in VR**
-No Man's Sky VR is built into the base game — no separate purchase or mod required. On PC, launch the game and enable VR mode from the settings. On PS5, the VR mode is available automatically with a PSVR2 headset connected. The entire game is playable in VR.
-
-**No Man's Sky VR performance issues**
-Performance is the biggest caveat. On PC, you will likely need to reduce settings from where you would run the flat game. Dropped frames in VR are physically uncomfortable. PSVR2 handles the load more gracefully thanks to foveated rendering. Mid-range PCs can run it, but only with visual compromises.
-
-**Can you play No Man's Sky VR multiplayer?**
-Yes. No Man's Sky VR supports multiplayer. You can join friends in VR or play with flatscreen players. Base building, exploration, and combat all work in multiplayer VR sessions.
-
-**No Man's Sky VR vs Elite Dangerous VR**
-No Man's Sky VR offers a broader, more accessible experience with planetary exploration, crafting, and base building. Elite Dangerous VR is more simulation-focused with deeper flight mechanics and a more realistic cockpit experience. No Man's Sky is the better choice for casual exploration and wonder; Elite Dangerous is better for dedicated space sim enthusiasts.
-
-**No Man's Sky VR vs Starfield VR**
-Starfield does not have official VR support. No Man's Sky VR is the better choice for a native, fully playable VR space exploration experience. Starfield can be played in VR through mods, but the experience is unofficial and less polished.
 
 ## No Man's Sky VR: Still a Wonder
 
