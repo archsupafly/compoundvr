@@ -236,7 +236,7 @@ The launch window ran wider than 20 names. Worth knowing, in no particular order
 - **Cave Digger 2: Dig Harder** — mining roguelike with co-op
 - [**Cities VR**](/games/cities-vr) — city-builder ported to VR
 - **Cosmonious High** — colorful alien school adventure
-- **Drums Rock** — rhythm drumming with a rock twist
+- [**Drums Rock**](/games/drums-rock) — rhythm drumming with a rock twist
 - **Dyschronia: Chronos Alternate** — anime time-travel mystery
 - **Fantavision 202X** — fireworks puzzle game, PSVR2 exclusive
 - [**Garden of the Sea**](/games/garden-of-the-sea) — cozy island life and gardening
@@ -248,7 +248,7 @@ The launch window ran wider than 20 names. Worth knowing, in no particular order
 - [**NFL Pro Era**](/games/nfl-pro-era/) — first-person football
 - [**Pavlov**](/games/pavlov/) — the addictive multiplayer shooter one launch player couldn't put down
 - **Puzzling Places** — 3D jigsaw puzzles in VR
-- **Ragnarock** — Viking drumming rhythm game
+- [**Ragnarock**](/games/ragnarock) — Viking drumming rhythm game
 - [**Swordsman VR**](/games/swordsman-vr/) — melee combat with motion-tracked blade swings
 - **Startenders: Intergalactic Bartending** — sci-fi cocktail mixing
 - **Tentacular** — giant tentacle puzzle game
