@@ -191,13 +191,17 @@ In practice, the Quest exclusivity and reported server-side features have made i
 
 ---
 
-## #14: Smash Drums
+## #14: Trombone Champ: Unflattened
 
-**Smash Drums (2021)**
+![Trombone Champ: Unflattened](/images/games/trombone-champ-vr-hero.jpg)
 
-Smash Drums is VR drumming with a rock-and-roll attitude. You sit behind a kit and bash through songs on a stage, complete with crowd noise and pyrotechnics. The drumming mechanics hold up, the haptics make hitting a crash cymbal land, and the track selection leans toward guitar-heavy rock that fits the fantasy.
+<div class="rank-meta">Native VR</div>
 
-It doesn't reach the same heights as Ragnarock because the identity is less distinctive and the song library is smaller. As a pure drum simulation in VR, it gets the job done and it can be fun. Good for players who specifically want to hit things with sticks rather than swing sabers or shoot pistols.
+Trombone Champ: Unflattened turns a flat mouse-masher into a full-body performance, with proper two-handed motion controls and a rhythm game that's deeper than the meme implies. The viral 2022 original was a comedy moment — the VR rebuild by Flat2VR Studios is a real game. You mime the instrument with both hands, the pitch detection is generous enough to be fun and tight enough to challenge, and the physical comedy of tooting a trombone in a headset never stops being funny.
+
+It earns its spot here on search demand alone — "trombone champ" pulls 5,400 monthly searches, roughly 3x "maestro vr" and 20x "smash drums vr." The comedy angle is the draw, but the rhythm mechanics underneath are solid enough to justify the listing. It's not a precision game and it's not trying to be. It's the game you show someone who thinks VR rhythm games are all just Beat Saber clones.
+
+[Read the full Trombone Champ: Unflattened review](/games/trombone-champ)
 
 ---
 
@@ -218,6 +222,8 @@ These didn't make the cut, but they're worth knowing about.
 **Audio Trip** — A dance-focused rhythm game with choreographed full-body movement. Rougher around the edges than the top tier, but the ambition is admirable.
 
 **Drums Rock** — Another VR drumming option with a rock soundtrack. Competent, but Smash Drums and Ragnarock cover the same ground more memorably.
+
+**Smash Drums** — VR drumming with a rock-and-roll attitude. You sit behind a kit and bash through songs on a stage, complete with crowd noise and pyrotechnics. The drumming mechanics hold up and the haptics make hitting a crash cymbal land, but the identity is less distinctive than Ragnarock and the song library is smaller. Good for players who specifically want to hit things with sticks rather than swing sabers or shoot pistols.
 
 **Unplugged** — Air guitar via hand tracking on Quest. Clever idea, inconsistent tracking, and a love-it-or-hate-it premise.
 
