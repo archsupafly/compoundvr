@@ -46,6 +46,10 @@ history:
   - date: 2026-10-15
     note: "Project Honeydew 0.3.0 released — native first-person VR port of the GameCube original with online co-op, Quest 3/3S standalone and Steam Frame builds."
 sources: "Research conducted via projecthoneydew.com (downloads, changelog, install guide, VirusTotal link, SHA-256 checksums), the Project Honeydew YouTube channel and the 0.3.0 trailer 'Pikmin in VR, Now With Online Co-op', NotAGameAddict 'Pikmin VR Performance / Meta Quest 3 Standalone VR Mod with 6DOF Motion Controls', Topomx 'Pikmin VR! (Quest 3 Standalone)' livestream, r/ProjectHoneydew and the 0.3.0 launch cross-posts across r/Pikmin, r/OculusQuest, r/VRGaming, r/virtualreality and r/Emulationonquest, the Pikmin 4K texture pack by Henriko Magnifico, and Dolphin VR historical coverage via VR Bites, VRborg and the Dolphin VR blog."
+relatedPages:
+  - id: pikmin-2
+    kind: game
+    note: "Pikmin 2 in VR via Dolphin emulator — the Dolphin VR setup guide"
 ---
 
 > **Related:** Looking for Pikmin 2 in VR via Dolphin emulator? Check out our [Pikmin 2 VR article](/games/pikmin-2/).
