@@ -49,31 +49,43 @@ The campaign structure gives it more legs than a simple song list. Each scene ha
 
 ## #3: Synth Riders
 
-**Synth Riders (2018)**
+![Synth Riders](/images/games/synth-riders-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Synth Riders is the beat-slasher for people who find Beat Saber too stiff. Instead of chopping blocks, you're riding colored orbs with your fists, spinning through tunnels, and occasionally catching notes with both hands at once. The movement feels looser and more dance-like. The soundtrack leans into synthwave, electro, and electronic artists that feel like they were picked by someone who actually listens to the genre.
 
 The custom song support and spin mechanics give it a distinct identity. It's less about perfect precision and more about flow. On PCVR the visuals can get properly psychedelic. The Quest version sacrifices some of that, but the core loop survives intact. Beat Saber is a sport. Synth Riders is a club.
 
+[Read the full Synth Riders review](/games/synth-riders)
+
 ---
 
 ## #4: Metal: Hellsinger VR
 
-**Metal: Hellsinger VR (2024)**
+![Metal: Hellsinger VR](/images/games/metal-hellsinger-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Metal: Hellsinger was already a clever idea on flat screens: a first-person shooter where every shot, dash, and reload syncs to a metal soundtrack, and your damage spikes when you stay on beat. Put on a headset and that premise becomes physical. You're not just tapping a key in time; you're pumping shotguns, swinging a sword, and headbanging through hell while the HUD pulses around you.
 
 The VR adaptation had some rough edges at launch — weapon positioning, comfort tuning, and the usual PCVR performance spread — but the underlying design is too good to ignore. When it clicks, you feel like the drummer and the lead guitarist in a demon-slaying band. It's one of the few rhythm games that makes shooting feel musical instead of forcing music to act like gunfire.
 
+[Read the full Metal: Hellsinger VR review](/games/metal-hellsinger)
+
 ---
 
 ## #5: Ragnarock
 
-**Ragnarock (2021)**
+![Ragnarock](/images/games/ragnarock-vr-hero.jpg)
+
+<div class="rank-meta">Native VR</div>
 
 Ragnarock puts you at the front of a Viking longship, drumming to the beat so your crew rows faster. The drum pads are big, the haptics are heavy, and the soundtrack is a deliberate mix of folk metal, power metal, and sea-shanty energy that fits the theme perfectly. It's one of the few VR rhythm games that builds a coherent world around the mechanic rather than decorating a note highway.
 
 The multiplayer crew races are where it shines. Competing against other longships turns a solo drumming session into something social and a little ridiculous. The track list isn't as deep as Beat Saber's, but the identity outlasts most rhythm games I play.
+
+[Read the full Ragnarock review](/games/ragnarock)
 
 ---
 

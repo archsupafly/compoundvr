@@ -29,6 +29,10 @@ experienceTags:
 tier: A
 verdict: "Metal: Hellsinger VR drops you into a flow-state shooter where your hands become the beat — motion-aimed guns, on-beat dashes, and a Two Feathers soundtrack you feel as much as hear. It's a short, intense, replayable spectacle that belongs on every rhythm-shooter fan's headset."
 heroImage: /images/games/metal-hellsinger-vr-hero.jpg
+relatedPages:
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Ranked guide to the best rhythm games in VR, from Beat Saber to Samba de Amigo."
 sources: "Official VR Steam store page (app 2878270) and Steam Web API for release date, developers, and categories; LivingFray HellsingerVR mod repository and README for community-mod facts; PCVR Mods Installer Hub and VRMods-List for mod and port listings; Wikipedia for flat-game background; YouTube VR coverage including Paradise Decay, LunchAndVR, Flat2VR, and esvbanVR for gameplay and reception."
 ---
 

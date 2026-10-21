@@ -28,6 +28,10 @@ experienceTags:
 tier: A
 verdict: "A genre pillar that earns its place next to Beat Saber for players who want to move their whole body, not just their wrists — buy it if the dance-style flow sounds like your kind of workout."
 heroImage: /images/games/synth-riders-vr-hero.jpg
+relatedPages:
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Ranked guide to the best rhythm games in VR, from Beat Saber to Samba de Amigo."
 sources: "Research conducted via Wikipedia (engine, release dates, platform list, motion-controller requirement), the official Synth Riders site and updates feed, the Kluge Interactive blog, the PlayStation store page, the Apple App Store listing, YouTube VR coverage (Naysy, OtterWorldly, The Save State, UrGamingTechie, Ben Plays VR, PlayStation, and the Synth Riders official channel), and a Pullpush r/PSVR thread. Assessment based on the documented VR-native implementation and the game's standing in the rhythm-genre community."
 ---
 

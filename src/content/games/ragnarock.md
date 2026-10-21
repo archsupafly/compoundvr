@@ -29,6 +29,10 @@ experienceTags:
 tier: A
 verdict: "If you like rhythm games and you like metal, Ragnarock is an easy recommendation — it turns your arms into the engine of a Viking longship. If you don't like either, it's a non-starter, but for the right player it's one of the best workouts VR offers."
 heroImage: /images/games/ragnarock-vr-hero.jpg
+relatedPages:
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Ranked guide to the best rhythm games in VR, from Beat Saber to Samba de Amigo."
 sources: "Steam store page and Steam API (WanadevStudio developer and publisher, release dates, tracked-controller support, game description), WanadevStudio and PlayStation official trailers, and VR gameplay and review coverage from Beardo Benjo, OtterWorldly, ThisKory, Honest Rob, and Retr0, plus expert full-combo gameplay runs from Vulter, AbeVsTheWorld, and Kubakoz."
 ---
 

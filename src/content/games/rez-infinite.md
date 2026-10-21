@@ -36,6 +36,9 @@ relatedPages:
   - id: top-20-psvr2-launch-titles
     kind: article
     note: "PSVR2 launch title ranked in the top 20"
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Ranked guide to the best rhythm games in VR, from Beat Saber to Samba de Amigo."
 ---
 
 # Rez Infinite in VR: The Synesthesia Shooter Perfected

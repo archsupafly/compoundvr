@@ -32,6 +32,9 @@ vrReleaseDate: 2016-10-10
 relatedPages:
   - id: top-15-vr-games-2016
     kind: article
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Ranked guide to the best rhythm games in VR, from Beat Saber to Samba de Amigo."
 ---
 
 # Thumper in VR: Rhythm Violence Perfected
