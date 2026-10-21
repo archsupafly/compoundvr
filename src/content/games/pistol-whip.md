@@ -33,6 +33,9 @@ relatedPages:
   - id: top-20-psvr2-launch-titles
     kind: article
     note: "PSVR2 launch title ranked in the top 20"
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Ranked guide to the best rhythm games in VR, from Beat Saber to Samba de Amigo."
 ---
 
 The first time the bass drops in Pistol Whip and you instinctively duck under a neon bullet trail, you realize Cloudhead Games has built something that flat screens simply cannot replicate. This is not a shooter with VR support bolted on. It is a shooter that only makes sense inside a headset — a rhythm-action gauntlet where your body becomes the instrument and the gun is just the percussion.

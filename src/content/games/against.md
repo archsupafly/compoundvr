@@ -28,6 +28,10 @@ experienceTags:
 tier: B
 verdict: "A confident, stylish native VR rhythm-combat game that borrows from Beat Saber and Pistol Whip but earns its place through responsive motion controls, noir personality, and a free beatmap editor — recommended for rhythm VR fans, with the caveat that it's more homage than innovation."
 heroImage: /images/games/against-vr-hero.jpg
+relatedPages:
+  - id: best-vr-rhythm-games
+    kind: article
+    note: "Ranked guide to the best rhythm games in VR, from Beat Saber to Samba de Amigo."
 sources: "Steam store page (AGAINST app 1584840) for gameplay description and feature list; official site against.joyway.games; UploadVR release-date reveal coverage; IGN release-date trailer; MobyGames 2021 Windows release record; launch-era YouTube gameplay coverage from Beardo Benjo, Rhys Da King VR, Rendered Reality, and Zimtok5. Assessment based on the game's documented native VR feature set, official store and developer materials, and launch reception."
 ---
 
