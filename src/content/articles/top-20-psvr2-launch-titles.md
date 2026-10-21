@@ -260,7 +260,7 @@ The launch window ran wider than 20 names. Worth knowing, in no particular order
 - [**Vacation Simulator**](/games/vacation-simulator/) — Job Simulator's sunnier sibling
 - [**The Walking Dead: Saints & Sinners**](/games/the-walking-dead-saints-and-sinners/) — survival horror with physics combat
 - **What the Bat?** — silly bat-hand comedy
-- [**Zenith: The Last City**](/games/zenith-the-last-city/) — anime MMO with VR swordplay
+- [**Zenith: The Last City**](/games/zenith/) — anime MMO with VR swordplay
 - **Zombieland: Headshot Fever Reloaded** — arcade zombie shooter
 
 ---
