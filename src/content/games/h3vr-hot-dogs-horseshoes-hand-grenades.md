@@ -25,7 +25,7 @@ experienceTags:
   - Firearm Manipulation
   - Take & Hold
   - Moddable
-tier: S
+tier: A
 verdict: "H3VR is the reason a lot of us own a PCVR headset. It's a gun nut's playground with real physicality, absurd world-building, and a roguelite loop that keeps you coming back — essential, not optional."
 heroImage: /images/games/h3vr-hot-dogs-horseshoes-hand-grenades-vr-hero.jpg
 history:
