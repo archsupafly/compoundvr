@@ -64,6 +64,20 @@ const games = defineCollection({
     inputStyle: z.enum(['Full Motion Controls', 'Gamepad Preferred', 'KBM Required']),
     comfort: z.enum(['Comfortable', 'Moderate Intensity', 'Intense', 'Highly Variable']),
     performance: z.enum(['Efficient', 'Moderate Demand', 'Heavy Demand', 'Inconsistent / Unpredictable']),
+    // System requirements from Steam (flat) + estimated VR requirements.
+    // VR translation process: GPU ~2x (two-eye 90fps render), CPU +1 tier (tracking overhead),
+    // RAM minimum bumped to 16GB (VR runtime), storage same, OS Windows 10/11 64-bit.
+    systemRequirements: z.object({
+      source: z.string().default('Steam'),
+      translationNote: z.string().optional(),
+      rows: z.array(z.object({
+        spec: z.string(),
+        flatMin: z.string(),
+        flatRec: z.string(),
+        vrMin: z.string(),
+        vrRec: z.string(),
+      })).default([]),
+    }).optional(),
     supportStatus: z.enum(['Active', 'Recently Updated', 'Stable but Quiet', 'Uncertain', 'Abandoned', 'Broken by Update']),
     genres: z.array(z.string()).default([]),
     technicalTags: z.array(z.string()).default([]),
