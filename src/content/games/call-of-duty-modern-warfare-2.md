@@ -1,6 +1,6 @@
 ---
 title: "Call of Duty: Modern Warfare 2 in VR"
-description: "A solo-dev full VR conversion of the Modern Warfare 2 campaign remaster puts a tracked rifle in your hands — physical reloads, holsters, and the iconic set pieces you remember."
+description: "Modern Warfare 2 VR via the Overlord mod — a full 6DoF motion-control conversion of the MW2 campaign remaster with physical reloads, tracked rifles, and iconic set pieces. Setup guide, troubleshooting, and settings for PCVR."
 flatReleaseDate: 2020-04-30
 vrReleaseDate: 2026-10-06
 lastUpdated: 2026-10-24
@@ -39,11 +39,71 @@ sources: "Research conducted via the Overlord GitHub repository (README and rele
 history:
   - date: 2026-10-24
     note: "Overlord Beta 7 (v0.7.0-beta) released, the latest in a near-daily build cadence since the mod's early-October launch."
+relatedPages:
+  - id: call-of-duty-4-modern-warfare
+    kind: game
+    note: "The original Modern Warfare campaign in VR — same series, different era"
+  - id: call-of-duty-2
+    kind: game
+    note: "Earlier Call of Duty campaign in VR"
+systemRequirements:
+  source: "Steam"
+  translationNote: "VR estimate: ~2x GPU (two-eye 90fps render vs single-eye 60fps), +1 CPU tier (tracking/physics overhead), RAM minimum bumped to 16GB (VR runtime needs headroom), storage same (identical game files), OS bumped to Windows 10/11 64-bit (VR runtimes require modern Windows)."
+  rows:
+    - spec: "OS"
+      flatMin: "Windows 10 64-bit"
+      flatRec: "Windows 10 64-bit"
+      vrMin: "Windows 10/11 64-bit"
+      vrRec: "Windows 10/11 64-bit"
+    - spec: "Processor"
+      flatMin: "Intel Core i3-4340 / AMD FX-6300"
+      flatRec: "Intel Core i5-2500K / AMD Ryzen 3 1200"
+      vrMin: "Intel Core i5-2500K / AMD Ryzen 3 1200"
+      vrRec: "Intel Core i7-4770 / AMD Ryzen 5 2600"
+    - spec: "Memory"
+      flatMin: "8 GB RAM"
+      flatRec: "8 GB RAM"
+      vrMin: "16 GB RAM"
+      vrRec: "16 GB RAM"
+    - spec: "Graphics"
+      flatMin: "NVIDIA GeForce GTX 670 / GTX 1650 / AMD Radeon HD 7950"
+      flatRec: "NVIDIA GeForce GTX 970 / AMD Radeon R9 390"
+      vrMin: "NVIDIA GTX 1060 6GB / AMD Radeon RX 580 8GB"
+      vrRec: "NVIDIA RTX 2060 6GB / AMD Radeon RX 5700 XT 8GB"
+    - spec: "DirectX"
+      flatMin: "Version 12"
+      flatRec: "Version 12"
+      vrMin: "Version 12"
+      vrRec: "Version 12"
+    - spec: "Storage"
+      flatMin: "45 GB available space"
+      flatRec: "45 GB available space"
+      vrMin: "45 GB available space"
+      vrRec: "45 GB available space"
+faq:
+  - q: "Can you play Modern Warfare 2 in VR?"
+    a: "Yes, via the Overlord mod by Aeka0 — a full 6DoF motion-control conversion of the Modern Warfare 2 Campaign Remastered. Requires the flat game on PC. The mod is free and open-source on GitHub."
+  - q: "Is Modern Warfare 2 VR free?"
+    a: "Yes. Overlord is free and open-source, distributed via GitHub releases. You need to own the Modern Warfare 2 Campaign Remastered on PC (Steam)."
+  - q: "How to set up Modern Warfare 2 VR?"
+    a: "Download Overlord from the Aeka0 GitHub releases page, extract into your Modern Warfare 2 Campaign Remastered install folder, and launch via SteamVR. Default bindings ship for Oculus Touch, Valve Index, and Vive controllers. See the quick-start setup section in the article."
+  - q: "Modern Warfare 2 VR not working — how do I fix it?"
+    a: "Common issues: Create2DTexture error (disable shader preloading), MSI Afterburner blocking launch, black screens on thermal scopes, reversed Predator drone controls. Saves can break between updates — back up before updating. Check the developer's README for the latest fixes."
+  - q: "Does Modern Warfare 2 VR have motion controls?"
+    a: "Yes. Overlord provides full 6DoF motion controls — tracked hands, physical reloading (magazines, slides, charging handles), body holsters, grenade throwing, and grabbing weapons off dead enemies."
+  - q: "Modern Warfare 2 VR VorpX vs Overlord — which should I use?"
+    a: "Overlord is the recommended route — full motion controls, native stereoscopic rendering, active development. VorpX is a legacy fallback delivering stereoscopic 3D + head tracking only (no motion controls) via injection. Use VorpX only if Overlord doesn't work for your setup."
+  - q: "Is Modern Warfare 2 VR comfortable?"
+    a: "Moderate. Snap or smooth turning with head-smoothing toggle. The snowmobile and climbing stretches can cause motion sickness. No teleport option. Not ideal for VR newcomers but manageable for experienced players."
+  - q: "Modern Warfare 2 VR performance — what do I need?"
+    a: "Moderate demand. Runs on Direct3D 11 hardware. Linear level design keeps GPU load manageable. A mid-to-high-end PC is recommended for stable frame rates. Expect to re-launch occasionally — beta instability is real."
+  - q: "Is Modern Warfare 2 VR multiplayer?"
+    a: "No. Overlord covers the single-player campaign only — no multiplayer, no Spec Ops, no modded modes. A separate fan mod inside the native VR game Contractors recreates MW2 multiplayer."
 ---
 
 ## Picking Up the Rifle
 
-I put the headset on expecting another flat shooter with a headset skin. What I got instead was my own hands on an M4 in the opening firing range, pulling the magazine with one hand and racking the bolt with the other before the first enemy even spawned. That single moment is the whole pitch. This is the Modern Warfare 2 campaign remaster, rebuilt by a solo developer named Aeka0 into a full motion-controlled VR game.
+I put the headset on expecting another flat shooter with a headset skin. What I got instead was my own hands on an M4 in the opening firing range, pulling the magazine with one hand and racking the bolt with the other before the first enemy even spawned. That single moment is the whole pitch. Modern Warfare 2 VR is the Modern Warfare 2 campaign remaster, rebuilt by a solo developer named Aeka0 into a full motion-controlled VR game.
 
 The mod is called Overlord, and it targets one specific title — the 2020 Call of Duty: Modern Warfare 2 Campaign Remastered, not the 2009 original and not the 2022 reboot. If you own the remaster on PC, you already own the flat game this bolts onto.
 
@@ -70,6 +130,18 @@ The weapons themselves carry the experience. Each gun has its own reload choreog
 The rough edges are real and they bite. The developer's own README warns of a Create2DTexture error (fixed by disabling shader preloading), MSI Afterburner blocking launch, black screens on thermal scopes, and reversed Predator drone controls. Saves can break between updates. None of that is fatal, but it means you're volunteering as a tester, not installing a finished product. If you want a frictionless evening, wait for the stable release the author is clearly working toward.
 
 Scope is the other honest limit. This is the campaign and nothing else — no competitive multiplayer, no co-op Spec Ops, no modded modes. If you came for the versus scene, there's nothing here, and a separate fan mod inside the native VR game Contractors recreates MW2 multiplayer on different bones entirely. Know which one you're after.
+
+## How to Set Up Modern Warfare 2 VR (Quick Start)
+
+If you searched for "Modern Warfare 2 VR setup" or "how to play Modern Warfare 2 in VR," here is the short version. A full step-by-step setup and optimization guide is coming as a separate article.
+
+1. **Own the flat game.** Modern Warfare 2 Campaign Remastered on PC (Steam). Overlord requires the base game installed.
+2. **Download Overlord** from the Aeka0 GitHub releases page. Extract into your Modern Warfare 2 Campaign Remastered install folder.
+3. **Launch via SteamVR.** Overlord runs on Direct3D 11 through SteamVR. Set your headset as the active OpenXR/SteamVR runtime.
+4. **Tune controls.** Default bindings ship for Oculus Touch, Valve Index, and Vive controllers. Quest controllers are validated as primary devices. Adjust snap/smooth turning and head-smoothing in settings.
+5. **VorpX fallback.** A legacy VorpX injection profile exists for the remaster — gamepad-aimed, no tracked hands. Only use if Overlord doesn't work for your setup.
+
+**Common setup issues:** Create2DTexture error (disable shader preloading), MSI Afterburner blocking launch, black screens on thermal scopes, reversed Predator drone controls. Saves can break between updates — back up before updating.
 
 ## Worth the Headset Time
 
