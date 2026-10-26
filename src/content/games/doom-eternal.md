@@ -40,9 +40,9 @@ history:
   - date: 2026-09-29
     note: "KHARVOX: ARGENT released v1.0, a native Vulkan VR conversion of Doom Eternal with full motion controls, Virtual Gunstock two-hand support, snap turning and optional bHaptics and PSVR2 haptics."
 relatedPages:
-  - id: luke-ross-real-vr-guide
+  - id: how-to-play-every-doom-game-in-vr
     kind: article
-    note: "Setup, optimization, and download guide for R.E.A.L. VR"
+    note: "Hub guide: how to play every Doom game in VR"
   - id: luke-ross-real-vr-games
     kind: article
     note: "All 53 R.E.A.L. VR games ranked by release date"
