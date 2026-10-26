@@ -1,6 +1,6 @@
 ---
 title: "Doom Eternal VR"
-description: "KHARVOX: ARGENT turns Doom Eternal into a native Vulkan VR conversion with full motion controls, two-hand gunstock support, and snap turning — a dramatic leap from the old injection-driver curiosity it once was."
+description: "Doom Eternal VR via KHARVOX: ARGENT — a native Vulkan conversion with full motion controls, two-hand gunstock support, and snap turning. Setup guide, troubleshooting, and settings for PCVR."
 flatReleaseDate: 2020-03-20
 vrReleaseDate: 2020-04-01
 lastUpdated: 2026-09-29
@@ -46,9 +46,71 @@ relatedPages:
   - id: luke-ross-real-vr-games
     kind: article
     note: "All 53 R.E.A.L. VR games ranked by release date"
+  - id: doom-2016
+    kind: game
+    note: "Doom (2016) VR conversion — KHARVOX native VR mod"
+  - id: doom-3-bfg
+    kind: game
+    note: "Doom 3 BFG VR — native VR support and mods"
+  - id: doom-vfr
+    kind: game
+    note: "Doom VFR — the official Bethesda VR spinoff"
+systemRequirements:
+  source: "Steam"
+  translationNote: "VR estimate: ~2x GPU (two-eye 90fps render vs single-eye 60fps), +1 CPU tier (tracking/physics overhead), RAM minimum bumped to 16GB (VR runtime needs headroom), storage same (identical game files), OS bumped to Windows 10/11 64-bit (VR runtimes require modern Windows)."
+  rows:
+    - spec: "OS"
+      flatMin: "Windows 10 64-bit"
+      flatRec: "Windows 10 64-bit"
+      vrMin: "Windows 10/11 64-bit"
+      vrRec: "Windows 10/11 64-bit"
+    - spec: "Processor"
+      flatMin: "Intel Core i5 @ 3.3 GHz / AMD Ryzen 3 @ 3.1 GHz"
+      flatRec: "Intel Core i7 @ 3.6 GHz / AMD Ryzen 5 @ 3.4 GHz"
+      vrMin: "Intel Core i7 @ 3.6 GHz / AMD Ryzen 5 @ 3.4 GHz"
+      vrRec: "Intel Core i9 @ 4.0 GHz / AMD Ryzen 7 @ 3.8 GHz"
+    - spec: "Memory"
+      flatMin: "8 GB RAM"
+      flatRec: "16 GB RAM"
+      vrMin: "16 GB RAM"
+      vrRec: "16 GB RAM"
+    - spec: "Graphics"
+      flatMin: "NVIDIA GTX 1060 6GB / AMD Radeon RX 580 8GB"
+      flatRec: "NVIDIA GTX 1660 Ti 6GB / AMD Radeon RX 5700 8GB"
+      vrMin: "NVIDIA RTX 2060 6GB / AMD Radeon RX 5700 XT 8GB"
+      vrRec: "NVIDIA RTX 3060 Ti 8GB / AMD Radeon RX 6700 XT 12GB"
+    - spec: "DirectX"
+      flatMin: "Version 12"
+      flatRec: "Version 12"
+      vrMin: "Version 12"
+      vrRec: "Version 12"
+    - spec: "Storage"
+      flatMin: "50 GB available space"
+      flatRec: "50 GB available space"
+      vrMin: "50 GB available space"
+      vrRec: "50 GB available space"
+faq:
+  - q: "Can you play Doom Eternal in VR?"
+    a: "Yes, via the KHARVOX: ARGENT community VR conversion by CactusVRStudios. Requires the flat game (Steam or Microsoft Store), a PCVR headset, and a compatible VR runtime. The mod is free but you must own Doom Eternal."
+  - q: "Is KHARVOX: ARGENT a mod?"
+    a: "Yes. KHARVOX: ARGENT is a community VR conversion mod, not an official Bethesda release. Search terms like 'doom eternal vr mod' refer to this project."
+  - q: "How to set up Doom Eternal VR?"
+    a: "Download the ARGENT release ZIP from the CactusVRStudios GitHub repository, extract into a new writable folder (not inside the game directory), and launch via ArgentLauncher.exe. See the quick-start setup section in the article."
+  - q: "Doom Eternal VR black screen — how do I fix it?"
+    a: "Make sure you are launching through ArgentLauncher.exe, not the game directly. Verify your VR runtime is running. Check that you extracted the ZIP into a standalone folder, not inside the Doom Eternal install directory."
+  - q: "Doom Eternal VR AMD rendering issues — is there a fix?"
+    a: "AMD graphics cards currently have known rendering issues with ARGENT. These may or may not improve with updates. NVIDIA GPUs are the recommended path for now."
+  - q: "Should I use SteamVR or VDXR for Doom Eternal VR?"
+    a: "Quest headsets: use VDXR or MetaXR (SteamVR with Meta hardware is known to cause issues). Index: use SteamVR. Other headsets: VDXR, SteamVR OpenXR, or Meta OpenXR are all supported."
+  - q: "Does Doom Eternal VR have motion controls?"
+    a: "Yes. ARGENT provides full 6DOF motion controls with a Virtual Gunstock for two-hand weapon support, physical glory kills via controller speed, and left-handed layout support."
+  - q: "Is Doom Eternal VR better than VorpX or VK3DVision?"
+    a: "ARGENT is a native Vulkan conversion with motion controls and 6DOF head tracking. VorpX and VK3DVision are injection-based methods that add stereoscopic 3D without motion controls. ARGENT is the recommended path for new users."
+  - q: "Doom Eternal VR water artifacts — what causes them?"
+    a: "Water can produce visual artifacts in VR with ARGENT. This is a known limitation of the current build and may be addressed in future updates."
 ---
 
-There is a moment in Doom Eternal when a Marauder fills your entire field of view, shield glowing green, eyes locked on, and for a split second you stop thinking about controllers and start thinking about survival. That is the kind of presence ARGENT now sells for real. Not as a stereoscopic curiosity. As a shooter you can actually play in a headset.
+There is a moment in Doom Eternal VR when a Marauder fills your entire field of view, shield glowing green, eyes locked on, and for a split second you stop thinking about controllers and start thinking about survival. That is the kind of presence ARGENT now sells for real. Not as a stereoscopic curiosity. As a shooter you can actually play in a headset.
 
 For years the only way into Doom Eternal VR was through injection drivers — VorpX's Reshade + Desktop Viewer kludge, or VK3DVision's excellent 3D with zero head tracking. Those options are still technically there if you already rely on them, but they are no longer the story. The story is KHARVOX: ARGENT, a native Vulkan conversion by CactusVRStudios that launched v1.0 on September 29, 2026, and it changes almost everything about how this game reads in VR.
 
@@ -59,6 +121,19 @@ ARGENT is not an injection wrapper. It launches `DOOMEternalx64vk.exe` through i
 The distinction matters because it shows up everywhere. Menus and tutorials auto-present on a virtual screen instead of floating brokenly in your face. The weapon is tied to your hand, not your neck. Glory kills are a physical motion, not a cutscene that wrestles the camera away from you. Where the old injection routes added depth to a flat image, ARGENT rewrites how you interact with the game.
 
 Installation is moderate, not trivial. You extract the complete ZIP into a new, writable folder — not inside the Doom Eternal install directory, and definitely not by running it from inside the archive. After that, `ArgentLauncher.exe` becomes your entry point every session. Steam and Microsoft Store copies both work. The first launch runs a native VR intro, after which you can disable it under Rendering. The main failure modes are obvious: wrong folder, missing runtime, or launching the game directly instead of through the launcher.
+
+## How to Set Up Doom Eternal VR (Quick Start)
+
+If you searched for "Doom Eternal VR setup" or "how to play Doom Eternal in VR," here is the short version. A full step-by-step setup and optimization guide is coming as a separate article.
+
+1. **Own the flat game.** Steam or Microsoft Store copies both work. ARGENT launches `DOOMEternalx64vk.exe` through its own launcher, so you need the base game installed.
+2. **Download the ARGENT release ZIP** from the CactusVRStudios GitHub repository (link above) and extract it into a **new, writable folder** — not inside the Doom Eternal install directory, and not by running it from inside the archive.
+3. **Launch via `ArgentLauncher.exe`** every session. Do not launch the game directly.
+4. **Pick your runtime.** Quest headsets: use VDXR or MetaXR (not SteamVR — known issues). Index: use SteamVR. Other headsets: VDXR, SteamVR OpenXR, or Meta OpenXR.
+5. **First launch** runs a native VR intro; disable it under Rendering if you don't want it every time.
+6. **Set RenderScale to 100%** as your baseline. Lower values reduce GPU load. Enable FSR or DLSS (mutually exclusive) for upscaling if needed.
+
+**Common setup issues:** wrong extraction folder, missing VR runtime, launching the game directly instead of through the launcher, or using SteamVR with a Quest headset.
 
 ## The Motion Controls
 
