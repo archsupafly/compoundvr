@@ -38,6 +38,10 @@ modDownload:
 history:
   - date: 2026-09-19
     note: Dedicated VR mod reached v0.2.2-alpha, adding motion controls, 6DOF tracking, and tracked hands, pistols, and parkour over the previous VorpX route.
+relatedPages:
+  - id: dying-light
+    kind: game
+    note: "Parkour in VR — another first-person parkour game with a full VR mod"
 sources: "Research conducted via the LetsGoSportsTeam/mirrors-edge-vr-mod GitHub repository and README, YouTube VR gameplay footage (Beardo Benjo, NotAGameAddict, CaptainsRath, LetsGoSportsTeam), Flat2VR Discord community knowledge, Reddit community reports (r/mirrorsedge, r/vive), and VorpX official forums and documentation for the legacy injection-driver route."
 ---
 

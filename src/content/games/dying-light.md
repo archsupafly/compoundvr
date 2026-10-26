@@ -1,6 +1,6 @@
 ---
 title: "Dying Light VR"
-description: "A great open-world zombie game that finally has a real Full VR Mod — DLVR — built from the bones of Techland's abandoned Oculus mode."
+description: "Dying Light VR — the free DLVR mod turns Techland's abandoned Oculus mode into a full 6DoF motion-control conversion. Setup guide, VorpX fallback, and honest verdict for PCVR."
 flatReleaseDate: 2015-01-26
 vrReleaseDate: 2015-01-26
 history:
@@ -49,6 +49,61 @@ sources: "Wikipedia, Steam store page, MobyGames release data, Ars Technica 'Vir
 relatedPages:
   - id: top-10-vr-games-2015
     kind: article
+    note: "Best VR games of 2015 — where Dying Light VR ranks"
+  - id: mirrors-edge
+    kind: game
+    note: "Parkour in VR — another first-person parkour game with a full VR mod"
+systemRequirements:
+  source: "Steam"
+  translationNote: "VR estimate: ~2x GPU (two-eye 90fps render vs single-eye 60fps), +1 CPU tier (tracking/physics overhead), RAM minimum bumped to 16GB (VR runtime needs headroom), storage same (identical game files), OS bumped to Windows 10/11 64-bit (VR runtimes require modern Windows)."
+  rows:
+    - spec: "OS"
+      flatMin: "Windows 7/8/8.1/10 64-bit"
+      flatRec: "Windows 7/8/8.1/10 64-bit"
+      vrMin: "Windows 10/11 64-bit"
+      vrRec: "Windows 10/11 64-bit"
+    - spec: "Processor"
+      flatMin: "Intel Core i5-2500 3.3 GHz / AMD FX-8320 3.5 GHz"
+      flatRec: "Intel Core i5-2500 3.3 GHz / AMD FX-8320 3.5 GHz"
+      vrMin: "Intel Core i7-4770 3.4 GHz / AMD Ryzen 5 1600 3.2 GHz"
+      vrRec: "Intel Core i7-4770 3.4 GHz / AMD Ryzen 5 1600 3.2 GHz"
+    - spec: "Memory"
+      flatMin: "4 GB RAM"
+      flatRec: "4 GB RAM"
+      vrMin: "16 GB RAM"
+      vrRec: "16 GB RAM"
+    - spec: "Graphics"
+      flatMin: "NVIDIA GeForce GTX 560 / AMD Radeon HD 6870 (1GB VRAM)"
+      flatRec: "NVIDIA GeForce GTX 560 / AMD Radeon HD 6870 (1GB VRAM)"
+      vrMin: "NVIDIA GTX 1060 6GB / AMD Radeon RX 580 8GB"
+      vrRec: "NVIDIA RTX 2060 6GB / AMD Radeon RX 5700 XT 8GB"
+    - spec: "DirectX"
+      flatMin: "Version 11"
+      flatRec: "Version 11"
+      vrMin: "Version 11"
+      vrRec: "Version 11"
+    - spec: "Storage"
+      flatMin: "40 GB available space"
+      flatRec: "40 GB available space"
+      vrMin: "40 GB available space"
+      vrRec: "40 GB available space"
+faq:
+  - q: "Can you play Dying Light in VR?"
+    a: "Yes, via DLVR (Dying Light VR) — a full 6DoF motion-control mod by Joaquin Manguevar (Hostile VR). Requires the flat game on Steam. The mod is free on Nexus Mods or via the creator's Patreon for early access."
+  - q: "Is Dying Light VR free?"
+    a: "Yes. DLVR is free on Nexus Mods (mod #1732). Early access builds are available through the creator's Patreon. The VorpX fallback route requires a paid VorpX license."
+  - q: "How to set up Dying Light VR?"
+    a: "Download DLVR from Nexus Mods, extract into your Dying Light install folder, set your headset's OpenXR runtime as default, and launch. Tune SETTINGS.txt for snap/smooth turning and swing speed. See the quick-start setup section in the article."
+  - q: "Dying Light VR not working — how do I fix it?"
+    a: "Check that your OpenXR runtime is set as default (not SteamVR). Verify DLVR is extracted into the game folder, not a separate directory. On Meta Link, motion controls may not be detected — check the latest DLVR release notes."
+  - q: "Does Dying Light VR have motion controls?"
+    a: "Yes. DLVR provides full 6DoF motion controls — tracked hands, weapon in right hand, tools in left hand (reach behind left shoulder to open tool wheel). Full motion controls since v1004."
+  - q: "Dying Light VR VorpX vs DLVR — which should I use?"
+    a: "DLVR is the recommended route — full motion controls, OpenXR, active development. VorpX is a fallback delivering stereoscopic 3D + head tracking only (no motion controls) but works on more headsets. Use VorpX only if DLVR doesn't work for your setup."
+  - q: "Is Dying Light VR comfortable?"
+    a: "No. The game has no teleport, no vignette, and no snap-turn comfort aid. Strafing, quick turns, and sprinting across rooftops push against VR comfort. DLVR adds motion controls but does not make the motion gentler. Not recommended for newcomers to VR."
+  - q: "Dying Light VR performance — what do I need?"
+    a: "Dying Light was already a heavy open-world game in 2015. Rendering in stereoscopic 3D at modern headset resolutions requires a high-end PC. Frame rate can drop during dusk fights, dense city views, and nighttime chases."
 ---
 
 # Dying Light VR
@@ -98,6 +153,18 @@ The core game still holds up. Harran is one of the better open-world settings of
 In DLVR, the highs are higher and the lows are still low. Looking down before a jump adds risk. Getting chased at night by volatiles while you're physically turning your head to track them is stressful in a way flat play can't match. Having a weapon in one hand and a tool in the other makes combat feel more present than a mouse click ever did. But the sickness is real. Strafing, quick turns, sprinting across uneven rooftops, and especially the unskippable camera grabs during cutscenes all push against VR comfort hard. The game has no teleport option, no vignette, no snap-turn comfort aid — it was never designed for VR, and it shows. Motion controls make the physical action sharper; they do not make the motion gentler.
 
 Performance is also demanding. *Dying Light* was already a heavy open-world game in 2015, and rendering it twice in stereoscopic 3D at modern headset resolutions doesn't make it lighter. DLVR has improved the situation over the jankier early builds, but this is still not a budget-headset experience. You'll want a high-end PC to keep the frame rate stable during dusk fights, dense city views, and nighttime chases.
+
+## How to Set Up Dying Light VR (Quick Start)
+
+If you searched for "Dying Light VR setup" or "how to play Dying Light in VR," here is the short version. A full step-by-step setup and optimization guide is coming as a separate article.
+
+1. **Own the flat game.** Dying Light 1 on Steam. DLVR requires the base game installed.
+2. **Download DLVR** from Nexus Mods (mod #1732) — free, or via the creator's Patreon for early access. Extract into your Dying Light install folder.
+3. **Launch via OpenXR.** DLVR uses OpenXR natively since v1004 — no Revive or Link workarounds needed. Set your headset's OpenXR runtime as default.
+4. **Tune SETTINGS.txt.** Choose snap or smooth turning and set minimum swing speed. Smooth turn is on by default.
+5. **VorpX fallback.** If DLVR doesn't work for your setup, a VorpX profile delivers stereoscopic 3D + head tracking (no motion controls) — requires paid VorpX license.
+
+**Common setup issues:** motion controls not detected on Meta Link (check latest notes), OpenXR runtime not set as default, or installing over a modded game folder.
 
 ## The Verdict
 
