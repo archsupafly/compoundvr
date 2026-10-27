@@ -29,6 +29,13 @@ tier: B
 verdict: "Bloodlines 2 in VR is a genuinely fun first-person vampire power fantasy thanks to a motion-controlled UEVR profile — but UE5 overhead, flat menus, and a polarizing base game keep it a tinkerer's recommend rather than a must-own."
 heroImage: /images/games/vampire-the-masquerade-bloodlines-2-vr-hero.jpg
 sources: "Tensai37 UEVR profile for Bloodlines 2 (Codeberg repo and releases), pcvrcentral mod listing, praydog/UEVR GitHub for framework capabilities, Wikipedia for base-game launch reception, and YouTube VR gameplay series confirming motion-control viability. No direct hands-on testing; assessment based on documented profile behavior and framework-capability analysis."
+relatedPages:
+  - id: vampire-the-masquerade-justice
+    kind: game
+    note: "Vampire: The Masquerade in native VR — stealth-action assassin fantasy"
+  - id: vampire-the-masquerade-bloodlines
+    kind: game
+    note: "The original Vampire: The Masquerade in VR via the vtmb-vr mod"
 ---
 
 There's a moment, maybe twenty minutes into Bloodlines 2, where you lean into a handshake that's actually a threat, and in VR it lands completely differently. The flat game asks you to press a button. The VR version — a UEVR injection wearing Tensai37's motion-control profile — puts your actual hand on the offer, and suddenly the vampire politics of Seattle feel like they're happening to you instead of on a screen three feet away.

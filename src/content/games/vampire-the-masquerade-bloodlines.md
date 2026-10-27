@@ -40,6 +40,13 @@ history:
   - date: 2026-10-20
     note: "vtmb-vr 0.5 preview released — dedicated 6DOF motion-control VR mod for Bloodlines, built on the Unofficial Patch 11.5 with SteamVR/OpenXR support."
 sources: "vtmb-vr GitHub repository and 0.5 release notes (https://github.com/atrblizzard/vtmb-vr) — VorpX Forums — community profiles and configuration discussion for *Bloodlines* - Reddit r/virtualreality, r/VRGaming, r/vtmb — user experience reports and troubleshooting - RPGFan, Grimdark Magazine, IGN — historical coverage of the base game's quality and legacy - Steam Community — player reports on VorpX compatibility"
+relatedPages:
+  - id: vampire-the-masquerade-justice
+    kind: game
+    note: "Vampire: The Masquerade in native VR — stealth-action assassin fantasy"
+  - id: vampire-the-masquerade-bloodlines-2
+    kind: game
+    note: "The sequel — World of Darkness RPG in VR via UEVR"
 ---
 
 # Vampire: The Masquerade - Bloodlines in VR: The Flawed Masterpiece Gets a Body

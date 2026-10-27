@@ -33,6 +33,13 @@ history:
   - date: 2024-04-17
     note: "Pico 4 family release (v2.0) completed the multiplatform footprint alongside the February 2024 PCVR launch."
 sources: "Fast Travel Games official game page, Steam and PlayStation Store listings, VRAR Wiki infobox, UploadVR Gamescom 2023 hands-on and launch review, PlayStation Universe PSVR2 review, 6DOF Reviews, D.I.C.E. Awards finalist record, and YouTube VR coverage (Gamertag VR, PSVR Without Parole, Lipnox VR, A Wolf in VR). Assessment built from documented VR play and reception evidence; no direct testing performed."
+relatedPages:
+  - id: vampire-the-masquerade-bloodlines
+    kind: game
+    note: "The original Vampire: The Masquerade in VR via the vtmb-vr mod"
+  - id: vampire-the-masquerade-bloodlines-2
+    kind: game
+    note: "The sequel — World of Darkness RPG in VR via UEVR"
 ---
 
 I spent a night in Venice with a crossbow bolted to my forearm and a body pressed against a wall — because that's what Justice asks of you in its first ten minutes. Vampire: The Masquerade – Justice doesn't ease you in. You're a Banu Haqim assassin, the bloodline built for killing, and the headset puts you inside that role before the tutorial finishes explaining itself.
