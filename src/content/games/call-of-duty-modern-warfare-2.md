@@ -101,31 +101,31 @@ faq:
     a: "No. Overlord covers the single-player campaign only — no multiplayer, no Spec Ops, no modded modes. A separate fan mod inside the native VR game Contractors recreates MW2 multiplayer."
 ---
 
-## Picking Up the Rifle
+## Modern Warfare 2 VR First Impressions
 
 I put the headset on expecting another flat shooter with a headset skin. What I got instead was my own hands on an M4 in the opening firing range, pulling the magazine with one hand and racking the bolt with the other before the first enemy even spawned. That single moment is the whole pitch. Modern Warfare 2 VR is the Modern Warfare 2 campaign remaster, rebuilt by a solo developer named Aeka0 into a full motion-controlled VR game.
 
 The mod is called Overlord, and it targets one specific title — the 2020 Call of Duty: Modern Warfare 2 Campaign Remastered, not the 2009 original and not the 2022 reboot. If you own the remaster on PC, you already own the flat game this bolts onto.
 
-## What Overlord Actually Delivers
+## What the Overlord Mod Delivers (Features)
 
 Overlord is a free, open-source conversion that adds native stereoscopic rendering, 6DOF head and hand tracking, and physical weapon handling to the campaign. You grab rifles and pistols with both hands, sling them to a body holster, pick weapons up off dead enemies, and operate each firearm's actual mechanics — magazines, slides, charging handles, cylinders. Frag grenades go where your real arm throws them. It covers the single-player campaign only: no multiplayer, no Spec Ops, no modded loadouts.
 
 Aeka0 ships it as a beta, and the build cadence is relentless — a fresh release has landed roughly every few days since launch. That's a good sign for longevity, but it also means you're installing a work in progress. There's a legacy VorpX injection profile floating around for the remaster as a fallback, but it's gamepad-aimed with no tracked hands; once you've felt Overlord's grip on a rifle, that fallback is a relic.
 
-## Shooting in VR
+## Modern Warfare 2 VR Shooting & Motion Controls
 
 The handling is the whole reason this exists. Aiming with a real rifle in your hands, peeking a corner by leaning, and dumping a mag before working the slide to chamber the next round turns familiar cover-shooter loops into something tactile. Default bindings ship for Oculus Touch, Valve Index, and Vive controllers, with Quest controllers validated as the primary devices . Since it's SteamVR, a Quest or PSVR2 headset streaming from a Windows PC can run it too. Turning is snap or smooth with a head-smoothing toggle, and the snowmobile and climbing stretches are where your stomach earns its keep.
 
 It runs on Direct3D 11 hardware, so the demand lands in the moderate range for a PCVR title, and the linear level design keeps the GPU from choking on open vistas. Stability is the real asterisk: the developer is blunt that it expects poor stability, and crash and missing-visual reports show up across machines. Expect to re-launch a few times. Treat it like the beta it is.
 
-## The Set Pieces Hold Up
+## Modern Warfare 2 VR Set Pieces & Campaign
 
 This is the Modern Warfare 2 campaign, and the famous beats land differently when you're standing in them. The estate invasion, the vehicle chases, the tight-room clearing — they were built as spectacle, and presence is exactly the thing that sells spectacle. Ducking under fire and physically shouldering through a doorway beats watching a cutscene do it for you. The community response has been loud for a three-week-old mod: multiple VR creators called it a genuine AAA-feeling conversion and put it in the same conversation as the Titanfall 2 VR mod, the genre's reference campaign conversion. Titanfall 2 set the bar for this kind of single-developer, full-hand-tracked shooter rebuild.
 
 The weapons themselves carry the experience. Each gun has its own reload choreography, so swapping from a pistol to an AR actually changes what your hands are doing, and grabbing a dropped weapon off the floor instead of hitting a button keeps you in the moment.
 
-## Beta Where It Counts
+## Modern Warfare 2 VR Beta Issues & Limitations
 
 The rough edges are real and they bite. The developer's own README warns of a Create2DTexture error (fixed by disabling shader preloading), MSI Afterburner blocking launch, black screens on thermal scopes, and reversed Predator drone controls. Saves can break between updates. None of that is fatal, but it means you're volunteering as a tester, not installing a finished product. If you want a frictionless evening, wait for the stable release the author is clearly working toward.
 
@@ -143,6 +143,6 @@ If you searched for "Modern Warfare 2 VR setup" or "how to play Modern Warfare 2
 
 **Common setup issues:** Create2DTexture error (disable shader preloading), MSI Afterburner blocking launch, black screens on thermal scopes, reversed Predator drone controls. Saves can break between updates — back up before updating.
 
-## Worth the Headset Time
+## Modern Warfare 2 VR Verdict
 
 For VR FPS fans who cut their teeth on this campaign flat, Overlord is the version I'd reach for now. It takes an already-iconic shooter and makes the gunplay physical in a way the original never could, and the set pieces that defined the game land harder when you're the one clearing the room. The beta instability is the price of admission. Back up your saves and go in expecting to tinker. If you own the remaster and a VR headset, this is one of the more complete flat-to-VR shooter conversions out there, and it's only getting better with every build.

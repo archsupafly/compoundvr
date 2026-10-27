@@ -112,7 +112,7 @@ The first thing that hits you in *Dying Light* VR isn't the zombies. It's the he
 
 For years the best anyone had was a hidden, abandoned Oculus mode and a string of VorpX profiles. Then Joaquin Manguevar Entertainment — the modder behind *Hostile VR* — went back to Techland's own buried Oculus code and rebuilt it into DLVR, a full 6DoF motion-control mod. That changed what this game is in VR.
 
-## The Official Mode: A Cautionary Tale
+## Dying Light VR Official Oculus Mode (Abandoned)
 
 When *Dying Light* launched on PC in January 2015, it shipped with a hidden Oculus Rift mode. Not a menu toggle, not a splash screen, not a patch — just a config-file flag you had to enable manually. That should tell you everything about how serious Techland was. The mode gave you head tracking and a stereoscopic view, but no motion controls, no VR UI, and no comfort options. Polygon called the experience "terrifying, but also unfinished and unpolished." Ars Technica was blunter: "a frustrating, nauseating mess."
 
@@ -124,7 +124,7 @@ Then you started moving, and the problems piled up. Strafing left or right sent 
 
 Techland's promotional hook at the time was parkour pioneer David Belle trying the Rift and calling it "magical." With respect, playing the retail version felt more like a warning. This is the textbook example of bolting VR onto a first-person game without redesigning anything around it. Techland moved on to *Dying Light 2*, Bad Blood, and other projects, and the official VR mode never got the attention it needed.
 
-## The Mod That Finally Made It Work
+## DLVR Mod: Dying Light VR Setup & Features
 
 DLVR takes that same abandoned Oculus code and turns it into something playable. It is not a clean-slate conversion — it is built from Techland's leftovers — but the result is the closest thing to a real *Dying Light* VR edition that exists on PC. Head tracking is now proper 6DoF, your hands are tracked, your weapon sits in your right hand, and your tools live in your left. Reach behind your left shoulder with the left controller and the tool wheel opens; use the left stick to pick what you need. Running, jumping, and climbing happen in stereo VR, and the v1004 release moved the whole thing to OpenXR, which removed the Revive and Link gymnastics earlier builds needed and cleaned up the shakiness and latency that made first impressions rough.
 
@@ -134,7 +134,7 @@ What that means in practice is that Harran finally behaves like a VR space. Roof
 
 Getting it running is moderate friction. DLVR is distributed through a Patreon membership and listed on Nexus Mods as *Dying Light* mod #1732. You install it over the PC version, launch through OpenXR, and tune a few options in `SETTINGS.txt`. Meta Link had an issue where motion controls might not be detected around the v1004 release, so Link users need to check the latest notes. That is the kind of detail that keeps this from being plug-and-play, but it is a long way from the config-file archaeology the official mode demanded.
 
-## The VorpX Profile: Still a Fallback
+## Dying Light VR VorpX Profile (Fallback Option)
 
 If you would rather not pay for a mod, cannot use motion controls, or just want stereoscopic head tracking without the parkour intensity of full hand tracking, the VorpX profile is still there. It delivers stereoscopic 3D and head tracking on Index, Reverb G2, Pimax, Quest over Link, and the rest of the PCVR ecosystem. It is not a full conversion — there are no motion controls, no hand presence, and the flat UI is still the flat UI — but it is a real way to see Harran in a headset.
 
@@ -142,11 +142,11 @@ Setup is not trivial. You need VorpX itself, which is a paid injection driver, a
 
 Once it is dialed in, the experience is unmistakably *Dying Light*, just inside your headset. Rooftop runs feel more precarious. Nighttime chases feel more frantic. Looking around while sprinting adds a physicality that the flat version can't replicate. But you're still playing with a gamepad or mouse and keyboard. You're still fighting the same flat UI. And you still have no comfort features to help with the motion. For players who want a simpler fallback, it remains valid. It is no longer the best modern option.
 
-## Why It Needed a Bespoke Mod
+## Why Dying Light VR Needed a Custom Mod
 
 *Dying Light* runs on Techland's proprietary Chrome Engine 6, not Unreal Engine. That matters because UEVR — the tool that has transformed so many flat games into real 6DoF VR — only hooks into Unreal. There is no UEVR profile for this game, and there can't be unless someone does the much harder work of building an engine-specific mod. DLVR is exactly that — a bespoke mod for Chrome Engine 6 that does what UEVR could not.
 
-## What It's Actually Like to Play
+## Dying Light VR Gameplay & Comfort
 
 The core game still holds up. Harran is one of the better open-world settings of its generation, and the parkour loop — run, climb, drop, fight, scavenge, repeat — is genuinely satisfying. The day/night cycle is brutal in the right way. The story is fine, the side content is generous, and the co-op keeps it alive long after the campaign.
 
