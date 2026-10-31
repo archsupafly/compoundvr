@@ -31,6 +31,9 @@ verdict: "Capcom's free PSVR2 VR Mode is the definitive way to play Village—du
 heroImage: /images/games/resident-evil-village-vr-hero.jpg
 sources: "Research compiled from Capcom/PlayStation Store listing, praydog REFramework GitHub and documentation (reframework.praydog.com), PCVR Central mod listing and setup guide, Digital Foundry PSVR2 tech review, and YouTube VR coverage (Virtual Reality Oasis, jacksepticeye, wolf397). Assessment draws on first-party documentation, developer notes, and community reception."
 relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
   - id: top-20-psvr2-launch-titles
     kind: article
     note: "PSVR2 launch title ranked in the top 20"

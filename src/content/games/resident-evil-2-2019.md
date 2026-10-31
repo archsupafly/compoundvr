@@ -30,6 +30,11 @@ experienceTags:
 tier: A
 verdict: "Resident Evil 2 earns an A as one of the finest survival horror games ever made—masterful atmosphere, perfect pacing, and a love letter to the 1998 original that surpasses it. The REFramework VR implementation earns a B—substantial capability with partial motion controls and full 6DOF tracking, but not a native VR experience. Combined, this is one of the most worthwhile VR conversions available for flat-to-VR enthusiasts."
 heroImage: /images/games/resident-evil-2-2019-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 vrReleaseDate: 2022-03-01
 score: 85
 flatReleaseDate: 2019-01-25

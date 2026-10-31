@@ -29,6 +29,9 @@ heroImage: /images/games/dead-space-vr-hero.jpg
 flatReleaseDate: 2008-10-14
 vrReleaseDate: 2008-10-14
 relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
   - id: luke-ross-real-vr-guide
     kind: article
     note: "Setup, optimization, and download guide for R.E.A.L. VR"

@@ -34,6 +34,11 @@ verdict: "An exceptional flat game made meaningfully better in VR through stunni
 flatReleaseDate: 2017-08-08
 vrReleaseDate: 2018-07-31
 heroImage: /images/games/hellblade-senuas-sacrifice-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 ---
 
 # Hellblade: Senua's Sacrifice in VR: Voices in Your Head, Now in Your Ears

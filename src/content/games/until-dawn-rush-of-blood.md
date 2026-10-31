@@ -30,6 +30,11 @@ experienceTags:
 tier: B
 verdict: "A polished, purpose-built VR rail shooter that delivers tight arcade action and genuine horror atmosphere across a brisk 2-3 hour campaign. Worth it for PSVR owners who want a confident showcase piece, but the narrow focus and lack of a PSVR2 version cap its broader appeal."
 heroImage: /images/games/until-dawn-rush-of-blood-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research conducted via IGN PSVR launch coverage (October 2016), Push Square gameplay and scoring analysis, PlayStation Lifestyle control scheme impressions, Digital Foundry technical analysis, Metacritic critic and user consensus, Reddit community reports from r/PSVR and r/UntilDawn, Official PlayStation Blog launch materials, and Supermassive Games developer interviews (2016). Assessment based on research compilation from multiple independent sources."
 ---
 

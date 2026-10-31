@@ -35,6 +35,11 @@ tier: S
 vrReleaseDate: 2020-03-23
 verdict: "The definitive VR campaign experience and the benchmark against which every other VR game is measured. If you own PCVR hardware, this is mandatory."
 heroImage: /images/games/half-life-alyx-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research compiled via Valve official documentation (half-life.com), Steam store page, UploadVR coverage of locomotion and physics systems, Road to VR design analysis, PC Gamer comfort and controls coverage, IGN review, Rock Paper Shotgun review, Digital Foundry technical analysis, community reports from Reddit (r/HalfLifeAlyx, r/oculus, r/ValveIndex), YouTube VR gameplay analysis, and Flat2VR Discord community knowledge. Assessment based on multi-source research;"
 ---
 

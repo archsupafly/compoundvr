@@ -32,6 +32,11 @@ experienceTags:
 tier: A
 verdict: "A well-crafted, atmosphere-first stealth horror experience that delivers a memorable few hours in VR — short, with little replay value, but the tension, world, and license integration make it well worth the evening."
 heroImage: /images/games/westworld-awakening-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Steam store page, Survios launch announcement and game page, Engadget (release date and platform limitations), The Verge (hands-on and developer context), Meta/Oculus Rift store page, UploadVR review (gameplay, length, stealth mechanics), Variety (HBO/Survios launch), The VR Realm review, The VR Critic review, Windows Central review. Assessment based on published VR reviews and developer documentation."
 ---
 

@@ -28,6 +28,11 @@ experienceTags:
 tier: A
 verdict: "AMID EVIL VR is the rare flat-to-VR conversion that earns its headset time — a full motion-controlled rebuild that turns every weapon into something you physically wield. If you like old-school arena shooters and you own a VR headset, this is an easy yes."
 heroImage: /images/games/amid-evil-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 history:
   - date: 2025-02-24
     note: "The Next Gen Update — reworked axe and planet throwing, improved weapon handling, visual and performance upgrades, Quest 3 support added, and better Valve Index / HTC Vive controller support."

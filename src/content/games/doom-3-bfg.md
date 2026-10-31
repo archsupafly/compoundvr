@@ -30,6 +30,9 @@ heroImage: /images/games/doom-3-bfg-vr-hero.jpg
 flatReleaseDate: 2012-10-16
 vrReleaseDate: 2017-03-01
 relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
   - id: top-10-vr-games-2015
     kind: article
   - id: top-20-vr-games-2021

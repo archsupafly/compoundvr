@@ -27,6 +27,11 @@ experienceTags:
 tier: B
 verdict: "A tightly built, genuinely scary native VR horror with satisfying gunplay and real atmosphere — just know going in that it's a short first chapter, not a full night."
 heroImage: /images/games/propagation-paradise-hotel-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 history:
   - date: 2024-10-23
     note: "Quest 3 enhanced build shipped, adding flashlight-cast shadows and other improvements."

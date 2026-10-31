@@ -32,6 +32,11 @@ experienceTags:
 tier: A
 verdict: "A singular, hand-sculpted horror storybook that earns its VR support — the eye-closing mechanic alone justifies the headset, even if the walking-sim pacing and scripted interactions won't land for everyone."
 heroImage: /images/games/the-midnight-walk-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Assessment based on UploadVR and Road to VR launch reviews, DualShockers and Impulse Gamer coverage, Steam community reports, VR/AR Wiki platform data, and YouTube VR channel coverage (Beardo Benjo, Gamertag VR, Without Parole, VoodooDE VR, A Wolf in VR)."
 ---
 

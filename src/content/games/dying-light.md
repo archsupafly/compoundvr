@@ -47,6 +47,9 @@ modDownload:
   note: "Created by Joaquin Manguevar (Hostile VR); distributed via Patreon"
 sources: "Wikipedia, Steam store page, MobyGames release data, Ars Technica 'Virtual letdown' VR review, Polygon Oculus Rift preview, GameWatcher and PCGamesN/Techland VR support announcements, Digital Spy VR support report, Steam community discussions on official VR and motion controls, 3DMGAME config guide, vorpX forum threads for Dying Light 1 and Dying Light 2021 profiles, vorpX Auto Edgepeek and no-sound issue threads, UEVR official site and documentation, Giant Bomb Chrome Engine 6 reference, Nexus Mods DLVR page (dyinglight mod #1732), Joaquin Manguevar Entertainment Patreon release posts for DLVR v1004, v1006 and hotfix, YouTube coverage of the DLVR release and the 2026 motion-control update."
 relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
   - id: top-10-vr-games-2015
     kind: article
     note: "Best VR games of 2015 — where Dying Light VR ranks"

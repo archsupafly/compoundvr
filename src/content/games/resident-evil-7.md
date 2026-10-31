@@ -33,6 +33,9 @@ heroImage: /images/games/resident-evil-7-vr-hero.jpg
 flatReleaseDate: 2017-01-24
 vrReleaseDate: 2017-01-24
 relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
   - id: top-20-vr-games-2017
     kind: article
 ---

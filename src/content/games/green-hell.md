@@ -30,6 +30,11 @@ experienceTags:
 tier: A
 verdict: "One of the best survival games VR has produced — a living Amazon you inhabit with your hands. Get the PC VR build for the full open world; treat the Quest and PSVR2 versions as the trimmed, portable cut."
 heroImage: /images/games/green-hell-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Steam store listing (store.steampowered.com/app/1782330), Incuvo official site (greenhellvr.com), UploadVR Quest and PC reviews and 2026 roadmap piece, Finger Guns and GamingTrend PSVR2 launch reviews, and YouTube VR coverage from VRelity, EddieVR, MrNix, VR ManCave, and WiseTheCreator. Assessment based on published reviews and creator gameplay footage, not direct testing."
 history:
   - date: 2024-12-16

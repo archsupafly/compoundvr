@@ -33,6 +33,9 @@ verdict: "A genuinely strong roguelike horror game that was built for VR first, 
 heroImage: "/images/games/the-persistence-vr-hero.jpg"
 sources: "Research conducted via UploadVR, Eurogamer, Push Square, ThisGenGaming, Nook Gaming, Steam Community discussions, Reddit PSVR community reports, Firesprite official game page, and YouTube VR gameplay footage (UploadVR, Paradise's Decay). Assessment based on published reviews and community experience;"
 relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
   - id: top-20-vr-games-2017
     kind: article
 ---

@@ -32,6 +32,11 @@ experienceTags:
 tier: A
 verdict: "A native-VR zombie shooter that gets gunplay and co-op exactly right, with a dog companion that earns every second — thin enemy variety and a joke-track script are the only things keeping it from essential."
 heroImage: /images/games/arizona-sunshine-2-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research compiled from the Arizona Sunshine 2 Wikipedia entry, Steam and PlayStation store pages, the SideQuest listing, the VRAR Wiki, Road to VR and UploadVR reviews, the TechRadar review, The VR Nexus launch review, and launch-era YouTube coverage (Without Parole, Rhys Da King VR, CyberStuffXR, Cas and Chary XR, VoodooDE VR, Switch Heads)."
 ---
 

@@ -35,6 +35,11 @@ experienceTags:
 tier: "A"
 verdict: "Alien: Rogue Incursion is a native VR game, not a mod or injection, and it delivers the best Alien horror experience currently available in a headset. Play it on PSVR2 or PCVR for the best visuals; the Quest 3/3S version is playable but clearly downgraded. If you cannot tolerate smooth locomotion, skip it."
 heroImage: /images/games/alien-rogue-incursion-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Assessment based on official launch announcements for PSVR2/SteamVR/Quest, Meta's Quest launch announcement, the Unreal Engine Survios developer interview, UploadVR's platform graphics comparison, Steam/PlayStation store pages for the Evolved Edition flat port, UploadVR reporting on Survios shifting to the flat port, and review coverage from IGN, TechRadar, and Android Central."
 ---
 

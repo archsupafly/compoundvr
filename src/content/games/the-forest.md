@@ -31,6 +31,11 @@ experienceTags:
 tier: B
 verdict: "The Forest in VR delivers one of the most atmospheric survival-horror experiences on PCVR when it works, but it's held back by abandoned support and performance demands that can push mid-range hardware to its knees."
 heroImage: /images/games/the-forest-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research conducted via Endnight Games official patch notes and blog, UploadVR coverage (April–May 2018), PC Gamer VR impressions, Steam Community announcements, and The Forest Wiki (Fandom). Assessment based on community experience and reported gameplay;"
 ---
 

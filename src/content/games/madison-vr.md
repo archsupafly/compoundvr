@@ -31,6 +31,11 @@ experienceTags:
 tier: B
 verdict: "A genuinely terrifying native VR horror with a brilliant photo mechanic — held back by slow movement, janky contextual grabs, and puzzles that fight you. Play it if you want to be scared, not if you want a clean control scheme."
 heroImage: /images/games/madison-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Steam store listing (app 2414550), UploadVR review 'MADiSON VR Review: The Haunting Of Hale House', UploadVR and Perp Games Quest announcements, MeuPlayStation critic score via Metacritic, YouTube VR coverage from Gamertag VR, PSVR Without Parole, The VR GRID and others. Assessment based on documented VR build behavior and review evidence, not direct hands-on testing."
 ---
 

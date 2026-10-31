@@ -34,6 +34,11 @@ experienceTags:
 tier: "B"
 verdict: "One of the most effective horror experiences in VR, held back from A-tier only by the repetitive minigame loop and a few rough platform ports. If you own any VR headset and can handle jump scares, this belongs in your library."
 heroImage: /images/games/five-nights-at-freddy-s-vr-help-wanted-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research conducted via Wikipedia, Steam and PlayStation store pages, Road to VR, UploadVR, VG247, Pingle Studio porting notes, PICO Store, UEVR and VorpX documentation, and GameBanana / Nexus Mods community mod listings. Assessment is based on published platform details and community play reports."
 ---
 

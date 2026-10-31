@@ -31,6 +31,11 @@ experienceTags:
 tier: B
 verdict: "A compelling co-op horror experience whose VR mode amplifies the tension, but persistent object-interaction jank and performance dips on larger maps keep it from earning a clean recommendation."
 heroImage: /images/games/phasmophobia-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research conducted via Steam store page, PlayStation Blog, UploadVR review-in-progress, Gamertag VR gameplay footage, Kinetic Games official roadmap, Flat2VR Discord community reports, Reddit community feedback (r/PhasmophobiaGame, r/PSVR), and YouTube VR gameplay channels."
 ---
 

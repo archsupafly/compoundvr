@@ -32,6 +32,9 @@ heroImage: /images/games/wilsons-heart-vr-hero.jpg
 vrReleaseDate: 2017-04-25
 sources: "Research conducted via Meta/Oculus store page, Wikipedia, Road to VR review, UploadVR review, PC World review, Dread Central coverage, and YouTube VR gameplay footage."
 relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
   - id: top-20-vr-games-2017
     kind: article
 ---

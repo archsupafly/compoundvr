@@ -30,6 +30,11 @@ experienceTags:
 tier: B
 verdict: "A genuinely atmospheric VR survival horror with hands-on survival mechanics and a real Metro world — but a padded back half and a soft Quest build keep it at recommended-with-caveats. Wait for a sale if you're on the fence."
 heroImage: /images/games/metro-awakening-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research compiled from Steam store/appdetails API (VR Only status, tracked controllers, Windows-only), official Metro Awakening site and Vertigo Games pages, UploadVR and Road to VR reviews (comfort table, manual reload, gas-mask wipe, hand-crank charger, playtime, Quest vs PC/PSVR2 visuals), Metacritic (74 metascore, 6.9 user, critic pull quotes, TGA 2024 nomination), TechRadar, vgtimes (Steam 75% positive, TGA nomination), and YouTube VR coverage (Beardo Benjo, Paradise Decay, Gamertag VR, VRelity, habie147). No direct hands-on testing; assessment based on documented reviewer and creator findings."
 ---
 

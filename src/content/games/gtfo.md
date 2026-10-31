@@ -32,6 +32,11 @@ experienceTags:
 tier: A
 verdict: "GTFO's community VR mod is a transformative way to play one of the tensest co-op shooters around — full-motion gunplay, roomscale presence, and four-player raids alongside your flat-screen friends. The price is real: performance tuning, a fiddly BepInEx install, and a game that will absolutely punish you."
 heroImage: /images/games/gtfo-vr-hero.jpg
+relatedPages:
+  - id: best-vr-horror-games
+    kind: article
+    note: "Featured in our VR horror roundup."
+
 sources: "Research drawn from the DSprtn GTFO_VR_Plugin GitHub repository and releases, the PCVR Central mod listing, Beardo Benjo and VR Velocity gameplay coverage, the Flatscreen-to-VR Discord community, and Steam Community install threads. Assessment based on documented mod features and community experience."
 ---
 
