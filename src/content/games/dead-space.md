@@ -29,6 +29,9 @@ heroImage: /images/games/dead-space-vr-hero.jpg
 flatReleaseDate: 2008-10-14
 vrReleaseDate: 2008-10-14
 relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
   - id: best-vr-horror-games
     kind: article
     note: "Featured in our VR horror roundup."

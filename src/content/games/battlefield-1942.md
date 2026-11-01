@@ -29,6 +29,11 @@ experienceTags:
 tier: B
 verdict: "BFVR turns Battlefield 1942 into a genuine inside-the-battlefield experience with tracked-controller aiming and first-person vehicles, but it's a fresh, advanced-setup community mod with rough edges — for WWII and sandbox fans who don't mind tinkering, not newcomers wanting polish."
 heroImage: /images/games/battlefield-1942-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "BFVR mod GitHub repository (JayBiggsGMG/BFVR-Battlefield-1942-VR-Mod) including release tag v1.0.0, INSTALLATION.md, and USER_GUIDE.md; Generation Amiga launch coverage (August 2026); VorpX community profile reference (rjkole.com); Battlefield 1942 flat-game references (Wikipedia, Battlefield Wiki, Planet Battlefield). Assessment built from mod documentation and launch coverage."
 ---
 

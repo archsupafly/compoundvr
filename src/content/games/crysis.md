@@ -27,6 +27,11 @@ experienceTags:
 tier: S
 verdict: "The fholger VR mod turns one of the most influential FPS campaigns ever made into a stunning room-scale experience. Full motion controls, smart nanosuit integration, and the same developer behind the Half-Life 2 VR mod — this is flat-to-VR conversion at its best. Performance demands are real and the mod isn't flawless, but standing on that beach in the nanosuit for the first time is one of VR's great moments."
 heroImage: /images/games/crysis-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research conducted via fholger GitHub repository and releases, UploadVR coverage, DSOGaming mod announcement, YouTube VR gameplay footage (multiple channels), Reddit community reports (r/VRGaming, r/virtualreality), and Flat2VR Discord community knowledge."
 flatReleaseDate: 2007-11-13
 vrReleaseDate: 2007-11-13

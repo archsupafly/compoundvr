@@ -33,6 +33,11 @@ tier: A
 score: 85
 verdict: "An essential VR conversion of a genre-defining classic. The Quest-native RTCWQuest port is the standout experience, offering full motion controls and polished execution. VorpX provides a serviceable PCVR alternative for those prioritizing visual fidelity over interactivity."
 heroImage: /images/games/return-to-castle-wolfenstein-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 flatReleaseDate: 2001-11-19
 vrReleaseDate: 2020-06-01
 ---

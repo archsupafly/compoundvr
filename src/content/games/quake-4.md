@@ -29,6 +29,11 @@ experienceTags:
 tier: B
 verdict: "A real, motion-controlled VR conversion of Quake 4 that's worth the sideload hassle for shooter fans — but it's a beta-era community build, not a polished store release, and you'll need to own the original."
 heroImage: /images/games/quake-4-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research compiled from Mixed News coverage of the Team Beef Quake 4 port (Jul 2023 development footage, Jan 2025 trailer and release window), Team Beef Patreon update notes (standalone and playable PCVR builds), Team Beef official site, UploadVR reporting on id Software–Team Beef contact, vorpX forum threads on Quake 4 compatibility, and flat-release history from Whendoesitlaunch, MobyGames, and Giant Bomb."
 ---
 

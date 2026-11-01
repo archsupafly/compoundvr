@@ -32,6 +32,11 @@ experienceTags:
 tier: C
 verdict: "The only real VR path is a 2016 emulator fork for legacy PCVR headsets, so this is a curiosity for tinkerers and Eternal Darkness obsessives, not a practical way to experience the game."
 heroImage: /images/games/eternal-darkness-sanity-s-requiem-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research from Dolphin VR official site and release notes (dolphinvr.wordpress.com), Road to VR Dolphin VR guide, VRborg setup guide, Emulation General Wiki, GameFAQs community reports, YouTube VR gameplay footage, and publisher/platform pages confirming no official re-release or PC version."
 ---
 

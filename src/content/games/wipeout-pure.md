@@ -30,6 +30,11 @@ experienceTags:
   - Emulator
 verdict: "Wipeout Pure in VR is a blast for fans of the original PSP racer, but the experience comes from the game, not the headset. PPSSPP VR adds stereoscopic 3D and head tracking; it does not transform the game into a native VR racer. Worth it for Wipeout diehards who already own a Quest or Pico, but not a reason to buy a headset."
 heroImage: /images/games/wipeout-pure-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "PPSSPP official VR documentation (ppsspp.org/docs/reference/vr-apk/), Luboš Vonásek VR emulator portfolio, Road to VR hands-on with PPSSPP VR (2015), Engadget overview of early PPSSPP VR, Mixed News coverage of standalone Quest 2 / Pico 4 PPSSPP VR release, GameBrew Wipeout Pure: Special Edition mod details, GitHub PPSSPP PR #15659 and #16097."
 ---
 

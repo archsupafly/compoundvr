@@ -30,6 +30,11 @@ experienceTags:
 tier: B
 verdict: "A genuine way to experience one of the best RPGs ever made inside a headset, but only if you have the PC to push it and the tolerance to tinker."
 heroImage: /images/games/the-elder-scrolls-iv-oblivion-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research conducted via Bethesda/Steam store page, Road to VR coverage, Flat2VR Discord community knowledge, YouTube VR gameplay footage (LunchAndVR, Beardo Benjo, Gamertag VR), Reddit community reports, and VorpX forums for original 2006 release status."
 ---
 

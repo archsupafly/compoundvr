@@ -28,6 +28,11 @@ experienceTags:
 tier: B
 verdict: "A legitimately good VR port of a legitimately good game, held back by beta-tier jank that's clearly being worked through release by release."
 heroImage: /images/games/perfect-dark-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research via Alex-LeTux/perfect_dark_VR GitHub repository, GitHub API release verification (v1.0-beta through v1.7.1-beta), community reports and release notes, YouTube gameplay footage."
 ---
 

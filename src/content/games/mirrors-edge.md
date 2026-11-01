@@ -39,6 +39,9 @@ history:
   - date: 2026-09-19
     note: Dedicated VR mod reached v0.2.2-alpha, adding motion controls, 6DOF tracking, and tracked hands, pistols, and parkour over the previous VorpX route.
 relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
   - id: dying-light
     kind: game
     note: "Parkour in VR — another first-person parkour game with a full VR mod"

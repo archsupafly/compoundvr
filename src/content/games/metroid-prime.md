@@ -35,6 +35,11 @@ verdict: "Metroid Prime through Dolphin VR with the Primed mod is one of the bes
 flatReleaseDate: 2002-11-17
 vrReleaseDate: 2016-07-13
 heroImage: /images/games/metroid-prime-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research conducted via PC Gamer, Rock Paper Shotgun, Dolphin VR community documentation, Dolphin XR and PrimedGun GitHub repositories (Nobbie248/PrimedGun), Reddit community reports (r/Dolphin_VR, r/Metroid, r/Vive, r/virtualreality), YouTube VR gameplay footage (Beardo Benjo, Gamertag VR, Vrified Games), Flat2VR Discord community knowledge, and ExplorXR coverage. Assessment is based on cross-referenced community consensus and PrimedGun release documentation through May 2026."
 ---
 

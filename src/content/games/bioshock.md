@@ -29,6 +29,11 @@ experienceTags:
 tier: "B"
 verdict: "Return to Rapture delivers a legitimate BioShock-flavored VR experience with full motion controls and impressive scope, but requires owning Half-Life: Alyx and accepting it's a tribute, not a port."
 heroImage: "/images/games/bioshock-vr-hero.jpg"
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research conducted via UploadVR hands-on coverage, PC Gamer mod reviews, YouTube VR gameplay (Beardo Benjo), Reddit r/VRGaming community reports, Steam Workshop page, and Flat2VR Discord community knowledge."
 ---
 

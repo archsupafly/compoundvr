@@ -32,6 +32,11 @@ history:
     note: HaloCEVR 1.0.0 released — the first full VR conversion for the original PC edition.
 verdict: "HaloCEVR is the real thing: a full conversion of the original Halo for motion-controlled PCVR. It has rough edges, but the campaign is playable, the shooting feels native, and this is now the way to experience the ringworld in a headset."
 heroImage: /images/games/halo-combat-evolved-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 flatReleaseDate: 2001-11-15
 vrReleaseDate: 2024-11-26
 modDownload:

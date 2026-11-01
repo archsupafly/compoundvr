@@ -34,6 +34,11 @@ history:
     note: KisakCOD VR's first public beta released — a full 6DoF OpenXR conversion of the original 2007 campaign.
 verdict: "KisakCOD VR makes one of the best campaigns ever made into a proper motion-controlled shooter. Beta rough edges and single-player-only scope included, it's still the way to stand inside Modern Warfare."
 heroImage: /images/games/call-of-duty-4-modern-warfare-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 modDownload:
   url: https://github.com/jplakon/CallOfDuty4_VR/releases
   label: Download CoD4 VR Mod

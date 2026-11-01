@@ -30,6 +30,9 @@ heroImage: /images/games/doom-3-bfg-vr-hero.jpg
 flatReleaseDate: 2012-10-16
 vrReleaseDate: 2017-03-01
 relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
   - id: best-vr-horror-games
     kind: article
     note: "Featured in our VR horror roundup."

@@ -33,6 +33,9 @@ flatReleaseDate: 2004-11-16
 vrReleaseDate: 2022-09-23
 sources: "Source VR Mod Team public documentation and Steam store pages (mod features, system requirements, install process, roadmap). Flat2VR Discord community knowledge (development history, texture upscaling experiments, controller binding reports). Reddit r/vive and r/hlvr community reports (comfort experiences, fitness tracker anecdotes, exploration behavior). YouTube VR gameplay footage from Beardo Benjo, Gamertag VR, and Paradise's Decay (control implementation, physics interaction, visual quality). Steam user reviews for Half-Life 2: VR Mod (aggregate sentiment, bug reports, completion confirmation)."
 relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
   - id: top-10-vr-games-2015
     kind: article
 ---

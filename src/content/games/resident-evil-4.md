@@ -33,6 +33,9 @@ vrReleaseDate: 2021-10-21
 verdict: "An S-tier VR experience across multiple platforms. The Quest native port is the headline — a full rebuild with motion controls that validates everything RE4 does well. The RE4 Remake on PCVR and PSVR2 offers a gorgeous, immersive alternative. Only the original 2005 version via injection driver remains a curiosity."
 heroImage: /images/games/resident-evil-4-vr-hero.jpg
 relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
   - id: best-vr-horror-games
     kind: article
     note: "Featured in our VR horror roundup."

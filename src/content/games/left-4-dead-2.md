@@ -35,6 +35,9 @@ tier: A
 verdict: "A genuinely thrilling VR conversion that's grown into one of the best co-op experiences in PCVR. Proper aim-down-sights, simple setup, and the same relentless zombie chaos make this an easy recommendation for anyone with the stomach for fast movement."
 heroImage: /images/games/left-4-dead-2-vr-hero.jpg
 relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
   - id: best-vr-horror-games
     kind: article
     note: "Featured in our VR horror roundup."

@@ -33,6 +33,11 @@ experienceTags:
 tier: D
 verdict: "Mass Effect is an A-tier game with D-tier VR implementation. The third-person camera fights against VR's strengths, injection drivers provide no motion controls or hand presence, and the result is a novelty for superfans rather than a genuine VR experience. Not worth buying VorpX for."
 heroImage: /images/games/mass-effect-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 ---
 
 # Mass Effect in VR: The Galaxy at Eye Level

@@ -33,6 +33,11 @@ experienceTags:
 tier: B
 verdict: "CSVR is the real deal — a standalone full-motion port of Counter-Strike 1.6 for Quest and Pico that handles surprisingly well, but the comfort and skill reset are serious enough caveats that this is best for players who already know the maps and can stomach a fast VR shooter."
 heroImage: /images/games/half-life-counterstrike-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Research from CSVR official site and SideQuest listing, Team Beef GitHub repository, pcgamesn coverage, Team Beef YouTube release trailer, AllKeyShop and PC Guide install reports, Wikipedia for flat-game facts, Lambda1VR project pages, vorpX forums for GoldSrc injection context, and UEVR documentation confirming engine incompatibility."
 ---
 

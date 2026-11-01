@@ -28,6 +28,11 @@ experienceTags:
 tier: B
 verdict: "A free community mod that turns Red Faction's destructible Mars into a place you can actually stand inside — flawed, beta, and VDXR-only, but the wall-comes-down moment is worth the tinkering for anyone who already owns the game and runs Virtual Desktop."
 heroImage: /images/games/red-faction-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Mod repository and release notes (CactusVRStudios/AlpineFactionVR, GitHub); contemporary overview from Generation Amiga (August 2026); flat-game identity and platform history from Wikipedia and MobyGames. Assessment based on mod documentation and community reports; no direct hands-on testing performed."
 ---
 

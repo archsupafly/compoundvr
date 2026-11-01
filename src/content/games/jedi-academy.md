@@ -28,6 +28,11 @@ experienceTags:
 tier: A
 verdict: "Jedi Academy was built for player choice, and JK XR honors that design by letting you physically wield the lightsaber, gesture Force powers, and build your own Jedi — on Quest or PCVR. The best Star Wars VR experience you can have right now that isn't a tech demo."
 heroImage: /images/games/jedi-academy-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 flatReleaseDate: 2003-09-16
 vrReleaseDate: 2023-12-23
 sources: "- Team Beef JK XR GitHub repository (github.com/Team-Beef-Studios/JKXR), SideQuest listing, README and feature documentation - Flat2VR Discord discussions of JK XR performance and stability, Reddit r/OculusQuest and r/vive threads on JKXR setup experiences - YouTube VR gameplay footage from Beardo Benjo and Gamertag VR channels covering JK XR Jedi Academy gameplay - General knowledge of Jedi Academy's game design, mission structure, and multiplayer community — verified against current sources"

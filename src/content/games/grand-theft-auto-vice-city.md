@@ -33,6 +33,11 @@ experienceTags:
 tier: A
 verdict: "The Vice City VR mod turns a 2002 masterpiece into a real room-scale 6DOF experience — walking, driving, and shooting 1986 Miami with your own hands. It's an alpha with genuine rough edges, but if you have a PCVR headset and a legal copy of the game, this is the way to play Vice City now."
 heroImage: /images/games/grand-theft-auto-vice-city-vr-hero.jpg
+relatedPages:
+  - id: best-2000s-games-vr
+    kind: article
+    note: "Featured in our best 2000s VR roundup."
+
 sources: "Vice City VR mod and standalone Quest port GitHub repositories; reVC open-source engine project; Flat2VR Discord community discussion; UEVR/Praydog project and releases; vorpX supported-games listing; PPSSPP VR documentation; Wikipedia (Grand Theft Auto: Vice City and The Definitive Edition); media coverage via ixbt.games, Sportskeeda, and pcvrcentral listings."
 ---
 
