@@ -2,18 +2,17 @@
 title: "Top VR Modding News of 2023: The Year the Toolkit Ate AAA"
 description: "CompoundVR's annual flat-to-VR modding roundup. 2023 didn't deliver studio VR modes — it delivered the tools to build them: UEVR, REFramework, Team Beef's Quest ports, and a scene that organized itself into an industry."
 pubDate: 2023-12-15
-lastUpdated: 2023-12-15
+lastUpdated: 2026-11-01
 author: Ian
 category: news
 heroImage: /images/articles/top-vr-modding-news-2023-hero.jpg
-tags: ['2023', 'vr-modding', 'uevr', 'flat-to-vr']
+tags: ['2023', 'vr-modding', 'uevr', 'flat-to-vr', 'psvr2', 'apple-vision-pro', 'meta-quest-3', 'steam-link', 'mixed-reality']
 ---
-
 2022 was the year flat-to-VR modding stopped feeling like a hobby and started looking like a business. Luke Ross was pulling reported five-figure monthly Patreon totals converting the biggest games on Earth, and the community treated each new R.E.A.L. drop like a studio release. This year the frame shifted again. 2023 didn't prove modding was a business — it proved it was infrastructure. The studios still weren't building VR modes. So the modders built the platform instead.
 
 The signal moment is technical, not commercial. A single generic injector — praydog's UEVR — learned to hook Unreal Engine at runtime and synthesize stereo rendering plus head tracking for thousands of titles at once. One tool, no per-title source work, free to use. That is not a port. That is a layer, and once the layer exists the catalogue behind it is just inventory.
 
-I've spent the year watching that layer swallow the release calendar. The demand was already there: UEVR install tutorials from channels like GingasVR and VR Central were already drawing big viewership, and a curated "getting started" video proved especially popular. That is an audience that already owns the headsets and the games and just needs the method. Below are the stories I think defined 2023 for flat-to-VR, in the order I rate them. None of them came from a publisher's roadmap.
+I've spent the year watching that layer swallow the release calendar. The demand was already there: UEVR install tutorials from channels like GingasVR and VR Central were already drawing big viewership, and a curated "getting started" video proved especially popular. That is an audience that already owns the headsets and the games and just needs the method. Below are the stories I think defined 2023 for flat-to-VR, in order of impact on adoption. None of them came from a publisher's roadmap.
 
 ## 1. UEVR ends 2023 as the universal Unreal VR injector
 
@@ -25,7 +24,33 @@ The honest caveats matter. UEVR preserves perspective, so third-person games sta
 
 [Read the UEVR guide](/articles/uevr-guide/)
 
-## 2. Luke Ross kept converting the biggest games on Earth
+## 2. Runtime plumbing made mods feel native
+
+The unglamorous story is the one that made everything above usable. Virtual Desktop's VDXR runtime, alongside OpenXR and OpenComposite, quietly removed the friction between a modded flat game and a headset's native path. Good plumbing is invisible; you only notice it when a mod stops feeling like a hack and starts feeling like a game. 2023 was the year the plumbing caught up to the ambition, and the reason so many of this year's mods "just worked" is mostly invisible engineering nobody filmed.
+
+Each piece removed a different wall. OpenXR gave mods one standard runtime interface instead of a separate path per headset maker, so a tool like UEVR could target any OpenXR headset without rewriting for each. OpenComposite let OpenVR-native mods run on top of OpenXR runtimes, so a flat-game inject didn't have to be tied to a single vendor's OpenVR host. VDXR, Virtual Desktop's runtime, gave Quest its own native PCVR path over Wi-Fi instead of a tethered PC connection.
+
+Valve's **Steam Link** app for Meta Quest quietly landed in November 2023 and proved to be the adoption multiplier. Previously, many Quest users relied on Virtual Desktop or complex workarounds to get a stable PCVR connection. Steam Link provided a free, official, and surprisingly performant way to wirelessly stream PCVR to Quest 2 and Quest 3. Suddenly, tens of thousands of Quest owners could run UEVR, REFramework, Team Beef's ports, and the growing catalogue of flat-to-VR injects with far less friction. Reddit discussions exploded around it (including top posts in r/SteamVR) as users realized they could access their entire Steam library through a much simpler path. None of it is glamorous, but all of it is why a modded flat game stopped feeling like a workaround.
+
+[Read the Virtual Desktop guide](/articles/virtual-desktop-guide/)
+
+## 3. Meta Quest 3 launch (October 10, 2023)
+
+Meta's Quest 3 landed on October 10, 2023, bringing pancake lenses, significantly improved performance, better passthrough, and a much stronger pitch for mixed reality. For the modding scene, timing was everything. Coming hot on the heels of UEVR's maturation and alongside Steam Link's arrival, Quest 3 quickly became the headset that most people reached for when trying flat-to-VR mods.
+
+More raw power meant a higher chance of success with heavier injects (including many UE titles), improved passthrough made the headset more appealing to a mainstream audience, and the sheer volume of Quest 3 units meant a massive influx of new users looking for ways to play their existing PC libraries in VR. It was the single biggest hardware catalyst for the "toolkit eating AAA" phenomenon in the back half of 2023.
+
+## 4. REFramework made RE Engine a first-class VR target
+
+praydog's other 2023 project is the one that kept Capcom's catalogue in VR without Capcom lifting a finger. REFramework — a mod loader, scripting platform, and VR layer for RE Engine — shipped three public builds across the year: v1.4 on February 1, v1.5.1 on June 4, and v1.5.2 on October 2. That cadence is the story: steady, public, iterative, and free.
+
+Resident Evil 4 Remake, which launched March 24, got REFramework VR support during 2023 in patron builds — 6DOF head tracking and gamepad control, though no first-person mode at that stage. The same layer services RE2, RE3, RE7, Village, Devil May Cry 5, Monster Hunter Rise, and Street Fighter 6. For PC VR owners who wanted Capcom in their headset, REFramework was the only door, and in 2023 it opened wider with each release.
+
+[Read the REFramework VR guide](/articles/reframework-vr-guide/)
+[Resident Evil 4 VR coverage](/games/resident-evil-4/)
+[Monster Hunter Rise VR coverage](/games/monster-hunter-rise/)
+
+## 5. Luke Ross kept converting the biggest games on Earth
 
 While praydog built the layer, Luke Ross kept doing what he has done since Cyberpunk 2077 joined his R.E.A.L. framework back in February 2022: hand-converting individual AAA titles into immersive VR through his paid Patreon system. Through 2023 his slate held Cyberpunk 2077 VR, added Hogwarts Legacy VR and Starfield VR. His own description puts the framework at 40-plus supported games, and reporting from 2022 pegged his Patreon take around $20,000 a month.
 
@@ -36,17 +61,7 @@ I'll state the tension plainly because it isn't going away: a paid VR mod sittin
 [Hogwarts Legacy VR coverage](/games/hogwarts-legacy/)
 [Starfield VR coverage](/games/starfield/)
 
-## 3. REFramework made RE Engine a first-class VR target
-
-praydog's other 2023 project is the one that kept Capcom's catalogue in VR without Capcom lifting a finger. REFramework — a mod loader, scripting platform, and VR layer for RE Engine — shipped three public builds across the year: v1.4 on February 1, v1.5.1 on June 4, and v1.5.2 on October 2. That cadence is the story: steady, public, iterative, and free.
-
-Resident Evil 4 Remake, which launched March 24, got REFramework VR support during 2023 in patron builds — 6DOF head tracking and gamepad control, though no first-person mode at that stage. The same layer services RE2, RE3, RE7, Village, Devil May Cry 5, Monster Hunter Rise, and Street Fighter 6. For PC VR owners who wanted Capcom in their headset, REFramework was the only door, and in 2023 it opened wider with each release.
-
-[Read the REFramework VR guide](/articles/reframework-vr-guide/)
-[Resident Evil 4 VR coverage](/games/resident-evil-4/)
-[Monster Hunter Rise VR coverage](/games/monster-hunter-rise/)
-
-## 4. Team Beef proved standalone Quest could do console-class VR
+## 6. Team Beef proved standalone Quest could do console-class VR
 
 The PCVR crowd does not own the whole story. Team Beef spent 2023 pushing console-class flat titles onto standalone Quest hardware, no PC in the loop. Jedi Academy VR, Quake 4 VR, Prey VR, and Doom 3 BFG all landed on Quest through the year. These are not streamed compromises — they are native ports tuned for mobile-class silicon, and they argue that "standalone" and "serious" are not contradictory.
 
@@ -57,7 +72,27 @@ I rate this higher than the press did at the time. Every headset maker sells the
 [Prey VR coverage](/games/prey/)
 [Doom 3 BFG VR coverage](/games/doom-3-bfg/)
 
-## 5. The Source engine crowd finally delivered
+## 7. PSVR2 launch (February 22, 2023)
+
+Sony's PlayStation VR2 launched on February 22, 2023 to significant hype. With its OLED display, inside-out tracking, eye tracking, haptics, and adaptive triggers, it was easily the most technologically advanced console VR headset at launch. Reddit discussions around the launch were some of the year's loudest (including hardware gripes around charging, price, and value), reflecting real excitement from the PlayStation audience.
+
+The key point for this modding story: PSVR2 was a closed ecosystem. There was no practical path to inject flat PC games into it the way Quest owners could route through a PC to run UEVR, REFramework, or community mods. It grew the installed base and drove demand for VR content, but it did *not* feed the flat-to-VR modding wave. Instead, it underscored the year-long mismatch between hardware sales and first-party VR support, further pushing PCVR players towards community-made solutions.
+
+[PSVR2 launch review](/articles/psvr2-release-review/)
+
+## 8. Apple Vision Pro announcement (June 5, 2023)
+
+Apple announced Vision Pro at WWDC on June 5, 2023. While not shipping until 2024, the announcement was by far the biggest mainstream VR/MR moment of the year. Our 2023 Reddit data bears this out — *r/virtualreality*'s "Apple's VR Headset - Vision Pro" thread was the highest-engagement VR-specific post we pulled for the year by a wide margin.
+
+The impact here was attention, not modding. Vision Pro drove an enormous wave of mainstream interest into spatial computing and VR, introducing millions of people to the space for the first time. Many of those newcomers would go on to search for "VR games to play", discovering existing libraries, PCVR, and eventually the community tools (UEVR, REFramework, etc.) covered throughout this article. For a year defined by community-built infrastructure, Apple's announcement was the mainstream inflection point that brought a much larger audience to those tools.
+
+## 9. Mixed Reality takes center stage (2023)
+
+2023 was the year mixed reality went from tech demo to a talking point. Meta heavily pushed MR on Quest 3 at launch, showcasing passthrough experiences, MR gaming, and productivity use cases. Developers began experimenting with MR-first experiences, and the community started exploring ways to blend flatscreen games and MR spaces.
+
+While dedicated "MR mods" were still in their infancy compared to flat-to-VR injectors, the shift in mindset was important. Headsets were no longer pitched purely as "VR headsets", but as spatial computers. That framing helped normalize the idea of using a headset to re-contextualize *existing* flatscreen content — a mental leap that made flat-to-VR mods feel far less esoteric to newcomers arriving from the Vision Pro announcement and Quest 3's MR push.
+
+## 10. The Source engine crowd finally delivered
 
 Valve's own engine generated the year's most satisfying community momentum. VR work on Half-Life 2's episodes, Portal 2, and Left 4 Dead 2 all pushed through in 2023, driven by community teams rather than any official green light. These are games with deep modding roots, and the VR conversions inherit that scaffolding instead of fighting it.
 
@@ -67,7 +102,7 @@ The significance is generational. Half-Life 2 defined PC shooters two decades ag
 [Portal 2 VR coverage](/games/portal-2/)
 [Left 4 Dead 2 VR coverage](/games/left-4-dead-2/)
 
-## 6. The toolkit reached past Unreal
+## 11. The toolkit reached past Unreal
 
 UEVR is the headline, but 2023 also showed the generic-conversion mindset is not Unreal-only. The clearest proof is CryEngine. Luke Ross's R.E.A.L. framework carried both Crysis and Far Cry 6 into VR, and both run on CryEngine-family code — Crysis on CryEngine itself, Far Cry 6 on Ubisoft's Dunia fork — rather than through a generic Unreal hook.
 
@@ -76,29 +111,26 @@ That is a different road from UEVR's single-injector model. Ross's line works th
 [Crysis VR coverage](/games/crysis/)
 [Far Cry VR coverage](/games/far-cry/)
 
-## 7. The scene organized itself into an industry
+## 12. The scene organized itself into an industry
 
 Flat-to-VR stopped being a collection of lone developers in 2023. The Flat2VR Discord became the coordination hub the whole space routes through, linked straight from the UEVR README, and Flat2VR itself began operating as a studio-like outlet publishing mod releases and news. RoadToVR's modding column gave the work a regular press beat. When the community's infrastructure starts looking like a publisher's org chart, the studios' absence stops being a gap and starts being a choice they're making.
 
 The hub status is not incidental. The UEVR README itself points modders to Flat2VR as the place to find releases and coordination, which is how a Discord becomes the switchboard for an entire scene. When the tool that defines the year sends its users there by default, the community's center of gravity stops being any single developer and becomes the directory. That is the difference between a hobby and an industry.
 
-## 8. Runtime plumbing made mods feel native
+## 13. Notable mods released in 2023
 
-The unglamorous story is the one that made everything above usable. Virtual Desktop's VDXR runtime, alongside OpenXR and OpenComposite, quietly removed the friction between a modded flat game and a headset's native path. Good plumbing is invisible; you only notice it when a mod stops feeling like a hack and starts feeling like a game. 2023 was the year the plumbing caught up to the ambition, and the reason so many of this year's mods "just worked" is mostly invisible engineering nobody filmed.
+While tools defined the year, a number of notable mods actually shipped or matured in 2023:
 
-Each piece removed a different wall. OpenXR gave mods one standard runtime interface instead of a separate path per headset maker, so a tool like UEVR could target any OpenXR headset without rewriting for each. OpenComposite let OpenVR-native mods run on top of OpenXR runtimes, so a flat-game inject didn't have to be tied to a single vendor's OpenVR host. VDXR, Virtual Desktop's runtime, gave Quest its own native PCVR path over Wi-Fi instead of a tethered PC connection. None of it is glamorous, but all of it is why a modded flat game stopped feeling like a workaround.
+| Mod | Date/Status | Notes |
+| :-- | :-- | :-- |
+| **UEVR (praydog)** | Public builds throughout 2023, headed to public 1.0 Dec 31, 2023 | The year's defining tool. Brought hundreds of Unreal titles into VR with 6DOF/stereo injection. |
+| **REFramework (praydog)** | v1.4 (Feb 1), v1.5.1 (Jun 4), v1.5.2 (Oct 2) | Cemented RE Engine as a first-class VR target, enabling RE2/RE3/RE7/Village/RE4 Remake (patron) and more. |
+| **Luke Ross R.E.A.L.** | Ongoing 2023 (Hogwarts Legacy VR, Starfield VR added) | Continued high-profile AAA conversions under a paid model, sparking ongoing debates around monetization. |
+| **Team Beef Quest ports** | Jedi Academy VR, Quake 4 VR, Prey VR, Doom 3 BFG VR (through 2023) | Brought console-class experiences natively to standalone Quest with no PC required. |
+| **Half-Life 2 VR & Episodes / Portal 2 VR / L4D2 VR** | Ongoing community releases through 2023 | Showcased Valve's catalog thriving through community VR conversions. |
+| **Crysis VR / Far Cry VR (fholger) & CryEngine via R.E.A.L.** | Ongoing 2023 | Proved the toolkit extended beyond Unreal Engine. |
 
-[Read the Virtual Desktop guide](/articles/virtual-desktop-guide/)
-
-## 9. More headsets, same silence from the studios
-
-Two headset launches bookended 2023's hardware story: PSVR2 arrived February 22 and Meta Quest 3 followed October 10. Both put more headsets in more homes. Neither studio planned a first-party VR mode for its 2023 flat releases. That mismatch is exactly why the toolkit ate AAA this year instead of next — the demand was on the shelf and the modders were the only ones who showed up to meet it.
-
-Only one of those two headsets actually fed the modding wave. UEVR and its cousins require a PCVR runtime, so the path into flat-to-VR runs through a PC connected to the headset — the role Quest's Link and Air Link play for standalone hardware. PSVR2 grew the installed base too, but its tethered console pipeline has no native route into a modded PC game. So the Quest 3 landing in homes in October mattered to this story in a way the PSVR2 launch in February did not: more standalone headsets within reach of a PC meant more seats for the toolkit to fill.
-
-[PSVR2 launch review](/articles/psvr2-release-review/)
-
-## The platform was built by the community
+## 14. The platform was built by the community
 
 My takeaway for 2022 was that modding had become a business. My takeaway for 2023 is stronger: it became the platform itself. UEVR is a runtime. REFramework is a loader. Team Beef is a porting house. Flat2VR is a publisher. None of it came from the studios that own the IP, and all of it works.
 
