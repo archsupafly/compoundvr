@@ -12,15 +12,15 @@ In 2023, studios still weren't shipping VR modes for their biggest games, so mod
 
 ## 1. UEVR: Universal Unreal Engine VR injection
 
-praydog's [UEVR](/articles/uevr-guide/) moved from patron testing to a public 1.0 slated for December 31, 2023, bringing 6DOF head tracking, stereo rendering, and OpenXR/OpenVR support to thousands of Unreal titles. By year end it covered UE 4.8-5.x with hundreds of tested games, including *RoboCop: Rogue City*, *Lies of P*, *Hogwarts Legacy*, and *Star Wars Jedi: Fallen Order*. Motion controls landed for a smaller set, and anti-cheat remained the biggest blocker.
+praydog's [UEVR](/articles/uevr-guide/) moved from patron testing to a public 1.0 slated for December 31, 2023, bringing 6DOF head tracking, stereo rendering, and OpenXR/OpenVR support to thousands of Unreal titles. By year end it covered UE 4.8-5.x with hundreds of tested games, including [*RoboCop: Rogue City*](/games/robocop-rogue-city/), *Lies of P*, *Hogwarts Legacy*, and [*Star Wars Jedi: Fallen Order*](/games/star-wars-jedi-fallen-order/). Motion controls landed for a smaller set, and anti-cheat remained the biggest blocker.
 
 ## 2. Runtime plumbing: OpenXR, Virtual Desktop, Steam Link
 
-Mods need a stable path to a headset to be usable. OpenXR standardized the runtime interface, OpenComposite let OpenVR mods run on OpenXR, and [Virtual Desktop](/articles/virtual-desktop-guide/)'s VDXR gave Quest a solid wireless PCVR path. Valve's Steam Link for Meta Quest landed in November 2023 and became the biggest adoption multiplier—free, official, and easy enough for Quest owners to run UEVR and REFramework without wrestling with workarounds.
+Mods need a stable path to a headset to be usable. OpenXR standardized the runtime interface, OpenComposite let OpenVR mods run on OpenXR, and [Virtual Desktop](/articles/virtual-desktop-guide/)'s VDXR gave Quest a solid wireless PCVR path. Valve's [Steam Link for Meta Quest](/articles/steam-link-quest-guide/) landed in November 2023 and became the biggest adoption multiplier—free, official, and easy enough for Quest owners to run UEVR and REFramework without wrestling with workarounds.
 
 ## 3. Meta Quest 3 launch
 
-Meta Quest 3 launched October 10, 2023 with pancake lenses, better performance, improved passthrough, and a stronger pitch for mixed reality. Timed with UEVR's maturity and Steam Link's arrival, it became the headset most people reached for to try flat-to-VR mods. More power improved odds with heavier injects, and its sales brought a wave of new users looking to play PC libraries in VR.
+[Meta Quest 3](/articles/meta-quest-3/) launched October 10, 2023 with pancake lenses, better performance, improved passthrough, and a stronger pitch for mixed reality. Timed with UEVR's maturity and Steam Link's arrival, it became the headset most people reached for to try flat-to-VR mods. More power improved odds with heavier injects, and its sales brought a wave of new users looking to play PC libraries in VR.
 
 ## 4. REFramework: VR for RE Engine
 
@@ -40,7 +40,7 @@ Sony launched [PlayStation VR2](/articles/psvr2-release-review/) on February 22,
 
 ## 8. Apple Vision Pro announcement
 
-Apple announced Vision Pro at WWDC on June 5, 2023. While not shipping until 2024, it drove by far the biggest mainstream VR spike that year (*r/virtualreality*'s Vision Pro thread was the highest-engagement VR post we pulled). It introduced millions to spatial computing and sent many looking for things to do in VR, leading them to PCVR and community tools like UEVR and REFramework.
+Apple announced [Vision Pro](/articles/apple-vision-pro/) at WWDC on June 5, 2023. While not shipping until 2024, it drove by far the biggest mainstream VR spike that year (*r/virtualreality*'s Vision Pro thread was the highest-engagement VR post we pulled). It introduced millions to spatial computing and sent many looking for things to do in VR, leading them to PCVR and community tools like UEVR and REFramework.
 
 ## 9. Mixed reality takes hold
 
@@ -56,7 +56,7 @@ Luke Ross's R.E.A.L. framework brought [*Crysis*](/games/crysis/) (CryEngine) an
 
 ## 12. Flat2VR organizes the scene
 
-The Flat2VR Discord became the coordination hub for flat-to-VR, linked from the UEVR README, and Flat2VR acted more like a publisher than a forum in 2023. Paired with RoadToVR's modding coverage, the community's infrastructure started looking like a publisher's org chart while studios stayed silent.
+The [Flat2VR Discord](https://discord.gg/flat2vr) became the coordination hub for flat-to-VR, linked from the UEVR README, and Flat2VR acted more like a publisher than a forum in 2023. Paired with RoadToVR's modding coverage, the community's infrastructure started looking like a publisher's org chart while studios stayed silent.
 
 ## 13. Notable VR mod game releases in 2023
 
@@ -65,5 +65,7 @@ The Flat2VR Discord became the coordination hub for flat-to-VR, linked from the 
 - **Left 4 Dead 2 VR** - Co-op zombie mayhem made its way to VR via community efforts.
 - **Jedi Academy VR, Quake 4 VR, Prey VR, Doom 3 BFG VR (Team Beef)** - Native Quest ports with no PC required.
 - **Crysis VR, Far Cry VR** - fholger's mods matured, expanding CryEngine support.
+
+## 14. Conclusion
 
 The platform was built by the community in 2023. UEVR, REFramework, Team Beef, and a growing toolkit made flat games playable in VR at scale. The layer is built—the question going into 2024 was whether studios would catch up.
