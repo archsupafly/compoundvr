@@ -2,7 +2,7 @@
 title: "Top VR Modding News of 2023: The Year the Toolkit Ate AAA"
 description: "CompoundVR's annual flat-to-VR modding roundup. 2023 didn't deliver studio VR modes — it delivered the tools to build them: UEVR, REFramework, Team Beef's Quest ports, and a scene that organized itself into an industry."
 pubDate: 2023-12-15
-lastUpdated: 2026-11-01
+lastUpdated: 2023-12-15
 author: Ian
 category: news
 heroImage: /images/articles/top-vr-modding-news-2023-hero.jpg
