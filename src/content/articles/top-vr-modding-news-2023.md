@@ -7,6 +7,10 @@ author: Ian
 category: news
 heroImage: /images/articles/top-vr-modding-news-2023-hero.jpg
 tags: ['2023', 'vr-modding', 'uevr', 'flat-to-vr', 'psvr2', 'apple-vision-pro', 'meta-quest-3', 'steam-link', 'mixed-reality']
+relatedPages:
+  - id: top-35-vr-games-2023
+    kind: article
+    note: "Our ranked list of the 35 VR games and mods that defined 2023."
 ---
 In 2023, studios still weren't shipping VR modes for their biggest games, so modders built the tools to do it themselves. UEVR, REFramework, and a wave of ports turned flat-to-VR from a hobby into infrastructure, driven by new headsets, better wireless streaming, and a community that organized into something closer to a publisher.
 

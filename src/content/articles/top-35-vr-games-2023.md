@@ -8,6 +8,10 @@ category: opinion
 listicle: true
 heroImage: /images/articles/top-35-vr-games-2023-hero.jpg
 tags: ['vr-games', '2023', 'psvr2', 'quest-3', 'vr-mods', 'year-in-review']
+relatedPages:
+  - id: top-vr-modding-news-2023
+    kind: article
+    note: "The year's biggest VR modding news: UEVR, REFramework, ports, and tooling."
 ---
 
 I've spent 2023 with more headsets on my face than is medically advisable, and if you'd asked me in January what the year would deliver, I'd have guessed a quiet contraction. I'd have been wrong about the quiet part. Sony dropped the PSVR2 on February 22 at $549.99 — dual OLED panels, eye tracking, headset haptics — and Meta answered with the Quest 3 on October 10 at $499.99, pancake lenses and full-color passthrough. Two new headsets in one year is the kind of hardware cadence this medium hadn't seen since the original boom.
