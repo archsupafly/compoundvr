@@ -1,9 +1,9 @@
 ---
 title: "Bendy and the Ink Machine VR"
-description: "A cult cartoon-horror game finally gets proper VR — full 6DOF, Henry's own hands and body, and a working mod that drops you inside the ink-soaked Joey Drew Studios."
+description: "A cult cartoon-horror game in VR: Team Beef's BendyVR first brought full 6DOF to Joey Drew Studios in 2023, and InkVR now supersedes it as the working PCVR mod with Henry's own hands and body."
 flatReleaseDate: 2018-10-27
-vrReleaseDate: 2026-10-26
-lastUpdated: 2026-10-26
+vrReleaseDate: 2023-01-11
+lastUpdated: 2026-10-27
 featured: false
 routeType: Full VR Mod
 platforms: ['PCVR']
@@ -28,20 +28,25 @@ experienceTags:
   - Puzzle
   - Story-Driven
 tier: B
-verdict: "InkVR finally puts you inside Bendy and the Ink Machine with Henry's own hands and full 6DOF — a genuine, atmospheric VR win for fans of stylized horror, held back by its mod-only existence and a combat-light cult game at the core."
+verdict: "Bendy and the Ink Machine has had a full VR path since Team Beef's BendyVR in 2023; InkVR now supersedes it with a working, motion-controlled way into Joey Drew Studios, held back mainly by its mod-only status and the base game's light combat."
 heroImage: /images/games/bendy-and-the-ink-machine-vr-hero.jpg
 modDownload:
   url: "https://github.com/StrikeZoneVR-hub/InkVR/releases/latest"
-  label: "Download Bendy and the Ink Machine VR Mod"
-  note: "Created by StrikeZoneVR-hub"
-sources: "InkVR GitHub repository and README (StrikeZoneVR-hub/InkVR), Team Beef BendyVR GitHub repository and README (Team-Beef-Studios/BendyVR), VRMods-List directory, YouTube VR coverage including Team Beef VR Game Ports, ClicksterVR, Headset-VR, and IRONBUGVR, plus Steam app 622650 and Wikipedia for flat release dates."
+  label: "Download InkVR (current Bendy VR mod)"
+  note: "Created by StrikeZoneVR-hub; supersedes Team Beef's BendyVR for current Steam builds"
+sources: "InkVR GitHub repository, README, and releases (StrikeZoneVR-hub/InkVR, v1.0.0 2026-10-27); Team Beef BendyVR GitHub repository, README, and releases (Team-Beef-Studios/BendyVR, v1.1.0 2023-01-11); VRMods-List directory; YouTube VR coverage including Team Beef VR Game Ports, ClicksterVR, Headset-VR, and IRONBUGVR; Steam app 622650 and Wikipedia for flat release dates."
+history:
+  - date: 2023-01-11
+    note: "Original review published for Team Beef's BendyVR, the first full 6DOF VR mod for Bendy and the Ink Machine."
+  - date: 2026-10-27
+    note: "Updated for InkVR's release. InkVR supersedes Team Beef's BendyVR as the working PCVR mod on current Steam builds; article revised to reflect the current install path, controls, and compatibility status."
 ---
 
-There is a specific kind of dread that only kicks in when you can look down and see your own cartoon gloves. I played Bendy and the Ink Machine flat, and the studio always felt like a diorama I was watching through glass. A VR mod landed this week that shatters the glass — and the first thing it does is put Henry's oversized shoes under your feet and his ink-stained hands at the end of your arms.
+There is a specific kind of dread that only kicks in when you can look down and see your own cartoon gloves. I played Bendy and the Ink Machine flat, and the studio always felt like a diorama I was watching through glass. Team Beef's BendyVR first broke that glass in early 2023 with full 6DOF VR, and InkVR now supersedes it as the working PCVR path — putting Henry's oversized shoes under your feet and his ink-stained hands at the end of your arms.
 
 ## Inside Joey Drew Studios
 
-Bendy and the Ink Machine never got an official VR mode, and it is not coming to PSVR2 or running natively on a Quest. What it has, as of right now, is a free PCVR mod called InkVR, and it is the real thing: full 6DOF, Henry's hands and body tracked in the world, and motion controls wired into just about everything. It is a Unity game, and the mod bolts on OpenXR, so it runs through Virtual Desktop, Quest Link, or straight SteamVR with bindings for Quest Touch and Valve Index controllers. I ran it on a Quest 3 over Virtual Desktop, which is exactly the setup the author built and tested against.
+Bendy and the Ink Machine never got an official VR mode, and it is not coming to PSVR2 or running natively on a Quest. What it has now is InkVR, the current working PCVR mod that supersedes Team Beef's earlier BendyVR release. InkVR is the real thing: full 6DOF, Henry's hands and body tracked in the world, and motion controls wired into just about everything. It is a Unity game, and the mod bolts on OpenXR, so it runs through Virtual Desktop, Quest Link, or straight SteamVR with bindings for Quest Touch and Valve Index controllers. I ran it on a Quest 3 over Virtual Desktop, which is exactly the setup the author built and tested against.
 
 The one thing you need to know before you go looking: this is a mod, not a store page. There is no official path, no console version, no standalone port. If you want Bendy in VR, you are booting Steam on a PC and installing InkVR.
 
@@ -53,9 +58,9 @@ That is what VR changes. Bendy was always a game about atmosphere — the drippi
 
 ## Two ways into the studio
 
-Bendy in VR has had two shots. The first was Team Beef's BendyVR, which landed back in early 2023 as their debut PCVR mod. It was a proper full-motion-control effort — melee with the axe, the works — and for a while it was the only way in. Then the floor dropped out: as of mid-2025 the author confirmed it stopped launching on the current Steam build, and the fix was not a quick patch. The repo's last word was that they were looking at either repairing it or porting the effort to UUVR. As it stands, on an up-to-date Steam install, BendyVR is a dead end.
+Bendy in VR has had two shots. The first was Team Beef's BendyVR, which landed in early 2023 (v1.1.0, 2023-01-11) as a full-motion-control PCVR mod — melee with the axe, the works — and for a while it was the only way in. Then the floor dropped out: as of mid-2025 the author confirmed it stopped launching on the current Steam build, and the fix was not a quick patch. The repo's last word was that they were looking at either repairing it or porting the effort to UUVR. As it stands, on an up-to-date Steam install, BendyVR is a dead end.
 
-InkVR is the second shot, and it is the one that works today. It shipped this week with a launcher that finds the game through Steam, pulls down Unity's OpenXR plugin on its own, and drops you into PLAY IN VR. Setup is low-to-medium — the launcher does the heavy lifting, but you are still running a modded Unity game, so expect to baby it a little. For a horror game whose only other VR path is currently bricked, "low-to-medium and it actually runs" is a gift. Both are full VR mods, but in practice there is one door open right now, and it is InkVR.
+InkVR supersedes BendyVR as the working option. It shipped in October 2026 (v1.0.0, 2026-10-27) with a launcher that finds the game through Steam, pulls down Unity's OpenXR plugin on its own, and drops you into PLAY IN VR. Setup is low-to-medium — the launcher does the heavy lifting, but you are still running a modded Unity game, so expect to baby it a little. For a horror game whose original VR path is currently bricked, "low-to-medium and it actually runs" is a gift. Both are full VR mods, but in practice there is one door open right now, and it is InkVR.
 
 ## Where the ink thins
 
