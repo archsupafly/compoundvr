@@ -1,40 +1,42 @@
 ---
-title: 'Zelda: Ocarina of Time VR Setup Guide (Ship of Harkinian + CitraVR)'
-description: 'How to play Ocarina of Time in VR: Ship of Harkinian on PC for full 6DoF and motion controls, or CitraVR on Quest. Step-by-step setup, key settings, fixes, and workarounds.'
+title: 'Ocarina of Time VR Guide: Shipwright VR & Ship of Harkinian Setup'
+description: 'How to play Ocarina of Time in VR with Shipwright VR (Ship of Harkinian VR fork) on PC for full 6DoF and motion controls, or CitraVR on Quest. Step-by-step setup, settings, fixes, and workarounds.'
 pubDate: 2026-11-05
 lastUpdated: 2026-11-05
 author: Ian
 category: guide
 heroImage: /images/articles/zelda-ocarina-of-time-vr-guide-hero.jpg
-tags: ['zelda', 'ocarina-of-time', 'ship-of-harkinian', 'citravr', 'quest', 'vr-setup', 'emulation']
+tags: ['zelda', 'ocarina-of-time', 'ocarina-of-time-vr', 'shipwright-vr', 'ship-of-harkinian', 'citravr', 'quest', 'vr-setup', 'emulation']
 relatedPages:
   - id: legend-of-zelda-ocarina-of-time
     kind: game
     note: "Our Ocarina of Time VR review and hands-on impressions."
 faq:
   - q: "Can you play Ocarina of Time in VR?"
-    a: "Yes. Ship of Harkinian VR runs the N64 version on a PC VR headset with 6DoF and motion controls. CitraVR runs Ocarina of Time 3D on a standalone Meta Quest."
+    a: "Yes. Shipwright VR (a VR fork/build on top of the Ship of Harkinian PC port) runs Ocarina of Time in VR on a PC VR headset with 6DoF tracking and motion controls. CitraVR runs Ocarina of Time 3D on a standalone Meta Quest as a fallback."
   - q: "What is the best way to play Ocarina of Time in VR?"
-    a: "Use Ship of Harkinian VR if you have a VR-ready Windows PC and an OpenVR headset. Use CitraVR only if you need a Quest-only fallback."
-  - q: "How do I fix pre-rendered backgrounds blocking my view in Ship of Harkinian VR?"
+    a: "Use Shipwright VR on a VR-ready Windows PC with an OpenVR/SteamVR headset. It is the best Ocarina of Time VR experience because it uses the N64 game with in-headset 6DoF and motion controls. Use CitraVR only if you need a Quest-only option."
+  - q: "Is Shipwright VR the same as Ship of Harkinian VR?"
+    a: "They are closely related. Ship of Harkinian is the open-source PC port of Ocarina of Time. Shipwright VR is commonly used as a VR fork/build that adds VR features on top of that port. You still need Ship of Harkinian’s generated game data and a compatible, legally dumped ROM."
+  - q: "How do I fix pre-rendered backgrounds blocking my view in Shipwright VR?"
     a: "Install 3D background mods (such as the Djipi 3DS Experience background files), then in Enhancements > Graphics disable 2D pre-rendered backgrounds and fixed camera, and restart the game."
-  - q: "Why is my shield not blocking in Ship of Harkinian VR?"
+  - q: "Why is my shield not blocking in Shipwright VR?"
     a: "Turn Physical Combat on, then increase the shield width sliders in the Physical Combat settings. If you play as Child Link, the Hylian Shield may not behave correctly with physical combat; the Fireproof Deku Shield cheat is a practical workaround."
-  - q: "What if Ship of Harkinian VR shows a black screen, upside-down world, or missing HUD on Quest?"
+  - q: "What if Shipwright VR shows a black screen, upside-down world, or missing HUD on Quest?"
     a: "For black screens, use DirectX 11 and start SteamVR first. For Quest connection issues, check your OpenXR runtime and streaming app setup. HUD visibility and upside-down rendering can depend on the VR build and connection method, so test Virtual Desktop/Meta Link/Steam Link and keep the VR fork updated."
 ---
 
-# Zelda: Ocarina of Time VR Setup Guide (Ship of Harkinian + CitraVR)
+# Ocarina of Time VR Guide: Shipwright VR & Ship of Harkinian Setup
 
-Want to play *The Legend of Zelda: Ocarina of Time* in VR? Use **Ship of Harkinian VR** on a Windows PC if you can. It runs the N64 game in a headset with 6DoF tracking and motion controls. If you only have a standalone Quest, **CitraVR** runs *Ocarina of Time 3D* (the 3DS remake) without a PC.
+Want to play *The Legend of Zelda: Ocarina of Time* in VR? The best option is **Shipwright VR** on a Windows PC. Shipwright VR is a VR fork/build on top of **Ship of Harkinian**, the open-source PC port of the N64 game. Together they let you play Ocarina of Time in VR with 6DoF tracking and motion controls on a SteamVR/OpenVR headset. If you only have a standalone Quest, **CitraVR** runs *Ocarina of Time 3D* (the 3DS remake) without a PC.
 
-This guide focuses on getting Ship of Harkinian VR working well: install, first-run settings, controls, common Quest/PC VR problems, and the workarounds players actually hit in temples and boss fights. For impressions and context, read our [Ocarina of Time VR review](/games/legend-of-zelda-ocarina-of-time/).
+This Ocarina of Time VR guide focuses on getting Shipwright VR working well: install, first-run settings, controls, common Quest/PC VR problems, and the workarounds players actually hit in temples and boss fights. For impressions and context, read our [Ocarina of Time VR review](/games/legend-of-zelda-ocarina-of-time/).
 
 ## Before you start
 
 You must supply your own legally dumped copy of the game. Neither project ships copyrighted assets.
 
-### Ship of Harkinian VR (PC)
+### Shipwright VR / Ship of Harkinian VR (PC)
 - A legally dumped *Ocarina of Time* (N64) ROM. Check compatibility at [ship.equipment](https://ship.equipment) or compare the ROM SHA-1 to the supported hashes for your build.
 - A Windows PC with a discrete GPU.
 - A VR headset with SteamVR/OpenVR support (Quest via Link, Air Link, Virtual Desktop, or Steam Link; Valve Index; or another OpenVR headset).
@@ -44,25 +46,25 @@ You must supply your own legally dumped copy of the game. Neither project ships 
 - A Meta Quest 2, Quest Pro, Quest 3, or Quest 3S.
 - A legally dumped *Ocarina of Time 3D* dump (`.cia` or `.3ds`). This is the 3DS remake, not the N64 original.
 
-## Ship of Harkinian VR setup (PC)
+## Shipwright VR setup (PC)
 
-Ship of Harkinian is an open-source PC port of *Ocarina of Time*. The VR build most players use is a community fork (often called Shipwright-VR) that adds OpenVR/VR features on top of the port. Features, menu names, and bugs can vary by fork and release, so use one fork consistently.
+Ship of Harkinian is the base PC port of *Ocarina of Time*. Shipwright VR adds the VR features most players want on top of that port. Features, menu names, and bugs can vary by fork and release, so use one fork consistently and follow that release’s notes when needed.
 
 ### Install
 
 1. **Use a simple install path.** A short path like `C:\Games\OoT VR` can avoid startup/path issues.
 2. **Verify your ROM first.** Confirm the dump is compatible before troubleshooting anything else. NTSC 1.0/1.2 dumps are commonly used by players; use the version your fork supports.
 3. **Install the base Ship of Harkinian.** Launch the desktop build once, point it at your ROM, and let it generate the required `.otr` data.
-4. **Install the VR fork/build.** Extract the VR release into the same folder so it can read the generated data, then launch the VR executable from that release.
+4. **Install the Shipwright VR fork/build.** Extract the VR release into the same folder so it can read the generated data, then launch the VR executable from that release.
 5. **Enable VR in the game settings.** Press `Esc` to open the Ship of Harkinian menu, go to **VR Settings > General**, and turn VR on.
-6. **Use DirectX 11.** The VR fork needs DirectX 11. OpenGL will not work for VR. If you see a black screen or no headset output, check `shipofharkinian.json` and set the graphics backend to DirectX 11.
+6. **Use DirectX 11.** Shipwright VR needs DirectX 11. OpenGL will not work for VR. If you see a black screen or no headset output, check `shipofharkinian.json` and set the graphics backend to DirectX 11.
 7. **Start SteamVR before the VR build.** Launch SteamVR (or your PC VR streaming path), confirm the headset is active, then start the VR executable.
 
 ### Opening the settings menu in VR
 
 The Ship of Harkinian menu is opened with `Esc` on your keyboard. If you are wearing a headset, lift the headset enough to see your monitor, click the game window, then press `Esc`. This is where you change VR controls, HUD, graphics, enhancements, cheats, and developer tools.
 
-## First-time settings that make the game playable
+## First-time Shipwright VR settings that make Ocarina of Time playable
 
 ### Fix pre-rendered backgrounds (Castle Town and similar areas)
 
@@ -89,9 +91,9 @@ Useful first-pass settings (names may differ slightly by fork):
 - **Body:** hiding Link’s body can reduce visual clutter in first-person VR.
 - **Ocarina mapping:** map C-buttons to inputs you can hit reliably. Many players prefer mapping C-buttons to left-stick directions.
 
-## VR controls and features (Ship of Harkinian VR)
+## Shipwright VR controls and features
 
-Recent VR forks have added features that change how the game plays. Availability depends on the build you install.
+Recent Shipwright VR builds have added features that change how Ocarina of Time plays in VR. Availability depends on the build you install.
 
 - **Physical combat:** when enabled, sword swings and shield blocking use hand motion/geometry instead of only button timing. You can toggle it in **VR Settings > Physical Combat**.
 - **Shield tuning:** if enemies hit through your shield, increase the shield width sliders (top/bottom) in Physical Combat settings.
@@ -101,7 +103,7 @@ Recent VR forks have added features that change how the game plays. Availability
 
 ## CitraVR setup (Quest fallback)
 
-CitraVR is a native Quest emulator for 3DS games. It runs *Ocarina of Time 3D* on a virtual screen with controller mapping. It is quick to set up, but it is not the same as Ship of Harkinian VR’s motion-controlled N64 experience.
+CitraVR is a native Quest emulator for 3DS games. It runs *Ocarina of Time 3D* on a virtual screen with controller mapping. It is quick to set up, but it is not the same as Shipwright VR’s motion-controlled N64 experience.
 
 1. Install CitraVR on your Quest (SideQuest/App Lab flow may vary).
 2. Add your legally dumped *Ocarina of Time 3D* file (`.cia` or `.3ds`).
@@ -114,10 +116,10 @@ CitraVR caveats: expect shader compilation hitches on first area entry, lower re
 
 Keep mods separate by platform.
 
-- **Ship of Harkinian:** uses `.otr`/custom asset files in the `mods` folder. Common picks are 3D background fixes, HD textures, quality-of-life tweaks, randomizer support, and cosmetic packs supported by your build.
+- **Shipwright VR / Ship of Harkinian:** uses `.otr`/custom asset files in the `mods` folder. Common picks are 3D background fixes, HD textures, quality-of-life tweaks, randomizer support, and cosmetic packs supported by your build.
 - **CitraVR:** uses 3DS emulator texture/cheat workflows for *Ocarina of Time 3D*. It does not use Ship of Harkinian `.otr` mods.
 
-## Troubleshooting and workarounds
+## Shipwright VR troubleshooting and workarounds
 
 Some issues depend on the VR fork, headset, and streaming method. If a workaround requires toggling settings, save first.
 
@@ -148,12 +150,12 @@ Some issues depend on the VR fork, headset, and streaming method. If a workaroun
 - **Ganondorf’s 4-point magic charge:** a direct Light Arrow hit can stop it; you can also evade and respond to the follow-up attack.
 - **Freezing after opening chests/getting keys:** if you enabled *Assignable Shields, Tunics and Boots*, try turning that option off. It has been reported to cause freezes in some areas.
 
-## Which one should you use?
+## Which Ocarina of Time VR option should you use?
 
-If you have a VR-ready Windows PC, use **Ship of Harkinian VR**. It’s the best way to play *Ocarina of Time* in VR: the N64 game, in-headset, with 6DoF and motion controls.
+If you have a VR-ready Windows PC, use **Shipwright VR** (on top of Ship of Harkinian). It’s the best way to play *Ocarina of Time* in VR: the N64 game, in-headset, with 6DoF and motion controls.
 
-If you only have a Quest, use **CitraVR**. It gets you playing *Ocarina of Time 3D* quickly, but it’s a fallback, not a replacement for Ship of Harkinian VR.
+If you only have a Quest, use **CitraVR**. It gets you playing *Ocarina of Time 3D* quickly, but it’s a fallback, not a replacement for Shipwright VR.
 
 ## Next step
 
-After setup, read our [Ocarina of Time VR review](/games/legend-of-zelda-ocarina-of-time/) for hands-on impressions. If you get stuck on a specific fork/build issue, check that fork’s release notes and community channels for the latest fix.
+After setup, read our [Ocarina of Time VR review](/games/legend-of-zelda-ocarina-of-time/) for hands-on impressions. If you get stuck on a specific Shipwright VR or Ship of Harkinian build issue, check that fork’s release notes and community channels for the latest fix.
