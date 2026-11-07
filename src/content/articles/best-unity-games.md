@@ -85,15 +85,13 @@ If you came here because you want to know which of those games are secretly some
 
 ## The 50 Most Popular Unity Games on PC
 
-<p style="font-size:0.72em; margin:0.5rem 0 0.15rem;"><strong>VR key</strong></p>
-<div style="font-size:0.72em; line-height:1.35; color:var(--text-muted,#666);">
-
-- **✅ Official VR** — VR support or an official VR edition worth knowing about.
-- **🟢 Full VR mod** — a dedicated game-specific conversion with meaningful 6DOF and/or motion-control support.
-- **🟡 Limited / experimental** — VR exists, but expect gamepad controls, depth-only presentation, alpha status or other significant compromises.
-- **⚪ Separate VR game** — an official VR adaptation exists, but it is not simply the original PC game running in VR.
-- **❌ No recommended VR route** — no current option I would point a normal reader toward.
-
+<div style="font-size:0.68em; line-height:1.45; margin:0.5rem 0 0.75rem; padding:0.4rem 0.6rem; border-left:3px solid #3b82f6; color:var(--text-muted,#666);">
+<strong style="color:var(--text-primary,#111);">VR key:</strong>
+✅ Official VR ·
+🟢 Full 6DOF/mod ·
+🟡 Limited/experimental ·
+⚪ Separate VR game ·
+❌ No VR route
 </div>
 
 ## 1. Rust
