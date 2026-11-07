@@ -594,59 +594,58 @@ If that changes, this game could shoot straight into our best-Unity-VR list.
 
 ## The 50 Best and Most Popular Unity Games on PC at a Glance
 
-| Rank | Game | VR status | Best current VR route |
-|---:|---|---|---|
-| 1 | Rust | ❌ | No recommended route |
-| 2 | Among Us | ⚪ | *Among Us 3D* is a separate official VR/PC game |
-| 3 | Phasmophobia | ✅ | Built-in official VR |
-| 4 | The Forest | ✅ | Built-in official VR |
-| 5 | Genshin Impact | ❌ | No recommended route |
-| 6 | Valheim | 🟢 | VHVR / ValheimVR |
-| 7 | Unturned | 🟡 | UnturnedVR — new experimental full-motion mod |
-| 8 | Fall Guys | ❌ | No dedicated route I recommend |
-| 9 | Hollow Knight | 🟡 | Layered 2D-to-VR depth mod |
-| 10 | Lethal Company | 🟢 | LCVR |
-| 11 | NARAKA: BLADEPOINT | ❌ | No recommended route |
-| 12 | 7 Days to Die | 🟢 | 7DVR |
-| 13 | Hollow Knight: Silksong | 🟡 | Community 2D-to-VR depth conversion |
-| 14 | R.E.P.O. | 🟢 | RepoXR |
-| 15 | Subnautica | 🟢 | SubmersedVR; legacy official VR also exists |
-| 16 | Bloons TD 6 | ❌ | No dedicated conversion worth recommending |
-| 17 | Raft | 🟢 | RaftVR |
-| 18 | PEAK | 🟢 | PeakVR |
-| 19 | Risk of Rain 2 | 🟢 | Resurrected VRMod |
-| 20 | Sons of the Forest | 🟡 | SonsVR alpha |
-| 21 | Schedule I | 🟡 | 6DOF VR mod with gamepad; motion controls planned |
-| 22 | People Playground | ❌ | No meaningful dedicated route |
-| 23 | Cities: Skylines | ⚪ | *Cities: VR* is a separate adaptation |
-| 24 | Vampire Survivors | ❌ | No meaningful dedicated route |
-| 25 | Escape from Tarkov | ❌ | No recommended route |
-| 26 | RimWorld | ❌ | No dedicated VR conversion I recommend |
-| 27 | Human: Fall Flat | ⚪ | Separate official *Human Fall Flat VR* |
-| 28 | Cuphead | ❌ | No dedicated VR conversion |
-| 29 | Hearthstone | ❌ | No recommended VR route |
-| 30 | Goose Goose Duck | ❌ | No dedicated VR conversion |
-| 31 | Honkai: Star Rail | ❌ | No recommended route |
-| 32 | Muck | 🟡 | Experimental MuckVR; no full motion controls |
-| 33 | Content Warning | 🟢 | CWVR |
-| 34 | Slime Rancher | 🟢 | SRVR |
-| 35 | Totally Accurate Battle Simulator | ❌ | No dedicated conversion I recommend |
-| 36 | Stumble Guys | ❌ | No recommended route |
-| 37 | Crab Game | ❌ | No dedicated route I recommend |
-| 38 | Ori and the Will of the Wisps | ❌ | No dedicated conversion |
-| 39 | Inscryption | 🟡 | Experimental PCVR mod for Act 1 / Kaycee's Mod |
-| 40 | Kerbal Space Program | 🟡 | Revived KerbalVR project |
-| 41 | BattleBit Remastered | ❌ | No recommended route |
-| 42 | Oxygen Not Included | ❌ | No dedicated VR conversion |
-| 43 | V Rising | 🟡 | VRisingVR — stereo tabletop-style VR, gamepad/M+KB |
-| 44 | Albion Online | ❌ | No recommended route |
-| 45 | Disco Elysium | ❌ | No dedicated VR conversion |
-| 46 | Cult of the Lamb | ❌ | No dedicated VR conversion |
-| 47 | Helltaker | ❌ | No meaningful VR conversion |
-| 48 | Stick Fight: The Game | ❌ | No dedicated VR conversion |
-| 49 | The Long Dark | 🟡 | Full-motion community VR project is in development |
-| 50 | Last Epoch | ❌ | No recommended VR route |
-
+| Rank | Game | Popularity (Steam reviews) | Rating | VR status | Best current VR route |
+|---:|---|---:|---|---|---|
+| 1 | Rust | 1.23M reviews | 87% Very Positive | ❌ | No recommended route |
+| 2 | Among Us | 701K reviews | 92% Very Positive | ⚪ | *Among Us 3D* is a separate official VR/PC game |
+| 3 | Phasmophobia | 769K reviews | 96% Overwhelmingly Positive | ✅ | Built-in official VR |
+| 4 | The Forest | 628K reviews | 96% Overwhelmingly Positive | ✅ | Built-in official VR |
+| 5 | Genshin Impact | Non-Steam | — | ❌ | No recommended route |
+| 6 | Valheim | 500K reviews | 94% Very Positive | 🟢 | VHVR / ValheimVR |
+| 7 | Unturned | 555K reviews | 91% Very Positive | 🟡 | UnturnedVR — new experimental full-motion mod |
+| 8 | Fall Guys | Non-Steam | — | ❌ | No dedicated route I recommend |
+| 9 | Hollow Knight | 416K reviews | 97% Overwhelmingly Positive | 🟡 | Layered 2D-to-VR depth mod |
+| 10 | Lethal Company | 487K reviews | 97% Overwhelmingly Positive | 🟢 | LCVR |
+| 11 | NARAKA: BLADEPOINT | 325K reviews | 70% Mostly Positive | ❌ | No recommended route |
+| 12 | 7 Days to Die | 370K reviews | 89% Very Positive | 🟢 | 7DVR |
+| 13 | Hollow Knight: Silksong | 0 reviews | 0% Insufficient reviews | 🟡 | Community 2D-to-VR depth conversion |
+| 14 | R.E.P.O. | 186K reviews | 97% Overwhelmingly Positive | 🟢 | RepoXR |
+| 15 | Subnautica | 314K reviews | 97% Overwhelmingly Positive | 🟢 | SubmersedVR; legacy official VR also exists |
+| 16 | Bloons TD 6 | 354K reviews | 97% Overwhelmingly Positive | ❌ | No dedicated conversion worth recommending |
+| 17 | Raft | 346K reviews | 93% Very Positive | 🟢 | RaftVR |
+| 18 | PEAK | 0 reviews | 0% Insufficient reviews | 🟢 | PeakVR |
+| 19 | Risk of Rain 2 | 314K reviews | 93% Very Positive | 🟢 | Resurrected VRMod |
+| 20 | Sons of the Forest | 254K reviews | 88% Very Positive | 🟡 | SonsVR alpha |
+| 21 | Schedule I | 204K reviews | 98% Overwhelmingly Positive | 🟡 | 6DOF VR mod with gamepad; motion controls planned |
+| 22 | People Playground | 282K reviews | 99% Overwhelmingly Positive | ❌ | No meaningful dedicated route |
+| 23 | Cities: Skylines | 276K reviews | 93% Very Positive | ⚪ | *Cities: VR* is a separate adaptation |
+| 24 | Vampire Survivors | 250K reviews | 98% Overwhelmingly Positive | ❌ | No meaningful dedicated route |
+| 25 | Escape from Tarkov | 0 reviews | 0% Insufficient reviews | ❌ | No recommended route |
+| 26 | RimWorld | 211K reviews | 98% Overwhelmingly Positive | ❌ | No dedicated VR conversion I recommend |
+| 27 | Human: Fall Flat | 214K reviews | 95% Overwhelmingly Positive | ⚪ | Separate official *Human Fall Flat VR* |
+| 28 | Cuphead | 187K reviews | 96% Overwhelmingly Positive | ❌ | No dedicated VR conversion |
+| 29 | Hearthstone | Non-Steam | — | ❌ | No recommended VR route |
+| 30 | Goose Goose Duck | 0 reviews | 0% Insufficient reviews | ❌ | No dedicated VR conversion |
+| 31 | Honkai: Star Rail | Non-Steam | — | ❌ | No recommended route |
+| 32 | Muck | 0 reviews | 0% Insufficient reviews | 🟡 | Experimental MuckVR; no full motion controls |
+| 33 | Content Warning | 145K reviews | 95% Overwhelmingly Positive | 🟢 | CWVR |
+| 34 | Slime Rancher | 138K reviews | 98% Overwhelmingly Positive | 🟢 | SRVR |
+| 35 | Totally Accurate Battle Simulator | 136K reviews | 98% Overwhelmingly Positive | ❌ | No dedicated conversion I recommend |
+| 36 | Stumble Guys | 128K reviews | 85% Very Positive | ❌ | No recommended route |
+| 37 | Crab Game | 152K reviews | 92% Very Positive | ❌ | No dedicated route I recommend |
+| 38 | Ori and the Will of the Wisps | 137K reviews | 97% Overwhelmingly Positive | ❌ | No dedicated conversion |
+| 39 | Inscryption | 132K reviews | 97% Overwhelmingly Positive | 🟡 | Experimental PCVR mod for Act 1 / Kaycee's Mod |
+| 40 | Kerbal Space Program | 127K reviews | 95% Overwhelmingly Positive | 🟡 | Revived KerbalVR project |
+| 41 | BattleBit Remastered | 143K reviews | 84% Positive | ❌ | No recommended route |
+| 42 | Oxygen Not Included | 128K reviews | 97% Overwhelmingly Positive | ❌ | No dedicated VR conversion |
+| 43 | V Rising | 119K reviews | 89% Very Positive | 🟡 | VRisingVR — stereo tabletop-style VR, gamepad/M+KB |
+| 44 | Albion Online | 83K reviews | 79% Mostly Positive | ❌ | No recommended route |
+| 45 | Disco Elysium | 112K reviews | 93% Very Positive | ❌ | No dedicated VR conversion |
+| 46 | Cult of the Lamb | 103K reviews | 96% Overwhelmingly Positive | ❌ | No dedicated VR conversion |
+| 47 | Helltaker | 125K reviews | 98% Overwhelmingly Positive | ❌ | No meaningful VR conversion |
+| 48 | Stick Fight: The Game | 123K reviews | 94% Very Positive | ❌ | No dedicated VR conversion |
+| 49 | The Long Dark | 113K reviews | 90% Very Positive | 🟡 | Full-motion community VR project is in development |
+| 50 | Last Epoch | 111K reviews | 80% Positive | ❌ | No recommended VR route |
 ## How I ranked the most popular Unity games
 
 This is not a disguised “my favorite games” list.
