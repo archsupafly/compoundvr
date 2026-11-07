@@ -96,6 +96,9 @@ If you came here because you want to know which of those games are secretly some
 
 ## 1. Rust
 
+![Rust](/images/games/rust-vr-hero.jpg)
+<div class="rank-meta">No VR route · Online/anti-cheat</div>
+
 If I have to pick the biggest Unity success story on PC, I still start with *Rust*.
 
 Facepunch turned a rough survival experiment into one of Steam's permanent fixtures. It has outlived survival trends, battle-royale trends and entire generations of competitors while continuing to pull huge player numbers and an absurd volume of user reviews. The important thing is not that *Rust* once had a big launch. It is that people are still losing weekends to it more than a decade later.
@@ -141,6 +144,9 @@ Endnight also did something I wish more studios had copied: it added VR to the a
 
 ## 5. Genshin Impact
 
+![Genshin Impact](/images/games/genshin-impact-vr-hero.jpg)
+<div class="rank-meta">No VR route · Live service</div>
+
 If this were a worldwide cross-platform popularity list rather than a PC-focused one, *Genshin Impact* could easily be even higher.
 
 Its PC playerbase is difficult to measure cleanly because it lives outside Steam, but there is no serious argument that it belongs anywhere near the margins of a “popular Unity games” list. HoYoverse built one of the largest live-service RPGs in the world on Unity.
@@ -164,6 +170,9 @@ For my money, this remains one of the best arguments for the entire Flat2VR scen
 
 ## 7. Unturned
 
+![Unturned](/images/games/unturned-vr-hero.jpg)
+<div class="rank-meta">Experimental VR · UnturnedVR</div>
+
 It is easy to underestimate *Unturned* because it is free and visually looks like somebody crossed *Roblox* with a zombie server. The numbers say otherwise. It has been one of Steam's most widely played survival sandboxes for years.
 
 And as of late 2026, it suddenly became much more interesting for us.
@@ -173,6 +182,9 @@ And as of late 2026, it suddenly became much more interesting for us.
 This is one I would watch closely.
 
 ## 8. Fall Guys
+
+![Fall Guys](/images/games/fall-guys-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
 
 At launch, *Fall Guys* was everywhere. Its Steam version peaked at more than 170,000 concurrent players before the game eventually became free-to-play and moved its main PC distribution to Epic.
 
@@ -206,6 +218,9 @@ The VR mod understands exactly why the game works.
 
 ## 11. NARAKA: BLADEPOINT
 
+![NARAKA: BLADEPOINT](/images/games/naraka-bladepoint-vr-hero.jpg)
+<div class="rank-meta">No VR route · Online/anti-cheat</div>
+
 *NARAKA* is one of the easiest games for Western PC lists to underrate. Its Steam peak is enormous, its audience in Asia is huge, and it has remained one of the larger multiplayer games built with Unity.
 
 **VR status:** **❌ No recommended route.** This is a competitive live-service battle royale with anti-cheat. Even if an injector can be made to display something, that is not the same as having a safe, usable VR conversion.
@@ -232,6 +247,9 @@ It is a headset-enhanced way to experience the art, not a motion-controlled rema
 
 ## 14. R.E.P.O.
 
+![R.E.P.O.](/images/games/repo-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · RepoXR</div>
+
 *R.E.P.O.* is the newer co-op phenomenon I am most comfortable putting this high because the numbers have already stopped looking temporary. The review count and estimated ownership put it in the same conversation as games that have been around for years.
 
 It also has one of the most exciting newer Unity VR conversions.
@@ -252,6 +270,9 @@ It also has one of the messier but more rewarding VR histories on this list.
 It is still a work in progress. It is also one of the best worlds on this entire list to physically inhabit.
 
 ## 16. Bloons TD 6
+
+![Bloons TD 6](/images/games/bloons-td-6-vr-hero.jpg)
+<div class="rank-meta">No dedicated VR route</div>
 
 Do not let the cartoon monkeys fool you. *Bloons TD 6* is a monster.
 
@@ -274,6 +295,9 @@ This one does.
 
 ## 18. PEAK
 
+![PEAK](/images/games/peak-game-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · PeakVR</div>
+
 *PEAK* is another reminder that the Steam co-op machine can make a game enormous almost overnight. The climbing loop, social chaos and streamer friendliness did the rest.
 
 **VR status:** **🟢 Dedicated VR mod.** **PeakVR** provides 6DOF, room-scale presence and motion-controlled hands through OpenXR. The important caveat is that this is not a complete physical-climbing rewrite; the underlying climbing mechanics still carry flat-game DNA.
@@ -295,6 +319,9 @@ That means our older warning that you simply need to downpatch is now outdated. 
 
 ## 20. Sons of the Forest
 
+![Sons of the Forest](/images/games/sons-of-the-forest-vr-hero.jpg)
+<div class="rank-meta">Experimental VR · SonsVR alpha</div>
+
 The sequel to *The Forest* was one of Steam's largest survival launches, peaking at more than 400,000 players.
 
 The painful part was watching it ship without the official VR mode that made the original so memorable.
@@ -305,6 +332,9 @@ This is the project I want to turn green next.
 
 ## 21. Schedule I
 
+![Schedule I](/images/games/schedule-i-vr-hero.jpg)
+<div class="rank-meta">6DOF VR mod · Gamepad (motion planned)</div>
+
 *Schedule I* exploded in 2025 with one of the largest indie Steam launches in recent memory. It is the kind of game that makes a popularity list move quickly: more than 450,000 concurrent players at peak and hundreds of thousands of reviews in a remarkably short time.
 
 **VR status:** **🟡 6DOF, gamepad for now.** A dedicated VR mod released in September 2026 with stereo rendering and 6DOF head tracking. It is playable with a gamepad; motion controls are listed as future work.
@@ -312,6 +342,9 @@ This is the project I want to turn green next.
 That makes it interesting rather than definitive. If the motion-control work lands, it becomes an immediate CompoundVR re-review candidate.
 
 ## 22. People Playground
+
+![People Playground](/images/games/people-playground-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
 
 *People Playground* is one of the strangest mega-hits on Steam: a brutally simple physics sandbox with a review count that dwarfs many AAA releases.
 
@@ -332,6 +365,9 @@ The original also makes an interesting target for Unity stereo frameworks becaus
 
 ## 24. Vampire Survivors
 
+![Vampire Survivors](/images/games/vampire-survivors-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 *Vampire Survivors* is one of the most influential small games of the decade, spawning an entire wave of imitators and proving that a tiny price and a brutally readable loop can be more powerful than production scale.
 
 The game migrated to a Unity-based engine implementation, so the current PC game belongs in this conversation even though its earliest history is more complicated.
@@ -342,6 +378,9 @@ A third-person or tabletop VR treatment could be fun, but the game's appeal is a
 
 ## 25. Escape from Tarkov
 
+![Escape from Tarkov](/images/games/escape-from-tarkov-vr-hero.jpg)
+<div class="rank-meta">No VR route · Online/anti-cheat</div>
+
 *Tarkov* is another game whose true PC scale is hidden by the fact that it spent most of its life outside Steam. It helped define the modern extraction shooter before the genre had a universally agreed name.
 
 **VR status:** **❌ No route I recommend.** Online infrastructure and anti-cheat make this a terrible place to casually experiment with injection.
@@ -349,6 +388,9 @@ A third-person or tabletop VR treatment could be fun, but the game's appeal is a
 There are plenty of VR shooters that borrow pieces of *Tarkov*. What we do not have is *Tarkov* itself in a form I would tell you to install.
 
 ## 26. RimWorld
+
+![RimWorld](/images/games/rimworld-vr-hero.jpg)
+<div class="rank-meta">No dedicated VR route</div>
 
 *RimWorld* is the kind of PC game that does not need a gigantic launch spike because people simply never stop playing it. Years of expansions, workshop mods and emergent stories have made it one of the definitive colony sims.
 
@@ -369,6 +411,9 @@ Its path into VR is unusually interesting because a fan VR prototype helped insp
 
 ## 28. Cuphead
 
+![Cuphead](/images/games/cuphead-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 *Cuphead* is one of Unity's most famous examples simply because it does not look like what people imagine when they hear “Unity game.” Its hand-drawn animation and boss design made it a phenomenon.
 
 **VR status:** **❌ No dedicated conversion.**
@@ -376,6 +421,9 @@ Its path into VR is unusually interesting because a fan VR prototype helped insp
 You could imagine a layered diorama approach similar to *Hollow Knight*, but there is currently no mature VR route I would put in front of a normal reader.
 
 ## 29. Hearthstone
+
+![Hearthstone](/images/games/hearthstone-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
 
 Blizzard's card game became one of the defining digital CCGs and has had a huge PC audience for more than a decade.
 
@@ -385,6 +433,9 @@ This is one of those cases where a native tabletop VR interface makes conceptual
 
 ## 30. Goose Goose Duck
 
+![Goose Goose Duck](/images/games/goose-goose-duck-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 A 700,000-plus Steam concurrency peak looks absurd until you remember how large *Goose Goose Duck* became in parts of Asia.
 
 **VR status:** **❌ No dedicated conversion.**
@@ -392,6 +443,9 @@ A 700,000-plus Steam concurrency peak looks absurd until you remember how large 
 Its social-deduction structure makes the existence of *Among Us 3D* an obvious comparison, but there is no equivalent mature VR edition here.
 
 ## 31. Honkai: Star Rail
+
+![Honkai: Star Rail](/images/games/honkai-star-rail-vr-hero.jpg)
+<div class="rank-meta">No VR route · Live service</div>
 
 Like *Genshin*, *Honkai: Star Rail* is much larger than Steam-centered PC metrics can show. It is a global live-service RPG with a major PC audience and a Unity foundation.
 
@@ -401,6 +455,9 @@ Again: live service plus anti-cheat plus unofficial injection is not where I sen
 
 ## 32. Muck
 
+![Muck](/images/games/muck-vr-hero.jpg)
+<div class="rank-meta">Experimental VR · MuckVR</div>
+
 *Muck* is free, silly, brutally simple and much more popular than a lot of “prestige” games that would normally appear above it on a best-of list.
 
 **VR status:** **🟡 Experimental.** **MuckVR** exists and can get the game rendering in VR, but its own documentation is blunt about the limitation. There is no proper motion-controller implementation.
@@ -408,6 +465,9 @@ Again: live service plus anti-cheat plus unofficial injection is not where I sen
 That makes it a curiosity, not one of the Unity VR mods I would build a headset purchase around.
 
 ## 33. Content Warning
+
+![Content Warning](/images/games/content-warning-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · CWVR</div>
 
 Landfall has a talent for games that become instant group-chat events, and *Content Warning* did exactly that.
 
@@ -417,6 +477,9 @@ The conversion makes sense because *Content Warning* is already about physically
 
 ## 34. Slime Rancher
 
+![Slime Rancher](/images/games/slime-rancher-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · SRVR</div>
+
 *Slime Rancher* has quietly become one of the most beloved first-person games built in Unity. It is friendly, readable and built around a tool — the Vacpack — that begs to be held in your hand.
 
 **VR status:** **🟢 Full VR mod.** **SRVR** finally gives the full game tracked hands and motion-controlled Vacpack interaction rather than limiting VR to the old official “VR Playground” side experience.
@@ -424,6 +487,9 @@ The conversion makes sense because *Content Warning* is already about physically
 This is exactly the kind of conversion I want more of — a rethink of the interaction that matters most, not a graphics hack.
 
 ## 35. Totally Accurate Battle Simulator
+
+![Totally Accurate Battle Simulator](/images/games/totally-accurate-battle-simulator-vr-hero.jpg)
+<div class="rank-meta">No dedicated VR route</div>
 
 *TABS* grew from a joke prototype into one of the most recognizable physics sandboxes on PC.
 
@@ -433,11 +499,17 @@ Like *Cities: Skylines*, it is almost begging for a tabletop-scale VR view. That
 
 ## 36. Stumble Guys
 
+![Stumble Guys](/images/games/stumble-guys-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 The PC version is only one slice of *Stumble Guys'* much larger cross-platform success, but even on Steam it has enough reach to belong in the lower half of this ranking.
 
 **VR status:** **❌ No recommended route.**
 
 ## 37. Crab Game
+
+![Crab Game](/images/games/crab-game-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
 
 Dani's free multiplayer riff on elimination-game chaos pulled huge player numbers and an even larger amount of YouTube/Twitch attention.
 
@@ -447,6 +519,9 @@ The first-person perspective makes it look tempting, but there is a difference b
 
 ## 38. Ori and the Will of the Wisps
 
+![Ori and the Will of the Wisps](/images/games/ori-and-the-will-of-the-wisps-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 *Ori and the Will of the Wisps* is one of the best-looking games ever shipped on Unity and one of the strongest Metroidvanias on PC.
 
 **VR status:** **❌ No dedicated conversion.**
@@ -454,6 +529,9 @@ The first-person perspective makes it look tempting, but there is a difference b
 There are old stereoscopic/injection paths people have experimented with, but nothing I would put in the same category as the purpose-built *Hollow Knight* depth mods.
 
 ## 39. Inscryption
+
+![Inscryption](/images/games/inscryption-vr-hero.jpg)
+<div class="rank-meta">Experimental VR · Act 1/Kaycee’s Mod</div>
 
 *Inscryption* is a smaller commercial hit than the games above it, but its cultural footprint is bigger than the raw player count suggests. It is exactly the sort of game people keep discovering years after release.
 
@@ -476,6 +554,9 @@ This is not the cleanest “entire game becomes a room-scale VR title” convers
 
 ## 41. BattleBit Remastered
 
+![BattleBit Remastered](/images/games/battlebit-remastered-vr-hero.jpg)
+<div class="rank-meta">No VR route · Online/anti-cheat</div>
+
 For a while, *BattleBit* was the answer to “what if the giant multiplayer shooter was cheap, readable and actually ran on everything?” Its launch was enormous.
 
 **VR status:** **❌ No recommended VR route.**
@@ -484,6 +565,9 @@ A 254-player firefight is already enough of a technical and sensory problem with
 
 ## 42. Oxygen Not Included
 
+![Oxygen Not Included](/images/games/oxygen-not-included-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 Klei's colony sim has the sort of long-tail PC audience that makes Steam rankings deceptively stable. People who love it tend to love it for hundreds of hours.
 
 **VR status:** **❌ No dedicated VR conversion.**
@@ -491,6 +575,9 @@ Klei's colony sim has the sort of long-tail PC audience that makes Steam ranking
 This is another case where the interface cost would probably outweigh the benefit of stereoscopic depth.
 
 ## 43. V Rising
+
+![V Rising](/images/games/v-rising-vr-hero.jpg)
+<div class="rank-meta">Limited VR · VRisingVR (tabletop)</div>
 
 *V Rising* combines survival-game retention with ARPG combat and a very healthy Steam audience.
 
@@ -502,11 +589,17 @@ I like this approach. Not every game needs to be forced into first person.
 
 ## 44. Albion Online
 
+![Albion Online](/images/games/albion-online-vr-hero.jpg)
+<div class="rank-meta">No VR route · MMO</div>
+
 *Albion Online* is another game Steam understates because a meaningful part of its audience lives outside Valve's ecosystem. Its MMO longevity is the real reason it is here.
 
 **VR status:** **❌ No route I recommend.**
 
 ## 45. Disco Elysium
+
+![Disco Elysium](/images/games/disco-elysium-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
 
 By pure player volume, *Disco Elysium* does not beat everything below it. By influence, reputation and how often people still talk about it, it punches far above its commercial scale.
 
@@ -518,6 +611,9 @@ The world would be fascinating as a 3D diorama, but the game is so dependent on 
 
 ## 46. Cult of the Lamb
 
+![Cult of the Lamb](/images/games/cult-of-the-lamb-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 *Cult of the Lamb* turned a very specific blend of action roguelite, settlement management and cult comedy into a mainstream indie hit.
 
 **VR status:** **❌ No dedicated VR conversion.**
@@ -526,17 +622,26 @@ The village side is practically asking to become a little tabletop world in fron
 
 ## 47. Helltaker
 
+![Helltaker](/images/games/helltaker-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 Free games complicate popularity rankings, but *Helltaker* was a genuine internet phenomenon and has a Steam review count many full-price releases would kill for.
 
 **VR status:** **❌ No meaningful VR conversion.**
 
 ## 48. Stick Fight: The Game
 
+![Stick Fight: The Game](/images/games/stick-fight-the-game-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
+
 *Stick Fight* has spent years as the game people reinstall when four friends want immediate chaos with no onboarding.
 
 **VR status:** **❌ No dedicated VR conversion.**
 
 ## 49. The Long Dark
+
+![The Long Dark](/images/games/the-long-dark-vr-hero.jpg)
+<div class="rank-meta">VR mod in development</div>
 
 *The Long Dark* has one of the most loyal survival audiences on PC, and its quiet, hostile wilderness has always looked like an obvious fit for a headset.
 
@@ -547,6 +652,9 @@ The interesting part is that somebody is finally taking a serious run at it agai
 If that changes, this game could shoot straight into our best-Unity-VR list.
 
 ## 50. Last Epoch
+
+![Last Epoch](/images/games/last-epoch-vr-hero.jpg)
+<div class="rank-meta">No VR route</div>
 
 *Last Epoch* has carved out a meaningful place in the ARPG market despite living in the shadow of giants. Its launch, long Early Access period and sustained audience are enough to take the final spot here.
 
