@@ -96,8 +96,10 @@ Facepunch turned a rough survival experiment into one of Steam's permanent fixtu
 
 For VR modders, though, *Rust* remains one of the biggest white whales in Unity.
 
-![Among Us 3D](/images/games/among-us-3d-vr-hero.jpg)
 ## 2. Among Us
+
+![Among Us 3D](/images/games/among-us-3d-vr-hero.jpg)
+<div class="rank-meta">Separate VR game · *Among Us 3D*</div>
 
 There was a period where you could not open Twitch, YouTube or a group chat without seeing *Among Us*. That cultural explosion was bigger than Steam alone can capture, but the PC numbers are still enormous: hundreds of thousands of concurrent players at its peak and one of the largest review counts of any Unity game on the platform.
 
@@ -105,8 +107,10 @@ It is also one of the cleanest examples of a flat hit generating a dedicated VR 
 
 **VR status:** **⚪ Separate official VR game.** [*Among Us 3D*](https://compoundvr.com/games/among-us-3d/) is the first-person VR/PC adaptation originally released as *Among Us VR*. It is a real VR game with motion controls, but it is **not compatible with the original 2D *Among Us***. Think of it as a sibling built around the same social-deduction idea, not a VR toggle inside the original.
 
-![Phasmophobia](/images/games/phasmophobia-vr-hero.jpg)
 ## 3. Phasmophobia
+
+![Phasmophobia](/images/games/phasmophobia-vr-hero.jpg)
+<div class="rank-meta">Official VR · Built-in</div>
 
 *Phasmophobia* is the Unity game that makes the strongest case that VR does not need to be the main platform to matter.
 
@@ -116,8 +120,10 @@ The flat game became one of Steam's defining co-op horror hits. The VR mode was 
 
 If all you cared about was overlap between **massive Unity popularity** and **actual playable VR**, this would be near the very top of the list.
 
-![The Forest](/images/games/the-forest-vr-hero.jpg)
 ## 4. The Forest
+
+![The Forest](/images/games/the-forest-vr-hero.jpg)
+<div class="rank-meta">Official VR · Built-in</div>
 
 Before *Sons of the Forest*, there was *The Forest*, and the original still has a ridiculous footprint on PC. It became one of the survival genre's evergreen recommendations rather than a game people simply remember from Early Access.
 
@@ -135,8 +141,10 @@ Its PC playerbase is difficult to measure cleanly because it lives outside Steam
 
 The dream of standing in Teyvat remains a dream.
 
-![Valheim](/images/games/valheim-vr-hero.jpg)
 ## 6. Valheim
+
+![Valheim](/images/games/valheim-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · VHVR</div>
 
 *Valheim* is one of those PC launches that felt impossible while it was happening: a small survival game suddenly sitting near the top of Steam with half a million concurrent players, then refusing to disappear.
 
@@ -164,8 +172,10 @@ The total footprint is much larger than its current Steam chart suggests.
 
 **VR status:** **❌ No dedicated route I recommend.** The third-person obstacle courses look like they should make a fun VR diorama, but the combination of a live-service build, anti-cheat and no mature game-specific conversion means this stays flat for now.
 
-![Hollow Knight](/images/games/hollow-knight-vr-hero.jpg)
 ## 9. Hollow Knight
+
+![Hollow Knight](/images/games/hollow-knight-vr-hero.jpg)
+<div class="rank-meta">Limited VR · Layered 2D depth</div>
 
 *Hollow Knight* is the perfect counterexample to the idea that popularity rankings have to be dominated by multiplayer games. It started as an indie Metroidvania and became a genuine PC classic, with an enormous Steam review count and a playerbase that surged all over again around *Silksong*.
 
@@ -175,8 +185,10 @@ Its VR solution is also one of the stranger ones on this list.
 
 That is not “full VR” in the usual CompoundVR sense. It is still very cool.
 
-![Lethal Company](/images/games/lethal-company-vr-hero.jpg)
 ## 10. Lethal Company
+
+![Lethal Company](/images/games/lethal-company-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · LCVR</div>
 
 Few games have demonstrated the modern Steam word-of-mouth machine better than *Lethal Company*. It went from weird little co-op horror game to cultural phenomenon with almost no warning.
 
@@ -190,15 +202,19 @@ The VR mod understands exactly why the game works.
 
 **VR status:** **❌ No recommended route.** This is a competitive live-service battle royale with anti-cheat. Even if an injector can be made to display something, that is not the same as having a safe, usable VR conversion.
 
-![7 Days to Die](/images/games/7-days-to-die-vr-hero.jpg)
 ## 12. 7 Days to Die
+
+![7 Days to Die](/images/games/7-days-to-die-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · 7DVR</div>
 
 Few Early Access stories are as long or as stubbornly successful as *7 Days to Die*. It has been rebuilt, renamed, overhauled and argued about for more than a decade while keeping a massive survival audience.
 
 **VR status:** **🟢 Full VR mod.** [7DVR](https://compoundvr.com/games/7-days-to-die/) gives the full survival sandbox 6DOF tracking and motion controls. This is one of those conversions where the scale of the base game matters more than graphical polish: crafting, looting, building and surviving horde nights in VR creates a game with more mechanical depth than most made-for-VR survival titles ever get the budget to attempt.
 
-![Hollow Knight: Silksong](/images/games/hollow-knight-silksong-vr-hero.jpg)
 ## 13. Hollow Knight: Silksong
+
+![Hollow Knight: Silksong](/images/games/hollow-knight-silksong-vr-hero.jpg)
+<div class="rank-meta">Limited VR · Layered 2D depth</div>
 
 After years of becoming a meme for not being released, *Silksong* finally arrived in 2025 and immediately justified its place near the top of any Unity popularity list. Its launch peak and first-year review volume were enormous.
 
@@ -214,8 +230,10 @@ It also has one of the most exciting newer Unity VR conversions.
 
 **VR status:** **🟢 Full VR mod.** **RepoXR** from DaXcess brings full 6DOF and motion controls to the game through Unity's OpenXR stack, including mixed lobbies with flatscreen players. If you already liked the physical comedy and panic of *R.E.P.O.*, putting your own hands into that mess is an obvious upgrade.
 
-![Subnautica](/images/games/subnautica-vr-hero.jpg)
 ## 15. Subnautica
+
+![Subnautica](/images/games/subnautica-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · SubmersedVR</div>
 
 *Subnautica* is one of the defining survival-exploration games on PC. It sold the fantasy of going somewhere genuinely alien without needing a map full of quest icons to keep you interested.
 
@@ -233,8 +251,10 @@ Its Steam review count, mobile pedigree and absurd longevity make it one of the 
 
 **VR status:** **❌ No dedicated conversion I would recommend.** This is the sort of game where a well-designed tabletop VR adaptation could be excellent, but right now there is no mature route that earns a spot next to the real conversions on this page.
 
-![Raft](/images/games/raft-vr-hero.jpg)
 ## 17. Raft
+
+![Raft](/images/games/raft-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · RaftVR</div>
 
 *Raft* turned a tiny square of wood and a plastic hook into one of PC's biggest co-op survival games.
 
@@ -252,8 +272,10 @@ This one does.
 
 Even so, it is far beyond a simple stereo injector.
 
-![Risk of Rain 2](/images/games/risk-of-rain-2-vr-hero.jpg)
 ## 19. Risk of Rain 2
+
+![Risk of Rain 2](/images/games/risk-of-rain-2-vr-hero.jpg)
+<div class="rank-meta">Full VR mod · Resurrected VRMod</div>
 
 *Risk of Rain 2* has one of the strongest long tails of any modern roguelite. The playerbase keeps returning because the underlying loop — movement, loot synergies and escalating chaos — remains ridiculously good.
 
@@ -289,8 +311,10 @@ That makes it interesting rather than definitive. If the motion-control work lan
 
 And yes, I know what half of you are thinking. A room-scale *People Playground* where you physically grab, wire and catastrophically misuse everything would be horrifying. It would also probably be incredible.
 
-![Cities: VR](/images/games/cities-vr-vr-hero.jpg)
 ## 23. Cities: Skylines
+
+![Cities: Skylines](/images/games/cities-vr-vr-hero.jpg)
+<div class="rank-meta">Separate VR game · *Cities: VR*</div>
 
 For years, *Cities: Skylines* was effectively the modern city builder. Its longevity, mod scene and huge ownership numbers make it an easy inclusion.
 
@@ -324,8 +348,10 @@ There are plenty of VR shooters that borrow pieces of *Tarkov*. What we do not h
 
 Generic stereo experiments are possible in Unity games, but *RimWorld* is exactly where I draw the line between “technically displayed in a headset” and “VR adds enough to justify wearing one.”
 
-![Human Fall Flat](/images/games/human-fall-flat-vr-hero.jpg)
 ## 27. Human: Fall Flat
+
+![Human: Fall Flat](/images/games/human-fall-flat-vr-hero.jpg)
+<div class="rank-meta">Separate VR game · *Human Fall Flat VR*</div>
 
 *Human: Fall Flat* became a giant because its physics comedy survives language, age and platform. Watching someone fail to climb a ledge is universal.
 
@@ -429,8 +455,10 @@ It is also newly interesting for VR.
 
 But the cabin section is so naturally suited to VR that this project is absolutely worth watching.
 
-![Kerbal Space Program](/images/games/kerbal-space-program-vr-hero.jpg)
 ## 40. Kerbal Space Program
+
+![Kerbal Space Program](/images/games/kerbal-space-program-vr-hero.jpg)
+<div class="rank-meta">Limited VR · KerbalVR</div>
 
 *KSP* is one of the great “I accidentally learned something while playing a game” success stories. Its modding community is a large part of why it still matters.
 
