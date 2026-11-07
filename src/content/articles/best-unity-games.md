@@ -114,6 +114,8 @@ There was a period where you could not open Twitch, YouTube or a group chat with
 
 It is also one of the cleanest examples of a flat hit generating a dedicated VR product.
 
+[Read the full Among Us 3D VR review](/games/among-us-3d/)
+
 ## 3. Phasmophobia
 
 ![Phasmophobia](/images/games/phasmophobia-vr-hero.jpg)
@@ -125,6 +127,8 @@ The flat game became one of Steam's defining co-op horror hits. The VR mode was 
 
 If all you cared about was overlap between **massive Unity popularity** and **actual playable VR**, this would be near the very top of the list.
 
+[Read the full Phasmophobia VR review](/games/phasmophobia/)
+
 ## 4. The Forest
 
 ![The Forest](/images/games/the-forest-vr-hero.jpg)
@@ -133,6 +137,8 @@ If all you cared about was overlap between **massive Unity popularity** and **ac
 Before *Sons of the Forest*, there was *The Forest*, and the original still has a ridiculous footprint on PC. It became one of the survival genre's evergreen recommendations rather than a game people simply remember from Early Access.
 
 Endnight also did something I wish more studios had copied: it added VR to the actual game.
+
+[Read the full The Forest VR review](/games/the-forest/)
 
 ## 5. Genshin Impact
 
@@ -156,6 +162,8 @@ What matters more for this site is what the community did with it afterward.
 
 For my money, this remains one of the best arguments for the entire Flat2VR scene: take a deep game that already has hundreds of hours of systems and give it a body.
 
+[Read the full Valheim VR review](/games/valheim/)
+
 ## 7. Unturned
 
 ![Unturned](/images/games/unturned-vr-hero.jpg)
@@ -166,6 +174,8 @@ It is easy to underestimate *Unturned* because it is free and visually looks lik
 And as of late 2026, it suddenly became much more interesting for us.
 
 This is one I would watch closely.
+
+[Read the full Unturned VR review](/games/unturned/)
 
 ## 8. Fall Guys
 
@@ -187,6 +197,8 @@ Its VR solution is also one of the stranger ones on this list.
 
 That is not “full VR” in the usual CompoundVR sense. It is still very cool.
 
+[Read the full Hollow Knight VR review](/games/hollow-knight/)
+
 ## 10. Lethal Company
 
 ![Lethal Company](/images/games/lethal-company-vr-hero.jpg)
@@ -195,6 +207,8 @@ That is not “full VR” in the usual CompoundVR sense. It is still very cool.
 Few games have demonstrated the modern Steam word-of-mouth machine better than *Lethal Company*. It went from weird little co-op horror game to cultural phenomenon with almost no warning.
 
 The VR mod understands exactly why the game works.
+
+[Read the full Lethal Company VR review](/games/lethal-company/)
 
 ## 11. NARAKA: BLADEPOINT
 
@@ -210,6 +224,8 @@ The VR mod understands exactly why the game works.
 
 Few Early Access stories are as long or as stubbornly successful as *7 Days to Die*. It has been rebuilt, renamed, overhauled and argued about for more than a decade while keeping a massive survival audience.
 
+[Read the full 7 Days to Die VR review](/games/7-days-to-die/)
+
 ## 13. Hollow Knight: Silksong
 
 ![Hollow Knight: Silksong](/images/games/hollow-knight-silksong-vr-hero.jpg)
@@ -218,6 +234,8 @@ Few Early Access stories are as long or as stubbornly successful as *7 Days to D
 After years of becoming a meme for not being released, *Silksong* finally arrived in 2025 and immediately justified its place near the top of any Unity popularity list. Its launch peak and first-year review volume were enormous.
 
 It is a headset-enhanced way to experience the art, not a motion-controlled remake.
+
+[Read the full Hollow Knight: Silksong VR review](/games/hollow-knight-silksong/)
 
 ## 14. R.E.P.O.
 
@@ -239,6 +257,8 @@ It also has one of the messier but more rewarding VR histories on this list.
 
 It is still a work in progress. It is also one of the best worlds on this entire list to physically inhabit.
 
+[Read the full Subnautica VR review](/games/subnautica/)
+
 ## 16. Bloons TD 6
 
 ![Bloons TD 6](/images/games/bloons-td-6-vr-hero.jpg)
@@ -259,6 +279,8 @@ VR improves the exact interactions the game is built around.
 
 This one does.
 
+[Read the full Raft VR review](/games/raft/)
+
 ## 18. PEAK
 
 ![PEAK](/images/games/peak-game-vr-hero.jpg)
@@ -278,6 +300,8 @@ Even so, it is far beyond a simple stereo injector.
 The VR situation also got much better in 2026.
 
 That means our older warning that you simply need to downpatch is now outdated. [Our Risk of Rain 2 VR page](https://compoundvr.com/games/risk-of-rain-2/) should be updated alongside publication of this article if it has not been already.
+
+[Read the full Risk of Rain 2 VR review](/games/risk-of-rain-2/)
 
 ## 20. Sons of the Forest
 
@@ -317,6 +341,8 @@ For years, *Cities: Skylines* was effectively the modern city builder. Its longe
 
 The original also makes an interesting target for Unity stereo frameworks because a city is naturally readable as a 3D tabletop, but that is a different proposition from having a true VR port.
 
+[Read the full Cities: VR review](/games/cities-vr/)
+
 ## 24. Vampire Survivors
 
 ![Vampire Survivors](/images/games/vampire-survivors-vr-hero.jpg)
@@ -354,6 +380,8 @@ Generic stereo experiments are possible in Unity games, but *RimWorld* is exactl
 *Human: Fall Flat* became a giant because its physics comedy survives language, age and platform. Watching someone fail to climb a ledge is universal.
 
 Its path into VR is unusually interesting because a fan VR prototype helped inspire an official product.
+
+[Read the full Human Fall Flat VR review](/games/human-fall-flat/)
 
 ## 28. Cuphead
 
@@ -471,6 +499,8 @@ But the cabin section is so naturally suited to VR that this project is absolute
 *KSP* is one of the great “I accidentally learned something while playing a game” success stories. Its modding community is a large part of why it still matters.
 
 This is not the cleanest “entire game becomes a room-scale VR title” conversion on the list, but sitting inside a cockpit you assembled yourself is a very specific kind of magic.
+
+[Read the full Kerbal Space Program VR review](/games/kerbal-space-program/)
 
 ## 41. BattleBit Remastered
 
