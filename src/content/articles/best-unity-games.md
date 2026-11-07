@@ -1,8 +1,8 @@
 ---
 title: 50 Best Unity Games on PC in 2026 — And Which Ones You Can Play in VR
-description: We rank the 50 best and most popular Unity games on PC, then check which have native VR, full VR mods, UUVR support, or no viable VR option.
-pubDate: 2026-11-05
-lastUpdated: 2026-11-05
+description: We rank the 50 best and most popular Unity games on PC, then check which have native VR, full VR mods, UUVR/VRGIN support, or no viable VR option.
+pubDate: 2022-08-01
+lastUpdated: 2026-08-30
 author: CompoundVR Staff
 category: opinion
 heroImage: /images/articles/best-unity-games-hero.jpg
@@ -12,9 +12,46 @@ tags:
 - vr-mods
 - flat2vr
 - uuvr
+- uevr
+- vrgin
 - '2026'
+relatedPages:
+  - id: uuvr-guide
+    kind: article
+    note: "Universal VR mod framework for Unity games: setup, compatibility, and what it can/can’t do."
+  - id: vrgin-unity-vr-framework
+    kind: article
+    note: "VRGIN, the older Unity VR injection framework, and how it compares to newer options."
+  - id: uevr-guide
+    kind: article
+    note: "UEVR does for Unreal Engine games what UUVR/VRGIN aim to do for Unity."
+history:
+  - date: 2022-08-01
+    note: "Original article published ranking popular Unity games on PC and checking early VR mod/official VR routes."
+  - date: 2026-08-30
+    note: "Major update: refreshed rankings and VR status, added newer Unity VR mods/projects, expanded VR conversion coverage, moved FAQ to frontmatter, and added related Unity/Unreal VR framework links."
+faq:
+  - q: "What is the most popular Unity game on PC?"
+    a: "There is no single public sales database that covers every PC storefront, but **Rust** is the strongest #1 candidate for a Steam-centered lifetime popularity ranking. It has more than 1.4 million Steam reviews, enormous lifetime ownership estimates and a playerbase that has remained relevant for more than a decade.\n\nGames such as *Genshin Impact* are harder to place because their PC audiences sit largely outside Steam and their public player totals often combine PC with mobile and console."
+  - q: "What are the biggest games made with Unity?"
+    a: "On PC, the short list includes **Rust, Among Us, Phasmophobia, The Forest, Genshin Impact, Valheim, Unturned, Fall Guys, Hollow Knight, Lethal Company, NARAKA: BLADEPOINT, 7 Days to Die, R.E.P.O., Subnautica and Raft**.\n\nThe exact order depends on whether you value sales, Steam reviews, peak concurrency or active players most heavily."
+  - q: "Is Hollow Knight made in Unity?"
+    a: "Yes. Both **Hollow Knight** and **Hollow Knight: Silksong** are Unity games."
+  - q: "Is Genshin Impact made in Unity?"
+    a: "Yes. HoYoverse built *Genshin Impact* with Unity, heavily customized for its cross-platform pipeline."
+  - q: "Is Escape from Tarkov a Unity game?"
+    a: "Yes. *Escape from Tarkov* is built on Unity.\n\nThat does **not** mean generic Unity VR injection is a good idea. Its online architecture and anti-cheat make unofficial VR experimentation much riskier than modding a single-player game."
+  - q: "Can every Unity game be played in VR with UUVR?"
+    a: "No.\n\nUUVR can add VR rendering to some compatible Unity games, but compatibility varies and the framework does not automatically turn every game into a motion-controlled VR title. A dedicated conversion can modify camera behavior, UI, hands, aiming and interactions in ways a generic framework cannot infer."
+  - q: "Is UEVR for Unity games?"
+    a: "No. **UEVR is for Unreal Engine games.**\n\nFor Unity games, the relevant generic VR project is **UUVR**, alongside game-specific mods such as VHVR, NomaiVR, LCVR, 7DVR and RepoXR."
+  - q: "What are the best Unity VR mods?"
+    a: "My current top tier includes **NomaiVR for Outer Wilds, Two Forks VR for Firewatch, VHVR for Valheim, Resurrected VRMod for Risk of Rain 2, LCVR for Lethal Company, 7DVR for 7 Days to Die, RepoXR for R.E.P.O., SubmersedVR for Subnautica and HeavenVR for Neon White**.\n\nThe important distinction is that these are purpose-built conversions, not merely generic stereoscopic injection."
+  - q: "Which popular Unity games have official VR support?"
+    a: "Among the games in our Top 50, **Phasmophobia** and **The Forest** have official VR support in the original game.\n\n**Among Us, Human: Fall Flat and Cities: Skylines** also have official VR adaptations, but those are separate products rather than a VR mode inside the original flat PC release."
+  - q: "Why isn't Outer Wilds in the main Top 50 if it is your #1 Unity VR game?"
+    a: "Because the two rankings measure different things.\n\n*Outer Wilds* is one of the best games on this page and probably the best Unity Flat2VR conversion, but its lifetime PC audience is smaller than the giant survival, multiplayer and free-to-play games that dominate a ranking based primarily on popularity.\n\nThat is exactly why the separate VR ranking exists."
 ---
-
 Unity has powered so many games that saying a game is “made in Unity” barely tells you what kind of game it is anymore.
 
 It can mean *Rust*, a survival sandbox that has eaten entire years of people’s lives. It can mean *Hollow Knight*, one of the defining Metroidvanias of the last decade. It can mean *Among Us*, *Phasmophobia*, *Valheim*, *RimWorld*, *Subnautica*, *Cuphead*, *Cities: Skylines*, *Risk of Rain 2* or a dozen other games that have almost nothing in common beyond the engine underneath them.
@@ -805,66 +842,6 @@ There is no clean cliff between #50 and #51. These were all in the conversation:
 A few of those are much more important to a VR player than their flat popularity rank suggests. *Outer Wilds*, *Firewatch*, *GTFO*, *Gunfire Reborn*, *DREDGE*, *Neon White* and *Outward* all jump dramatically if we rank by the quality of the VR experience instead.
 
 That is why I would not merge “most popular Unity games” and “best Unity games in VR” into one score. They answer different questions.
-
-## FAQ
-
-### What is the most popular Unity game on PC?
-
-There is no single public sales database that covers every PC storefront, but **Rust** is the strongest #1 candidate for a Steam-centered lifetime popularity ranking. It has more than 1.4 million Steam reviews, enormous lifetime ownership estimates and a playerbase that has remained relevant for more than a decade.
-
-Games such as *Genshin Impact* are harder to place because their PC audiences sit largely outside Steam and their public player totals often combine PC with mobile and console.
-
-### What are the biggest games made with Unity?
-
-On PC, the short list includes **Rust, Among Us, Phasmophobia, The Forest, Genshin Impact, Valheim, Unturned, Fall Guys, Hollow Knight, Lethal Company, NARAKA: BLADEPOINT, 7 Days to Die, R.E.P.O., Subnautica and Raft**.
-
-The exact order depends on whether you value sales, Steam reviews, peak concurrency or active players most heavily.
-
-### Is Hollow Knight made in Unity?
-
-Yes. Both **Hollow Knight** and **Hollow Knight: Silksong** are Unity games.
-
-### Is Genshin Impact made in Unity?
-
-Yes. HoYoverse built *Genshin Impact* with Unity, heavily customized for its cross-platform pipeline.
-
-### Is Escape from Tarkov a Unity game?
-
-Yes. *Escape from Tarkov* is built on Unity.
-
-That does **not** mean generic Unity VR injection is a good idea. Its online architecture and anti-cheat make unofficial VR experimentation much riskier than modding a single-player game.
-
-### Can every Unity game be played in VR with UUVR?
-
-No.
-
-UUVR can add VR rendering to some compatible Unity games, but compatibility varies and the framework does not automatically turn every game into a motion-controlled VR title. A dedicated conversion can modify camera behavior, UI, hands, aiming and interactions in ways a generic framework cannot infer.
-
-### Is UEVR for Unity games?
-
-No. **UEVR is for Unreal Engine games.**
-
-For Unity games, the relevant generic VR project is **UUVR**, alongside game-specific mods such as VHVR, NomaiVR, LCVR, 7DVR and RepoXR.
-
-### What are the best Unity VR mods?
-
-My current top tier includes **NomaiVR for Outer Wilds, Two Forks VR for Firewatch, VHVR for Valheim, Resurrected VRMod for Risk of Rain 2, LCVR for Lethal Company, 7DVR for 7 Days to Die, RepoXR for R.E.P.O., SubmersedVR for Subnautica and HeavenVR for Neon White**.
-
-The important distinction is that these are purpose-built conversions, not merely generic stereoscopic injection.
-
-### Which popular Unity games have official VR support?
-
-Among the games in our Top 50, **Phasmophobia** and **The Forest** have official VR support in the original game.
-
-**Among Us, Human: Fall Flat and Cities: Skylines** also have official VR adaptations, but those are separate products rather than a VR mode inside the original flat PC release.
-
-### Why isn't Outer Wilds in the main Top 50 if it is your #1 Unity VR game?
-
-Because the two rankings measure different things.
-
-*Outer Wilds* is one of the best games on this page and probably the best Unity Flat2VR conversion, but its lifetime PC audience is smaller than the giant survival, multiplayer and free-to-play games that dominate a ranking based primarily on popularity.
-
-That is exactly why the separate VR ranking exists.
 
 ## Final take
 
