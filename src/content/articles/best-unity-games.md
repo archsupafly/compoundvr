@@ -69,9 +69,19 @@ Some of these games have official VR modes. Some have community conversions so g
 
 If you came here because you simply wanted to know the best and most popular games built with Unity, the main ranking is for you.
 
-If you came here because you want to know which of those games are secretly some of the best PCVR games you can play, skip down to **The Best Unity Games to Actually Play in VR**. That ranking is completely different.
+If you came here because you want to know which of those games are secretly some of the best PCVR games you can play, skip down to [The Best Unity Games to Actually Play in VR](#the-best-unity-games-to-actually-play-in-vr).
 
-> **Last updated: November 2026.** VR mods move quickly. A green check here means there is a real route I would consider worth an enthusiast's time, not merely that somebody once got two images into a headset.
+<nav aria-label="Table of contents" style="font-size:0.85em; line-height:1.7; margin:1rem 0 1.25rem; padding:0.75rem 1rem; background:var(--bg-secondary,#f7f7f8); border:1px solid var(--border-subtle,#e5e5e5); border-radius:8px;">
+  <strong style="display:block; margin-bottom:0.25rem; font-size:0.95em;">On this page</strong>
+  <a href="#the-50-most-popular-unity-games-on-pc">50 most popular Unity games</a> ·
+  <a href="#the-50-best-and-most-popular-unity-games-on-pc-at-a-glance">VR status table</a> ·
+  <a href="#how-i-ranked-the-most-popular-unity-games">How I ranked</a> ·
+  <a href="#the-best-unity-games-to-actually-play-in-vr">Best Unity games in VR</a> ·
+  <a href="#the-most-interesting-new-unity-vr-mods-to-watch-in-late-2026">New VR mods to watch</a> ·
+  <a href="#what-about-uuvr-can-it-make-every-unity-game-vr">UUVR</a> ·
+  <a href="#the-biggest-unity-games-that-still-need-proper-vr-mods">VR mod wishlist</a> ·
+  <a href="#honorable-mentions-popular-unity-pc-games-just-outside-the-top-50">Honorable mentions</a>
+</nav>
 
 ## The 50 Most Popular Unity Games on PC
 
