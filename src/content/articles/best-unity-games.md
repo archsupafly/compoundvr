@@ -5,6 +5,7 @@ pubDate: 2022-08-01
 lastUpdated: 2026-08-30
 author: CompoundVR Staff
 category: opinion
+listicle: true
 heroImage: /images/articles/best-unity-games-hero.jpg
 tags:
 - unity
