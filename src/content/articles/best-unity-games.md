@@ -72,81 +72,6 @@ If you came here because you want to know which of those games are secretly some
 
 > **Last updated: November 2026.** VR mods move quickly. A green check here means there is a real route I would consider worth an enthusiast's time, not merely that somebody once got two images into a headset.
 
-## The 50 Best and Most Popular Unity Games on PC at a Glance
-
-**VR key**
-
-- **✅ Official VR** — VR support or an official VR edition worth knowing about.
-- **🟢 Full VR mod** — a dedicated game-specific conversion with meaningful 6DOF and/or motion-control support.
-- **🟡 Limited / experimental** — VR exists, but expect gamepad controls, depth-only presentation, alpha status or other significant compromises.
-- **⚪ Separate VR game** — an official VR adaptation exists, but it is not simply the original PC game running in VR.
-- **❌ No recommended VR route** — no current option I would point a normal reader toward.
-
-| Rank | Game | VR status | Best current VR route |
-|---:|---|---|---|
-| 1 | Rust | ❌ | No recommended route |
-| 2 | Among Us | ⚪ | *Among Us 3D* is a separate official VR/PC game |
-| 3 | Phasmophobia | ✅ | Built-in official VR |
-| 4 | The Forest | ✅ | Built-in official VR |
-| 5 | Genshin Impact | ❌ | No recommended route |
-| 6 | Valheim | 🟢 | VHVR / ValheimVR |
-| 7 | Unturned | 🟡 | UnturnedVR — new experimental full-motion mod |
-| 8 | Fall Guys | ❌ | No dedicated route I recommend |
-| 9 | Hollow Knight | 🟡 | Layered 2D-to-VR depth mod |
-| 10 | Lethal Company | 🟢 | LCVR |
-| 11 | NARAKA: BLADEPOINT | ❌ | No recommended route |
-| 12 | 7 Days to Die | 🟢 | 7DVR |
-| 13 | Hollow Knight: Silksong | 🟡 | Community 2D-to-VR depth conversion |
-| 14 | R.E.P.O. | 🟢 | RepoXR |
-| 15 | Subnautica | 🟢 | SubmersedVR; legacy official VR also exists |
-| 16 | Bloons TD 6 | ❌ | No dedicated conversion worth recommending |
-| 17 | Raft | 🟢 | RaftVR |
-| 18 | PEAK | 🟢 | PeakVR |
-| 19 | Risk of Rain 2 | 🟢 | Resurrected VRMod |
-| 20 | Sons of the Forest | 🟡 | SonsVR alpha |
-| 21 | Schedule I | 🟡 | 6DOF VR mod with gamepad; motion controls planned |
-| 22 | People Playground | ❌ | No meaningful dedicated route |
-| 23 | Cities: Skylines | ⚪ | *Cities: VR* is a separate adaptation |
-| 24 | Vampire Survivors | ❌ | No meaningful dedicated route |
-| 25 | Escape from Tarkov | ❌ | No recommended route |
-| 26 | RimWorld | ❌ | No dedicated VR conversion I recommend |
-| 27 | Human: Fall Flat | ⚪ | Separate official *Human Fall Flat VR* |
-| 28 | Cuphead | ❌ | No dedicated VR conversion |
-| 29 | Hearthstone | ❌ | No recommended VR route |
-| 30 | Goose Goose Duck | ❌ | No dedicated VR conversion |
-| 31 | Honkai: Star Rail | ❌ | No recommended route |
-| 32 | Muck | 🟡 | Experimental MuckVR; no full motion controls |
-| 33 | Content Warning | 🟢 | CWVR |
-| 34 | Slime Rancher | 🟢 | SRVR |
-| 35 | Totally Accurate Battle Simulator | ❌ | No dedicated conversion I recommend |
-| 36 | Stumble Guys | ❌ | No recommended route |
-| 37 | Crab Game | ❌ | No dedicated route I recommend |
-| 38 | Ori and the Will of the Wisps | ❌ | No dedicated conversion |
-| 39 | Inscryption | 🟡 | Experimental PCVR mod for Act 1 / Kaycee's Mod |
-| 40 | Kerbal Space Program | 🟡 | Revived KerbalVR project |
-| 41 | BattleBit Remastered | ❌ | No recommended route |
-| 42 | Oxygen Not Included | ❌ | No dedicated VR conversion |
-| 43 | V Rising | 🟡 | VRisingVR — stereo tabletop-style VR, gamepad/M+KB |
-| 44 | Albion Online | ❌ | No recommended route |
-| 45 | Disco Elysium | ❌ | No dedicated VR conversion |
-| 46 | Cult of the Lamb | ❌ | No dedicated VR conversion |
-| 47 | Helltaker | ❌ | No meaningful VR conversion |
-| 48 | Stick Fight: The Game | ❌ | No dedicated VR conversion |
-| 49 | The Long Dark | 🟡 | Full-motion community VR project is in development |
-| 50 | Last Epoch | ❌ | No recommended VR route |
-
-## How I ranked the most popular Unity games
-
-This is not a disguised “my favorite games” list.
-
-For the Steam-heavy part of the PC market, the clearest public signals are lifetime review volume, estimated ownership, peak concurrent players and whether the game still has a meaningful audience years later. Those numbers are not interchangeable — a free game can generate enormous owner estimates, while a single-player game can sell millions without ever putting 300,000 people online at the same time — so I did not pretend there is one magic number that sorts everything perfectly.
-
-A few examples show the scale we are dealing with. As of this update, *Rust* has more than **1.4 million Steam reviews**. *Phasmophobia* is over **840,000**. *Among Us* is over **750,000**. *The Forest*, *Valheim*, *Unturned* and *Hollow Knight* are all well into the half-million-review range. Newer games such as *R.E.P.O.*, *Silksong* and *Schedule I* have reached absurd numbers in a fraction of the time.
-
-The awkward cases are games that do not live primarily on Steam. *Genshin Impact*, *Hearthstone*, *Honkai: Star Rail*, *Escape from Tarkov* and *Albion Online* all have large PC audiences that Steam cannot fully measure. *Fall Guys* is another weird one because its original Steam run was huge before the game moved its center of gravity to Epic.
-
-That is why I would read the exact order as an **editorial popularity ranking**, not a forensic sales chart. The top 20 are fairly easy to defend. Once we get into the 30s and 40s, there are a dozen games close enough that one big update, giveaway or breakout year could shuffle the order.
-
 ## 1. Rust
 
 If I have to pick the biggest Unity success story on PC, I still start with *Rust*.
@@ -564,6 +489,84 @@ If that changes, this game could shoot straight into our best-Unity-VR list.
 **VR status:** **❌ No recommended VR route.**
 
 ---
+
+## The 50 Best and Most Popular Unity Games on PC at a Glance
+
+<p style="font-size:0.85em; margin-bottom:0.25rem;"><strong>VR key</strong></p>
+<div style="font-size:0.85em; line-height:1.4;">
+
+- **✅ Official VR** — VR support or an official VR edition worth knowing about.
+- **🟢 Full VR mod** — a dedicated game-specific conversion with meaningful 6DOF and/or motion-control support.
+- **🟡 Limited / experimental** — VR exists, but expect gamepad controls, depth-only presentation, alpha status or other significant compromises.
+- **⚪ Separate VR game** — an official VR adaptation exists, but it is not simply the original PC game running in VR.
+- **❌ No recommended VR route** — no current option I would point a normal reader toward.
+
+</div>
+
+| Rank | Game | VR status | Best current VR route |
+|---:|---|---|---|
+| 1 | Rust | ❌ | No recommended route |
+| 2 | Among Us | ⚪ | *Among Us 3D* is a separate official VR/PC game |
+| 3 | Phasmophobia | ✅ | Built-in official VR |
+| 4 | The Forest | ✅ | Built-in official VR |
+| 5 | Genshin Impact | ❌ | No recommended route |
+| 6 | Valheim | 🟢 | VHVR / ValheimVR |
+| 7 | Unturned | 🟡 | UnturnedVR — new experimental full-motion mod |
+| 8 | Fall Guys | ❌ | No dedicated route I recommend |
+| 9 | Hollow Knight | 🟡 | Layered 2D-to-VR depth mod |
+| 10 | Lethal Company | 🟢 | LCVR |
+| 11 | NARAKA: BLADEPOINT | ❌ | No recommended route |
+| 12 | 7 Days to Die | 🟢 | 7DVR |
+| 13 | Hollow Knight: Silksong | 🟡 | Community 2D-to-VR depth conversion |
+| 14 | R.E.P.O. | 🟢 | RepoXR |
+| 15 | Subnautica | 🟢 | SubmersedVR; legacy official VR also exists |
+| 16 | Bloons TD 6 | ❌ | No dedicated conversion worth recommending |
+| 17 | Raft | 🟢 | RaftVR |
+| 18 | PEAK | 🟢 | PeakVR |
+| 19 | Risk of Rain 2 | 🟢 | Resurrected VRMod |
+| 20 | Sons of the Forest | 🟡 | SonsVR alpha |
+| 21 | Schedule I | 🟡 | 6DOF VR mod with gamepad; motion controls planned |
+| 22 | People Playground | ❌ | No meaningful dedicated route |
+| 23 | Cities: Skylines | ⚪ | *Cities: VR* is a separate adaptation |
+| 24 | Vampire Survivors | ❌ | No meaningful dedicated route |
+| 25 | Escape from Tarkov | ❌ | No recommended route |
+| 26 | RimWorld | ❌ | No dedicated VR conversion I recommend |
+| 27 | Human: Fall Flat | ⚪ | Separate official *Human Fall Flat VR* |
+| 28 | Cuphead | ❌ | No dedicated VR conversion |
+| 29 | Hearthstone | ❌ | No recommended VR route |
+| 30 | Goose Goose Duck | ❌ | No dedicated VR conversion |
+| 31 | Honkai: Star Rail | ❌ | No recommended route |
+| 32 | Muck | 🟡 | Experimental MuckVR; no full motion controls |
+| 33 | Content Warning | 🟢 | CWVR |
+| 34 | Slime Rancher | 🟢 | SRVR |
+| 35 | Totally Accurate Battle Simulator | ❌ | No dedicated conversion I recommend |
+| 36 | Stumble Guys | ❌ | No recommended route |
+| 37 | Crab Game | ❌ | No dedicated route I recommend |
+| 38 | Ori and the Will of the Wisps | ❌ | No dedicated conversion |
+| 39 | Inscryption | 🟡 | Experimental PCVR mod for Act 1 / Kaycee's Mod |
+| 40 | Kerbal Space Program | 🟡 | Revived KerbalVR project |
+| 41 | BattleBit Remastered | ❌ | No recommended route |
+| 42 | Oxygen Not Included | ❌ | No dedicated VR conversion |
+| 43 | V Rising | 🟡 | VRisingVR — stereo tabletop-style VR, gamepad/M+KB |
+| 44 | Albion Online | ❌ | No recommended route |
+| 45 | Disco Elysium | ❌ | No dedicated VR conversion |
+| 46 | Cult of the Lamb | ❌ | No dedicated VR conversion |
+| 47 | Helltaker | ❌ | No meaningful VR conversion |
+| 48 | Stick Fight: The Game | ❌ | No dedicated VR conversion |
+| 49 | The Long Dark | 🟡 | Full-motion community VR project is in development |
+| 50 | Last Epoch | ❌ | No recommended VR route |
+
+## How I ranked the most popular Unity games
+
+This is not a disguised “my favorite games” list.
+
+For the Steam-heavy part of the PC market, the clearest public signals are lifetime review volume, estimated ownership, peak concurrent players and whether the game still has a meaningful audience years later. Those numbers are not interchangeable — a free game can generate enormous owner estimates, while a single-player game can sell millions without ever putting 300,000 people online at the same time — so I did not pretend there is one magic number that sorts everything perfectly.
+
+A few examples show the scale we are dealing with. As of this update, *Rust* has more than **1.4 million Steam reviews**. *Phasmophobia* is over **840,000**. *Among Us* is over **750,000**. *The Forest*, *Valheim*, *Unturned* and *Hollow Knight* are all well into the half-million-review range. Newer games such as *R.E.P.O.*, *Silksong* and *Schedule I* have reached absurd numbers in a fraction of the time.
+
+The awkward cases are games that do not live primarily on Steam. *Genshin Impact*, *Hearthstone*, *Honkai: Star Rail*, *Escape from Tarkov* and *Albion Online* all have large PC audiences that Steam cannot fully measure. *Fall Guys* is another weird one because its original Steam run was huge before the game moved its center of gravity to Epic.
+
+That is why I would read the exact order as an **editorial popularity ranking**, not a forensic sales chart. The top 20 are fairly easy to defend. Once we get into the 30s and 40s, there are a dozen games close enough that one big update, giveaway or breakout year could shuffle the order.
 
 ## The Best Unity Games to Actually Play in VR
 
