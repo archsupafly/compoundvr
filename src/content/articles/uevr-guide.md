@@ -21,15 +21,15 @@ relatedPages:
   - id: vorpX-injection-driver-guide
     kind: article
     note: "VorpX injection driver — the other major flat-to-VR solution"
+  - id: vrgin-unity-vr-framework
+    kind: article
+    note: "VRGIN is an open-source Unity VR injection framework for technical users."
   - id: uuvr-guide
     kind: article
     note: "UUVR adds stereoscopic 3D and head tracking to Unity games through Rai Pal."
   - id: reframework-vr-guide
     kind: article
     note: "REFramework delivers engine-level VR for Capcom's RE Engine games."
-  - id: top-vr-modding-news-2023
-    kind: article
-    note: "2023 VR modding news, including UEVR's breakthrough year."
 ---
 
 # UEVR: Play Unreal Engine Games in VR
