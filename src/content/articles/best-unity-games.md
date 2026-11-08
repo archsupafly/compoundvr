@@ -292,6 +292,8 @@ This one does.
 
 Even so, it is far beyond a simple stereo injector.
 
+[Read the full PEAK VR review](/games/peak/)
+
 ## 19. Risk of Rain 2
 
 ![Risk of Rain 2](/images/games/risk-of-rain-2-vr-hero.jpg)
