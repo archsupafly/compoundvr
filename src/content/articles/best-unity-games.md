@@ -246,6 +246,8 @@ It is a headset-enhanced way to experience the art, not a motion-controlled rema
 
 It also has one of the most exciting newer Unity VR conversions.
 
+[Read the full R.E.P.O. VR review](/games/r-e-p-o/)
+
 ## 15. Subnautica
 
 ![Subnautica](/images/games/subnautica-vr-hero.jpg)
