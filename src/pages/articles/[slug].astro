@@ -85,10 +85,10 @@ const jsonLd = JSON.stringify({
     <RelatedPages items={article.data.relatedPages} heading="Related articles" />
 
     {article.data.sources && (
-      <div class="article-sources" style="margin-top:2rem;">
-        <h2>Sources</h2>
-        <div class="sources-content" style="font-size:0.9rem;color:var(--text-tertiary);">{article.data.sources}</div>
-      </div>
+      <details class="source-log" style="margin-top:1rem;">
+        <summary>Sources</summary>
+        <div class="source-log-content" style="margin-top:0.75rem;">{article.data.sources}</div>
+      </details>
     )}
 
     {article.data.history && article.data.history.length > 0 && (
@@ -156,6 +156,43 @@ const jsonLd = JSON.stringify({
     font-size: 0.85rem;
     color: var(--text-tertiary);
     line-height: 1.6;
+  }
+
+
+  .source-log {
+    border: 1px solid var(--border-default);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    background: var(--surface-secondary);
+  }
+  .source-log summary {
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: var(--text-tertiary);
+    font-weight: 500;
+    list-style: none;
+  }
+  .source-log summary::-webkit-details-marker { display: none; }
+  .source-log summary::before { content: '▸ '; }
+  .source-log[open] summary::before { content: '▾ '; }
+  .source-log-content {
+    font-size: 0.8rem;
+    color: var(--text-tertiary);
+    line-height: 1.6;
+  }
+  .prose .compact-table {
+    overflow-x: auto;
+    margin: 1rem 0;
+  }
+  .prose .compact-table table {
+    font-size: 0.82rem;
+    line-height: 1.35;
+    margin: 0;
+  }
+  .prose .compact-table th,
+  .prose .compact-table td {
+    padding: 0.35rem 0.5rem;
+    vertical-align: top;
   }
 
 </style>
