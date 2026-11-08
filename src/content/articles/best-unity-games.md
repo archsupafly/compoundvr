@@ -441,6 +441,8 @@ Landfall has a talent for games that become instant group-chat events, and *Cont
 
 The conversion makes sense because *Content Warning* is already about physically getting too close to something terrible while your friends make bad decisions. VR just removes the safe distance.
 
+[Read the full Content Warning VR review](/games/content-warning/)
+
 ## 34. Slime Rancher
 
 ![Slime Rancher](/images/games/slime-rancher-vr-hero.jpg)
@@ -449,6 +451,8 @@ The conversion makes sense because *Content Warning* is already about physically
 *Slime Rancher* has quietly become one of the most beloved first-person games built in Unity. It is friendly, readable and built around a tool — the Vacpack — that begs to be held in your hand.
 
 This is exactly the kind of conversion I want more of — a rethink of the interaction that matters most, not a graphics hack.
+
+[Read the full Slime Rancher VR review](/games/slime-rancher/)
 
 ## 35. Totally Accurate Battle Simulator
 
