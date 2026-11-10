@@ -31,6 +31,10 @@ experienceTags:
 tier: A
 verdict: "The GTA III VR mod drops you inside Liberty City with proper 6DOF and hand-tracked weapons, and that combination of a landmark open world plus real VR presence makes it an easy recommendation for anyone with a VR-ready PC and an owned retail copy — just go in knowing it's a work in progress."
 heroImage: /images/games/gta-3-vr-hero.jpg
+relatedPages:
+  - id: gta-vr-ranked
+    kind: article
+    note: "Our ranked guide to every GTA game in VR, from real 6DOF builds to wrappers."
 modDownload:
   url: "https://gtaforums.com/topic/1006641-gta-iii-vr-standalone-mod/"
   label: "Download GTA III VR Mod"

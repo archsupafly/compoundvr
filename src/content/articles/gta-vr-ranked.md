@@ -1,12 +1,12 @@
 ---
 title: "Can You Play GTA in VR? Every Grand Theft Auto Game Ranked (2026)"
-description: "Vice City, San Andreas, and now GTA IV have real VR builds. Every Grand Theft Auto game ranked by VR playability — mods, ports, emulator/wrapper options, GTA V’s 2026 status, and the GTA 6 outlook."
+description: "Vice City, San Andreas, GTA IV, and GTA III have real 6DOF VR builds. Every Grand Theft Auto game ranked by VR playability — mods, ports, emulator/wrapper options, GTA V’s 2026 status, and the GTA 6 outlook."
 pubDate: 2026-11-08
-lastUpdated: 2026-11-09
+lastUpdated: 2026-11-10
 author: "Ian"
 category: opinion
 heroImage: /images/articles/gta-vr-ranked-hero.jpg
-tags: ['gta', 'vr', 'ranked', '2026', 'quest', 'pcvr', 'emulator', 'gta-iv']
+tags: ['gta', 'vr', 'ranked', '2026', 'quest', 'pcvr', 'emulator', 'gta-iv', 'gta-iii']
 listicle: true
 relatedPages:
   - id: grand-theft-auto-vice-city
@@ -18,17 +18,19 @@ relatedPages:
   - id: grand-theft-auto-iv
     kind: game
     note: "New 6DOF GTA4VR mod brings tracked hands and physical driving to Liberty City."
+  - id: gta-3
+    kind: game
+    note: "re3/OpenXR 6DOF mod brings hand-tracked weapons and driving to Liberty City."
   - id: gta-5
     kind: game
     note: "Luke Ross R.E.A.L. VR offers a limited view-only GTA V runtime on PC."
-  - id: luke-ross-real-vr-games
-    kind: article
-    note: "Background on Luke Ross’s R.E.A.L. VR framework and its supported games."
 faq:
   - q: "Can you play GTA in VR?"
-    a: "Yes, but only a few Grand Theft Auto games have genuinely playable real-VR builds. As of 2026-11-09, GTA: Vice City, GTA: San Andreas, and GTA IV have real 6DOF/mod VR routes. GTA V has a limited 2026 PCVR runtime, and some older/handheld GTA titles can be played through emulator or virtual-screen wrappers (limited, not true VR conversions). Most of the series has no verified VR route."
+    a: "Yes, but only a few Grand Theft Auto games have genuinely playable real-VR builds. As of 2026-11-10, GTA: Vice City, GTA: San Andreas, GTA IV, and GTA III have real 6DOF/mod VR routes. GTA V has a limited 2026 PCVR runtime, and some older/handheld GTA titles can be played through emulator or virtual-screen wrappers (limited, not true VR conversions). Most of the series has no verified VR route."
   - q: "Which GTA is best in VR right now?"
-    a: "GTA: Vice City is still the easiest recommendation for most people thanks to its spread of 6DOF/OpenXR mod, standalone Quest port, and UEVR options. San Andreas and GTA IV also offer real VR builds, but with more setup, hardware, or work-in-progress caveats."
+    a: "GTA: Vice City is still the easiest recommendation for most people thanks to its spread of 6DOF/OpenXR mod, standalone Quest port, and UEVR options. San Andreas, GTA IV, and GTA III also offer real 6DOF VR builds, but with more setup, hardware, or work-in-progress caveats."
+  - q: "Can you play GTA 3 in VR?"
+    a: "Yes. Grand Theft Auto III has a community 6DOF VR mod built on the re3 engine recreation with an OpenXR VR layer. It adds tracked head/hand movement, hand-tracked weapons, motion melee/throwables, and first-person driving and drive-bys on PCVR. You need a retail PC copy of GTA III and should expect a work-in-progress experience with some control bugs and a manual install."
   - q: "Can you play GTA 4 in VR?"
     a: "Yes — with caveats. GTA4VR (by bordplate) is a free PCVR mod for GTA IV: The Complete Edition that adds 6DOF head tracking, tracked hands, physical weapons, and physical driving via OpenXR. It’s a new, actively developed mod (first released October 2026, v0.6.0 as of 2026-11-09) and still a work in progress: expect bugs, incomplete mission coverage, and uneven performance. You need the PC Complete Edition and a 32-bit-capable OpenXR runtime (SteamVR is the tested reference)."
   - q: "Can you play GTA 5 in VR in 2026?"
@@ -39,9 +41,9 @@ faq:
     a: "No VR mode has been announced. GTA VI is dated 2026-11-19 for PlayStation 5 and Xbox Series X/S, console-only at launch, with no PC version listed. Rockstar and Take-Two have not announced a VR mode or VR platform."
 ---
 
-Three Grand Theft Auto games now have genuinely playable real-VR builds: *Grand Theft Auto: Vice City*, *Grand Theft Auto: San Andreas*, and *Grand Theft Auto IV*. *GTA V* has a limited 2026 view-only PCVR runtime, some older and handheld titles can be run through emulators or virtual-screen wrappers, and *GTA 6* has no VR mode announced.
+Four Grand Theft Auto games now have genuinely playable real-VR builds: *Grand Theft Auto: Vice City*, *Grand Theft Auto: San Andreas*, *Grand Theft Auto IV*, and *Grand Theft Auto III*. *GTA V* has a limited 2026 view-only PCVR runtime, some older and handheld titles can be run through emulators or virtual-screen wrappers, and *GTA 6* has no VR mode announced.
 
-I’ve ranked **every major GTA release** by actual VR playability as of 2026-11-09 — real 6DOF builds first, then limited/wrapper options, then no verified route.
+I’ve ranked **every major GTA release** by actual VR playability as of 2026-11-10 — real 6DOF builds first, then limited/wrapper options, then no verified route.
 
 <div style="font-size:0.68em; line-height:1.45; margin:0.5rem 0 0.75rem; padding:0.4rem 0.6rem; border-left:3px solid #3b82f6; color:var(--text-muted,#666);">
 <strong style="color:var(--text-primary,#111);">VR key:</strong>
@@ -61,7 +63,7 @@ I’ve ranked **every major GTA release** by actual VR playability as of 2026-11
 | Grand Theft Auto | 1997 | 🟡 Limited/experimental | 2D top-down; emulator/virtual-screen wrapper only. | — |
 | GTA: London 1969/1961 | 1999 | 🟡 Limited/experimental | 2D expansions; emulator/wrapper only. | — |
 | Grand Theft Auto 2 | 1999 | 🟡 Limited/experimental | 2D top-down; emulator/wrapper only. | — |
-| Grand Theft Auto III | 2001 | 🟡 Limited/experimental | No verified dedicated VR mod; generic injection/wrapper is possible but compromised. | — |
+| Grand Theft Auto III | 2001 | 🟢 Full 6DOF/mod | re3/OpenXR 6DOF mod (SoulStorm64): hand-tracked guns, motion melee/throwables, first-person driving/drive-bys. Needs retail PC copy; WIP. | [Review](/games/gta-3) |
 | Grand Theft Auto: Vice City | 2002 | 🟢 Full 6DOF/mod | 6DOF/OpenXR mod, standalone Quest port path, and UEVR options. | [Review](/games/grand-theft-auto-vice-city) |
 | Grand Theft Auto: San Andreas | 2004 | 🟢 Full 6DOF/mod | UEVR first-person conversion (Definitive Edition); late-2026 standalone Quest 3 fan build reported. Official Quest port still on hold. | [Review](/games/grand-theft-auto-san-andreas) |
 | Grand Theft Auto Advance | 2004 | 🟡 Limited/experimental | Handheld top-down; emulator/wrapper only. | — |
@@ -110,7 +112,17 @@ GTA IV now has a real 6DOF option: **GTA4VR** (by bordplate), a free community m
 
 [Read the full Grand Theft Auto IV review](/games/grand-theft-auto-iv)
 
-## #4: Grand Theft Auto V
+## #4: Grand Theft Auto III
+
+![Grand Theft Auto III](/images/games/gta-3-vr-hero.jpg)
+
+<div class="rank-meta">2001 game · 🟢 Full 6DOF/mod</div>
+
+GTA III now has a proper 6DOF route. The community mod is built on the re3 engine recreation with a native OpenXR VR layer, so head tracking and hand input are first-class: you aim and fire guns with your hands, swing the bat, throw grenades/Molotovs with motion, and drive in first-person with tracked controls and drive-bys. Liberty City’s 2001 open world hits differently when you’re standing inside it. You need a retail PC copy of GTA III, and it’s still a work in progress with control bugs and a manual install — but as a real VR conversion, it clearly belongs in the playable camp.
+
+[Read the full Grand Theft Auto III review](/games/gta-3)
+
+## #5: Grand Theft Auto V
 
 ![Grand Theft Auto V](/images/games/gta-5-vr-hero.jpg)
 
@@ -120,7 +132,7 @@ GTA V is playable in VR again, but only in a limited way. Luke Ross’s R.E.A.L.
 
 [Read the full Grand Theft Auto V review](/games/gta-5)
 
-## #5: Grand Theft Auto: Vice City Stories
+## #6: Grand Theft Auto: Vice City Stories
 
 ![Grand Theft Auto: Vice City Stories](/images/games/grand-theft-auto-vice-city-stories-vr-hero.jpg)
 
@@ -136,7 +148,7 @@ A lot of older GTA titles can be launched in a headset through **emulators, virt
 
 - **2D/top-down (GTA, London, GTA 2, Advance):** emulator/wrapper only — virtual screen, no VR presence.
 - **PSP (Liberty City Stories, Vice City Stories):** emulator/VR wrapper territory; playable as a flat game in VR.
-- **3D-era PC without a verified mod (GTA III):** generic injection/wrapper may work for some setups, but not a verified dedicated VR conversion.
+- **3D-era PC without a verified 6DOF mod:** generic injection drivers or wrappers may work for some setups, but they’re not the same as a dedicated VR conversion.
 - **Handheld (Chinatown Wars):** emulator/wrapper only.
 - **GTA Online / Trilogy DE:** no verified supported VR route (and R.E.A.L. requires anti-cheat disabled, removing Online).
 
@@ -150,4 +162,4 @@ VR remains a long shot: RAGE is a proprietary, closed engine (not an easy UEVR-s
 
 ## The Bottom Line
 
-**Vice City, San Andreas, and GTA IV** are the real GTA VR picks right now — all 6DOF/mod routes, with different tradeoffs in maturity and setup. **GTA V** is a limited view-only runtime. Everything else is either an emulator/wrapper-style workaround or has no verified VR route, and **GTA 6** has no VR announced. If you want the best “inside GTA” headset experience today, start with Vice City.
+**Vice City, San Andreas, GTA IV, and GTA III** are the real GTA VR picks right now — all 6DOF/mod routes, with different tradeoffs in maturity and setup. **GTA V** is a limited view-only runtime. Everything else is either an emulator/wrapper-style workaround or has no verified VR route, and **GTA 6** has no VR announced. If you want the best “inside GTA” headset experience today, start with Vice City.
