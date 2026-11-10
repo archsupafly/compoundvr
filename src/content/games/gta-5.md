@@ -44,6 +44,9 @@ relatedPages:
   - id: luke-ross-real-vr-games
     kind: article
     note: "All 53 R.E.A.L. VR games ranked by release date"
+  - id: gta-vr-ranked
+    kind: article
+    note: "Our ranked guide to every GTA game in VR, including GTA V’s 2026 runtime status."
 ---
 
 The first time I stood at the corner of Vinewood Boulevard and looked up at the signs, I understood why people kept chasing this. GTA V is one of the most fully realized cities ever built for a screen, and in VR that city finally wraps around you. The palm trees have actual height. The traffic has real depth. Los Santos stops being a diorama and starts being a place you occupy.

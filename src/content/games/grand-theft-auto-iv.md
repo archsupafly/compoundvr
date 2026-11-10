@@ -38,7 +38,12 @@ modDownload:
   url: "https://github.com/bordplate/GTA4VR/releases/latest"
   label: "Download Grand Theft Auto IV VR Mod"
   note: "Created by bordplate"
+relatedPages:
+  - id: gta-vr-ranked
+    kind: article
+    note: "Our ranked guide to every GTA game in VR, from real 6DOF builds to wrappers."
 sources: "GitHub repository and release history for bordplate/GTA4VR; pcvrcentral GTA IV conversion pages; VRMods-List directory entry; YouTube VR coverage (NotAGameAddict, VRified Games, FastLawyer, Uruzz, StoniVR and others); VorpX supported-games documentation and a community-compiled VorpX game list. Assessment based on the documented feature set, the author's README, and creator gameplay footage rather than direct hands-on testing."
+
 ---
 
 For the better part of two decades, the only way to "be" Niko Bellic was to watch him from a camera floating over his shoulder. Last month that finally changed. A free community mod called GTA4VR drops you directly into Liberty City — head tracking, tracked hands, and a steering wheel you actually grip — and it is the closest this game has ever come to feeling like a place you inhabit instead of a cutscene you watch.

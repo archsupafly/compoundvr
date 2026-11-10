@@ -34,7 +34,12 @@ modDownload:
   url: "https://www.nexusmods.com/grandtheftautothetrilogy/mods/922"
   label: "Download GTA: San Andreas VR Mod"
   note: "Created by Holydh"
+relatedPages:
+  - id: gta-vr-ranked
+    kind: article
+    note: "Our ranked guide to every GTA game in VR, from real 6DOF builds to wrappers."
 sources: "Assessment based on press verification (UploadVR 2025-04-18, Road to VR) and documented community experience via the Nexus mod page (Holydh, mod 922), the VRMods-List directory, PCVR Central's guide, and YouTube VR coverage (Beardo Benjo, Gamertag VR, BladeOpotato, Paradise Decay)."
+
 ---
 
 I spent a stupid amount of my twenties in San Andreas. Grove Street, the countryside, Las Venturas at night — I knew that map better than my own neighborhood. So when a community mod dropped this month that finally puts you inside it in first person with real 6DOF and motion controls, I didn't hesitate. This is the GTA VR experience we were promised, and it didn't come from Rockstar.

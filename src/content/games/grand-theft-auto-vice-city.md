@@ -38,6 +38,9 @@ relatedPages:
     kind: article
     note: "Featured in our best 2000s VR roundup."
 
+  - id: gta-vr-ranked
+    kind: article
+    note: "Our ranked guide to every GTA game in VR, from real 6DOF builds to wrappers."
 sources: "Vice City VR mod and standalone Quest port GitHub repositories; reVC open-source engine project; Flat2VR Discord community discussion; UEVR/Praydog project and releases; vorpX supported-games listing; PPSSPP VR documentation; Wikipedia (Grand Theft Auto: Vice City and The Definitive Edition); media coverage via ixbt.games, Sportskeeda, and pcvrcentral listings."
 ---
 

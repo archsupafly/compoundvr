@@ -40,7 +40,12 @@ tags:
 author: Ian
 status: draft
 heroImage: /images/games/grand-theft-auto-vice-city-stories-vr-hero.jpg
+relatedPages:
+  - id: gta-vr-ranked
+    kind: article
+    note: "Our ranked guide to every GTA game in VR, including emulator and wrapper routes."
 sources: https://ir.take2games.com/static-files/43fadba7-2412-4215-a298-0266010c4f66; https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories; https://www.ppsspp.org/docs/reference/vr-apk/; https://github.com/hrydgard/ppsspp/pull/15659; https://github.com/hrydgard/ppsspp/pull/15901; https://sidequestvr.com/app/12379/ppsspp-vr; https://dolphinvr.wordpress.com/; https://www.vorpx.com/supported-games/; https://www.vorpx.com/frequently-asked-questions/; https://github.com/praydog/UEVR; https://github.com/praydog/UEVR/releases/tag/1.0; https://github.com/MaslowCorporation/GTA-VICE-CITY-VR; https://www.nexusmods.com/grandtheftautothetrilogy/mods/922; https://www.ign.com/articles/gta-trilogy-vr-mode; https://www.gtaboom.com/gta-vice-city-stories-is-finally-coming-to-pc-after-20-years-0d57; https://www.moddb.com/mods/gta-re-vice-city-stories-pc-ppsspp-adaptation; https://github.com/GTAmodding/VCSPC
+
 ---
 
 # Grand Theft Auto: Vice City Stories in VR: The Prequel You Can Almost Play
