@@ -10,6 +10,13 @@ author: CompoundVR
 category: opinion
 heroImage: /images/articles/dolphin-vr-hero.jpg
 tags: ['emulator', 'dolphin', 'gamecube', 'wii', 'vr-preservation']
+relatedPages:
+  - id: pikmin-2
+    kind: game
+    note: "Pikmin 2 VR guide, including the Project Honeydew 2 route and the legacy Dolphin VR setup path"
+  - id: pikmin
+    kind: game
+    note: "Pikmin VR (Project Honeydew) guide for the original Pikmin"
 ---
 
 The first time you load *Metroid Prime* inside a headset, something clicks that shouldn't. Samus's visor fills your entire field of view. The rain on Tallon IV spatters against glass you can almost reach out and touch. The morph ball tunnels stretch past you in proper depth instead of flattening against a television two meters away. For a game released in 2002, it feels suspiciously like it was waiting for this hardware all along.
