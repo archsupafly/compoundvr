@@ -3,7 +3,7 @@ title: "Pikmin VR"
 description: "Pikmin VR with Project Honeydew is a free native VR mod for the original Pikmin on PCVR and Quest 3/3S, with tracked hands, co-op, and a real setup path. Guide to how to play, requirements, and caveats."
 flatReleaseDate: "2001-10-26"
 vrReleaseDate: "2016-07-13"
-lastUpdated: "2026-11-11"
+lastUpdated: "2026-10-28"
 featured: false
 routeType: "Multi-Route Coverage"
 platforms: ['PCVR', 'Quest']
@@ -60,8 +60,6 @@ history:
     note: "Project Honeydew 0.3.0 released — native first-person VR port of the GameCube original with online co-op, Quest 3/3S standalone and Steam Frame builds."
   - date: 2026-10-28
     note: "Project Honeydew 0.3.1 released (per official Honeydew 1 page)."
-  - date: 2026-11-11
-    note: "Refreshed for current Honeydew 1 details and search intent (Pikmin VR setup/how-to/Quest), with FAQ and setup section added."
 sources: "Project Honeydew (Honeydew 1) official page and install/download notes (projecthoneydew.com/honeydew1, checked 2026-11-11), Project Honeydew 0.3.0/0.3.1 release information as published on projecthoneydew.com, the Project Honeydew YouTube channel, and Dolphin VR historical coverage via VR Bites, VRborg and the Dolphin VR blog."
 relatedPages:
   - id: pikmin-2
