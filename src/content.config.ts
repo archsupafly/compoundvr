@@ -13,6 +13,8 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     category: z.enum(['news', 'guide', 'comparison', 'opinion']).default('guide'),
     listicle: z.boolean().default(false),
+    // Trailer listicles embed a YouTube trailer per ranked entry instead of a thumbnail.
+    trailer_listicle: z.boolean().default(false),
     featured: z.boolean().default(false),
     // Same contract as the games collection; lets an article link to a mod
     // download outside the body. Rendered by the article template.
