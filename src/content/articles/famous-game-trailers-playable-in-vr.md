@@ -9,6 +9,16 @@ heroImage: /images/articles/famous-game-trailers-playable-in-vr-hero.jpg
 tags: ['vr', 'trailers', 'ranked', '2026', 'vr-mods', 'pcvr', 'psvr2', 'uevr']
 listicle: true
 trailer_listicle: true
+relatedPages:
+  - id: luke-ross-real-vr-games
+    kind: article
+    note: "Luke Ross R.E.A.L. conversions behind several entries on this list."
+  - id: uevr-guide
+    kind: article
+    note: "Setup guide for UEVR, used by Unreal Engine conversions covered here."
+  - id: reframework-vr-guide
+    kind: article
+    note: "REFramework VR setup for Resident Evil and other RE Engine titles."
 ---
 
 A good trailer is a threat. It shows you a world, tells you it's yours, and then makes you wait two years to find out whether any of it was true. Most of us bought those promises sight unseen — Night City, Los Santos, the Northern Kingdoms, a burning Hyrule field — and most of us found out later that marketing renders and shipping games are different animals.
@@ -266,5 +276,37 @@ Breath of the Wild's trailer is the best cut trailer Nintendo has ever made: a f
 Beat Saber is on this list as a control group. Its trailer was shot in VR, made for VR, and sold nothing that the headset couldn't deliver, which means there is no gap to measure — and a list about the gap between trailer fantasy and playable reality has to put that at the bottom, because the exercise doesn't apply. It's also the one entry that needed no mod, no emulator, and no apology, which is either the best or the worst thing you can say about a VR game in 2026.
 
 [Read the full Beat Saber review](/games/beat-saber)
+
+## Trailer stats
+
+| # | Game | Trailer year | Views |
+|---:|---|:---:|---:|
+| 1 | Cyberpunk 2077 | 2018 | 27.8M |
+| 2 | Grand Theft Auto V | 2013 | 35.4M |
+| 3 | Red Dead Redemption 2 | 2017 | 21.8M |
+| 4 | The Witcher 3: Wild Hunt | 2013 | 19.1M |
+| 5 | The Elder Scrolls V: Skyrim | 2011 | 19.1M |
+| 6 | Fallout 4 | 2015 | 9.68M |
+| 7 | DOOM (2016) | 2015 | 2.36M |
+| 8 | Elden Ring | 2021 | 15.0M |
+| 9 | Starfield | 2021 | 18.4M |
+| 10 | Hogwarts Legacy | 2023 | 5.02M |
+| 11 | Resident Evil 7: biohazard | 2017 | 1.06M |
+| 12 | Resident Evil Village | 2020 | 2.86M |
+| 13 | Half-Life: Alyx | 2019 | 14.5M |
+| 14 | Portal 2 | 2010 | 6.93M |
+| 15 | Crysis | 2020 | 774K |
+| 16 | Alien: Isolation | 2014 | 2.57M |
+| 17 | Subnautica | 2018 | 16.8M |
+| 18 | No Man's Sky | 2016 | 2.19M |
+| 19 | Elite Dangerous | 2014 | 2.17M |
+| 20 | Microsoft Flight Simulator | 2020 | 5.22M |
+| 21 | Star Wars: Squadrons | 2020 | 7.72M |
+| 22 | Gran Turismo 7 | 2021 | 6.12M |
+| 23 | Ace Combat 7: Skies Unknown | 2018 | 3.53M |
+| 24 | The Legend of Zelda: Breath of the Wild | 2017 | 32.8M |
+| 25 | Beat Saber | 2018 | 1.05M |
+
+*Views and trailer upload years from YouTube Data API v3 (snapshot 2026-11-16T05:57:25Z, embedded trailer videos).*
 
 Thirteen of these worlds needed somebody outside the publisher to open the door. That's the finding I keep coming back to. The trailers that sold VR hardest were, almost without exception, made by studios that never shipped a VR build, and the ones that did ship one mostly did it once and stopped. Every year the mod scene patches the gap a little wider, and every year the gap is still there, waiting for the next trailer to promise something nobody has funded yet.
