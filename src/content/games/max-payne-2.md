@@ -38,6 +38,9 @@ modDownload:
   note: "Created by evilSheep"
 sources: "evilSheep Max Payne 2 VR GitHub repository (README, installation and controls docs, release tags); PCVR Central mod listing; betotron MaxPayne2VR GitHub repository; YouTube VR coverage across Gamertag VR, Beardo Benjo, evilSheep, LunchAndVR, PCVR Gamer, CleXor, FastLawyer and AlibabaIsHere; r/maxpayne community posts via Pullpush."
 relatedPages:
+  - id: max-payne
+    kind: game
+    note: "evilSheep's Max Payne 1 VR beta mod for the original game."
   - id: gta-5
     kind: game
     note: "Another Rockstar action classic with a VR mod route"
