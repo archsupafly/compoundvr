@@ -186,6 +186,15 @@ function formatNumericDate(date: Date): string {
             </details>
           ))}
         </div>
+        <script is:inline type="application/ld+json" set:html={JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: game.data.faq.map((item: any) => ({
+            "@type": "Question",
+            name: item.q,
+            acceptedAnswer: { "@type": "Answer", text: item.a }
+          }))
+        })} />
       )}
 
       <div class="tags-container" style="margin-top:1.5rem;">
