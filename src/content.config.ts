@@ -80,6 +80,12 @@ const games = defineCollection({
         vrRec: z.string(),
       })).default([]),
     }).optional(),
+    // Official trailer embed (deterministic fetch: publisher channel preferred,
+    // else "official trailer" title match; recorded for audit + VideoObject use).
+    trailer: z.object({
+      youtube: z.string(),
+      source: z.string(),
+    }).optional(),
     supportStatus: z.enum(['Active', 'Recently Updated', 'Stable but Quiet', 'Uncertain', 'Abandoned', 'Broken by Update']),
     genres: z.array(z.string()).default([]),
     technicalTags: z.array(z.string()).default([]),

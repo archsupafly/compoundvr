@@ -81,8 +81,13 @@ systemRequirements:
       flatRec: "SSD required (no size listed)"
       vrMin: "SSD required (no size listed)"
       vrRec: "SSD required (no size listed)"
+trailer:
+  youtube: "POz1-EmLsTY"
+  source: "Resident Evil"
 ---
 I've played a lot of Resident Evil in VR. RE7 on PSVR broke me in the best way, Village on PSVR2 sharpened it, and the RE Engine has always been the friendliest target for whoever decides to drag these games into six degrees of freedom. Requiem is the ninth one, and within weeks of Capcom shipping it, that someone showed up. My first session put me in Grace Ashcroft's first-person view, standing in a hospital corridor I could finally physically lean into, and the gap between watching a Resident Evil and standing inside one hit the way it always does.
+
+<iframe src="https://www.youtube-nocookie.com/embed/POz1-EmLsTY" title="Resident Evil Requiem — official trailer" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resident Evil Requiem VR first-person camera mode
 
