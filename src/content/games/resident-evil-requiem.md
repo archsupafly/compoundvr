@@ -47,8 +47,41 @@ history:
   - date: 2026-10-30
     note: "RE9VR mod scene actively maintained through v1.2.4 — manual reloads, HMD movement, and a full holster system added post-launch; community installers and ecosystem add-ons (haptics, PSVR2 adaptive triggers) continue through late 2026."
 sources: "REFramework repository (praydog) supported-games list and VR documentation; PCVR Mods Installer Hub per-game README for Resident Evil Requiem; community Definitive Guide at biohazardvr.com/re9; YouTube VR coverage from Beardo Benjo, MrSurviv0r, Paradise Decay, Parzival_VR_EN and additional channels; Steam store metadata for release date and platform data."
+systemRequirements:
+  source: "Steam"
+  translationNote: "VR estimate: ~2x GPU (two-eye 90fps render vs single-eye 60fps), +1 CPU tier (tracking/physics overhead), RAM minimum bumped to 16GB (VR runtime needs headroom), storage same (identical game files), OS kept on modern 64-bit Windows (VR runtimes require it)."
+  rows:
+    - spec: "OS"
+      flatMin: "Windows 11 (64bit required)"
+      flatRec: "Windows 11 (64bit required)"
+      vrMin: "Windows 11 64-bit"
+      vrRec: "Windows 11 64-bit"
+    - spec: "Processor"
+      flatMin: "Intel corei5-8500 / AMD Ryzen 5 3500"
+      flatRec: "Intel Core i7-8700 / AMD Ryzen 5 5500"
+      vrMin: "Intel Core i7-8700 / AMD Ryzen 7 3700X"
+      vrRec: "Intel Core i9-9900K / AMD Ryzen 7 5800X"
+    - spec: "Memory"
+      flatMin: "16 GB RAM"
+      flatRec: "16 GB RAM"
+      vrMin: "16 GB RAM"
+      vrRec: "16 GB RAM"
+    - spec: "Graphics"
+      flatMin: "GeForce GTX 1660 6GB / Radeon RX 5500 XT 8GB"
+      flatRec: "GeForce RTX 2060 Super 8GB / Radeon RX 6600 8GB"
+      vrMin: "NVIDIA GeForce RTX 2060 Super 8GB / AMD Radeon RX 5700 XT 8GB"
+      vrRec: "NVIDIA GeForce RTX 3070 8GB / AMD Radeon RX 6700 XT 12GB"
+    - spec: "DirectX"
+      flatMin: "Version 12"
+      flatRec: "Version 12"
+      vrMin: "Version 12"
+      vrRec: "Version 12"
+    - spec: "Storage"
+      flatMin: "SSD required (no size listed)"
+      flatRec: "SSD required (no size listed)"
+      vrMin: "SSD required (no size listed)"
+      vrRec: "SSD required (no size listed)"
 ---
-
 I've played a lot of Resident Evil in VR. RE7 on PSVR broke me in the best way, Village on PSVR2 sharpened it, and the RE Engine has always been the friendliest target for whoever decides to drag these games into six degrees of freedom. Requiem is the ninth one, and within weeks of Capcom shipping it, that someone showed up. My first session put me in Grace Ashcroft's first-person view, standing in a hospital corridor I could finally physically lean into, and the gap between watching a Resident Evil and standing inside one hit the way it always does.
 
 ## Resident Evil Requiem VR first-person camera mode
