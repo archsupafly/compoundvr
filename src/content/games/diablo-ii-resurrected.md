@@ -94,11 +94,15 @@ systemRequirements:
       vrMin: "Broadband Internet connection"
       vrRec: "Broadband Internet connection"
 ---
+I've played Diablo II the flat way for as long as I can remember — clicking through Sanctuary from a chair, my hands doing nothing a keyboard and mouse couldn't. The remaster only deepened the habit: a prettier screen, the same distance between me and the kill.
+
+So when a community mod promised to put the weapon in my real hand, the only question worth asking was the blunt one: can you actually play Diablo II: Resurrected in VR?
+
 <iframe src="https://www.youtube-nocookie.com/embed/DRP62MGOrUo" title="Diablo II: Resurrected — official trailer" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Can You Play Diablo II: Resurrected in VR?
 
-I've killed Diablo's minions thousands of times — clicked, tabbed, watched my necromancer raise skeletons from a god's-eye view. I never once expected to stand in the Blood Moor with a sword in my actual hand, swing it at a fallen, and watch the corpse drop in stereo. That's the pitch of the Diablo II: Resurrected VR mod, and it is exactly as unhinged as it sounds. A remaster built for clicking on a monitor is now, somehow, a first-person action-RPG you play with your body.
+I never once expected to stand in the Blood Moor with a sword in my actual hand, swing it at a fallen, and watch the corpse drop in stereo. That's the pitch of the Diablo II: Resurrected VR mod, and it is exactly as unhinged as it sounds. A remaster built for clicking on a monitor is now, somehow, a first-person action-RPG you play with your body.
 
 ## Diablo II: Resurrected VR Mod: Views, Install, and PCVR Setup
 
