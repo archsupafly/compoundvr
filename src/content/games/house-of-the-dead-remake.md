@@ -29,6 +29,10 @@ experienceTags:
 tier: B
 verdict: "The Astienth mod turns the remake into the arcade lightgun game it always wanted to be — point your controller and shoot, no reticle pinned to a stick. Short, thin, and a little janky, but if you ever missed the cabinets, this is the closest you get on PC."
 heroImage: /images/games/house-of-the-dead-remake-vr-hero.jpg
+relatedPages:
+  - id: the-house-of-the-dead-2-remake
+    kind: game
+    note: "The sequel remake with the same hand-tracked light-gun VR mod approach."
 modDownload:
   url: "https://discord.gg/G8zZBTGuhP"
   label: "Download House of the Dead: Remake VR Mod"
