@@ -18,8 +18,8 @@ sources: "GitHub (ProjectMimer/WoVR repo and issues), the WoVR README, Road to V
 faq:
   - q: "Can you play World of Warcraft in VR?"
     a: "Yes, with the fan-made WoVR mod on a compatible World of Warcraft 3.3.5a (Wrath of the Lich King) client through SteamVR/OpenVR. It is not an official Blizzard VR mode and does not support retail WoW."
-  - q: "Does WoVR work with WoW Forever?"
-    a: "There is no documented WoW Forever-specific WoVR build. WoVR targets a compatible WoW 3.3.5a client; if WoW Forever or any other server uses a different client version or incompatible binaries, WoVR should not be expected to work."
+  - q: "Does WoW Forever work in VR?"
+    a: "No. There is no working WoW Forever VR mod. The closest option is playing WoW Forever in cinema mode in a headset, optionally with a first-person addon such as Terren's Forever First Person. For actual WoW VR with headset tracking, WoVR requires a compatible 3.3.5a client."
   - q: "Can you play retail WoW or modern WoW Classic in VR with WoVR?"
     a: "No. WoVR targets patch 3.3.5a only. Retail, official modern Classic, Season of Discovery, and Hardcore are different client/anti-cheat paths and are not supported by WoVR."
 ---
@@ -176,17 +176,16 @@ VR changes how Azeroth looks and how you point. It doesn't change the game under
 
 ## Can you play WoW Forever in VR?
 
-Short answer: **not with WoVR, unless the server/client you’re using is actually a compatible 3.3.5a WoW client**.
+**There is no working VR mod for WoW Forever.** WoVR targets a compatible World of Warcraft **3.3.5a** client, and it is not a generic VR mod for other WoW versions or custom server clients. If you came here looking for a true WoW Forever VR mod with 6DOF headset tracking and motion controls, that path doesn’t currently exist.
 
-WoVR is not a “WoW server mod” and it’s not a generic VR injector for every World of Warcraft version. It’s a D3D9/SteamVR mod built around the **Wrath of the Lich King 3.3.5a** client. That means compatibility comes down to the client binary/version, not the server name.
+The closest you can get right now is **cinema mode**: play WoW Forever on your PC and view it on a big virtual screen inside your headset through Virtual Desktop, Bigscreen, or SteamVR desktop view. That gives you immersion, but it is not native VR gameplay.
 
-If you’re looking at **WoW Forever** (or any other private server) because you want World of Warcraft in VR, use this check before you spend time troubleshooting:
+If you want a first-person camera feel on the flat/cinema-mode side, there are addon options to watch:
 
-- **Confirm the client version.** WoVR’s documented target is 3.3.5a. If WoW Forever requires a different client build, patch, or launcher-wrapped binary, don’t expect WoVR to work.
-- **Confirm it’s a standard 3.3.5a client path.** WoVR is installed as a proxy/DLL-style mod next to the game executable. Custom launchers, modified executables, or non-3.3.5a clients can break that path.
-- **Test the normal WoVR path first.** If your goal is “WoW in VR,” the proven path is: compatible 3.3.5a client + WoVR (or the Quest Community Patch) + SteamVR. Once that works, you can separately evaluate whether a specific private server is compatible.
+- **[Terren's Forever First Person](https://www.curseforge.com/wow/addons/terrens-forever-first-person)** — a CurseForge addon for first-person camera behavior. It can make cinema-mode play feel closer to being in the world, but it is still not a VR mod.
+- **Arkhaines Retro Forever mod** — not out yet at the time of this update. Treat it as something to watch, not a working WoW Forever VR solution.
 
-I wasn’t able to verify a WoW Forever-specific WoVR setup from official WoVR documentation during this update, and I’m not claiming WoW Forever is or isn’t compatible beyond the client-version rule above. The safe SEO answer is also the honest technical one: **WoW Forever in VR isn’t a documented WoVR target; WoVR works with compatible 3.3.5a WoW clients.**
+If your goal is actual WoW in VR today, the working path is still the one in this guide: a compatible 3.3.5a client + WoVR (or the WoVR Quest Community Patch) + SteamVR.
 
 ## Is playing WoW in VR against the terms of service?
 
