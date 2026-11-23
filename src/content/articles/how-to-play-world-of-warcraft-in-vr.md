@@ -1,6 +1,6 @@
 ---
 title: "How to Play World of Warcraft in VR (WoVR Setup, Settings & Optimization)"
-description: "How to play World of Warcraft in VR: WoVR is a fan mod for patch 3.3.5a only (2010 Wrath), not retail. Setup, settings, and performance."
+description: "How to play World of Warcraft in VR: WoVR is a 3.3.5a fan mod, not retail. Setup, settings, performance, and the Quest community patch."
 pubDate: 2026-11-22
 lastUpdated: 2026-11-22
 author: "Ian"
@@ -55,6 +55,28 @@ The install order:
 8. Click the right stick to recenter and toggle first/third person.
 
 Steps 4, 5, and 7 have the least public documentation. The folder layout, the exact DLL name, and the in-game settings all live behind the Discord gate.
+
+## What is the WoVR Quest Community Patch?
+
+If you're on a modern Quest headset, the base WoVR build isn't the one you want. A community patch by Briinc3, the [WoVR Quest Community Patch](https://github.com/Briinc3/WoVR-Quest-Community-Patch), builds on ProjectMimer's original because that build had rendering and camera problems that made it close to unusable on current Quest hardware with SteamVR.
+
+It's the same class of mod, a proxy next to your 3.3.5a client. Install this instead of the older precompiled build and treat it as the current community baseline.
+
+What it fixes, from its own changelog:
+
+- **Eye flicker and stereo breakage.** Rapid flickering between the eyes, one eye rendering black or wrong, and misaligned stereoscopic views are corrected, with a reworked rendering path for a stable image.
+- **The camera swing.** Changing direction in the base build could rotate your view by roughly 180 degrees. The patch removes that movement-driven rotation and keeps head tracking independent of character movement.
+- **Walk/run toggling.** Right-stick camera movement no longer flips the character between walking and running.
+- **A visible pointer.** The interaction laser is green and easier to read against WoW's interface.
+- **UI pointing.** Its notes verify pointer interaction with bags, the character sheet, the quest log and the talent window, with tooltips and left/right click intact.
+- **Quest controllers.** Independent left and right grip detection, grip modifiers, full Action Bar 1-12 access, a two-page action bar, and up to 24 controller-reachable ability slots.
+
+Two things to know before you install it:
+
+- **Double nameplates.** With nameplates on you'll see two slightly offset copies. The author documents roughly 24 hours of investigation and left it as a known visual limitation; targeting and combat still work.
+- **Memory crashes.** WoW 3.3.5a is 32-bit. Apply the Large Address Aware (4GB) patch to Wow.exe or expect "Not enough memory resources" in Dalaran, big pulls and effect-heavy fights. The patch README recommends it, and suggests launching Wow.exe at High CPU priority for smoother frames.
+
+Scope note: "Quest" here means Quest controllers and headset over PC streaming or Link. This patch doesn't make WoW run standalone on the headset.
 
 ## What are the WoVR controller bindings?
 
@@ -158,7 +180,7 @@ WoVR runs only against 3.3.5a private servers, so Blizzard's live anti-cheat (Wa
 A few things live behind the Discord gate or aren't documented anywhere public.
 
 - The full `config.txt` key list — Discord-only, not in the repo.
-- The current precompiled build number in circulation. The newest source-side label is v6 (May 2024), but community builds, including a "Quest Community Build" seen in videos, circulate outside the repo. Whether that's standalone or PC-streaming isn't established.
+- The base mod's current precompiled build number. The newest source-side label is v6 (May 2024); the Quest Community Patch documents its own changes but not which base build it was cut from.
 - The deployed DLL filename, folder layout, and launcher behavior.
 - The semantics of `hmdBufferSize`.
 - Whether the `gameMultiplier` bug is fixed in any Discord build.
