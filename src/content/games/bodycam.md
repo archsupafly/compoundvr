@@ -30,6 +30,10 @@ experienceTags:
   - Tactical Shooter
 tier: B
 verdict: "Bodycam in VR is a genuine transformation of a thin flat game — the bodycam fantasy finally has a body. The caveats are real: multiplayer-only, binding friction, and a heavy engine, but if you want the most convincing 'you are the camera operator' shooter in VR, this is it."
+modDownload:
+  url: "https://github.com/praydog/UEVR/releases"
+  label: "Get UEVR"
+  note: "UEVR is the framework this game runs through"
 heroImage: /images/games/bodycam-vr-hero.jpg
 sources: "Research compiled from the UEVR GitHub repository (engine compatibility range 4.8-5.4 and release 1.05), UEVR issue #335 (controller binding reports), YouTube VR coverage from LunchAndVR, Gamertag VR, and Beardo Benjo (6DOF and motion-control gameplay footage), r/UEVR community posts documenting Bodycam under UEVR from June 2024 through April 2025, the pcvrcentral Bodycam listing, and the Steam store API (release date, developer Reissad, and category data). No direct hands-on testing performed; assessment based on documented community VR footage and framework capabilities."
 faq:
