@@ -111,3 +111,5 @@ And because it's unofficial and beta, there's no promise of patches, no comfort 
 ## The bottom line
 
 Wave Race 64 in VR is a small, sharp, genuinely fun surprise: a classic water racer that finally has the depth its water always deserved, running cleanly on a standalone headset with almost no setup friction. The ROM gate and the beta-baby community are real caveats, but if you've got the right file and you like arcade racing, this is one of the more satisfying "why didn't anyone do this sooner" ports I've strapped on lately — best enjoyed by VR enthusiasts who already keep an N64 library handy and want their retro racers with actual spray.
+
+If you want more 1990s racing in a headset, [F-Zero X VR](/games/f-zero-x/) and [Mario Kart 64 VR](/games/mario-kart-64/) cover the same era from very different angles.
