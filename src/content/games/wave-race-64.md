@@ -35,6 +35,9 @@ modDownload:
   url: "https://github.com/VistaLargaGames/WaveRace64-QuestVR/releases"
   label: "Download Wave Race 64 VR Mod"
   note: "Created by VistaLargaGames"
+trailer:
+  youtube: "eOZ-WuG7RF4"
+  source: "Nintendo of America"
 sources: "Compiled from the VistaLargaGames/WaveRace64-QuestVR project README and releases (GitHub), the underlying Wave Race 64: Recompiled ports (elliotttate and danielgomesvieira2000 forks), the LLONSIT decompilation, YouTube VR coverage from Press start to begin, RichardClarkeade VR, and DetectiveYoshi, the Flat2VR-aligned modding community, and Wikipedia for original release dates. Assessment based on documented mod capabilities and recorded community reception."
 faq:
   - q: "Can you play Wave Race 64 in VR?"
@@ -61,6 +64,11 @@ relatedPages:
     kind: game
     note: "Star Fox 64 VR shows what another N64 recompilation port reaches in a headset."
 ---
+
+Wave Race 64 was the N64's water game: buoys that bob, a swell that shoves your ski, and a slalom line that rewards reading the ocean rather than the track. On a TV that water was the star. In a headset it finally has depth, and the difference is immediate.
+
+<iframe src="https://www.youtube-nocookie.com/embed/eOZ-WuG7RF4" title="Wave Race 64 — official trailer" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Wave Race 64 VR finally gives the ocean a third dimension
 
