@@ -127,3 +127,5 @@ Setup is moderate, not trivial. You enable developer mode, sideload the APK thro
 For a Quest 3 owner who loved Pilotwings 64 and kept the cart, this is the "why didn't this exist sooner" upgrade. Sitting in that cockpit in proper stereo, head tracking the runway behind you, is the game I always pictured and never got to occupy. The catches are real but mostly about access and timing, not about the time you spend in the headset — and for a look-around-and-fly game, VR is exactly the right cage.
 
 If you don't own the ROM or you'd rather not be the first person through the door of an eight-day-old fork, waiting and watching is reasonable; the bones are clearly there. But the core experience delivers: a beloved flight toy, finally in your face. This one's for VR enthusiasts with N64 nostalgia in the drawer and a cartridge they're not afraid to dump.
+
+For more N64-era flying and racing in a headset, [Diddy Kong Racing VR](/games/diddy-kong-racing/) and [Super Mario 64 VR](/games/super-mario-64/) cover the same generation from different angles.
